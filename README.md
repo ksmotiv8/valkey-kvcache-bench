@@ -78,7 +78,8 @@ copy-paste scenarios with expected results.
 ```
 valkey-kvcache-bench/
 ├── benchmarks/     The seven tools, plus results/ with a sample e2e run
-├── corpus/         30 synthetic legal/medical documents + manifest.csv
+├── corpus/         30 synthetic legal/medical documents + manifest, plus the
+│                   two-stage LLM generator that produced them (see corpus/README.md)
 ├── docs/           RESULTS, METHODOLOGY, SCENARIOS
 └── LICENSE         MIT
 ```
