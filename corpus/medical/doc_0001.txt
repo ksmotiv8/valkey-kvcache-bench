@@ -1,0 +1,783 @@
+**EMERGENCY DEPARTMENT INITIAL ASSESSMENT**  
+**Patient Name:** James W. Thompson  
+**MRN:** 123456789  
+**Date of Birth:** 07/22/1987  
+**Age:** 35  
+**Sex:** Male  
+**Admission Date/Time:** 04/05/2025 14:30  
+**ED Visit #:** 1234  
+**Attending Physician:** Dr. Emily R. Carter, MD  
+**Responsible Provider:** Dr. Andrew S. Park, MD  
+**Primary Care Provider:** Dr. Lisa M. Chen, MD  
+**Location:** ED Room 3B  
+
+**Chief Complaint:**  
+Right-sided chest pain radiating to the right shoulder, associated with shortness of breath, and dizziness for the past 3 hours.  
+
+**History of Present Illness:**  
+Patient is a 35-year-old male who presented to the ED with a 3-hour history of acute right-sided chest pain radiating to the right shoulder. The pain is described as sharp, non-exertional, and worsens with deep inspiration. He also reports intermittent shortness of breath, particularly when lying flat. He denies chest tightness, nausea, vomiting, or diaphoresis. He states that he was working on a computer at home when the pain began. He reports a similar episode 6 months ago, which resolved with rest and no medical intervention.  
+
+
+  He denies any recent trauma, fever, chills, or weight loss. He has no history of smoking, but he does consume 2–3 alcoholic drinks per week. He denies any history of drug use.  
+
+He has a history of hypertension, managed with lisinopril 10 mg daily, and mild asthma, managed with albuterol inhaler as needed. He has no known allergies. He is currently taking no other medications.  
+
+He has no known family history of heart disease, but his father has a history of hypertension and hyperlipidemia. His mother has a history of type 2 diabetes.  
+
+**Past Medical History:**  
+
+- Hypertension, controlled with lisinopril  
+- Mild asthma  
+- No known cardiac history  
+
+- No history of stroke, TIA, or transient ischemic attacks  
+- No history of deep vein thrombosis or pulmonary embolism  
+- No history of surgery  
+- No history of cancer  
+- No history of psychiatric disorders  
+- No known drug or alcohol abuse  
+- No known food allergies  
+- No known infectious diseases (e.g., HIV, hepatitis)  
+
+**Allergies:**  
+No known allergies.  
+
+**Medications:**  
+- Lisinopril 10 mg PO daily  
+- Albuterol 2 puffs via MDI PRN  
+- No other medications  
+
+**Immunizations:**  
+- Up to date with routine immunizations  
+- No recent vaccines  
+
+**Family History:**  
+- Father: Hypertension, hyperlipidemia  
+- Mother: Type 2 diabetes  
+- No history of heart disease, cancer, or neurological disorders in siblings  
+
+**Social History:**  
+- Married with one child (age 5)  
+- Works as a software developer  
+ - Smokes 0 cigarettes per day  
+- Drinks 2–3 alcoholic drinks per week  
+- Lives in a two-bedroom apartment with his wife and child  
+- No pets  
+- No travel hx in the past 6 months  
+
+**Review of Systems:**  
+**Cardiovascular:**  
+- Chest pain: 3/10, sharp, right-sided, radiation to right shoulder, worsens with inspiration  
+- No palpitations, syncope, or orthostatic hypotension  
+- No peripheral edema  
+
+- No jugular venous distention  
+
+**Respiratory:**  
+- Shortness of breath: 3/10, intermittent, worse when lying flat  
+- No cough, sputum, or hemoptysis  
+- No wheezing or crackles  
+- No history of respiratory infections in the past 2 weeks  
+
+**Gastrointestinal:**  
+- No abdominal pain, nausea, vomiting, or diarrhea  
+- No change in bowel or urinary habits  
+   - No jaundice or hepatomegaly  
+
+**Genitourinary:**  
+- No urinary symptoms  
+- No history of renal disease  
+- No hematuria or dysuria  
+
+**Musculoskeletal:**  
+- No joint pain, swelling, or deformity  
+- No history of fractures or sprains  
+
+**Neurological:**   
+- Alert and oriented x3  
+- No confusion, aphasia, or motor deficits  
+- No focal neurological deficits  
+- No seizures or headaches  
+- No vertigo or dizziness (noted as a separate symptom)  
+
+**Psychiatric:**  
+- No history of depression, anxiety, or other psychiatric disorders  
+- No suicidal ideation or homicidal ideation  
+- No recent stressors or trauma  
+
+**Skin:**  
+- No rashes, lesions, or abnormal pigmentation  
+- No signs of infection or trauma  
+
+**Other:**  
+- No fatigue, weight loss, or fever  
+- No recent weight gain or loss  
+- No changes in appetite or sleep patterns  
+
+**Vital Signs:**  
+- **Blood Pressure:** 142/88 mmHg  
+- **Heart Rate:** 92 bpm  
+- **Respiratory Rate:** 20 breaths per minute  
+- **Temperature:** 98.6°F  
+- **Oxygen Saturation:** 96% on room air  
+- **Pulse Oximetry:** 96%  
+- **SpO2:** 96%  
+- **Height:** 6'1"  
+- **Weight:** 185 lbs (83.9 kg)  
+   - **BMI:** 27.3 (Overweight)  
+- **GCS:** 15 (Alert, oriented, responsive)  
+
+**Physical Examination:**  
+**General Appearance:**  
+- Alert, oriented x3, in no acute distress  
+- No signs of intoxication or withdrawal  
+- No cyanosis or pallor  
+- No visible injuries  
+
+**Head, Eyes, Ears, Nose, Throat (HEENT):**  
+- **Head:** No focal tenderness, no scalp wounds or lacerations  
+- **Eyes:** Pupils equal, round, and reactive to light (PERRL)  
+- **Ears:** No discharge, no erythema  
+- **Nose:** No nasal discharge, no septal deviation  
+- **Throat:** No erythema, no tonsillar enlargement, no exudate      
+
+**Neck:**  
+- No lymphadenopathy  
+- No jugular venous distention  
+- No thyroid enlargement  
+- No stridor or cervical rigidity  
+
+**Chest:**  
+- **Inspection:** No visible deformity, no intercostal retractions  
+- **Palpation:** No tenderness over the right chest wall  
+- **Percussion:** Normal resonance  
+- **Auscultation:** Clear bilateral breath sounds with no wheezing or crackles  
+- **Percussion:** No dullness  
+- **Heart Sounds:** S1 and S2 heard, no S3 or S4, no murmurs  
+
+**Abdomen:**  
+- **Inspection:** Scattered mild abdominal distension  
+- **Palpation:** Soft, non-tender, no masses  
+- **Rebound Tenderness:** None  
+- **Liver Span:** Normal  
+- **Bowel Sounds:** Normal  
+
+**Extremities:**  
+- No swelling, deformity, or tenderness  
+- No joint effusions  
+- No skin breakdown or rashes  
+- Capillary refill < 2 seconds  
+- No cyanosis  
+
+**Neurological:**  
+- Alert and oriented x3  
+- No confusion, no focal deficits  
+- No weakness, no ataxia  
+- No nuchal rigidity  
+- No seizures or tremors  
+
+**Skin:**  
+- No rashes, wounds, or lesions  
+- No petechiae or ecchymosis  
+
+**Psychiatric:**  
+- No signs of depression or anxiety  
+- No suicidal ideation or homicidal ideation  
+- No recent stressors  
+
+**Laboratory Results:**  
+**CBC (Complete Blood Count):**  
+- **White Blood Cell:** 8.9 x 10^9/L (Ref: 4.0–11.0)  
+- **Hemoglobin:** 14.2 g/dL (Ref: 13.5–17.5)  
+- **Hematocrit:** 42.5% (Ref: 38.5–47.5)  
+- **MCV:** 90 fL (Ref: 80–100)  
+- **Platelets:** 225 x 10^9/L (Ref: 150–450)  
+
+**Electrolytes:**  
+- **Sodium:** 140 mEq/L (Ref: 135–145)  
+- **Potassium:** 4.1 mEq/L (Ref: 3.5–5.0)  
+- **Chloride:** 102 mEq/L (Ref: 96–106)  
+- **CO2:** 26 mEq/L (Ref: 22–29)  
+- **BUN:** 18 mg/dL (Ref: 7–20)  
+- **Creatinine:** 0.9 mg/dL (Ref: 0.6–1.2)  
+- **Calcium:** 9.1 mg/dL (Ref: 8.4–10.2)  
+- **Phosphorus:** 3.2 mg/dL (Ref: 2.5–4.5)  
+- **Magnesium:** 1.9 mg/dL (Ref: 1.5–2.5)  
+
+**Lipids:**  
+- **Cholesterol:** 195 mg/dL (Ref: <200)  
+- **LDL:** 115 mg/dL (Ref: <100)  
+- **HDL:** 45 mg/dL (Ref: >40)  
+- **Triglycerides:** 120 mg/dL (Ref: <150)  
+
+**Liver Panel:**  
+- **ALT:** 28 U/L (Ref: 15–60)  
+   - **AST:** 26 U/L (Ref: 15–50)  
+- **ALP:** 85 U/L (Ref: 40–129)  
+- **GGT:** 45 U/L (Ref: 10–70)  
+- **Total Bilirubin:** 0.8 mg/dL (Ref: 0.1–1.2)  
+- **Direct Bilirubin:** 0.1 mg/dL (Ref: 0.0–0.3)  
+
+**Kidney Function:**  
+- **Creatinine Clearance:** 98 mL/min (Ref: >90)  
+
+**Urinalysis:**  
+- **Appearance:** Clear  
+- **pH:** 6.0  
+- **Glucose:** Negative  
+- **Protein:** Negative  
+- **Ketones:** Negative  
+- **Leukocytes:** Negative  
+- **Bilirubin:** Negative  
+
+- **Urobilinogen:** Negative  
+- **Nitrites:** Negative  
+- **Specific Gravity:** 1.015  
+
+**Electrocardiogram (ECG):**  
+- **Rhythm:** Sinus rhythm  
+- **Rate:** 92 bpm  
+- **PR Interval:** 0.18 sec (Normal)  
+- **QRS Duration:** 0.09 sec (Normal)  
+- **QTc:** 410 ms (Normal)  
+- **Axis:** 0°–90° (Normal)  
+- **ST Segments:** No significant ST elevation or depression  
+- **T Waves:** Normal  
+- **Rhythm Strip:** Sinus rhythm with no arrhythmias  
+
+**Imaging:**  
+- **Chest X-ray (AP view):**  
+  - Clear lung fields  
+  - No infiltrates, masses, or pleural effusion  
+  - Cardiomegaly not noted  
+  - No evidence of pneumonia or pulmonary edema  
+  - No rib fractures or pleural thickening  
+
+- **Chest X-ray (Lateral view):**  
+  - No abnormalities  
+  - No mediastinal widening or hilar lymphadenopathy  
+  - No rib abnormalities  
+
+- **Focused Assessment with Sonography for Trauma (FAST):**  
+  - No free fluid in the pericardial, pleural, or intra-abdominal spaces  
+
+**Procedure:**  
+- **ECG:** Performed as part of initial assessment  
+- **Chest X-ray:** Obtained to evaluate for pulmonary or cardiac abnormalities  
+- **FAST:** Performed to rule out internal bleeding  
+
+**Initial Plan and Management:**  
+
+- Patient was assessed and found  to be alert and oriented.  
+- Initial vital signs were stable.  
+- Chest pain was localized to the right chest wall, radiating to the right shoulder, and associated with shortness of breath.  
+- No signs of acute coronary syndrome or pulmonary embolism.  
+- No indications of trauma.  
+- No signs of sepsis or other systemic infection.  
+- No neurological deficits.  
+- Patient was placed on supplemental oxygen at 2 L/min via nasal cannula to improve oxygenation.  
+- He was scheduled for a chest CT scan to evaluate for potential pulmonary embolism or other pulmonary pathology.  
+- He was advised to avoid driving and to have a responsible adult accompany him.  
+- A cardiac workup was initiated, including troponin levels and ECG.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- He was scheduled for an outpatient follow-up with his primary care physician.  
+
+**Differential Diagnosis:**  
+1. **Musculoskeletal Pain (Costochondritis or Tietze’s Syndrome):** Pain localized to the chest wall, non-exertional, with radiation to the shoulder.  
+2. **Pulmonary Embolism:** Chest pain with dyspnea, elevated D-dimer, and normal ECG findings.  
+3. **Pleuritis or Pneumothorax:** Sharp chest pain with shortness of breath, but no findings on chest X-ray.  
+4. **Gastroesophageal Reflux Disease (GERD):** Could cause chest discomfort, but not typically with shoulder radiation.  
+5. **Anxiety or Panic Attack:** Associated with dizziness and shortness of breath, but no other psychiatric sx.  
+6. **Myocardial Ischemia or Infarction:** Unlikely due to normal ECG and lack of troponin elevation.  
+
+**Admission Considerations:**  
+- No acute indications for inpatient admission.  
+- Patient was scheduled for a chest CT scan and follow-up in the outpatient setting.  
+- No further diagnostic testing was required at this time.  
+
+**Medications Prescribed:**  
+- **Albuterol 2 puffs via MDI PRN** for mild asthma exacerbation.  
+- **Oxygen 2 L/min via nasal cannula** for mild hypoxia.  
+- **Lisinopril 10 mg PO daily** to manage hypertension.  
+
+**Discharge Instructions:**  
+- Avoid heavy lifting and  strenuous activity for the next 48 hours.  
+- Continue taking lisinopril as prescribed.  
+- Monitor for worsening chest pain, shortness of breath, or dizziness.  
+- If symptoms persist or worsen, return to the ED or contact his primary care physician.  
+- Avoid alcohol for the next 24 hours.  
+- Schedule follow-up with his primary care physician in 1 week.  
+
+**Patient Education:**  
+- Explain the nature of his symptoms and the rationale for the chest CT scan.  
+- Review the importance of taking prescribed medications as directed.  
+- Educate him on the signs and symptoms of a cardiac or pulmonary emergency.  
+- Encourage him to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+
+**Discharge Summary:**  
+- Patient was evaluated in the ED for acute right-sided chest pain with radiation to the right shoulder and shortness of breath.  
+- Initial workup was unremarkable for acute coronary syndrome, pulmonary embolism, or trauma.  
+- No signs of sepsis, neurological deficits, or psychiatric emergencies.  
+- Patient was discharged with a chest CT scan scheduled for outpatient imaging.  
+- No further inpatient admission was required.  
+- Patient was advised to follow up with his primary care physician.  
+
+**Follow-Up Plan:**  
+- Scheduled for outpatient follow-up with primary care physician in 1 week.  
+- Chest CT scan scheduled for outpatient imaging.  
+- Cardiac evaluation may be needed if symptoms persist.  
+
+**Provider Note:**  
+- Patient is stable and in no acute distress.  
+- No signs or symptoms of acute cardiac, pulmonary, or neurological disease.  
+- All diagnostic tests were performed and interpreted appropriately.  
+- Patient is expected to be asymptomatic and to follow up in the outpatient setting.  
+- Patient was educated and given clear discharge instructions.  
+- No further evaluation is required at this time.  
+
+**Final Discharge Status:**  
+- **Discharge Time:** 17:00  
+- **Discharge Location:** Home  
+- **Transport:** Ambulance (arranged by patient’s wife)      
+- **Discharge Instructions Given:** Yes  
+- **Discharge Summary Given:** Yes  
+- **Follow-Up Scheduled:** Yes  
+
+**Signed by:**  
+**Dr. Andrew S. Park, MD**  
+Emergency Medicine  
+April 5, 2025  
+
+**Patient Signature (If Available):**  
+**Witness Signature:**  
+**Nurse’s Signature:**  
+
+**Note: This document is part of the electronic health record and is protected by HIPAA.**
+
+**Nursing Notes:**  
+- Patient was admitted to ED Room 3B at 14:30.  
+- Initial nursing assessment: alert and oriented, no acute distress.  
+- Vital signs stable upon admission.  
+- Patient was placed on supplemental oxygen at 2 L/min via nasal cannula.  
+- No signs of respiratory distress.  
+- Patient reported mild discomfort in the right chest, but no significant distress.  
+- No cyanosis, pallor, or signs of shock.  
+- Patient was advised to rest and avoid physical exertion.  
+- Patient was given a brief explanation of the chest CT scan and its purpose.  
+- Patient was encouraged to ask questions and express concerns.  
+- Patient’s wife accompanied him to the ED and was present during the initial assessment.  
+- Patient was monitored for any changes in mental status or vital signs.  
+- Patient remained stable throughout the initial workup.  
+- No signs of anxiety or panic during the assessment.  
+- Patient was encouraged to verbalize any concerns or discomfort.  
+- No signs of dehydration or fluid overload.  
+- Patient was provided with a clear discharge summary and instructed to follow up with his primary care physician.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged at 17:00 with no complications.  
+
+**Nursing Assessment (Continued):**  
+- During the initial assessment, patient was observed to have a calm demeanor and was cooperative with the healthcare team.  
+- Patient was able to verbalize his symptoms accurately and answer questions without difficulty.  
+- No signs of confusion or disorientation were noted.  
+- Patient was able to perform activities of daily living independently.  
+- No signs of depression or anxiety were observed.  
+- Patient was able to follow instructions and understand the purpose of the chest CT scan.  
+- Patient was given a follow-up appointment with his primary care physician for further evaluation.  
+
+- Patient’s wife was present for the entire duration of the visit and was involved in the discharge planning.  
+- Patient was advised to monitor for any changes in symptoms and to return to the ED if symptoms worsened.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Consultations:**  
+- **Cardiology Consultation:**  
+  - Consulted by Dr. Emily R. Carter, MD, at 15:15.  
+  - Patient was evaluated for possible acute coronary syndrome.  
+  - No chest pain at rest, no anginal equivalents, no syncope or diaphoresis.  
+  - ECG was unremarkable for acute MI or ischemia.  
+  - Troponin levels were pending.  
+  - No signs of heart failure or arrhythmia.  
+  - Patient was advised to continue with outpatient follow-up.  
+  - No immediate consult needed.  
+
+- **Pulmonary Consultation:**  
+  - Consulted by Dr. Michael K. Lee, MD, at 16:00.  
+  - Patient was evaluated for possible pulmonary embolism.  
+  - Chest X-ray was unremarkable.  
+
+  - No signs of pulmonary  edema or infiltrates.  
+  - Patient was advised to undergo a chest CT scan for further evaluation.  
+  - No immediate intervention needed.  
+
+- **Psychiatry Consultation:**  
+  - Consulted by Dr. Sarah L. Kim, MD, at 16:30.  
+  - Patient was evaluated for possible anxiety or panic disorder.  
+  - Patient reported mild dizziness and shortness of breath.  
+  - No signs of depression, suicidal ideation, or homicidal ideation.  
+    - Patient was advised to continue with outpatient follow-up.  
+  - No immediate intervention needed.  
+
+**Additional Lab Results:**  
+- **Troponin I (Trop-I):** 0.03 ng/mL (Ref: <0.04) – Normal  
+- **D-dimer:** 0.5 µg/mL (Ref: <0.5) – Normal  
+- **Lactate:** 1.8 mmol/L (Ref: 0.5–2.0) – Normal  
+- **C-Reactive Protein (CRP):** 0.8 mg/dL (Ref: <1.0) – Normal  
+- **Thyroid-Stimulating Hormone (TSH):** 1.2 µIU/mL (Ref: 0.4–4.0) – Normal  
+- **Free T4:** 1.1 ng/dL (Ref: 0.8–1.8) – Normal  
+- **Hemoglobin A1c:** 5.8% (Ref: 4.0–6.0) – Normal  
+- **Lipid Panel (Repeat):**  
+  - **Total Cholesterol:** 200 mg/dL  
+  - **LDL:** 110 mg/dL  
+  - **HDL:** 45 mg/dL  
+  - **Triglycerides:** 120 mg/dL  
+- **Complete Urine Metabolic Panel:**  
+  - **Uric Acid:** 5.2 mg/dL (Ref: 3.4–7.0) – Normal  
+  - **Cr:** 0.9 mg/dL (Ref: 0.6–1.2) – Normal  
+  - **Urea Nitrogen (BUN):** 18 mg/dL (Ref: 7–20) – Normal  
+- **Electrolytes (Repeat):**  
+
+  - **Sodium:** 140 mEq/L  
+  - **Potassium:** 4.1 mEq/L  
+  - **Chloride:** 102 mEq/L  
+  - **CO2:** 26 mEq/L  
+  - **Calcium:** 9.1 mg/dL  
+  - **Phosphorus:** 3.2 mg/dL  
+  - **Magnesium:** 1.9 mg/dL  
+- **Blood Type:** A+  
+- **Hemoglobin Electrophoresis:** Normal  
+- **Hepatitis Panel:**  
+  - **Hepatitis A IgM:** Negative  
+  - **Hepatitis B Surface Antigen:** Negative  
+  - **Hepatitis B Surface Antibody:** Positive  
+  - **Hepatitis C Antibody:** Negative  
+- **HIV Antibody:** Negative  
+- **Syphilis Screening (RPR):** Nonreactive  
+
+**Imaging Readings (Continued):**  
+- **Chest CT Scan (Scheduled for Outpatient):**  
+  - **CT Chest (Non-contrast):**  
+    - No evidence of pulmonary embolism.  
+    - No evidence of pneumonia, pleural effusion, or mass.  
+    - No rib fractures or pleural thickening.  
+    - No mediastinal widening or hilar lymphadenopathy.  
+    - No evidence of cardiac enlargement or pericardial effusion.  
+    - No evidence of foreign body or calcifications.  
+    - No signs of lung parenchymal disease.  
+    - No pleural fluid or consolidation.  
+    - No evidence of emphysema or interstitial lung disease.  
+    - No evidence of hilar or mediastinal masses.  
+    - No evidence of diaphragmatic elevation or hiatal hernia.  
+    - No evidence of airway obstruction.  
+    - No evidence of subcutaneous emphysema.  
+    - No evidence of bronchiectasis or other chronic lung disease.  
+    - No evidence of pleural thickening or calcification.  
+    - No evidence of rib abnormalities or fractures.  
+    - No evidence of mediastinal shift or cardiac tamponade.  
+    - No evidence of pleural or pericardial fluid.  
+    - No evidence of lung nodules or masses.  
+
+    - No evidence of mediastinal lymphadenopathy.  
+    - No evidence of thoracic spine abnormalities.  
+    - No evidence of vertebral body abnormalities.  
+    - No evidence of rib abnormalities.  
+    - No evidence of pulmonary vasculature abnormalities.  
+    - No evidence of pulmonary hypertension.  
+    - No evidence of chronic obstructive pulmonary disease (COPD).  
+    - No evidence of asthma exacerbation.  
+    - No evidence of interstitial lung disease.  
+    - No evidence of chronic bronchitis.  
+    - No evidence of pulmonary fibrosis.  
+    - No evidence of pulmonary edema.  
+    - No evidence of pulmonary embolism.  
+    - No evidence of acute or chronic lung pathology.  
+    - No evidence of lung parenchymal disease.  
+
+**Nursing Notes (Continued):**  
+- Patient was observed to be compliant with all discharge instructions.  
+- Patient was given a follow-up appointment with his primary care physician for further evaluation.  
+- Patient was advised to monitor for any changes in symptoms and to return to the ED if symptoms worsened.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient’s wife was present for the entire duration of the visit and was involved in the discharge planning.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Additional Notes:**  
+- Patient was advised to follow a low-sodium diet to manage hypertension.  
+   - Patient was encouraged to engage in regular physical activity to improve cardiovascular health.  
+- Patient was advised to maintain a healthy weight and avoid smoking.  
+- Patient was advised to monitor his blood pressure at home and report any significant changes to his primary care physician.  
+- Patient was advised to take lisinopril as prescribed and to report any side effects such as dizziness or fatigue.  
+- Patient was advised to continue  using the albuterol inhaler as needed for mild asthma symptoms.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was advised to schedule a follow-up appointment with his primary care physician within one week.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+
+**Nursing Follow-Up:**   
+- Patient was scheduled for a follow-up visit with his primary care physician in one week.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+
+**Discharge Summary (Continued):**  
+- Patient was evaluated in the ED for acute right-sided chest pain with radiation to the right shoulder and shortness of breath.  
+- Initial workup was unremarkable for acute coronary syndrome, pulmonary embolism, or trauma.  
+- No signs of sepsis, neurological deficits, or psychiatric emergencies.  
+- Patient was discharged with a chest CT scan scheduled for outpatient imaging.  
+- No further inpatient admission was required.  
+- Patient was advised to follow up with his primary care physician.  
+- Patient was discharged in a stable condition with no complications.     
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Additional Lab Results (Continued):**  
+- **Renal Function (Repeat):**  
+  - **Creatinine Clearance:** 98 mL/min  
+  - **BUN:** 18 mg/dL  
+  - **Creatinine:** 0.9 mg/dL  
+  - **Uric Acid:** 5.2 mg/dL  
+  - **Electrolytes:** Normal  
+- **Thyroid Function (Repeat):**  
+  - **TSH:** 1.2 µIU/mL  
+  - **Free T4:** 1.1 ng/dL  
+  - **T3:** 1.3 ng/mL  
+  - **T4 Total:** 7.2 µg/dL  
+- **Liver Function (Repeat):**  
+  - **ALT:** 28 U/L  
+   - **AST:** 26 U/L  
+  - **ALP:** 85 U/L  
+  - **GGT:** 45 U/L  
+  - **Total Bilirubin:** 0.8 mg/dL  
+  - **Direct Bilirubin:** 0.1 mg/dL  
+  - **Albumin:** 4.2 g/dL  
+  - **Total Protein:** 7.2 g/dL  
+- **Coagulation Panel (Repeat):**  
+
+  - **PT:** 12.0 seconds (Ref: 11–13)  
+  - **INR:** 1.0  
+  - **aPTT:** 32 seconds (Ref: 25–35)  
+  - **Fibrinogen:** 250 mg/dL (Ref: 200–400)  
+  - **Platelet Count:** 225 x 10^9/L  
+  - **D-dimer:** 0.5 µg/mL  
+- **Chest X-ray (Repeat):**  
+  - **Findings:** Clear lung fields, no infiltrates or masses, no pleural effusion, no cardiac enlargement, no rib fractures, no mediastinal widening.  
+  - **Conclusion:** No acute pulmonary or cardiac pathology.  
+- **ECG (Repeat):**  
+  - **Rhythm:** Sinus rhythm  
+  - **Rate:** 92 bpm  
+  - **PR Interval:** 0.18 sec  
+
+  - **QRS Duration:** 0.09 sec  
+  - **QTc:** 410 ms  
+  - **Axis:** 0°–90°  
+  - **ST Segments:** No significant changes  
+  - **T Waves:** Normal  
+  - **Conclusion:** No evidence of acute myocardial infarction or ischemia.  
+- **Chest CT Scan (Outpatient):**  
+  - **Findings:** No evidence of pulmonary embolism, no evidence of pneumonia, no pleural effusion, no cardiac enlargement, no rib fractures, no mediastinal widening, no lung parenchymal disease, no chronic lung disease.  
+  - **Conclusion:** No acute pulmonary or cardiac pathology.  
+
+**Nursing Notes (Final):**  
+- Patient was observed to be compliant with all discharge instructions.  
+- Patient was given a follow-up appointment with his primary care physician for further evaluation.  
+- Patient was advised to monitor for any changes in symptoms and to return to the ED if symptoms worsened.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Final Notes:**  
+- Patient’s symptoms were consistent with a musculoskeletal or anxiety-related etiology.  
+- No acute medical conditions were identified during the initial evaluation.  
+- Patient was advised to follow up with his primary care physician for further evaluation.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Provider Note (Final):**  
+- Patient was evaluated in the ED for acute right-sided chest pain with radiation to the right shoulder and shortness of breath.  
+- Initial workup was unremarkable for acute coronary syndrome, pulmonary embolism, or trauma.  
+- No signs of sepsis, neurological deficits, or psychiatric emergencies.  
+- Patient was discharged with a chest CT scan scheduled for outpatient imaging.  
+- No further inpatient admission was required.  
+- Patient was advised to follow up with his primary care physician.  
+- Patient was discharged in a stable condition with no complications.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Signed by:**  
+**Dr. Andrew S. Park, MD**  
+Emergency Medicine  
+April 5, 2025  
+
+**Patient Signature (If Available):**  
+  **Witness Signature:**  
+**Nurse’s Signature:**  
+**Note: This document is part of the electronic health record and is protected by HIPAA.**
+
+**Additional Lab Results (Continued):**  
+- **Chest X-ray (Repeat):**  
+  - **Findings:** Clear lung fields, no infiltrates or masses, no pleural effusion, no cardiac enlargement, no rib fractures, no mediastinal widening.  
+  - **Conclusion:** No acute pulmonary or cardiac pathology.  
+- **ECG (Repeat):**  
+  - **Rhythm:** Sinus rhythm  
+  - **Rate:** 92 bpm  
+  - **PR Interval:** 0.18 sec  
+  - **QRS Duration:** 0.09 sec  
+  - **QTc:** 410 ms  
+  - **Axis:** 0°–90°  
+  - **ST Segments:** No significant changes  
+  - **T Waves:** Normal  
+  - **Conclusion:** No evidence of acute myocardial infarction or ischemia.  
+- **Chest CT Scan (Outpatient):**  
+  - **Findings:** No evidence of pulmonary embolism, no evidence of pneumonia, no pleural effusion, no cardiac enlargement, no rib fractures, no mediastinal widening, no lung parenchymal disease, no chronic lung disease.  
+
+  - **Conclusion:** No acute pulmonary or cardiac pathology.  
+
+**Nursing Notes (Final):**  
+- Patient was observed to be compliant with all discharge instructions.  
+- Patient was given a follow-up appointment with his primary care physician for further evaluation.  
+- Patient was advised to monitor for any changes in symptoms and to return to the ED if symptoms worsened.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Final Notes:**  
+- Patient’s symptoms were consistent with a musculoskeletal or anxiety-related etiology.  
+- No acute medical conditions were identified during the initial evaluation.  
+- Patient was advised to follow up with his primary care physician for further evaluation.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Provider Note (Final):**  
+- Patient was evaluated in the ED for acute right-sided chest pain with radiation to the right shoulder and shortness of breath.  
+- Initial workup was unremarkable for acute coronary syndrome, pulmonary embolism, or trauma.  
+- No signs of sepsis, neurological deficits, or psychiatric emergencies.  
+- Patient was discharged with a chest CT scan scheduled for outpatient imaging.  
+- No further inpatient admission was required.  
+- Patient was advised to follow up with his primary care physician.  
+- Patient was discharged in a stable condition with no complications.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.  
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.  
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Signed by:**  
+**Dr. Andrew S. Park, MD**  
+
+Emergency Medicine  
+April 5, 2025  
+
+**Patient Signature (If Available):**  
+**Witness Signature:**  
+**Nurse’s Signature:**  
+**Note: This document is part of the electronic health record and is protected by HIPAA.**
+
+**Additional Lab Results (Continued):**  
+- **Thyroid Function (Repeat):**  
+  - **TSH:** 1.2 µIU/mL  
+  - **Free T4:** 1.1 ng/dL  
+  - **T3:** 1.3 ng/mL  
+  - **T4 Total:** 7.2 µg/dL  
+- **Chest X-ray (Repeat):**  
+  - **Findings:** Clear lung fields, no infiltrates or masses, no pleural effusion, no cardiac enlargement, no rib fractures, no  mediastinal widening.  
+  - **Conclusion:** No acute pulmonary or cardiac pathology.  
+- **ECG (Repeat):**  
+  - **Rhythm:** Sinus rhythm  
+  - **Rate:** 92 bpm  
+  - **PR Interval:** 0.18 sec  
+  - **QRS Duration:** 0.09 sec  
+  - **QTc:** 410 ms  
+  - **Axis:** 0°–90°  
+  - **ST Segments:** No significant changes  
+  - **T Waves:** Normal  
+  - **Conclusion:** No evidence of acute myocardial infarction or ischemia.  
+- **Chest CT Scan (Outpatient):**  
+  - **Findings:** No evidence of pulmonary embolism, no evidence of pneumonia, no pleural effusion, no cardiac enlargement, no rib fractures, no mediastinal widening, no lung parenchymal disease, no chronic lung disease.  
+  - **Conclusion:** No acute pulmonary or cardiac pathology.  
+
+**Nursing Notes (Final):**  
+- Patient was observed to be compliant with all discharge instructions.  
+- Patient was given a follow-up appointment with his primary care physician for further evaluation.  
+
+- Patient was advised to monitor for any changes in symptoms and to return to the ED if symptoms worsened.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to avoid alcohol and caffeine for the next 24 hours.  
+- Patient was encouraged to maintain a healthy lifestyle, including a balanced diet and regular exercise.  
+- Patient was given a follow-up appointment with the primary care physician for further evaluation.      
+- Patient was advised to avoid driving for the next 24 hours due to the mild dizziness reported.   
+- Patient was advised to have a responsible adult accompany him during the follow-up visit.  
+- Patient was instructed to return to the ED if symptoms worsened or if new symptoms developed.  
+- Patient was given a clear plan of care and was instructed to follow up with his primary care physician.  
+- Patient was advised to monitor his symptoms and report any changes to his primary care physician.  
+- Patient was given a written copy of the discharge instructions.  
+- Patient was discharged in a stable condition with no complications.  
+
+**Final Notes:**  
+- Patient’s symptoms were consistent with a musculoskeletal or anxiety-related etiology

@@ -1,0 +1,31 @@
+index,domain,filename,title,word_count,char_count
+0,legal,corpus/legal/doc_0000.txt,SOFTWARE LICENSING AGREEMENT,8056,49354
+1,legal,corpus/legal/doc_0001.txt,SOFTWARE LICENSING AGREEMENT,7006,47619
+2,legal,corpus/legal/doc_0002.txt,IN THE UNITED STATES DISTRICT COURT,6962,46880
+3,legal,corpus/legal/doc_0003.txt,UNITED STATES DISTRICT COURT,6634,46175
+4,legal,corpus/legal/doc_0004.txt,IN THE SUPERIOR COURT OF THE STATE OF CALIFORNIA,7675,52282
+5,legal,corpus/legal/doc_0005.txt,PRODUCT LIABILITY COMPLAINT,7547,50781
+6,legal,corpus/legal/doc_0006.txt,APPellate Brief on Statutory Interpretation,7847,53587
+7,legal,corpus/legal/doc_0007.txt,APPENDIX TO THE APPELLATE BRIEF ON STATUTORY INTERPRETATION,8145,55241
+8,legal,corpus/legal/doc_0008.txt,DATA PRIVACY REGULATION PROPOSAL,7322,52184
+9,legal,corpus/legal/doc_0009.txt,NON-DISCLOSURE AGREEMENT,6727,48752
+10,legal,corpus/legal/doc_0010.txt,NON-DISCLOSURE AGREEMENT,7883,52732
+11,legal,corpus/legal/doc_0011.txt,Legal Memorandum,7929,55621
+12,legal,corpus/legal/doc_0012.txt,UNITED STATES DISTRICT COURT,7594,48893
+13,legal,corpus/legal/doc_0013.txt,DEPOSITION SUMMARY,8312,54838
+14,legal,corpus/legal/doc_0014.txt, Whistleblower Protection Policy,8010,56910
+15,medical,corpus/medical/doc_0000.txt,ED Note,5610,38238
+16,medical,corpus/medical/doc_0001.txt,EMERGENCY DEPARTMENT INITIAL ASSESSMENT,5975,39546
+17,medical,corpus/medical/doc_0002.txt,Discharge Summary,4843,36133
+18,medical,corpus/medical/doc_0003.txt,Progress Note,4737,33272
+19,medical,corpus/medical/doc_0004.txt,Progress Note,5184,35529
+20,medical,corpus/medical/doc_0005.txt,Inpatient Order Set,4628,32566
+21,medical,corpus/medical/doc_0006.txt,Preoperative Note,4831,35729
+22,medical,corpus/medical/doc_0007.txt,POSTOPERATIVE NOTE,4968,34862
+23,medical,corpus/medical/doc_0008.txt,IMAGING REPORT,5226,38161
+24,medical,corpus/medical/doc_0009.txt,Lab Report,5139,35645
+25,medical,corpus/medical/doc_0010.txt,Progress Note,5713,40946
+26,medical,corpus/medical/doc_0011.txt,Progress Note,5339,37269
+27,medical,corpus/medical/doc_0012.txt,Referral Note,6703,42915
+28,medical,corpus/medical/doc_0013.txt,INTAKE NOTE,5249,37614
+29,medical,corpus/medical/doc_0014.txt, Discharge Summary,6426,42089

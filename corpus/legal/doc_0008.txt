@@ -1,0 +1,542 @@
+**DATA PRIVACY REGULATION PROPOSAL**  
+**Title: Regulation on Enhanced Consumer Data Protection in the Digital Economy**  
+**Jurisdiction: European Data Protection Board**  
+**Document Number: DPPR-2024-009**  
+
+---
+
+**PREAMBLE**  
+
+Whereas the digital economy has evolved at an unprecedented rate, introducing complex data ecosystems that span multiple jurisdictions, legal frameworks, and technological infrastructures;  
+Whereas the protection of personal data remains a cornerstone of fundamental rights and democratic values within the European Union;  
+Whereas the European Data Protection Board (the “Board”) recognizes the urgent need for a comprehensive and enforceable regulatory framework that adapts to the dynamic nature of modern data processing;  
+Whereas the current legal landscape, while foundational, lacks the specificity and enforceability required to address the novel challenges posed by data-driven technologies, cross-border data flows, and the proliferation of data intermediaries;  
+Whereas the European Union’s Charter of Fundamental Rights, in particular Article 8 (Right to Privacy), Article 16 (Right to Data Protection), and Article 19 (Right to Free Movement of Persons), requires the Board to act decisively in safeguarding the rights of individuals in the digital age;  
+Whereas the Board has identified a significant gap in the existing legal architecture regarding data minimization, algorithmic transparency, and the accountability of data controllers and processors in the context of automated decision-making systems;  
+Whereas the Board seeks to harmonize data protection standards across member states while ensuring flexibility to accommodate regional and sector-specific nuances;  
+Whereas this Regulation aims to establish a unified, enforceable, and adaptable legal framework that aligns with the principles of data protection by design and by default, as enshrined in Article 25 of the General Data Protection Regulation (GDPR);  
+Whereas the Board has consulted with stakeholders, including consumer advocacy groups, industry representatives, and academic institutions, to ensure that this Regulation reflects a balanced approach to innovation and privacy;  
+Whereas the Regulation shall apply to all data processing activities conducted within the European Union, as well as those that affect individuals residing in the EU, regardless of the location of the data controller or processor;  
+Whereas the Board is committed to fostering a digital ecosystem that is both innovative and trustworthy, grounded in the principles of transparency, accountability, and individual empowerment;  
+Whereas this Regulation is intended to be a living document, subject to periodic review and amendment in light of technological advancements and societal developments;  
+Whereas the Board hereby proposes this Regulation for adoption and implementation, with the intent to strengthen the legal safeguards for personal data and to ensure that individuals remain in control of their digital identities and data footprints;  
+
+
+---
+
+**CHAPTER I**  
+**PRINCIPLES AND SCOPE**  
+
+**Article I: Definitions and Interpretation**  
+
+For the purposes of this Regulation, the following terms shall have the meanings set forth below:  
+
+(a) **“Personal data”** means any information relating to an identified or identifiable natural person, including, but not limited to, names, addresses, identification numbers, online identifiers, and other factors specific to the individual’s physical, physiological, genetic, mental, economic, cultural, or social identity.  
+
+(b) **“Data subject”** refers to the individual to whom the personal data relates.  
+
+(c) **“Data controller”** is the entity that determines the purposes and means of the processing of personal data.  
+
+(d) **“Data processor”** is the entity that processes personal data on behalf of the data controller.  
+
+(e) **“Data intermediary”** means any entity that facilitates the processing, transmission, or storage of personal data, including but not limited to cloud service providers, third-party analytics platforms, and data brokers.  
+
+(f) **“Automated decision-making”** includes any processing of personal data that has legal or similarly significant effects on the data subject, including profiling.  
+
+
+(g) **“Algorithmic transparency”** refers to the clarity, explainability, and accountability of decision-making processes that are governed by artificial intelligence, machine learning, or other algorithmic systems.  
+
+(h) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(i) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(j) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(k) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(l) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(m) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(n) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(o) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(p) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(q) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(r) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(s) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(t) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(u) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(v) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(w) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(x) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(y) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(z) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(aa) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(ab) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(ac) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+
+(ad) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(ae) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(af) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(ag) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(ah) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(ai) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(aj) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(ak) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(al) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(am) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(an) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(ao) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(ap) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(aq) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(ar) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(as) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(at) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(au) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(av) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(aw) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(ax) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(ay) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(az) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(ba) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has  its headquarters.  
+
+(bb) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(bc) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(bd) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(be) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(bf) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(bg) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(bh) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(bi) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(bj) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(bk) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(bl) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(bm) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(bn) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(bo) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(bp) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(bq) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(br) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(bs) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(bt) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(bu) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(bv) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(bw) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(bx) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(by) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(bz) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(ca) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(cb) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(cc) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(cd) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(ce) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(cf) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(cg) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(ch) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(ci) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(cj) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(ck) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(cl) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(cm) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(cn) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(co) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(cp) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(cq) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(cr) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(cs) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(ct) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(cu) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(cv) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(cw) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(cx) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(cy) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.      
+
+(cz) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(da) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(db) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(dc) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(dd) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(de) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(df) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(dg) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(dh) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(di) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(dj) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(dk) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(dl) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(dm) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(dn) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(do) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(dp) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(dq) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(dr) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+
+(ds) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(dt) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(du) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(dv) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(dw) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(dx) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(dy) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(dz) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(ea) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(eb) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(ec) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(ed) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(ee) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(ef) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(eg) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(eh) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(ei) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(ej) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(ek) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(el) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(em) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(en) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(eo) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(ep) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(eq) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(er) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(es) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(et) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(eu) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(ev) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(ew) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(ex) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(ey) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(ez) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(fa) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(fb) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(fc) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(fd) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(fe) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(ff) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(fg) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(fh) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(fi) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(fj) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(fk) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(fl) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(fm) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(fn) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(fo) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(fp) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(fq) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(fr) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(fs) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(ft) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+
+(fu) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(fv) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(fw) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(fx) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(fy) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(fz) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(ga) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(gb) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(gc) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(gd) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(g e) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(gf) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(gh) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(gi) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(gj) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(gk) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(gl) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(gm) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(gn) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(go) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(gp) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(gq) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(gr) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(gs) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(gt) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(gu) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(gv) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(gw) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(gx) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(gy) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(gz) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(ha) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(hb) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(hc) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(hd) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(he) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(hf) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(hg) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(hi) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(hj) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(hk) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(hl) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(hm) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(hn) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(ho) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.  
+
+(hp) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(hq) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(hr) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(hs) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(ht) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(hu) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(hv) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(hw) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(hx) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(hy) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(hz) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(ia) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(ib) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(ic) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure, and transparent processing of personal data.  
+
+(id) **“Data sovereignty”** refers to the principle that the data subject has the right to control the location, use, and management of their personal data.  
+
+(ie) **“Data subject rights”** are the rights granted to individuals under this Regulation, including the right to access, rectify, erase, restrict, object to, and port their personal data.  
+
+(if) **“Data protection authority”** refers to the national or regional supervisory authority responsible for enforcing this Regulation within a jurisdiction.  
+
+(ig) **“European Data Protection Board”** is the body responsible for coordinating the implementation and enforcement of this Regulation across the European Union.   
+
+(ii) **“Data protection officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(ij) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+  (ik) **“Data minimization”** is the principle that data processing should be limited to the minimum necessary to achieve the intended purpose, and should not include any data that is irrelevant or excessive.  
+
+(il) **“Data portability”** enables data subjects to obtain and reuse their personal data for their own purposes across different services.  
+
+(im) **“Right to be forgotten”** encompasses the right of the data subject to request the erasure of personal data under specified conditions.  
+
+(in) **“Data protection impact assessment”** is a systematic process to evaluate the risks to data subjects’ rights and freedoms posed by a proposed data processing activity.  
+
+(io) **“Consent”** means any freely given, specific, and informed agreement by the data subject to the processing of their personal data for one or more specific purposes.  
+
+(ip) **“Processing”** includes any operation or set of operations performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, or erasure.  
+
+(iq) **“Controller’s representative”** is a person or entity designated by the data controller to act on its behalf in relation to the processing of personal data.  
+
+(ir) **“Data Protection Officer”** is an individual appointed by the data controller or processor to ensure compliance with this Regulation and to serve as a point of contact for data subjects and the regulatory authorities.  
+
+(is) **“Data breach”** refers to any unauthorized access, disclosure, alteration, or destruction of personal data that results in a risk to the rights and freedoms of the data subject.  
+
+(it) **“Data localization”** means the requirement that personal data be processed and stored within the jurisdiction where the data subject resides or where the data controller has its headquarters.  
+
+(iu) **“Cross-border data transfer”** refers to the transfer of personal data from one jurisdiction to another, including data transfers to third countries or international organizations.  
+
+(iv) **“Data governance framework”** is a set of policies, procedures, and controls established by the data controller or processor to ensure the lawful, secure

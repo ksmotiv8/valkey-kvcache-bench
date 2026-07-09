@@ -1,0 +1,891 @@
+**Discharge Summary**  
+**Facility:** Green Valley Regional Hospital  
+**Department:** ED  
+
+**Date of Discharge:** April 5, 2025  
+**Time of Discharge:** 15:30  
+**Patient Name:** Johnathon R. Whitmore  
+**Medical Record Number:** 2025-ER-0405-1234  
+**Patient ID:** ER-12345  
+**Primary Care Physician:** Dr. Emily Carter, MD  
+**Attending Physician:** Dr. Michael Chen, MD  
+**Discharging Physician:** Dr. Sarah Lin, MD  
+**Emergency Department Charge Nurse:** Nancy Ramirez  
+**Discharge Status:** Discharged to Home with Follow-up Instructions  
+**Discharge Diagnosis:** Acute Gastroenteritis with Dehydration  
+**Primary ICD-10-CM Code:** K52.90  
+**Secondary ICD-10-CM Code:** Z87.22 (Family History of Diabetes Mellitus)  
+**ICD-10-PCS Code (if applicable):** N/A  
+**CPT Code:** 99213  
+**Patient Location:** Room 4B, Emergency Department  
+
+---
+
+### **1. Patient Information**
+
+**Name:** Johnathon R. Whitmore  
+**Age:** 42 years  
+**Gender:** Male  
+**Race:** White  
+**Ethnicity:** Caucasian  
+**Weight:** 82 kg  
+**Height:** 183 cm  
+**Date of Birth:** April 7, 1983  
+**Marital Status:** Married  
+**Occupation:** Electrical Engineer  
+**Primary Insurance:** Blue Cross Blue Shield  
+**Phone Number:** (555) 123-4567  
+**Address:** 123 Main Street, Springfield, ST 98765  
+**Emergency Contact:** Wife, Sarah Whitmore, (555) 987-6543  
+**Primary Care Physician:** Dr. Emily Carter, MD, 123 Health Lane, Springfield, ST 98765  
+**Medicaid/Medicare Status:** Not Applicable  
+**Reason for Visit:** Acute abdominal pain with vomiting, diarrhea, and dehydration  
+
+---
+
+### **2. Chief Complaint**
+
+Patient presented to the Emergency Department (ED) with a 48-hour history of intermittent abdominal pain, nausea, vomiting, and watery diarrhea. He reported worsening symptoms over the past 24 hours, including increased frequency of bowel movements, decreased urine output, and generalized weakness. He denied fever, chills, or any recent travel. He stated he had consumed a meal at a local restaurant the previous evening and had no known food allergies.  
+
+---
+
+### **3. History of Present Illness (HPI)**
+
+The patient described the onset of symptoms as approximately 48 hours prior, following a meal at a local diner. He initially experienced mild epigastric discomfort, which progressed to cramping in the lower abdomen. He had 3 episodes of non-bloody, watery diarrhea within 12 hours of presentation, accompanied by nausea and vomiting (3 times). He noted that the vomiting was predominantly bile-colored and did not provide relief. He also reported a 24-hour history of decreased oral intake and a 50% decrease in urine output. He denied any recent medication use, except for occasional over-the-counter antacids.  
+
+He had no prior history of similar gastrointestinal symptoms. He denied any recent antibiotic use or travel. He denied any chest pain, shortness of breath, or syncope. He did not report any urinary symptoms, rectal bleeding, or blood in stool. He denied any neurological symptoms, including headache, dizziness, or confusion. He reported feeling increasingly fatigued and weak over the past 24 hours, which he attributed to decreased fluid intake.  
+
+---
+
+### **4. Past Medical History**
+
+- **Hypertension** (diagnosed 2 years ago, currently managed with Lisinopril 10 mg daily)  
+- **Type 2 Diabetes Mellitus** (diagnosed 10 years ago, managed with Metformin 500 mg twice daily, with occasional insulin glargine 10 units nightly)  
+- **Asthma** (controlled with albuterol inhaler as needed, no recent exacerbations)  
+- **Gastritis** (history of occasional epigastric pain, managed with omeprazole 20 mg once daily)  
+- **Allergies:** Shellfish (mild urticaria), penicillin (anaphylaxis)  
+- **Family History:**  
+  - Father: Heart failure (current)  
+  - Mother: Breast cancer (survivor)  
+  - Sister: Type 1 Diabetes Mellitus  
+- **Surgical History:**  
+  - Appendectomy at age 22  
+  - Cholecystectomy at age 30  
+- **Immunizations:** Up to date (flu, Tdap, MMR, hepatitis B)  
+
+- **Smoking:** Occasional (1–2 cigarettes per week)  
+- **Alcohol:** Social (1–2 drinks per week)  
+- **Medications at Discharge:**  
+  - Lisinopril 10 mg daily  
+  - Metformin 500 mg twice daily  
+  - Insulin glargine 10 units nightly  
+  - Omeprazole 20 mg once daily  
+
+---
+
+###  **5. Medications (Prior to Admission)**
+
+- **Lisinopril 10 mg daily** – Hypertension  
+- **Metformin 500 mg BID** – Type 2 Diabetes Mellitus  
+  - **Insulin glargine 10 units nightly** – Type 2 Diabetes Mellitus  
+- **Omeprazole 20 mg daily** – Gastritis  
+- **Albuterol inhaler PRN** – Asthma  
+
+---
+
+### **6. Allergies**
+
+- **Shellfish:** Urticaria  
+- **Penicillin:** Anaphylaxis  
+
+---
+
+### **7. Social History**
+
+- **Occupation:** Electrical Engineer  
+- **Employment:** Full-time, private sector  
+ - **Living Situation:** Married, resides with spouse in a single-family home  
+- **Smoking:** Occasional (1–2 cigarettes per week)  
+- **Alcohol:** Social (1–2 drinks per week)  
+- **Substance Use:** No illicit drug use  
+- **Exercise:** Occasional (3 times per week, walking)  
+- **Diet:** Light, low-fat, high-fiber, with occasional fast food consumption  
+
+---
+
+### **8. Family History**
+
+- **Father:** Heart failure (current)  
+- **Mother:** Breast cancer (survivor)  
+- **Sister:** Type 1 Diabetes Mellitus  
+- **Brother:** Hypothyroidism  
+- **Grandmother:** Osteoporosis  
+- **Paternal Uncle:** Hypertension  
+
+---
+
+### **9. Review of Systems**
+
+- **Cardiovascular:** No chest pain, palpitations, or syncope.  
+
+- **Respiratory:** No cough, wheezing, or shortness of breath.  
+- **Gastrointestinal:** Epigastric discomfort, nausea, vomiting, diarrhea, and anorexia.  
+- **Genitourinary:** No dysuria, hematuria, or flank pain.  
+- **Neurological:** No headaches, dizziness, or confusion.  
+- **Musculoskeletal:** No joint pain or swelling.  
+- **Dermatologic:** No rashes or lesions.  
+- **Psychiatric:** No mood changes or anxiety.  
+- **Endocrine:** No sweating or heat intolerance.  
+   - **Hematologic:** No bruising or bleeding.  
+- **Ophthalmologic:** No visual changes.  
+- **Auditory:** No hearing loss.  
+- **Other:** No weight loss, fever, chills, or fatigue.  
+
+---
+
+### **10. Physical Examination**
+
+**Vital Signs (Upon Admission):**  
+- **Temperature:** 36.8°C (98.2°F)  
+- **Pulse:** 102 bpm  
+- **Respiratory Rate:** 20 breaths/min  
+- **Blood Pressure:** 94/62 mmHg  
+- **Oxygen Saturation:** 97% on room air  
+- **Weight:** 82 kg  
+- **Height:** 183 cm  
+- **BMI:** 24.7 (normal range)  
+
+**General Appearance:**  
+- Alert, oriented x3, no acute distress.  
+- No evidence of dehydration, but appears mildly fatigued.  
+- No pallor or jaundice.  
+- No signs of acute distress or anxiety.  
+
+**Head, Eyes, Ears, Nose, and Throat (HEENT):**  
+- **Head:** No focal neurological deficits.  
+- **Eyes:** Pupils equal, round, reactive to light (PERRL).  
+- **Ears:** No discharge or deformity.  
+- **Nose:** No obstruction or discharge.  
+- **Throat:** No erythema or exudate.  
+
+**Neck:**  
+- No lymphadenopathy.  
+- No thyroid enlargement.  
+- No tenderness or rigidity.  
+
+**Cardiopulmonary:**  
+- **Heart:** Regular rate and rhythm. No murmurs or gallops.  
+- **Lungs:** Clear to auscultation bilaterally. No crackles or wheezes.  
+
+**Abdomen:**  
+- **Inspection:** Mildly distended, no visible masses.  
+- **Palpation:** Tenderness in the left lower quadrant (LLQ), no rebound or guarding.  
+- **Percussion:** Non-tympanic.  
+- **Auscultation:** Normal bowel sounds.  
+
+**Genitourinary:**  
+- No distension, no tenderness.  
+- No abnormalities in genitalia.  
+
+**Extremities:**  
+- No edema.  
+- No erythema or bruising.  
+- No joint swelling.  
+
+**Neurological:**  
+- **Mental Status:** Alert and oriented x3.  
+- **Cranial Nerves:** Intact.  
+- **Motor Function:** 5/5 in all extremities.  
+- **Sensory Function:** Intact.  
+- **Reflexes:** 2+ bilateral.  
+
+**Skin:**  
+- No rashes or lesions.  
+- No jaundice or pallor.  
+- No ecchymosis.  
+
+**Psychiatric:**  
+- No signs of depression or anxiety.  
+- No suicidal ideation.  
+
+**Other:**  
+- No gross abnormalities.  
+- No evidence of acute trauma.  
+
+---
+
+### **11. Laboratory Findings**
+
+**Complete Blood Count (CBC):**  
+- **Hemoglobin:** 13.2 g/dL (reference range: 13.5–17.5 g/dL)  
+- **Hematocrit:** 39.1% (reference range: 38.5–47.5%)  
+- **White Blood Cell Count (WBC):** 11.2 x 10^9/L (reference range: 4.0–11.0 x 10^9/L)  
+- **Platelets:** 225 x 10^9/L (reference range: 150–450 x 10^9/L)  
+
+**Electrolytes (Serum):**  
+- **Sodium:** 138 mmol/L (reference range: 135–145 mmol/L)  
+- **Potassium:** 4.0 mmol/L (reference range: 3.5–5.0 mmol/L)  
+- **Chloride:** 100 mmol/L (reference range: 98–106 mmol/L)  
+- **Bicarbonate:** 24 mmol/L (reference range: 22–28 mmol/L)  
+- **Calcium:** 2.4 mmol/L (reference range: 2.1–2.6 mmol/L)  
+- **Magnesium:** 1.7 mmol/L (reference range: 1.5–2.2 mmol/L)  
+- **Phosphorus:** 1.1 mmol/L (reference range: 0.8–1.4 mmol/L)  
+
+**Blood Urea Nitrogen (BUN):** 18 mg/dL (reference range: 7–20 mg/dL)  
+**Creatinine:** 1.0 mg/dL (reference range: 0.6–1.1 mg/dL)  
+**Glucose:** 115 mg/dL (reference range: 70–99 mg/dL)  
+
+**Urinalysis:**  
+- **Specific Gravity:** 1.002 (reference range: 1.005–1.030)  
+- **pH:** 6.0 (reference range: 4.5–8.0)  
+
+- **Protein:** Negative  
+- **Glucose:** Negative  
+- **Blood:** Negative  
+- **Ketones:** Negative  
+- **Leukocyte Esterase:** Negative  
+- **Nitrites:** Negative  
+
+**Liver Function Tests (LFTs):**  
+- **ALT:** 32 U/L (reference range: 40–80 U/L)  
+- **AST:** 28 U/L (reference range: 40–80 U/L)  
+- **ALP:** 75 U/L (reference range: 40–130 U/L)  
+- **GGT:** 30 U/L (reference range: 15–60 U/L)  
+- **Bilirubin Total:** 0.8 mg/dL (reference range: 0.2–1.2 mg/dL)  
+- **Albumin:** 4.1 g/dL (reference range: 3.5–5.0 g/dL)  
+
+**Lipid Panel:**  
+- **Cholesterol Total:** 195 mg/dL (reference range: 120–200 mg/dL)  
+- **LDL:** 105 mg/dL (reference range: <130 mg/dL)  
+- **HDL:** 58 mg/dL (reference range: >40 mg/dL)  
+- **Triglycerides:** 110 mg/dL (reference range: <150 mg/dL)  
+
+**Thyroid Function Tests (TFTs):**  
+- **TSH:** 1.8 µIU/mL (reference range: 0.4–4.0 µIU/mL)  
+- **Free T4:** 1.2 ng/dL (reference range: 0.8–1.8 ng/dL)  
+- **Free T3:** 2.9 pg/mL (reference range: 2.0–4.0 pg/mL)  
+
+**Electrolytes (Urine):**  
+
+- **Sodium:** 145 mmol/L  
+- **Potassium:** 28 mmol/L  
+
+**Blood Culture (Negative)**  
+**Urinalysis (Negative for UTI)**  
+**Chest X-ray (Clear)**  
+**Abdominal X-ray (No free air, no obstructing bowel gas)**  
+**Electrocardiogram (ECG):** Normal sinus rhythm, no ST changes, normal PR and QT intervals  
+
+---
+
+### **12. Diagnostic Imaging**
+
+- **Chest X-ray:** Clear, no evidence of pneumonia or pulmonary edema.  
+- **Abdominal X-ray:** No free air, no evidence of bowel obstruction.  
+- **CT Scan (Abdomen and Pelvis):** Not performed.  
+
+- **Ultrasound (Abdomen):** No evidence of gallstones, hepatic mass, or ascites.  
+- **Echocardiogram:** Normal left ventricular function, no valvular abnormalities.  
+
+---
+
+### **13. Procedures**
+
+- **Electrocardiogram (ECG):** Normal sinus rhythm  
+- **Urine Dipstick:** Negative for blood, ketones, glucose  
+- **Blood Glucose Test:** 115 mg/dL (fasting)  
+- **Urinalysis:** No significant findings  
+- **Complete Blood Count (CBC):** As above  
+- **Electrolyte Panel:** As above  
+
+---
+
+### **14. Clinical Course and Management**
+
+The patient was admitted to the ED after presenting with acute abdominal pain, vomiting, and diarrhea. His vital signs were within normal range except for tachycardia (102 bpm), hypotension (94/62 mmHg), and decreased urine output. He was assessed for dehydration, and a physical examination revealed mild epigastric tenderness and decreased bowel sounds.  
+
+Initial laboratory studies showed mild elevation in WBC and slightly abnormal renal function (BUN slightly elevated). However, no signs of sepsis or acute organ failure were noted. The patient was diagnosed with **acute gastroenteritis with dehydration**.  
+
+  In response, the patient was started on **IV fluids** (Normal Saline 500 mL bolus) and **oral rehydration therapy**. He was also monitored for electrolyte imbalances, and a repeat electrolyte panel was ordered to assess fluid status.  
+
+Over the next 6 hours, the patient showed improvement in hydration status. His urine output increased, and his vital signs stabilized. His abdominal pain decreased, and he was able to tolerate oral intake.  
+
+The patient was given **oral rehydration solution (ORS)** and instructed to increase fluid intake. He was also started on **loperamide 2 mg PO every 4 hours as needed** for diarrhea control.  
+
+He was also advised to avoid dairy products and spicy foods and to monitor for signs of worsening symptoms. He was discharged from the ED after 6 hours of observation with a follow-up plan and outpatient care.  
+
+---
+
+### **15. Discharge Instructions**
+
+**Medical Advice:**  
+- Continue to monitor for signs of worsening symptoms, including persistent vomiting, severe abdominal pain, or signs of dehydration (dry mucous membranes, decreased urine output, dizziness).  
+- Maintain strict hydration with oral rehydration solution or water.  
+- Avoid dairy products, spicy foods, and caffeine for the next 24–48 hours.  
+- Continue all prescribed medications, including **Lisinopril**, **Metformin**, **Insulin glargine**, and **Omeprazole**.     
+- Monitor blood sugar levels regularly, especially during episodes of nausea or vomiting.  
+- If symptoms worsen or new symptoms develop, return to the ED or contact your primary care physician.  
+
+**Follow-Up:**  
+- **Primary Care Follow-Up:** Scheduled for April 10, 2025, with Dr. Emily Carter, MD.  
+- **Renal Function Monitoring:** Repeat creatinine and BUN in 1 week.  
+- **Diabetes Monitoring:** Continue to monitor blood glucose and adjust insulin as needed.  
+- **Hydration Assessment:** Repeat electrolyte panel in 2 weeks.  
+
+**Medication List (Discharge):**  
+- **Loperamide 2 mg PO every 4 hours as needed for diarrhea**  
+- **Omeprazole 20 mg PO once daily**  
+- **Lisinopril 10 mg PO daily**  
+- **Metformin 500 mg PO twice daily**  
+- **Insulin glargine 10 units PO nightly**  
+- **Oral Rehydration Solution (ORS) – 1 liter daily**  
+
+**Dietary Recommendations:**   
+- Clear liquids for the first 24 hours.  
+- Gradually progress to bland foods (e.g., bananas, rice, applesauce, toast).  
+
+- Avoid alcohol, caffeine, and spicy foods.  
+
+**Activity and Rest:**  
+- Light activity is encouraged, but avoid strenuous exercise.  
+- Rest as needed, especially during episodes of nausea or fatigue.  
+
+**Driving:**  
+- Patient is advised not to drive for 24 hours due to potential dizziness or fatigue.  
+
+**Transport:**  
+- Patient was transported by ambulance to the hospital.  
+- No issues noted during transport.  
+
+**Referrals:**  
+- No referrals made at this time.  
+
+
+---
+
+### **16. Discharge Medications**
+
+| Medication Name | Dosage | Route | Frequency | Duration |
+|------------------|--------|-------|-----------|----------|
+| Loperamide | 2 mg | Oral | PRN (as needed for diarrhea) | Until symptoms resolve |
+
+| Omeprazole | 20 mg | Oral | Once daily | 7 days |
+| Lisinopril | 10 mg | Oral | Daily | Chronic |
+| Metformin | 500 mg | Oral | Twice daily | Chronic |
+| Insulin glargine | 10 units | Subcutaneous | Nightly | Chronic |
+| Oral Rehydration Solution | 1 liter | Oral | Daily | 7 days |
+
+---
+
+### **17. Patient Education**
+
+- **Hydration:** Emphasize the importance of maintaining hydration, especially given the patient's history of diabetes and the risk of hypoglycemia.  
+- **Diabetes Management:** Advise the patient to continue monitoring blood glucose levels and adjust insulin as needed, especially if symptoms persist.  
+- **Gastroenteritis:** Explain that this is a viral illness, and no specific antiviral treatment is needed.  
+- **Medication Adherence:** Reiterate the importance of continuing all medications, including insulin and antihypertensives.  
+- **Diet:** Encourage a diet of bland, easily digestible foods and avoid stimulants.  
+- **Follow-Up:** Stress the importance of following up with primary care for monitoring of renal function and diabetes.  
+
+---
+
+### **18. Patient and Family Education**
+
+- The patient and his spouse were educated on the signs and symptoms of dehydration and when to seek immediate care.  
+- They were advised to monitor the patient’s urine output and ensure he is drinking enough fluids.  
+- The patient’s spouse was instructed to assist with blood glucose monitoring and medication administration.  
+- The family was educated on the importance of dietary modifications and activity restrictions.  
+
+---
+
+### **19. Patient and Family Response**
+
+- The patient and his spouse were cooperative and understood the discharge instructions.  
+- The patient acknowledged the importance of hydration and medication adherence.  
+
+- The spouse expressed concern about the patient’s fatigue and was reassured that this was a common symptom of gastroenteritis.  
+- The patient was instructed to return to the ED if symptoms worsened or new symptoms developed.  
+- The family was given a copy of the discharge summary and a list of follow-up appointments.  
+
+---
+
+### **20. Discharge Summary Summary**
+
+The patient was admitted to the Emergency Department following a 48-hour history of acute gastroenteritis with dehydration. He presented with intermittent abdominal pain, nausea, vomiting, and watery diarrhea, accompanied by decreased urine output and generalized weakness. His vital signs were generally stable, though he showed signs of mild dehydration. Laboratory studies showed mild elevation in WBC and slightly abnormal renal function.  
+
+The patient was started on IV fluids and oral rehydration therapy. He was monitored closely and showed improvement in hydration status over the course of his ED stay. His symptoms resolved, and he was discharged home with a follow-up plan, outpatient care, and medication instructions.  
+
+He was instructed to continue all medications, monitor for signs of worsening symptoms, and follow up with his primary care physician. He was advised to maintain hydration and avoid certain dietary items for the next 24–48 hours.  
+
+At discharge, the patient was alert, oriented, and able to perform activities of daily living. He was advised not to drive for 24 hours and to return to the ED if symptoms worsened.  
+
+---
+
+### **21. Discharge Signatures**
+
+**Discharging Physician:**  
+Dr. Sarah Lin, MD  
+Signature: __________________________  
+Date: April 5, 2025  
+
+**Emergency Department Charge Nurse:**  
+Nancy Ramirez  
+Signature: __________________________  
+Date: April 5, 2025  
+
+**Patient Acknowledgment:**  
+Johnathon R. Whitmore  
+Signature: __________________________  
+Date: April 5, 2025  
+
+**Spouse Acknowledgment:**  
+Sarah Whitmore  
+Signature: __________________________  
+Date: April 5, 2025  
+
+**Discharge Instructions Received:**  
+Yes  
+Signature: __________________________  
+Date: April 5, 2025  
+
+---
+
+**End of Discharge Summary**
+
+### **22. Additional Laboratory Findings**
+
+In addition to the initial laboratory studies, a repeat electrolyte panel was performed at 4 hours post-IV fluid administration to assess hydration status. The results are as follows:
+
+**Electrolytes (Repeat):**  
+- **Sodium:** 137 mmol/L (reference range: 135–145 mmol/L)  
+- **Potassium:** 4.1 mmol/L (reference range: 3.5–5.0 mmol/L)  
+- **Chloride:** 102 mmol/L (reference range: 98–106 mmol/L)  
+- **Bicarbonate:** 25 mmol/L (reference range: 22–28 mmol/L)  
+- **Calcium:** 2.4 mmol/L (reference range: 2.1–2.6 mmol/L)  
+- **Magnesium:** 1.6 mmol/L (reference range: 1.5–2.2 mmol/L)  
+- **Phosphorus:** 1.0 mmol/L (reference range: 0.8–1.4 mmol/L)  
+
+**Renal Function (Repeat):**  
+- **BUN:** 16 mg/dL (reference range: 7–20 mg/dL)  
+- **Creatinine:** 1.0 mg/dL (reference range: 0.6–1.1 mg/dL)  
+
+**Glucose:** 108 mg/dL (reference range: 70–99 mg/dL)  
+
+**Hemoglobin and Hematocrit:**  
+- **Hemoglobin:** 13.0 g/dL (reference range: 13.5–17.5 g/dL)  
+- **Hematocrit:** 38.9% (reference range: 38.5–47.5%)  
+
+**White Blood Cell Count (WBC):**  
+- **WBC:** 10.8 x 10^9/L (reference range: 4.0–11.0 x 10^9/L)  
+
+**Liver Function Tests (Repeat):**  
+- **ALT:** 30 U/L (reference range: 40–80 U/L)  
+- **AST:** 27 U/L (reference range: 40–80 U/L)  
+- **ALP:** 73 U/L (reference range: 40–130 U/L)  
+- **GGT:** 29 U/L (reference range: 15–60 U/L)  
+- **Bilirubin Total:** 0.8 mg/dL (reference range: 0.2–1.2 mg/dL)  
+- **Albumin:** 4.0 g/dL (reference range: 3.5–5.0 g/dL)  
+
+**Urinalysis (Repeat):**  
+- **Specific Gravity:** 1.003 (reference range: 1.005–1.030)  
+- **pH:** 6.1 (reference range: 4.5–8.0)  
+- **Protein:** Negative  
+
+- **Glucose:** Negative  
+- **Blood:** Negative  
+- **Ketones:** Negative  
+- **Leukocyte Esterase:** Negative  
+- **Nitrites:** Negative  
+
+**Thyroid Function Tests (Repeat):**  
+- **TSH:** 1.7 µIU/mL (reference range: 0.4–4.0 µIU/mL)  
+- **Free T4:** 1.1 ng/dL (reference range: 0.8–1.8 ng/dL)  
+- **Free T3:** 2.8 pg/mL (reference range: 2.0–4.0 pg/mL)  
+
+**Urinary Electrolytes:**  
+- **Sodium:** 142 mmol/L  
+- **Potassium:** 27 mmol/L  
+
+**Blood Culture (Repeat):**  
+
+- **Results:** Negative for bacteria and fungi  
+
+**Chest X-ray (Repeat):**  
+- **Findings:** Clear, no evidence of pneumonia or pulmonary edema  
+
+**Abdominal X-ray (Repeat):**  
+- **Findings:** No free air, no evidence of bowel obstruction  
+
+**Urine Drug Screen:**  
+- **Results:** Negative for illicit drugs, including opioids, amphetamines, cannabis, and benzodiazepines  
+
+**Pregnancy Test (Female Patient Only):**  
+- **Not applicable, as patient is male**  
+
+**Lipid Panel (Repeat):**  
+- **Cholesterol Total:** 190 mg/dL (reference range: 120–200 mg/dL)  
+- **LDL:** 102 mg/dL (reference range: <130 mg/dL)  
+- **HDL:** 56 mg/dL (reference range: >40 mg/dL)  
+- **Triglycerides:** 108 mg/dL (reference range: <150 mg/dL)  
+
+**Hemoglobin A1c (HbA1c):**  
+- **Result:** 6.8% (reference range: 4.0–5.6%)  
+- **Interpretation:** Mildly elevated, consistent with poorly controlled diabetes, though within acceptable range for a patient on insulin therapy  
+
+**Vitamin D Level:**  
+- **Result:** 28 ng/mL (reference range: 30–80 ng/mL)  
+- **Interpretation:** Mild deficiency, likely due to limited sun exposure and dietary intake. Recommendation: monitor and consider supplementation if symptoms of fatigue or bone pain develop  
+
+**Iron Studies:**  
+- **Serum Iron:** 12 µg/dL (reference range: 60–170 µg/dL)  
+- **Total Iron-Binding Capacity (TIBC):** 380 µg/dL (reference range: 240–450 µg/dL)  
+- **Ferritin:** 18 ng/mL (reference range: 12–200 ng/mL)  
+- **Interpretation:** Mild anemia of chronic disease, possibly contributing to the patient’s fatigue and weakness. Recommendation: follow up with primary care for further assessment  
+
+**C-Reactive Protein (CRP):**  
+- **Result:** 8.2 mg/L (reference range: <10 mg/L)  
+- **Interpretation:** Mild elevation, consistent with a low-grade inflammatory response, likely due to the viral etiology of gastroenteritis  
+
+**Complete Metabolic Panel (CMP):**  
+
+- **Sodium:** 137 mmol/L  
+- **Potassium:** 4.1 mmol/L  
+- **Chloride:** 102 mmol/L  
+- **CO2:** 25 mmol/L  
+ - **BUN:** 16 mg/dL  
+- **Creatinine:** 1.0 mg/dL  
+- **Glucose:** 108 mg/dL  
+- **Calcium:** 2.4 mmol/L  
+- **Phosphorus:** 1.0 mmol/L  
+- **Albumin:** 4.0 g/dL  
+
+- **Total Protein:** 7.0 g/dL  
+
+- **ALP:** 73 U/L  
+- **ALT:** 30 U/L  
+- **AST:** 27 U/L  
+- **GGT:** 29 U/L  
+- **Bilirubin Total:** 0.8 mg/dL  
+- **Bilirubin Direct:** 0.1 mg/dL  
+
+**Hemoglobin A1c:** 6.8%  
+**Lipid Panel:** As above  
+**Thyroid Function Tests:** As above  
+**Urinalysis:** As above  
+**Electrolytes:** As above  
+
+---
+
+### **23. Imaging and Diagnostic Reports**
+
+**Chest X-ray (Repeat):**  
+- **Findings:** Clear, no evidence of pneumonia or pulmonary edema.  
+- **Impression:** No acute pulmonary pathology.  
+
+**Abdominal X-ray (Repeat):**  
+- **Findings:** No free air, no evidence of bowel obstruction, and no distension.  
+- **Impression:** No acute abdominal pathology.  
+
+**Ultrasound (Abdomen):**  
+- **Findings:** Normal liver and gallbladder morphology. No evidence of gallstones, hepatic mass, or ascites.  
+- **Impression:** No acute abdominal pathology.  
+
+**Echocardiogram:**  
+- **Findings:** Normal left ventricular function. No valvular abnormalities.  
+- **Impression:** No cardiac pathology.  
+
+**CT Scan (Abdomen and Pelvis):**  
+- **Findings:** Not performed due to the patient’s stable condition and lack of indication.  
+- **Impression:** Not performed.  
+
+**CT Scan (Head):**  
+- **Findings:** Not performed.  
+- **Impression:** Not performed.  
+
+**Urine Culture:**  
+- **Findings:** Negative for bacterial growth.  
+- **Impression:** No urinary tract infection.  
+
+**Sputum Culture (if applicable):**  
+- **Not applicable.**  
+
+**Stool Culture and Ova and Parasites (O&P):**  
+- **Findings:** Negative for bacteria, parasites, and ova.  
+- **Impression:** No evidence of bacterial or parasitic infection.  
+
+**Stool Culture for Clostridioides difficile (C. diff):**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of C. diff infection.  
+
+**Stool Culture for Rotavirus, Norovirus, and Adenovirus:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of viral gastroenteritis.  
+
+**Stool Culture for Salmonella, Shigella, and E. coli:**  
+- **Findings:** Negative.  
+
+- **Impression:** No evidence of bacterial gastroenteritis.  
+
+**Stool Culture for Giardia lamblia:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Giardia infection.  
+
+**Stool Culture  for Cryptosporidium:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Cryptosporidium infection.  
+
+**Stool Culture for Cyclospora:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Cyclospora infection.  
+
+**Stool Culture for Campylobacter:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Campylobacter infection.  
+
+**Stool Culture for Salmonella enteritidis:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Salmonella enteritidis infection.  
+
+**Stool Culture for Escherichia coli O157:H7:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of E. coli O157:H7 infection.  
+
+**Stool Culture for Vibrio cholerae:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Vibrio cholerae infection.  
+
+**Stool Culture for Yersinia enterocolitica:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Yersinia infection.  
+
+**Stool Culture for Listeria monocytogenes:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Listeria infection.  
+
+**Stool Culture for Helicobacter pylori:**  
+- **Findings:** Negative.  
+
+- **Impression:** No evidence of Helicobacter pylori infection.  
+
+**Stool Culture for Aeromonas spp.:**  
+-  **Findings:** Negative.  
+- **Impression:** No evidence of Aeromonas infection.  
+
+**Stool Culture for Proteus spp.:**  
+- **Findings:** Negative.      
+- **Impression:** No evidence of Proteus infection.  
+
+**Stool Culture for Pseudomonas aeruginosa:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Pseudomonas infection.  
+
+**Stool Culture for Klebsiella pneumoniae:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Klebsiella infection.  
+
+**Stool Culture for Serratia marcescens:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Serratia infection.  
+
+**Stool Culture for Acinetobacter spp.:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Acinetobacter infection.  
+
+**Stool Culture for  Enterobacter spp.:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Enterobacter infection.  
+
+**Stool Culture for Citrobacter spp.:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Citrobacter infection.  
+
+**Stool Culture for Morganella morganii:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Morganella infection.  
+
+**Stool Culture for Providencia spp.:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Providencia infection.  
+
+**Stool Culture for Sphingomonas spp.:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Sphingomonas infection.  
+
+**Stool Culture for Burkholderia spp.:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Burkholderia infection.  
+
+**Stool Culture for Ralstonia spp.:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of Ralstonia infection.  
+
+**Stool Culture for Mycobacterium tuberculosis:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of tuberculosis infection.  
+
+**Stool Culture for Mycobacterium avium complex (MAC):**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of MAC infection.  
+
+**Stool Culture for Mycobacterium kansasii:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of M. kansasii infection.  
+
+
+**Stool Culture for Mycobacterium marinum:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of M. marinum infection.  
+
+**Stool Culture for Mycobacterium bovis:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of M. bovis infection.  
+
+**Stool Culture for Mycobacterium fortuitum:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of M. fortuitum infection.  
+
+
+**Stool Culture for Mycobacterium chelonae:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of M. chelonae infection.  
+
+   **Stool Culture for Mycobacterium abscessus:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of M. abscessus infection.  
+
+**Stool Culture for Mycobacterium gordonae:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of M. gordonae infection.  
+
+**Stool Culture for Mycobacterium xenomi:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of M. xenomi infection.  
+
+**Stool Culture for Mycobacterium tuberculosis complex (TB):**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of tuberculosis.  
+
+**Stool Culture for Mycobacterium leprae:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of leprosy.  
+
+**Stool Culture for Mycobacterium leprae and Mycobacterium tuberculosis:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of leprosy or tuberculosis.  
+
+**Stool Culture for Mycobacterium species:**  
+- **Findings:** Negative.  
+- **Impression:** No evidence of any Mycobacterium species.  
+
+---   
+
+### **24. Nursing Notes**
+
+**Nursing Note (Upon Admission):**  
+- Patient was alert, oriented x3, and in no acute distress.  
+- Vital signs were within normal range except for tachycardia and hypotension.  
+- Patient was noted to be mildly dehydrated with dry mucous membranes and decreased urine output.  
+- Patient was admitted for further assessment and treatment of gastroenteritis.  
+- Patient was started on IV fluids (Normal Saline 500 mL bolus) and monitored for response.  
+- Patient was placed on NPO status for 2 hours for initial hydration.  
+- Patient’s abdomen was noted to be tender in the left lower quadrant, but no rebound or guarding.  
+- Patient was assessed for signs of dehydration, and a plan for rehydration was initiated.  
+- Patient was encouraged to increase fluid intake and avoid dairy and spicy foods.  
+
+**Nursing Note (Hour 2):**  
+- Patient remained alert and oriented.  
+- Vital signs were stable.  
+- Patient was tolerating oral intake and was able to take small sips of water.  
+- Patient’s urine output increased, and hydration status improved.      
+- Patient was started on oral rehydration solution and loperamide for diarrhea.  
+- Patient was instructed on the importance of hydration and dietary restrictions.  
+- Patient was monitored for signs of worsening symptoms.  
+
+**Nursing Note (Hour 4):**  
+- Patient’s symptoms improved significantly.  
+- Patient was able to tolerate oral intake without nausea.  
+- Patient’s abdominal pain decreased.  
+- Patient was encouraged to continue hydration and avoid certain foods.  
+- Patient was advised to monitor for signs of dehydration and return to the ED if symptoms worsened.  
+- Patient was prepared for discharge with follow-up instructions and outpatient care.  
+
+**Nursing Note (Hour 6):**  
+- Patient was discharged home with a clear understanding of discharge instructions.  
+- Patient’s condition was stable.  
+- Patient was advised not to drive for 24 hours due to potential dizziness.  
+- Patient’s spouse was present and understood the instructions.  
+- Patient was provided with a discharge summary and follow-up care plan.  
+- Patient was advised to return to the ED if symptoms worsened or new symptoms developed.  
+
+---
+
+### **25. Consults and Referrals**
+
+**Internal Medicine Consult (Dr. Emily Carter, MD):**  
+- **Reason for Consult:** To assess the patient’s medical stability and provide outpatient care.  
+- **Findings:** Patient was stable and did not require further inpatient care.  
+- **Recommendations:** Continue all prescribed medications, monitor for signs of dehydration, and follow up with primary care.  
+
+**Dietician Consult (Not Required):**  
+- **Reason for Consult:** Not required at this time.  
+- **Findings:** No dietary concerns identified.  
+- **Recommendations:** No dietary consult needed.  
+
+**Pharmacist Consult (Not Required):**  
+- **Reason for Consult:** No pharmacological concerns identified.  
+- **Findings:** All medications were reviewed and found to be appropriate.  
+- **Recommendations:** No changes to medication regimen.  
+
+**Psychiatry Consult (Not Required):**  
+- **Reason for Consult:** No psychiatric concerns identified.  
+- **Findings:** Patient was not experiencing anxiety, depression, or other psychiatric symptoms.  
+
+- **Recommendations:** No psychiatric consult needed.  
+
+**Social Work Consult (Not Required):**  
+- **Reason for Consult:** No social concerns identified.  
+- **Findings:** Patient had a stable home environment and support system.  
+- **Recommendations:** No social work consult needed.  
+
+**Physical Therapy Consult (Not Required):**  
+- **Reason for Consult:** No musculoskeletal concerns identified.  
+- **Findings:** Patient had no signs of musculoskeletal injury or pain.  
+- **Recommendations:** No physical therapy consult needed.  
+
+**Occupational Therapy Consult (Not Required):**  
+- **Reason for Consult:** No functional impairments identified.  
+- **Findings:** Patient was able to perform activities of daily living independently.  
+- **Recommendations:** No occupational therapy consult needed.  
+
+**Speech Therapy Consult (Not Required):**  
+- **Reason for Consult:** No speech or swallowing concerns identified.  
+- **Findings:** Patient was able to swallow without difficulty.  
+- **Recommendations:** No speech therapy consult needed.  
+
+---
+
+### **26. Follow-Up Instructions and Outpatient Care Plan**
+
+**Primary Care Follow-Up:**  
+- **Date:** April 10, 2025  
+- **Purpose:** To assess the patient’s progress, review laboratory results, and ensure proper hydration and diabetes management.  
+- **Instructions:** Patient is to return to the primary care physician for a follow-up visit.  
+
+**Renal Function Monitoring:**  
+- **Repeat Creatinine and BUN:** April 12, 2025  
+- **Purpose:** To ensure no worsening of renal function due to dehydration or other factors.  
+
+**Diabetes Monitoring:**  
+- **Blood Glucose Monitoring:** Continue to monitor blood glucose levels regularly, especially during episodes of nausea or vomiting.  
+- **Insulin Adjustment:** Adjust insulin dose as needed based on blood glucose readings.  
+
+**Hydration Assessment:**  
+- **Repeat Electrolyte Panel:** April 14, 2025  
+- **Purpose:** To ensure proper rehydration and electrolyte balance.  
+
+**Gastroenteritis Follow-Up:**  
+- **Follow-Up with Gastroenterologist (if necessary):** Not required at this time.  
+- **Instructions:** Patient is to monitor for signs of worsening symptoms and return to the ED if needed.  
+
+
+**Dietary Follow-Up:**  
+- **

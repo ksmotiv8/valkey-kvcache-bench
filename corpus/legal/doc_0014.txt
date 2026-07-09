@@ -1,0 +1,437 @@
+  **Whistleblower Protection Policy**  
+**Policy Document**  
+**Title:** Whistleblower Protection Policy  
+**Jurisdiction:** Corporate internal policy  
+**Parties:** GlobalTech Solutions Inc.  
+**Document Number:** WBP-0015  
+**Effective Date:** April 1, 2025  
+**Revised Date:** April 1, 2025  
+**Document Length:** Approximately 10,000 tokens  
+
+---
+
+**PREAMBLE**  
+This document is issued by GlobalTech Solutions Inc. (hereinafter referred to as “GlobalTech” or the “Company”) to establish a comprehensive framework for the internal reporting of unethical, illegal, or otherwise inappropriate practices within the organization. The purpose of this policy is to ensure transparency, accountability, and ethical conduct throughout all levels of the organization, while simultaneously providing robust protections for individuals who report such activities in good faith. This policy is designed to align with the Company’s core values, which include integrity, accountability, and the promotion of a safe and ethical workplace.
+
+In the course of their employment, all employees, contractors, interns, and any other individuals who are engaged by GlobalTech in any capacity (collectively referred to as “Employees”) may encounter situations involving potential violations of the Company’s code of conduct, applicable laws, or ethical standards. These situations may include, but are not limited to, financial fraud, corruption, discrimination, harassment, unsafe working conditions, environmental violations, and breaches of data privacy. The Company recognizes the importance of addressing such issues promptly and effectively, and thus commits to providing a secure and confidential mechanism through which such concerns may be reported and investigated.
+
+This policy is intended to serve as both a guide and a binding obligation for all Employees. It outlines the procedures for reporting, the protections afforded to whistleblowers, the consequences for retaliation, and the expectations for all parties involved in the reporting and investigation process. By adopting this policy, GlobalTech reaffirms its commitment to upholding the highest standards of ethical behavior and accountability within its organization.
+
+--- 
+
+**ARTICLE I – DEFINITIONS AND SCOPE**  
+
+**Section 1.1 – Definitions**  
+For the purposes of this policy, the following terms shall have the meanings assigned below:  
+
+(a) **Whistleblower** – Any current or former Employee, contractor, intern, or other individual who has reported or disclosed to GlobalTech, or to any designated reporting authority within the Company, any activity that the whistleblower reasonably believes to be a violation of the Company’s code of conduct, applicable laws, or ethical standards.  
+
+(b) **Reporting Channel** – The formal, confidential, and secure method or platform designated by GlobalTech for the receipt of whistleblower reports, including but not limited to the internal reporting portal, direct communication with the Ethics Compliance Officer, or submission to the designated legal or human resources department.  
+
+(c) **Protected Activity** – Any disclosure, report, or communication made by a whistleblower in good faith, which relates to a violation of the Company’s code of conduct, applicable laws, or ethical standards, and which is made in a manner that is consistent with the Company’s internal reporting procedures.  
+
+(d) **Retaliation** – Any adverse action taken against a whistleblower by the Company, an employee, or any other individual, including but not limited to demotion, harassment, termination, or any other form of discrimination, in response to the whistleblower’s protected activity.  
+
+(e) **Protected Individual** – A person who is, or has been, a whistleblower, or who is associated with a whistleblower in any manner, including but not limited to family members, colleagues, or any other individual who may be impacted by the whistleblower’s disclosure.  
+
+(f) **Investigating Authority** – The designated department or individual within GlobalTech responsible for conducting investigations into whistleblower reports, including but not limited to the Ethics Compliance Office, the Legal Department, or an independent third-party investigator, as appropriate.  
+
+(g) **Code of Conduct** – The internal policy document issued by GlobalTech which outlines the standards of behavior expected of all Employees, including but not limited to ethical conduct, compliance with laws, and the prevention of misconduct.  
+
+(h) **Confidentiality** – The obligation of all parties involved in the whistleblower reporting process to maintain the secrecy of the whistleblower’s identity, the nature of the report, and any related investigation, unless disclosure is required by law or is necessary to protect the public interest.  
+
+(i) **Good Faith** – The requirement that a whistleblower must have a reasonable belief, based on the information available at the time of the disclosure, that the activity in question constitutes a violation of the Company’s code of conduct, applicable laws, or ethical standards.  
+
+(j) **Non-Retaliation** – The obligation of GlobalTech and all Employees to refrain from any form of retaliation against whistleblowers for engaging in protected activity, and to ensure that whistleblowers are not subject to any adverse employment action as a result of their disclosures.  
+
+(k) **Internal Reporting Procedure** – The structured process through which whistleblower reports are received, reviewed, and acted upon, including but not limited to the submission of the report, the initiation of an investigation, and the determination of whether any violation has occurred.  
+
+(l) **Protected Reporting** – The act of reporting a potential violation of the Company’s code of conduct, applicable laws, or ethical standards in a manner that is consistent with the Company’s internal reporting procedures, and that does not involve the disclosure of confidential information or privileged communications.  
+
+(m) **Retaliation Prevention Measures** – The measures implemented by GlobalTech to ensure that whistleblowers are protected from retaliation, including but not limited to the establishment of clear internal reporting mechanisms, the appointment of a designated whistleblower protection officer, and the enforcement of non-retaliation policies.  
+
+(n) **Compliance Officer** – The individual or department within GlobalTech responsible for overseeing the implementation of the whistleblower protection policy, ensuring that all reports are investigated thoroughly, and that all whistleblowers are afforded the protections outlined in this policy.  
+
+(o) **Investigation** – The process of examining and evaluating a whistleblower report to determine whether a violation of the Company’s code of conduct, applicable laws, or ethical standards has occurred, and to assess the credibility and validity of the report.  
+
+(p) **Confidential Reporting** – The requirement that all whistleblower reports be submitted in a manner that ensures the anonymity and confidentiality of the whistleblower, unless the whistleblower chooses to disclose their identity.  
+
+(q) **Internal Policy** – Any policy, guideline, or standard issued by GlobalTech that governs the conduct of Employees, including but not limited to the Code of Conduct, the Anti-Discrimination Policy, the Data Privacy Policy, and the Corporate Compliance Policy.  
+
+(r) **Applicable Laws** – The laws and regulations that apply to the operations of GlobalTech, including but not limited to labor laws, anti-corruption statutes, environmental regulations, data protection laws, and other relevant legal frameworks.  
+
+(s) **Ethical Standards** – The principles and values that guide the conduct of GlobalTech and its Employees, including but not limited to integrity, honesty, transparency, accountability, and the promotion of a safe and ethical work environment.  
+
+(t) **Confidential Information** – Any information that is not intended for public disclosure, including but not limited to trade secrets, confidential business strategies, financial data, and other proprietary information owned or controlled by GlobalTech.  
+
+(u) **Privileged Communications** – Communications that are protected by attorney-client privilege, work product doctrine, or other legal protections, and which may not be disclosed without the consent of the party holding the privilege or as required by law.  
+
+(v) **Designated Reporting Authority** – The specific person or department within GlobalTech to which whistleblower reports must be submitted, as outlined in this policy, including but not limited to the Ethics Compliance Officer, the Legal Department, or the Human Resources Department.  
+
+(w) **Protected Disclosure** – Any disclosure of information made by a whistleblower that is not intended to be disclosed to the public, and that is made in the course of the whistleblower’s duties or responsibilities, and that relates to a violation of the Company’s code of conduct, applicable laws, or ethical standards.  
+
+(x) **Whistleblower Reporting Portal** – The online platform or digital system provided by GlobalTech for the submission of whistleblower reports, which includes features such as secure login, encrypted communication, and anonymous reporting options.  
+
+(y) **Investigation Officer** – The individual or department within GlobalTech responsible for conducting the investigation into a whistleblower report, and for determining the validity and credibility of the information provided.  
+
+(z) **Investigation Report** – The formal document prepared by the Investigation Officer detailing the findings of the investigation, including the conclusions reached, the evidence gathered, and any recommendations for action.  
+
+(aa) **Investigation Closure** – The conclusion of the investigation process, which may include the determination that no violation occurred, that a violation occurred and appropriate action was taken, or that further investigation is required.  
+
+(ab) **Investigation Duration** – The timeframe within which the investigation must be completed, which may vary depending on the complexity of the report and the nature of the allegations, but shall not exceed a reasonable period of time as determined by the Investigation Officer.  
+
+(ac) **Investigation Procedures** – The steps and protocols that must be followed during the investigation process, including but not limited to the collection of evidence, the interview of witnesses, and the documentation of findings.  
+
+(ad) **Investigation Oversight** – The review and supervision of the investigation process by a higher authority within GlobalTech, including but not limited to the Compliance Officer or the Executive Leadership Team.  
+
+(ae) **Investigation Conclusion** – The final determination made by the Investigation Officer regarding the validity of the whistleblower report, the nature of the alleged violation, and the appropriate response, if any.  
+
+(af) **Investigation Action** – The steps taken by GlobalTech in response to the findings of the investigation, which may include disciplinary action, policy changes, legal action, or other appropriate measures.  
+
+(ag) **Investigation Record** – The documentation of all aspects of the investigation, including but not limited to the whistleblower report, the investigation plan, the interview notes, the evidence collected, and the final investigation report.  
+
+(ah) **Investigation Protocol** – The set of procedures and guidelines that must be followed during the investigation process, which includes but is not limited to the investigation timeline, the investigation scope, the investigation methods, and the investigation outcome.  
+
+(ai) **Investigation Oversight Authority** – The individual or department within GlobalTech responsible for reviewing and approving the investigation process and its outcomes, including but not limited to the Compliance Officer, the Ethics Committee, or the Executive Leadership Team.  
+
+(aj) **Investigation Compliance** – The requirement that all investigations conducted by GlobalTech must be carried out in accordance with the procedures outlined in this policy, including but not limited to the protection of the whistleblower’s rights, the confidentiality of the investigation, and the integrity of the process.  
+
+(ak) **Investigation Integrity** – The commitment of GlobalTech to ensuring that all investigations are conducted with the highest degree of professionalism, impartiality, and fairness, and that the rights of all parties involved are respected.  
+
+(al) **Investigation Confidentiality** – The obligation of all parties involved in the investigation to maintain the confidentiality of the whistleblower’s identity, the nature of the report, and any related evidence, unless disclosure is required by law or is necessary to protect the public interest.  
+
+(am) **Investigation Transparency** – The requirement that all investigations be conducted in a manner that is transparent and accountable, with appropriate documentation and oversight to ensure that the process is fair and equitable.  
+
+(an) **Investigation Accountability** – The obligation of GlobalTech and its employees to ensure that all investigations are conducted in a manner that is accountable to the Company’s values, the law, and the public interest.  
+
+(ao) **Investigation Fairness** – The requirement that all investigations be conducted with fairness and impartiality, without bias or prejudice, and in accordance with the principles of justice and due process.  
+
+(ap) **Investigation Ethics** – The obligation of all individuals involved in the investigation process to uphold the highest ethical standards, including but not limited to integrity, honesty, and respect for the rights of all parties involved.  
+
+(aq) **Investigation Documentation** – The requirement that all aspects of the investigation be thoroughly documented, including but not limited to the whistleblower report, the investigation plan, the interview notes, the evidence collected, and the final investigation report.  
+
+(ar) **Investigation Summary** – A concise overview of the investigation, including the key findings, the conclusions reached, and the actions taken as a result of the investigation.  
+
+(as) **Investigation Timeline** – The schedule of events and milestones that define the duration and progression of the investigation, including but not limited to the initiation of the investigation, the collection of evidence, the interview of witnesses, and the preparation of the investigation report.  
+
+(at) **Investigation Methodology** – The specific techniques and procedures used to conduct the investigation, including but not limited to document review, witness interviews, forensic analysis, and other investigative methods deemed necessary to determine the validity of the report.  
+
+(au) **Investigation Scope** – The boundaries of the investigation, including but not limited to the specific allegations being investigated, the individuals and entities involved, and the relevant time periods and locations.  
+
+(av) **Investigation Objectives** – The goals of the investigation, which may include but are not limited to determining the validity of the whistleblower report, assessing the extent of the alleged violation, and identifying any individuals or entities responsible for the alleged misconduct.  
+
+(aw) **Investigation Standards** – The criteria and benchmarks used to evaluate the findings of the investigation, including but not limited to the reliability of the evidence, the credibility of the whistleblower, and the applicability of the law or ethical standards to the situation.  
+
+(ax) **Investigation Outcomes** – The results of the investigation, including but not limited to the determination of whether a violation occurred, the nature of the violation, and the appropriate response, if any.  
+
+(ay) **Investigation Response** – The actions taken by GlobalTech in response to the findings of the investigation, which may include but are not limited to disciplinary measures, policy revisions, legal action, or other appropriate interventions.  
+
+(az) **Investigation Review** – The process of reviewing and evaluating the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that the findings and conclusions are accurate and reliable.  
+
+(ba) **Investigation Appeals** – The right of any individual involved in the investigation, including but not limited to the whistleblower, the subject of the investigation, or any other affected party, to appeal the findings or conclusions of the investigation if they believe that the process was unfair or the outcome was unjust.  
+
+(bb) **Investigation Oversight Committee** – The designated body within GlobalTech responsible for overseeing the investigation process, reviewing the investigation findings, and ensuring that the investigation was conducted in accordance with the Company’s policies and procedures.  
+
+(bc) **Investigation Transparency Report** – A document prepared by the Investigation Oversight Committee that summarizes the investigation process, the findings, and the actions taken, and that is made available to the relevant stakeholders within the Company.  
+
+(bd) **Investigation Communication Protocol** – The set of procedures and guidelines that must be followed when communicating the results of the investigation to all relevant parties, including but not limited to the whistleblower, the subject of the investigation, and any other affected individuals.  
+
+(be) **Investigation Record Retention** – The obligation of GlobalTech to maintain all records related to the investigation for a period of at least seven years, unless otherwise required by law, and to ensure that these records are accessible to authorized personnel.  
+
+(bf) **Investigation Data Protection** – The requirement that all data collected and processed during the investigation be handled in accordance with the Company’s data privacy policies, including but not limited to the protection of personal information and the prevention of unauthorized access.  
+
+(bg) **Investigation Security Measures** – The protocols and procedures implemented by GlobalTech to ensure the security and integrity of the investigation process, including but not limited to the use of secure communication channels, encrypted data storage, and access controls.  
+
+(bh) **Investigation Compliance Officer** – The individual or department within GlobalTech responsible for ensuring that all investigations are conducted in accordance with the procedures outlined in this policy, including but not limited to the protection of the whistleblower’s rights, the confidentiality of the investigation, and the integrity of the process.  
+
+(bi) **Investigation Oversight Officer** – The individual or department within GlobalTech responsible for reviewing and approving the investigation process and its outcomes, including but not limited to the Compliance Officer, the Ethics Committee, or the Executive Leadership Team.  
+
+(bj) **Investigation Ethics Officer** – The individual or department within GlobalTech responsible for ensuring that all individuals involved in the investigation process uphold the highest ethical standards, including but not limited to integrity, honesty, and respect for the rights of all parties involved.  
+
+(bk) **Investigation Review Officer** – The individual or department within GlobalTech responsible for reviewing the investigation process to ensure that it was conducted in accordance with the procedures outlined in this policy, and that the findings and conclusions are accurate and reliable.  
+
+(bl) **Investigation Appeals Officer** – The individual or department within GlobalTech responsible for handling appeals related to the investigation, including but not limited to the whistleblower, the subject of the investigation, and any other affected parties.  
+
+(bm) **Investigation Transparency Officer** – The individual or department within GlobalTech responsible for ensuring that all aspects of the investigation are conducted with transparency and accountability, including but not limited to the disclosure of relevant findings, the documentation of the process, and the communication of the results to all relevant stakeholders.  
+
+(bn) **Investigation Communication Officer** – The individual or department within GlobalTech responsible for managing the communication of the investigation results to all relevant parties, including but not limited to the whistleblower, the subject of the investigation, and any other affected individuals.  
+
+(bo) **Investigation Record Officer** – The individual or department within GlobalTech responsible for maintaining and managing all records related to the investigation, including but not limited to the whistleblower report, the investigation plan, the interview notes, the evidence collected, and the final investigation report.  
+
+(bp) **Investigation Data Officer** – The individual or department within GlobalTech responsible for ensuring that all data collected and processed during the investigation is handled in accordance with the Company’s data privacy policies, including but not limited to the protection of personal information and the prevention of unauthorized access.  
+
+(bq) **Investigation Security Officer** – The individual or department within GlobalTech responsible for implementing and maintaining the security measures required to protect the investigation process and all data related to the investigation.  
+
+(br) **Investigation Compliance Review** – The process of reviewing and evaluating the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that the findings and conclusions are accurate and reliable.  
+
+(bs) **Investigation Oversight Review** – The process of reviewing and evaluating the investigation process and its outcomes to ensure that it was conducted in accordance with the Company’s policies and procedures, and that the investigation was fair and impartial.  
+
+(bt) **Investigation Transparency Review** – The process of reviewing the investigation process to ensure that it was conducted with transparency and accountability, including but not limited to the disclosure of relevant findings, the documentation of the process, and the communication of the results to all relevant stakeholders.  
+
+(bu) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties, including but not limited to the whistleblower, the subject of the investigation, and any other affected individuals, to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(bv) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(bw) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies, and that all personal information was protected and not misused.  
+
+(bx) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(by) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(bz) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(ca) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(cb) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(cc) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(cd) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+
+(ce) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(cf) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(cg) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(ch) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(ci) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(cj) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(ck) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(cl) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(cm) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(cn) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(co) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(cp) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(cq) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(cr) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(cs) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(ct) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(cu) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(cv) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(cw) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(cx) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+
+(cy) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(cz) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(da) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(db) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(dc) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(dd) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(de) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(df) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(dg) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(dh) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(di) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(dj) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(dk) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(dl) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(dm) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(dn) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(do) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(dp) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+
+(dq) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(dr) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(ds) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(dt) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(du) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(dv) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+ (dw) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(dx) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(dy) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(dz) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(ea) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(eb) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(ec) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(ed) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(ee) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(ef) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(eg) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(eh) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(ei) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(ej) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+
+(ek) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(el) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(em) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(en) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(eo) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(ep) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(eq) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(er) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(es) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(et) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(eu) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(ev) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(ew) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(ex) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(ey) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(ez) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(fa) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(fb) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(fc) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(fd) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(fe) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(ff) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(fg) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(fh) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(fi) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(fj) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(fk) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(fl) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(fm) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(fn) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(fo) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(fp) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(fq) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(fr) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(fs) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(ft) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(fu) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(fv) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(fw) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(fx) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(fy) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(fz) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(ga) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(gb) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(gc) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(gd) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(ge) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(gf) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(gh) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(gi) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(gj) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(gk) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(gl) **Investigation Transparency Review** – The process of reviewing the transparency of the investigation to ensure that all relevant information was disclosed to the appropriate stakeholders and that the investigation was conducted in a manner that was open and accountable.  
+
+(gm) **Investigation Communication Review** – The process of reviewing the communication of the investigation results to all relevant parties to ensure that it was conducted in a manner that was clear, accurate, and respectful.  
+
+(gn) **Investigation Record Review** – The process of reviewing the records related to the investigation to ensure that they were properly maintained, documented, and accessible to authorized personnel.  
+
+(go) **Investigation Data Review** – The process of reviewing the data collected and processed during the investigation to ensure that it was handled in accordance with the Company’s data privacy policies and that all personal information was protected and not misused.  
+
+(gp) **Investigation Security Review** – The process of reviewing the security measures implemented during the investigation to ensure that the investigation process and all related data were protected from unauthorized access, misuse, or compromise.  
+
+(gq) **Investigation Ethics Review** – The process of reviewing the ethical conduct of all individuals involved in the investigation to ensure that they upheld the highest standards of integrity, honesty, and respect for the rights of all parties involved.  
+
+(gr) **Investigation Accountability Review** – The process of reviewing the accountability of all individuals and departments involved in the investigation to ensure that they were responsible for their actions and that the investigation was conducted in a manner that aligned with the Company’s values and policies.  
+
+(gs) **Investigation Fairness Review** – The process of reviewing the fairness of the investigation to ensure that it was conducted without bias or prejudice, and that the rights of all parties involved were respected.  
+
+(gt) **Investigation Integrity Review** – The process of reviewing the integrity of the investigation to ensure that it was conducted with professionalism, impartiality, and fairness, and that the findings and conclusions were accurate and reliable.  
+
+(gu) **Investigation Compliance Review** – The process of reviewing the investigation to ensure that it was conducted in accordance with the procedures outlined in this policy, and that all applicable laws and ethical standards were followed.  
+
+(gv) **Investigation Oversight Review** – The process of reviewing the oversight of the investigation to ensure that it was conducted by the appropriate authorities and that the investigation was monitored and reviewed for compliance with the Company’s policies and procedures.  
+
+(gw) **Investigation Transparency Review** – The process

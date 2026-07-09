@@ -1,0 +1,891 @@
+**Preoperative Note**  
+**Patient Name:** JAMES BAKER  
+**Medical Record Number (MRN):** 123456789  
+**Date of Visit:** April 5, 2025  
+**Time of Visit:** 08:30 AM     
+**Facility:** St. Mary’s Regional Medical Center  
+**Department:** Surgical Services  
+**Attending Physician:** Dr. LISA CHEN, MD  
+**Primary Care Provider:** Dr. RICHARD DAVIS, MD  
+**Surgical Service:** General Surgery  
+**Procedure Scheduled:** Laparoscopic Cholecystectomy  
+
+**Estimated Duration:** 90 minutes  
+**Scheduled Date:** April 7, 2025  
+**Scheduled Time:** 09:00 AM  
+**Location:** Operating Room 3  
+
+---
+
+### **Chief Complaint (CC):**  
+Patient presents with a 6-month history of right upper quadrant (RUQ) pain, intermittent, colicky, and radiating to the right shoulder. The pain is exacerbated by fatty meals and relieved by antacids. Patient reports occasional nausea and bloating. No history of jaundice, fever, or weight loss. No prior abdominal surgery. No prior history of gallstones or cholecystitis.
+
+---
+
+### **History of Present Illness (HPI):**  
+The patient is a 52-year-old male with a 6-month history of RUQ discomfort. The pain is described as intermittent, colicky, and located in the epigastrium extending to the right hypochondrium. The pain is associated with fatty meals and relieved by antacids. The patient reports occasional nausea and bloating, with no vomiting or diarrhea. The pain has not been associated with fever, chills, or changes in bowel habits. The patient denies any history of jaundice, dark urine, or clay-colored stools. No recent trauma or abdominal surgery. Patient denies any history of pancreatitis or biliary colic. No history of gallstones or cholecystitis. Patient reports no recent changes in appetite or weight. No history of alcohol use or smoking. No current use of medications except for occasional over-the-counter (OTC) antacids (e.g., omeprazole 20 mg once daily as needed).
+
+---
+
+### **Past Medical History (PMH):**  
+- **Hypertension** (Stage 1) – controlled with **amlodipine 5 mg daily**  
+- **Type 2 Diabetes Mellitus** – managed with **metformin 500 mg twice daily**  
+- **Hyperlipidemia** – managed with **atorvastatin 40 mg daily**  
+- **Obesity** – BMI 32.1  
+- **Asthma** – mild intermittent, treated with **albuterol inhaler (2 puffs as needed)**  
+- **Gastritis** – managed with **omeprazole 20 mg daily**  
+- **Tonsillectomy** at age 12  
+- **Appendectomy** at age 20 (no complications)  
+
+---
+
+### **Allergies (ALG):**  
+- **Penicillin** – mild rash  
+- **Sulfa** – anaphylactic reaction  
+- **Latex** – no known  allergy  
+
+---
+
+### **Family History (FH):**  
+- **Father:** Died of **prostate cancer** at age 72  
+- **Mother:** Alive, age 75, with **hypertension**, **diabetes**, and **hyperlipidemia**  
+- **Siblings:**  
+  - **Brother:** Age 48, **type 2 diabetes**, **hypertension**, **obesity**  
+  - **Sister:** Age 50, **breast cancer** at age 45, **type 2 diabetes**  
+- **No family history of cardiovascular disease or early-onset malignancies**  
+
+---
+
+### **Social History (SH):**  
+- **Occupation:** Retired warehouse worker  
+- **Smoking:** **Former smoker** – 20 pack-years, quit 5 years ago  
+- **Alcohol:** **Non-alcoholic**  
+- **Marital Status:** **Married** to spouse for 25 years  
+- **Living Situation:** **Married, living in a single-family home with spouse**  
+- **Occupational Exposure:** **No known occupational hazards**  
+- **Driving:** **No known issues**  
+- **Exercise:** **Minimal** – walks 3-5 times per week for 15-20 minutes  
+- **Sexual History:** **No known risks**  
+- **Travel History:** **No recent international travel**  
+- **Occupational Therapy:** **Not applicable**  
+
+---
+
+### **Medications (Rx):**  
+- **Amlodipine 5 mg daily** – for hypertension  
+- **Metformin 500 mg twice daily** – for type 2 diabetes mellitus  
+- **Atorvastatin 40 mg daily** – for hyperlipidemia  
+- **Albuterol inhaler (2 puffs as needed)** – for asthma  
+- **Omeprazole 20 mg daily** – for gastritis  
+- **Lisinopril 10 mg daily** – for hypertension (added 2 weeks prior)  
+- **Aspirin 81 mg daily** – for cardiovascular protection  
+
+---
+
+### **Allergies (ALG):**  
+- **Penicillin** – mild rash  
+  - **Sulfa** – anaphylactic reaction  
+- **Latex** – no known allergy  
+
+---
+
+### **Immunizations (IMM):**  
+- **Tdap** – updated within the last 5 years  
+- **Influenza** – updated within the last year  
+- **MMR** – up to date  
+- **Hepatitis B** – seropositive (HBsAg negative, HBcAb positive)  
+- **Hepatitis C** – negative  
+- **HIV** – negative  
+
+- **Varicella** – up to date  
+- **Pneumococcal vaccine** – up to date  
+
+---
+
+### **Past Surgical History (PSH):**  
+- **Appendectomy** – age 20, no complications  
+- **Tonsillectomy** – age 12, no complications  
+- **Tonsillectomy** – age 12, no complications  
+- **No other surgeries**  
+
+---
+
+### **Review of Systems (ROS):**  
+**General:** No fever, chills, or malaise. Patient is alert, oriented x3, no acute distress. Appetite is adequate, no weight loss.  
+**Cardiovascular:** No chest pain, palpitations, or dyspnea. Blood pressure 138/84 mmHg, pulse 78 bpm, regular. No peripheral edema.  
+**Respiratory:** No cough, sputum, or wheezing. Breath sounds clear bilaterally. No accessory muscle use.  
+**Gastrointestinal:** RUQ pain as above. No nausea, vomiting, or diarrhea. No jaundice.  
+**Genitourinary:** No hematuria, dysuria, or flank pain.  
+**Neurological:** No headache, dizziness, or focal deficits.  
+**Musculoskeletal:** No joint pain or swelling.  
+**Skin:** No rashes, lesions, or trauma.  
+**Psychiatric:** No depression, anxiety, or suicidal ideation.  
+**Endocrine:** No polyuria, polydipsia, or weight changes.  
+**Hematologic:** No bruising or petechiae.  
+**Hearing/Vision:** No hearing loss or visual changes.  
+**Other:** No recent trauma, falls, or accidents.  
+
+---
+
+### **Physical Examination (PE):**   
+**Vital Signs (VS):**  
+- **Temperature (T):** 98.6°F (37.0°C)  
+- **Pulse (P):** 78 bpm  
+- **Respiratory Rate (R):** 16 breaths/min  
+- **Blood Pressure (BP):** 138/84 mmHg  
+- **O2 Saturation:** 98% on room air  
+- **Weight:** 210 lbs (95.3 kg)  
+- **Height:** 5'10" (178 cm)  
+- **BMI:** 32.1  
+- **Body Mass Index (BMI):** 32.1 (obese)  
+- **Body Surface Area (BSA):** 2.1 m²  
+
+**General:** Alert, oriented x3, no acute distress.  
+**Head, Eyes, Ears, Nose, Throat (HEENT):**  
+- **Head:** No trauma, no neurological deficits  
+- **Eyes:** PERRL (Pupils Equal,  Round, Reactive to Light)  
+- **Ears:** No discharge, no hearing loss  
+- **Nose:** No discharge or obstruction  
+- **Throat:** Mild erythema, no tonsillar hypertrophy  
+- **Mucous Membranes:** No pallor or jaundice  
+
+**Neck:** Supple, no lymphadenopathy, no thyromegaly.  
+
+**Chest:**  
+- **Lungs:** Clear to auscultation bilaterally  
+- **Heart:** Regular rate and rhythm, no murmurs, no gallops  
+- **Abdomen:**  
+  - **Inspection:** Flat, no distension, no visible scars  
+  - **Auscultation:** Bowel sounds present, normal  
+  - **Palpation:** Mild tenderness in the RUQ, no guarding or rebound tenderness  
+  - **Liver:** Enlarged, palpable 3 cm below the right costal margin  
+  - **Spleen:** Not palpable  
+  - **Masses:** None  
+  - **Bowel Sounds:** Normal  
+  - **Murphy’s Sign:** Positive (pain with palpation during inspiration)  
+- **Genitourinary:** No abnormalities  
+- **Extremities:** No edema, no deformities, no joint swelling  
+- **Skin:** No rashes, no ecchymosis  
+
+**Neurological:**   
+- **Cranial Nerves:** Intact  
+- **Motor Function:** 5/5 in all extremities  
+- **Sensation:** Intact  
+- **Reflexes:** 2+ in all deep tendon reflexes  
+- **Coordination:** Intact  
+- **Gait:** Normal, anteroposterior  
+
+**Psychiatric:** No signs of depression or anxiety.  
+
+---
+
+### **Laboratory Results (Lab):**  
+- **CBC:**  
+  - **WBC:** 11.2 x 10^9/L (Normal: 4.0–11.0 x 10^9/L)  
+  - **Hemoglobin (Hgb):** 14.2 g/dL (Normal: 13.5–17.5 g/dL)  
+  - **Hematocrit (Hct):** 42% (Normal: 38.5–47%)  
+  - **Platelets:** 230 x 10^9/L (Normal: 150–450 x 10^9/L)  
+- **Metabolic Panel:**  
+  - **Na+:** 140 mEq/L (Normal: 135–145 mEq/L)  
+  - **K+:** 4.2 mEq/L (Normal: 3.5–5.0 mEq/L)  
+  - **Cl-:** 102 mEq/L (Normal: 98–106 mEq/L)  
+  - **BUN:** 18 mg/dL (Normal: 7–20 mg/dL)  
+
+  - **Creatinine:** 1.1 mg/dL (Normal: 0.6–1.1 mg/dL)  
+  - **Glucose:** 120 mg/dL (Normal: 70–105 mg/dL)  
+  - **AST:** 28 U/L (Normal: 10–40 U/L)  
+  - **ALT:** 35 U/L (Normal: 25–100 U/L)  
+
+  - **Alkaline Phosphatase (ALP):** 125 U/L (Normal: 40–130 U/L)  
+  - **Total Bilirubin:** 1.2 mg/dL (Normal: 0.3–1.2 mg/dL)  
+  - **Direct Bilirubin:** 0.1 mg/dL (Normal: 0.0–0.3 mg/dL)  
+- **Lipid Panel:**  
+  - **Total Cholesterol:** 210 mg/dL (Normal: <200 mg/dL)    
+  - **LDL-C:** 135 mg/dL (Normal: <100 mg/dL)  
+  - **HDL-C:** 45 mg/dL (Normal: >40 mg/dL)  
+  - **Triglycerides:** 175 mg/dL (Normal: <150 mg/dL)  
+- **Urinalysis:**   
+  - **Protein:** 0.1 g/dL (Normal: <0.1 g/dL)  
+  - **Glucose:** Negative  
+  - **Ketones:** Negative  
+  - **Blood:** Negative  
+
+  - **Leukocytes:** 0–1 HPF (Normal: <5 HPF)  
+  - **Epithelial Cells:** 0–2 HPF (Normal: <5 HPF)  
+
+- **Thyroid Panel:**  
+  - **TSH:** 2.1 μIU/mL (Normal: 0.4–4.0 μIU/mL)  
+  - **Free T4:** 1.0 ng/dL (Normal: 0.8–1.8 ng/dL)  
+- **Liver Function Tests (LFTs):**  
+  - **ALT:** 35 U/L (Normal: 25–100 U/L)  
+     - **AST:** 28 U/L (Normal: 10–40 U/L)  
+  - **ALP:** 125 U/L (Normal: 40–130 U/L)  
+    - **GGT:** 55 U/L (Normal: 5–60 U/L)  
+- **Hepatitis Panel:**  
+  - **Hepatitis A (HAV):** Non-reactive  
+  - **Hepatitis B (HBV):** HBsAg negative, HBcAb positive  
+  - **Hepatitis C (HCV):** Negative  
+- **Hemoglobin A1c (HbA1c):** 7.2% (Normal: <6.5%)  
+- **Electrolytes (Na+, K+, Cl-):** Within normal range  
+- **Coagulation Panel:**  
+  - **PT:** 12.5 sec (Normal: 11–13.5 sec)  
+  - **INR:** 1.1 (Normal: 0.8–1.2)  
+  - **aPTT:** 32 sec (Normal: 25–35 sec)  
+  - **Platelet Count:** 230 x 10^9/L (Normal: 150–450 x 10^9/L)  
+- **Urinalysis:** Normal  
+- **Blood Type:** A+  
+- **Rh Factor:** Positive  
+
+---
+
+### **Imaging (Radiology):**  
+- **Abdominal Ultrasound (AP/RLQ view):**  
+  - **Gallbladder:** Enlarged, with thickened walls. No evidence of gallstones.  
+  - **Biliary Tree:** No evidence of obstruction.  
+  - **Liver:** No focal lesions or masses.  
+  - **Pancreas:** Normal in size, no evidence of pancreatitis.  
+  - **Spleen:** Normal in size.  
+  - **Kidneys:** Normal in size and appearance.  
+- **Chest X-ray (PA and lateral views):**  
+  - **Lungs:** Clear, no infiltrates or consolidation.  
+  - **Cardiomegaly:** No  
+  - **Costophrenic Angles:** Sharp  
+- **CT Abdomen and Pelvis (non-contrast):**  
+  - **Gallbladder:** Enlarged, with thickened wall. No gallstones.  
+   - **Liver:** No focal lesions.  
+  - **Pancreas:** Normal.  
+  - **Biliary Tree:** No dilation.  
+  - **No evidence of intra-abdominal abscess or mass.**  
+
+---
+
+### **Electrocardiogram (ECG):**  
+- **Rhythm:** Sinus rhythm  
+- **Rate:** 78 bpm  
+- **Axis:** Normal  
+- **Intervals:**  
+  - **PR:** 160 ms (Normal: 120–200 ms)  
+  - **QRS:** 110 ms (Normal: 80–120 ms)  
+  - **QTc:** 410 ms (Normal: <450 ms)  
+- **Findings:** No ST-segment elevation, no T-wave abnormalities, no arrhythmias.  
+
+---
+
+### **Diagnostic Tests (DX):**  
+- **Abdominal ultrasound** – performed and interpreted as above  
+- **CT abdomen and pelvis** – performed and interpreted as above  
+- **Liver function tests (LFTs)** – performed and interpreted as above  
+- **Complete blood count (CBC)** – performed and interpreted as above  
+- **Metabolic panel** – performed and interpreted as above  
+- **Hemoglobin A1c (HbA1c)** – performed and interpreted as above  
+- **Thyroid function tests (TSH, Free T4)** – performed and interpreted as above  
+- **Coagulation panel** – performed and interpreted as above  
+- **Urinalysis** – performed and interpreted as above  
+- **Electrocardiogram (ECG)** – performed and interpreted as above  
+
+---
+
+### **Diagnosis (DX):**  
+- **Primary Diagnosis:** **Chronic cholecystitis, non-calculous**  
+- **Secondary Diagnosis:** **Mild hyperlipidemia**      
+- **Secondary Diagnosis:** **Type 2 diabetes mellitus, well-controlled**  
+- **Secondary Diagnosis:** **Hypertension, stage 1**  
+- **Secondary Diagnosis:** **Asthma, mild intermittent**  
+- **Secondary Diagnosis:** **Gastritis, chronic**  
+- **Secondary Diagnosis:** **Obesity, class II (BMI 32.1)**  
+- **Secondary Diagnosis:** **Positive hepatitis B surface antibody (HBcAb), resolved infection**  
+
+---
+
+### **Preoperative Assessment:**  
+Patient is a 52-year-old male with a 6-month history of RUQ pain, intermittent, colicky, and radiating to the right shoulder. The pain is associated with fatty meals, relieved by antacids, and accompanied by occasional nausea and bloating. No history of gallstones or cholecystitis. Physical examination reveals mild RUQ tenderness, positive Murphy’s sign, and an enlarged gallbladder. Imaging studies (ultrasound and CT) confirm a non-calculous gallbladder with thickened walls and no evidence of stones. Laboratory results are within normal limits, with the exception of mild hyperlipidemia and well-controlled diabetes. Patient has a history of hypertension and asthma, both well-controlled. Patient has no known allergies to medications used in surgery.  
+
+Patient is currently on multiple medications including amlodipine, metformin, atorvastatin, albuterol, and omeprazole. Medication review indicates that all current medications are stable, with no known contraindications to surgery. Patient has no known bleeding disorders or coagulation abnormalities. No evidence of active infection. Patient has no history of surgical complications or anesthetic allergies.  
+
+---
+
+### **Preoperative Plan (Preop Plan):**  
+**Surgical Plan:**  
+- **Procedure:** Laparoscopic cholecystectomy  
+- **Anesthetic Type:** General anesthesia with monitored anesthesia care (MAC)  
+- **Anticoagulation:** Patient is on aspirin 81 mg daily; held 72 hours prior to surgery  
+- **Antiplatelet Therapy:** Aspirin is stopped 72 hours before surgery  
+- **Antiemetic:** Ondansetron 4 mg IV preoperatively  
+- **Antibiotics:** Cefazolin 1 g IV preoperatively (based on patient’s risk for surgical site infection)  
+- **Blood Transfusion:** No anticipated need based on preoperative hemoglobin and hematuria findings  
+- **Lung Preparation:** Patient is encouraged to perform pulmonary hygiene and stop smoking 48 hours prior  
+- **Fasting:** NPO (nothing by mouth) for 6 hours prior to surgery  
+
+**Preoperative Preparation:**  
+- **Preoperative Blood Work:** Completed as above  
+- **Preoperative Medication Review:** Completed and approved     
+- **Preoperative Allergy Review:** Completed  
+- **Preoperative Consent:** Patient has been counseled and provided informed consent for laparoscopic cholecystectomy  
+- **Preoperative Risk Assessment:**  
+  - **ASA Class:** 2 (mild systemic disease)  
+  - **Risk of Anesthesia:** Low  
+
+  - **Risk of Surgical Complication:** Low  
+  - **Risk of Thromboembolism:** Low  
+  - **Risk of Wound Infection:** Low (based on preoperative findings)  
+
+**Patient Education:**  
+- Patient has been counseled on the procedure, risks, and expected recovery.  
+- Patient has been informed of the need to fast and to stop all medications except for those prescribed for ongoing conditions (e.g., metformin, beta-blockers, and diuretics).  
+- Patient has been instructed to avoid alcohol and smoking for 48 hours prior to surgery.  
+- Patient has been advised to attend preoperative orientation and to bring a support person.  
+- Patient has been informed of the need to have an empty bladder and bowel prior to surgery.  
+
+**Postoperative Plan:**  
+- **Pain Management:** Multimodal analgesia with acetaminophen, ibuprofen, and as needed (PRN) morphine  
+- **NPO:** Patient will be NPO postoperatively until bowel sounds return and the patient is able to tolerate clear liquids  
+- **Activity:** Patient will be encouraged to ambulate early postoperatively  
+- **Diet:** Clear liquids postoperatively, then advance to soft diet as tolerated  
+- **Wound Care:** Incision to be dressed and monitored for signs of infection  
+- **Follow-up:** Patient to return for postoperative follow-up within 1 week  
+
+---
+
+### **Anesthetic Consultation:**  
+- **Anesthesiologist:** Dr. AMY PARK, MD  
+- **Anesthesia Plan:**  
+  - **Type:** General anesthesia with endotracheal intubation  
+  - **Monitoring:** Continuous ECG, SpO2, BP, and end-tidal CO2  
+  - **Preoperative Medications:** Ondansetron 4 mg IV, cefazolin 1 g IV, and fentanyl 25 mcg IV  
+  - **Anesthetic Agent:** Propofol for induction, sevoflurane for maintenance  
+  - **Postoperative Recovery:** Patient to be monitored in PACU for at least 1 hour  
+- **Anesthetic Risk:** Low; patient has no known allergies to anesthetic agents  
+- **Special Considerations:**  
+  - Patient has mild asthma and is on albuterol as needed; premedication includes a bronchodilator  
+  - Patient has no known coagulopathy or bleeding disorders  
+  - Patient is not on anticoagulants except for aspirin, which is held 72 hours prior  
+
+---
+
+### **Psychosocial Considerations:**  
+- Patient is married, lives with his spouse, and has a strong support system  
+- Patient is retired and has no significant work-related stressors  
+- Patient is cooperative and engaged in the care process  
+- No evidence of depression, anxiety, or suicidal ideation  
+- No history of substance abuse or psychiatric hospitalization  
+
+---
+
+### **Preoperative Checklist:**  
+| **Item** | **Completed** | **Notes** |
+|----------|---------------|-----------|
+| Preoperative consent | ✅ | Patient signed consent form after counseling |
+| Preoperative labs | ✅ | All labs are within normal limits |
+| Preoperative medications | ✅ | Aspirin held 72 hours prior |
+| Preoperative fasting | ✅ | Patient NPO for 6 hours |
+| Preoperative allergy review | ✅ | No known allergies to surgical agents |
+| Preoperative anesthetic review | ✅ | Anesthesia plan confirmed |
+| Preoperative patient education | ✅ | Patient attended orientation and received instructions |
+| Preoperative orientation | ✅ | Patient and spouse attended orientation |
+| Preoperative weight and BMI | ✅ | Weight 210 lbs, BMI 32.1 |
+| Preoperative ECG | ✅ | Normal sinus rhythm |
+| Preoperative imaging | ✅ | Abdominal ultrasound and CT completed |
+| Preoperative risk assessment | ✅ | ASA Class 2, low surgical risk |
+| Preoperative preparation | ✅ | All preparations are complete |
+
+---
+
+### **Surgical Plan (Surgical Plan):**  
+- **Procedure:** Laparoscopic cholecystectomy  
+- **Approach:** Laparoscopic (4-trocar, 10 mm ports)  
+- **Anesthesia:** General with endotracheal intubation  
+- **Anticoagulation:** Cefazolin 1 g IV preoperatively  
+- **Antiemetic:** Ondansetron 4 mg IV preoperatively  
+- **Postoperative Care:** PACU, then inpatient or outpatient depending on recovery  
+- **Expected Duration:** 90 minutes  
+- **Estimated Blood Loss:** <100 mL  
+- **Estimated Blood Transfusion:** No  
+- **Estimated Postoperative Hospital Stay:** 1 day (inpatient) or outpatient (if tolerated)  
+- **Expected Discharge:** Day 1 post-op or outpatient if tolerated  
+
+---
+
+### **Postoperative Discharge Plan (Discharge Plan):**  
+- **Follow-up:** Return for postoperative follow-up within 1 week  
+
+- **Diet:** Clear liquids initially, then advance to soft diet  
+- **Activity:** Encourage early ambulation to prevent deep vein thrombosis (DVT)  
+- **Pain Management:** Acetaminophen and ibuprofen as needed, with PRN morphine if needed  
+- **Wound Care:** Incision to be dressed and monitored for signs of infection  
+- **Medication Resumption:** Metformin, atorvastatin, and albuterol can be resumed the day after surgery  
+- **Diet:** Patient to follow a low-fat diet postoperatively  
+- **Follow-up:** Return for postoperative follow-up within 1 week  
+- **Instructions:** Patient to report any fever, redness, swelling, or drainage at the incision site  
+- **Infection Control:** Patient to maintain good hygiene at the incision site  
+
+---
+
+### **Informed Consent (Consent):**  
+- Patient has been counseled on the risks, benefits, and alternatives to laparoscopic cholecystectomy  
+- Patient has been informed of the risks of anesthesia, including but not limited to allergic reactions, stroke, and heart attack  
+- Patient has been informed of the risks of surgery, including but not limited to bleeding, infection, and injury to adjacent organs  
+- Patient has been informed of the potential for conversion to open cholecystectomy  
+- Patient has been informed of the expected recovery and return to normal activities  
+- Patient has been informed of the need to follow postoperative care instructions  
+- Patient has been informed of the need to attend follow-up visits and to report any concerning symptoms  
+- Patient has been informed of the option to have a second opinion  
+   - Patient has been informed of the need to stop all medications except those prescribed for ongoing conditions  
+- Patient has been informed of the need to fast and to stop smoking and alcohol use prior to surgery  
+- Patient has been informed of the need to bring a support person to the hospital  
+- Patient has been informed of the need to have an empty bladder and bowel prior to surgery  
+- Patient has been informed of the need to  avoid driving for 24 hours postoperatively  
+- Patient has been informed of the need to avoid heavy lifting for 4 weeks postoperatively  
+- Patient has been informed of the need to avoid strenuous exercise for 4 weeks postoperatively  
+- Patient has been informed of the need to follow a low-fat diet postoperatively  
+- Patient has been informed of the need to report any fever, redness, swelling, or drainage at the incision site  
+- Patient has been informed of the need to report any new or worsening symptoms  
+- Patient has been informed of the need to return for postoperative follow-up within 1 week    
+- Patient has been informed of the need to resume normal activities gradually  
+- Patient has been informed of the need to attend postoperative education sessions   
+- Patient has been informed of the need to take all prescribed meds as directed  
+- Patient has been informed of the need to attend postoperative appointments  
+- Patient has been informed of the need to report any concerns to their primary care provider  
+- Patient has been informed of the need to maintain good hygiene at the incision site  
+- Patient has been informed of the need to avoid any activities that may strain the surgical site  
+- Patient has been informed of the need to follow all postoperative care instructions  
+
+---
+
+### **Additional Notes (Additional Notes):**  
+- Patient has been counseled on the importance of following postoperative care instructions to promote healing and reduce the risk of complications  
+- Patient has been instructed to report any concerns to the surgical team immediately  
+- Patient has been advised to avoid alcohol and smoking for 48 hours postoperatively  
+- Patient has been advised to avoid driving for 24 hours postoperatively  
+- Patient has been advised to avoid heavy lifting and strenuous activity for 4 weeks postoperatively  
+
+- Patient has been advised to follow a low-fat diet postoperatively to reduce the risk of gallstones recurrence  
+- Patient has been advised to attend postoperative follow-up within 1 week  
+- Patient has been advised to resume normal activities gradually  
+- Patient has been advised to take all prescribed medications as directed  
+- Patient has been advised to report any signs of infection, fever, or worsening pain  
+- Patient has been advised to maintain good hygiene at the incision site  
+- Patient has been advised to take all prescribed medications as directed  
+- Patient has been advised to attend postoperative education sessions  
+- Patient has been advised to attend postoperative appointments  
+- Patient has been advised to report any concerns to their primary care provider  
+- Patient has been advised to maintain good hygiene at the incision site  
+- Patient has been advised to avoid any activities that may strain the surgical site  
+- Patient has been advised to follow all postoperative care instructions  
+
+---
+
+### **Preoperative Signature:**  
+**Patient Signature:** _____________________________  
+
+**Date:** April 5, 2025  
+
+**Witness Signature:** _____________________________  
+**Date:** April 5, 2025  
+
+**Attending Physician Signature:**  
+**Dr. Lisa Chen, MD**  
+**Date:** April 5, 2025  
+
+**Primary Care Provider Signature:**  
+**Dr. Richard Davis, MD**  
+**Date:** April 5, 2025  
+
+**Anesthesiologist Signature:**  
+**Dr. Amy Park, MD**  
+**Date:** April 5, 2025  
+
+**Surgical Team Signature:**  
+**Surgeon:** Dr. Lisa Chen, MD  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Operating Room Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Checklist Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+  **Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative  Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+   **Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**      
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+  **Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+  **Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5, 2025  
+
+**Preoperative ECG Completed by:**  
+**Cardiologist:** Dr. Robert White, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Medication Review Completed by:**  
+**Pharmacist:** Pharmacist Laura Chen  
+**Date:** April 5, 2025  
+
+**Preoperative Allergy Review Completed by:**  
+**Allergist:** Dr. Sandra Kim, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Anesthetic Review Completed by:**  
+**Anesthesiologist:** Dr. Amy Park, MD  
+**Date:** April 5, 2025  
+
+**Preoperative Patient Education Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Orientation Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Risk Assessment Completed by:**  
+**Nurse:** Nurse Emily Thompson  
+**Date:** April 5, 2025  
+
+**Preoperative Lab Work Completed by:**  
+**Lab Technologist:** Lab Tech David Lee  
+**Date:** April 5, 2025  
+
+**Preoperative Imaging Completed by:**  
+**Radiologist:** Dr. Michael Green, MD  
+**Date:** April 5

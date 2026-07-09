@@ -1,0 +1,723 @@
+**Progress Note**  
+**Patient Name:** J. C. Thompson  
+**MRN:** 123456789  
+**Date of Birth:** 08/15/1978  
+**Gender:** Male  
+**Admission Date:** 06/05/2025  
+**Admitting Diagnosis:** Acute Pancreatitis  
+**Attending Physician:** Dr. Emily R. Chen, MD  
+**Primary Nurse:** Nurse Maria Soto  
+**Location:** Room 213, 3 West  
+**Time of Note:** 06/08/2025, 15:30  
+**Progress Note Number:** #5
+
+---
+
+### **Chief Complaint**
+
+The patient, a 46-year-old male, was admitted on 06/05/2025 with a 2-day history of severe epigastric pain radiating to the back, nausea, vomiting, and a low-grade fever. He presented to the emergency department (ED) with a worsening of symptoms over the past 48 hours, including a single episode of melena and a history of intermittent alcohol consumption.
+
+---
+
+### **History of Present Illness**
+
+The patient is a 46-year-old male with a history of heavy alcohol use (approximately 3-4 drinks per day for 10 years). He quit drinking 3 months ago but has had a relapse over the past 2 weeks. He reports that his symptoms began approximately 3 days prior, starting as mild epigastric discomfort that progressively worsened. The pain is described as constant, sharp, and radiating to the back and left shoulder. He has had 4 episodes of non-bile-stained vomiting over the past 24 hours, with the last episode occurring 4 hours prior to admission. He also reports intermittent nausea, bloating, and a low-grade fever of 99.2°F. He denies jaundice, hematemesis, or changes in bowel habits. He denies any history of recent travel, trauma, or abdominal surgery. He has no known allergies and takes no current medications.
+
+On admission, his vitals were as follows: BP 128/82 mmHg, HR 92 bpm, RR 16, SpO2 98% on room air, and temperature 99.4°F. He was alert and oriented to person, place, time, and situation (A&Ox3). He was in moderate distress due to pain. He was administered IV hydromorphone 2 mg for pain control, and an initial abdominal ultrasound was performed, showing a swollen pancreas with surrounding fluid collections. He was admitted for further evaluation and management of possible acute pancreatitis.
+
+---
+
+### **Past Medical History**
+
+- **Hypertension (HTN)**: Well-controlled on lisinopril 10 mg once daily.
+- **Hyperlipidemia**: Treated with atorvastatin 40 mg daily.
+- **Type 2 Diabetes Mellitus (T2DM)**: Controlled on metformin 500 mg twice daily.
+- **Smoking History**: 1 pack per day for 15 years, quit 2 years ago.
+- **Alcohol Use**: 3-4 drinks per day for 10 years, last drink 4 days ago.
+- **No history of gallstones, biliary disease, or peptic ulcer disease**.
+- **No history of chronic obstructive pulmonary disease (COPD) or asthma**.
+
+- **No known drug allergies**.
+
+---
+
+### **Medications**
+
+- Lisinopril 10 mg PO QD
+- Atorvastatin 40 mg PO QD
+- Metformin 500 mg PO BID
+- Hydromorphone 2 mg IV PRN (for pain)
+- OnabotulinumtoxinA 100 units (Botox) for chronic migraines (last administered 1 year ago)
+- Metoclopramide 10 mg PO QID for nausea (initiated on admission)
+
+---
+
+### **Allergies**
+
+- No known drug allergies.
+
+---
+
+### **Family History**
+
+- Father: Diabetic, deceased at age 67.
+- Mother: Hypertensive, currently alive.
+- Sister: No significant medical history.
+- No history of pancreatic disease or cancer in family.
+
+---
+
+### **Social History**
+
+- Married, 12 years, with 2 children.
+- Works as a warehouse manager, 40 hours per week.
+- Lives in a 3-bedroom home with spouse and children.
+- No history of incarceration or psychiatric hospitalization.
+- Smokes no tobacco, drinks alcohol occasionally, but has relapsed recently.
+- Uses no illicit drugs.
+- No history of substance use disorder (SUD) treatment.
+- No history of domestic violence or abuse.
+- No pets.
+
+---
+
+### **Review of Systems**
+
+**General:** Alert and oriented, appears moderately ill, in moderate pain. No focal neurological deficits. No lymphadenopathy. No skin lesions or rashes. No edema noted.
+
+**Cardiovascular:** BP 128/82 mmHg, regular rate and rhythm. No murmurs. No jugular venous distension. No edema in lower extremities.
+
+**Respiratory:** Clear to auscultation bilaterally. No wheezes or crackles. No signs of respiratory distress. No cyanosis.
+
+**Gastrointestinal:** Epigastric pain, radiating to back and left shoulder. Nausea, vomiting, no hematemesis. No jaundice. No melena or hematochezia. Bowel sounds are active in all quadrants.
+
+**Genitourinary:** No dysuria, hematuria, or flank pain. Urinalysis within normal limits.
+
+**Neurological:** Alert and oriented. No focal deficits. No seizures. No ataxia. No cranial nerve abnormalities. No nuchal rigidity. No papilledema.
+
+**Musculoskeletal:** No joint pain or swelling. No muscle weakness. No gait abnormalities.
+
+**Psychiatric:** No suicidal ideation. No recent psychiatric history. No depression or anxiety noted.
+
+**Skin:** No rashes, lesions, or bruising. No scleral icterus.
+
+**Hematologic:** No pallor or jaundice. No petechiae or ecchymosis.
+
+**Endocrine:** No signs of hyperthyroidism or hypothyroidism. No weight loss or gain. No polyuria or polydipsia.
+
+---
+
+### **Physical Examination**
+
+**VS:** BP 130/84 mmHg, HR 90 bpm, RR 14, SpO2 98%, Temp 99.3°F.
+
+**Head, Eyes, Ears, Nose, and Throat (HEENT):** Pupils equal and reactive to light. No nystagmus. Extraocular movements intact. No conjunctival injection. No nasal discharge. No tonsillar hypertrophy. No cervical lymphadenopathy.
+
+**Neck:** Supple, no masses, no thyromegaly. No JVD.
+
+**Chest:** Clear to auscultation. No wheezes or crackles. No signs of respiratory distress.
+
+**Heart:** Regular rate and rhythm. No murmurs. No S3 or S4 gallops.
+
+**Abdomen:** Soft, non-tender, non-distended. Bowel sounds present in all quadrants. No masses. No rebound tenderness. No guarding. No Murphy's sign. No ascites.
+
+**Extremities:** No edema. No joint swelling or deformities. Capillary refill < 2 seconds.
+
+**Neurological:** Alert and oriented. No focal deficits. No ataxia. No nuchal rigidity.
+
+**Skin:** Intact, no rashes, lesions, or bruising. No jaundice or icterus.
+
+**Vital Signs:** BP 130/84, HR 90, RR 14, SpO2 98%, Temp 99.3°F
+
+---
+
+### **Laboratory and Diagnostic Studies**
+
+**CBC:**
+- WBC: 12.8 x 10^9/L (Normal: 4.0–11.0)
+- Hgb: 13.4 g/dL (Normal: 13.5–17.5)
+- Hct: 39.8% (Normal: 38.5–50.0)
+
+- Platelets: 210 x 10^9/L (Normal: 150–450)
+
+**Chemistry Panel:**
+- Sodium: 140 mEq/L (Normal: 135–145)
+- Potassium: 4.2 mEq/L (Normal: 3.5–5.0)
+- Chloride: 100 mEq/L (Normal: 98–106)
+- Bicarbonate: 24 mEq/L (Normal: 22–28)
+- BUN: 22 mg/dL (Normal: 7–20)
+- Creatinine: 1.1 mg/dL (Normal: 0.6–1.1)
+- Glucose: 138 mg/dL (Normal: 70–99)
+- Albumin: 3.8 g/dL (Normal: 3.5–5.0)
+- Total Bilirubin: 1.2 mg/dL (Normal: 0.2–1.2)
+- Direct Bilirubin: 0.3 mg/dL (Normal: <0.3)
+- AST: 45 U/L (Normal: 0–40)
+- ALT: 68 U/L (Normal: 0–40)
+- ALP: 110 U/L (Normal: 40–129)
+- Total Protein: 7.0 g/dL (Normal: 6.0–8.0)
+
+**Lipids:**
+- Cholesterol: 210 mg/dL (Normal: <200)
+- HDL: 48 mg/dL (Normal: >40)
+- LDL: 140 mg/dL (Normal: <100)
+- Triglycerides: 250 mg/dL (Normal: <150)
+
+**Liver Function Tests (LFTs):**
+- SGPT (ALT): 68 U/L
+- SGOT (AST): 45 U/L
+- Alkaline Phosphatase (ALP): 110 U/L
+- Total Bilirubin: 1.2 mg/dL
+- Direct Bilirubin: 0.3 mg/dL
+- Gamma-GT: 45 U/L (Normal: <60)
+
+**Amylase & Lipase:**
+
+- Amylase: 350 U/L (Normal: 23–110)
+- Lipase: 650 U/L (Normal: 15–60)
+
+**Abdominal Ultrasound:**
+- Enlarged pancreas with surrounding fluid collections.
+- No gallstones or biliary obstruction.
+- No free fluid in the abdomen.
+
+**Chest X-ray:**
+- Clear lungs, no evidence of pneumonia or pleural effusion.
+
+**Urinalysis:**
+- Negative for blood, glucose, or protein.
+
+**COPD Assessment:**
+- No acute exacerbation noted.
+
+**Stool Occult Blood:**
+- Negative for occult blood.
+
+**Electrolytes:**
+- Sodium: 140  
+- Potassium: 4.2
+- Chloride: 100
+- Bicarbonate: 24
+
+**Renal Function:**    
+- BUN: 22
+- Creatinine: 1.1
+
+**Diabetes:**
+- Fasting glucose: 138
+- HbA1c: 6.8%
+
+**Coagulation Profile:**
+- PT: 12.5 sec (Normal: 11–13.5)
+- INR: 1.0
+- aPTT: 32 sec (Normal: 25–35)
+
+**Urinalysis:**
+- Negative for blood, glucose, or protein.
+
+---
+
+### **Assessment**
+
+  - **Primary Diagnosis:** Acute Pancreatitis (suspected due to elevated lipase and amylase, epigastric pain, and imaging findings)
+- **Secondary Diagnoses:**
+  - Alcohol use disorder (AUD), recent relapse
+  - Hypertension, well-controlled
+  - Type 2 Diabetes Mellitus, well-controlled
+  - Hyperlipidemia
+  - Hypertriglyceridemia (triglycerides 250 mg/dL)
+
+---
+
+### **Plan**
+
+**Immediate Management:**
+- Continue NPO status for 24 hours.
+- Initiate IV fluids (normal saline at 100 mL/hr) to maintain hydration and prevent further pancreatic stimulation.
+- Monitor urine output and electrolytes.
+- Administer hydromorphone 2 mg IV PRN for pain, with monitoring of respiratory status.
+- Continue metoclopramide 10 mg PO QID for nausea.
+- Order repeat lipase, amylase, and CBC in 24 hours.
+- Consider initiation of pancreatic enzyme replacement therapy (PERT) once NPO status is resolved.
+- Order abdominal CT with contrast in 48 hours for further evaluation.
+- Monitor for signs of complications such as pseudocyst, abscess, or systemic inflammatory response syndrome (SIRS).
+
+**Long-Term Management:**
+- Continue current medications, including metformin, atorvastatin, and lisinopril.
+- Refer to Alcoholics Anonymous (AA) for outpatient support and monitoring.
+- Schedule follow-up with gastroenterology for monitoring of pancreatic function and further imaging.
+- Schedule follow-up with endocrinology for glucose control and diabetes management.
+- Monitor for signs of malnutrition and initiate a low-fat diet as tolerated.
+- Educate patient on the risks of alcohol use and the importance of abstinence.
+
+**Monitoring:**
+- Daily vital signs, abdominal exam, and pain assessment.
+- Monitor urine output and electrolyte levels.
+- Monitor for signs of complications, such as sepsis, bleeding, or respiratory distress.
+- Monitor for signs of malnutrition and consider nutritional support if indicated.
+- Monitor for signs of renal impairment, especially with continued IV fluid administration.
+
+**Diet:**
+- Continue NPO status.
+- Transition to clear liquids after 24 hours if tolerated.
+- Gradually advance to bland diet as per pancreatic function and pain control.
+
+**Psychosocial Support:**
+- Provide information on the risks of alcohol use and the importance of abstinence.
+- Encourage participation in a support group such as AA.
+- Schedule a follow-up with the primary care physician for ongoing management of hypertension, diabetes, and hyperlipidemia.
+
+**Follow-Up:**
+- Discharge planned within 3-5 days if symptoms improve and no complications arise.
+- Repeat lipase and amylase levels on day 3-4 for assessment of resolution.
+- Continue outpatient follow-up with gastroenterology and endocrinology after discharge.
+
+---
+
+### **Medication Reconciliation**
+
+- **Lisinopril 10 mg PO QD**
+- **Atorvastatin 40 mg PO QD**
+- **Metformin 500 mg PO BID**
+- **Hydromorphone 2 mg IV PRN** (for pain)
+- **Metoclopramide 10 mg PO QID** (for nausea)
+
+- **IV Normal Saline 100 mL/hr** (for hydration)
+
+---
+
+### **Diet and Activity**
+
+- **Diet:** NPO status. Transition to clear liquids after 24 hours.
+- **Activity:** Encourage ambulation as tolerated. No heavy lifting or strenuous activity.
+
+---
+
+### **Patient Education**
+
+- **Pain Management:** Emphasize the importance of adhering to prescribed medications and avoiding NSAIDs.
+- **Nausea Management:** Continue metoclopramide as prescribed and report any worsening symptoms.
+
+- **Alcohol Use:** Stress the importance of complete abstinence and the risks associated with continued use.
+- **Diet:** Explain the need for a low-fat diet and gradual return to normal eating after NPO status.
+- **Follow-Up:** Schedule outpatient follow-ups with gastroenterology, endocrinology, and primary care for ongoing management.
+
+---
+
+### **Disposition and Discharge Plan**
+
+The patient remains in the hospital for further management of acute pancreatitis. He is currently stable, with pain well-controlled and no signs of complications. He is to be continued on NPO status with IV fluids and monitored for improvement. The plan is to transition him to clear liquids by 24 hours, and then a low-fat diet as tolerated. He will be discharged once symptoms resolve and there is no evidence of ongoing inflammation or complications. He will require outpatient follow-up with gastroenterology, endocrinology, and a substance use disorder (SUD) program.
+
+---
+
+### **Notes from Previous Days**
+
+**Day 1 (06/05/2025):**  
+- Patient admitted with suspected acute pancreatitis.  
+- Pain managed with hydromorphone 2 mg IV.  
+- NPO status initiated.  
+- IV fluids started at 100 mL/hr.  
+- No improvement in pain over the first 12 hours.
+
+**Day 2 (06/06/2025):**  
+- Pain remains moderate to severe.  
+- No signs of sepsis or worsening pancreatitis.  
+- Patient continues to be NPO.  
+- Metoclopramide initiated for nausea.  
+- Repeat lipase and amylase pending.
+
+**Day 3 (06/07/2025):**  
+- Patient shows slight improvement in pain with hydromorphone 1 mg IV.  
+- No signs of sepsis or systemic complications.  
+- Repeat lab work pending.  
+- Abdominal CT scheduled for 06/08/2025.
+
+---
+
+### **Summary of Care**
+
+The patient remains stable with acute pancreatitis and a history of recent alcohol use. His vital signs are within normal limits, and he is alert and oriented. His pain is managed with hydromorphone, and he is NPO with IV fluids. He is being monitored for improvement and complications. He is to be discharged once symptoms resolve and outpatient follow-up is arranged. He requires continued support for alcohol use disorder and management of comorbidities including diabetes, hypertension, and hyperlipidemia.
+
+---
+
+### **Signed By:**
+
+**Dr. Emily R. Chen, MD**  
+**Attending Physician**  
+**Date:** 06/08/2025  
+**Time:** 15:30
+
+**Nursing Notes:**
+
+**06/05/2025, 16:00:**  
+Patient is alert and oriented. Vital signs stable. Pain is described as 8/10 on a scale of 0-10. Patient is experiencing moderate distress due to epigastric pain radiating to the back. No signs of sepsis. NPO status maintained. IV fluids administered as ordered. Patient is being closely monitored for signs of worsening pancreatitis or systemic complications.
+
+**06/05/2025, 18:30:**  
+   Patient reports continued pain, 7/10, with intermittent nausea. No vomiting since last dose of metoclopramide. Hydromorphone 2 mg IV administered. Patient remains alert and oriented. No changes in vital signs. No new neurological findings. No signs of dehydration. IV fluids continue at 100 mL/hr.
+
+**06/06/2025, 08:00:**  
+Patient is still NPO. Pain improved slightly to 5/10. No vomiting. Metoclopramide 10 mg PO administered. Patient is cooperative and responsive. No signs of sepsis. No change in abdominal exam. Patient is being prepared for repeat lab work and abdominal ultrasound as ordered.
+
+**06/06/2025, 14:00:**  
+Patient is alert and oriented. Pain is now 4/10. No vomiting or nausea. IV fluids continue. Patient is being prepared for abdominal CT scan as ordered. Patient expresses concern about the length of hospital stay but is cooperative and compliant with treatment plan.
+
+**06/06/2025, 17:30:**  
+Abdominal CT completed. Findings consistent with acute pancreatitis. No evidence of gallstones or biliary obstruction. No free fluid in the abdomen. No signs of pseudocyst or abscess. Patient remains stable and no new complications noted. Patient is to continue NPO status and IV fluids.
+
+**06/07/2025, 08:00:**  
+Patient is alert and oriented. Pain remains 4/10. No nausea or vomiting. IV fluids continue. Patient is being encouraged to ambulate as tolerated. Patient reports feeling more comfortable and is compliant with treatment plan.
+
+**06/07/2025, 12:00:**  
+Patient is alert and oriented. Pain is 3/10. No vomiting. Metoclopramide 10 mg PO administered. Patient is being transitioned to clear liquids as per plan. Patient is cooperative and compliant with treatment.
+
+**06/07/2025, 15:00:**  
+Patient is tolerating clear liquids well. No nausea or vomiting. Patient is being encouraged to advance to a low-fat diet as tolerated. Patient is being educated on dietary restrictions and the importance of abstinence from alcohol.
+
+ **06/08/2025, 08:00:**  
+Patient is alert and oriented. Pain is 2/10. No vomiting. IV fluids continued. Patient is being prepared for transition to oral intake. Patient is being monitored for signs of improvement and potential complications.
+
+**06/08/2025, 12:00:**  
+Patient is tolerating clear liquids well. No nausea or vomiting. Patient is being advanced to a low-fat, low-fat protein diet as per plan. Patient is being educated on dietary restrictions and the importance of abstinence from alcohol.
+
+**06/08/2025, 14:00:**  
+Patient is alert and oriented. Pain is 1/10. No vomiting. Patient is being monitored for signs of improvement. Patient is being prepared for discharge planning and outpatient follow-up.
+
+---
+
+### **Consults**
+
+**Gastroenterology Consult (06/06/2025, 10:00):**  
+Dr. Samuel Lee, MD, gastroenterology, was consulted for further evaluation of acute pancreatitis. The patient’s imaging and labs are consistent with acute pancreatitis. The patient has a history of alcohol use and hypertriglyceridemia, which are known risk factors. Dr. Lee recommends continued NPO status, IV fluids, and close monitoring for complications. He also suggests that the patient should be referred to a substance use disorder (SUD) program for long-term support and management. He is to be monitored for signs of malnutrition and may require nutritional support if indicated.
+
+**Endocrinology Consult (06/06/2025, 13:00):**  
+Dr. Laura Kim, MD, endocrinology, was consulted for the patient’s diabetes. The patient is currently controlled on metformin, with a fasting glucose of 138 mg/dL and an HbA1c of 6.8%. Dr. Kim recommends continued use of metformin and monitoring of glucose levels as the patient transitions to oral intake. She also recommends further education on diet and lifestyle modifications to improve glycemic control.
+
+**Psychiatry Consult (06/07/2025, 11:00):**  
+Dr. Michael Chen, MD, psychiatry, was consulted for the patient’s history of alcohol use disorder and recent relapse. The patient is in the early stages of recovery and may benefit from outpatient counseling and support groups such as Alcoholics Anonymous (AA). Dr. Chen recommends scheduling a follow-up appointment with a substance use disorder (SUD) program and continued support from family and friends. He also recommends that the patient be referred to a psychiatric follow-up for ongoing monitoring and support.
+
+**Social Work Consult (06/07/2025, 14:00):**  
+Ms. Sarah Lin, MSW, social work, was consulted for the patient’s support system and social needs. The patient is married with two children and lives in a 3-bedroom home with his spouse. He has no known support group outside of his family. Ms. Lin recommends that the patient be encouraged to participate in AA meetings and that family support be reinforced. She also recommends scheduling a follow-up with a social worker for continued support and resource development.
+
+---
+
+### **Additional Laboratory and Diagnostic Results**
+
+**06/06/2025, 10:30:**  
+- **Repeat Lipase:** 520 U/L (Normal: 15–60)  
+- **Repeat Amylase:** 280 U/L (Normal: 23–110)  
+- **Lipase/Lipase Ratio:** 1.92 (Normal: 1.0–1.5)  
+- **Albumin:** 3.6 g/dL (Normal: 3.5–5.0)  
+- **Total Protein:** 7.1 g/dL (Normal: 6.0–8.0)  
+- **Lactate Dehydrogenase (LDH):** 230 U/L (Normal: 150–240)  
+- **Creatinine Kinase (CK):** 120 U/L (Normal: 50–150)  
+- **Elevated Amylase and Lipase Levels:** Consistent with acute pancreatitis.  
+- **Hemoglobin A1c (HbA1c):** 6.8% (Normal: <6.5%)  
+- **Fasting Glucose:** 138 mg/dL (Normal: 70–99)  
+- **Triglycerides:** 230 mg/dL (Normal: <150)  
+- **HDL Cholesterol:** 47 mg/dL (Normal: >40)  
+- **LDL Cholesterol:** 130 mg/dL (Normal: <100)  
+- **Total Cholesterol:** 200 mg/dL (Normal: <200)  
+- **Liver Function Tests (LFTs):**  
+  - AST: 47 U/L (Normal: 0–40)  
+     - ALT: 65 U/L (Normal: 0–40)  
+  - ALP: 112 U/L (Normal: 40–129)  
+  - Total Bilirubin: 1.2 mg/dL (Normal: 0.2–1.2)  
+  - Direct Bilirubin: 0.3 mg/dL (Normal: <0.3)  
+  - Gamma-GT: 48 U/L (Normal: <60)  
+
+**06/07/2025, 11:00:**  
+- **Repeat Lipase:** 420 U/L  
+- **Repeat Amylase:** 220 U/L  
+- **Lipase/Lipase Ratio:** 1.95  
+- **Albumin:** 3.7 g/dL  
+- **Total Protein:** 7.0 g/dL  
+- **LDH:** 220 U/L  
+- **CK:** 110 U/L  
+- **Fasting Glucose:** 122 mg/dL  
+- **Triglycerides:** 210 mg/dL  
+- **HDL Cholesterol:** 46 mg/dL  
+- **LDL Cholesterol:** 125 mg/dL  
+- **Total Cholesterol:** 190 mg/dL  
+- **LFTs:**  
+  - AST: 46 U/L  
+  -  ALT: 63 U/L  
+  - ALP: 111 U/L  
+  - Total Bilirubin: 1.2 mg/dL  
+  - Direct Bilirubin: 0.3 mg/dL  
+
+  - Gamma-GT: 47 U/L  
+
+**06/08/2025, 10:00:**  
+- **Repeat Lipase:** 320 U/L  
+- **Repeat Amylase:** 180 U/L  
+- **Lipase/Lipase Ratio:** 1.87  
+- **Albumin:** 3.8 g/dL  
+- **Total Protein:** 7.1 g/dL  
+- **LDH:** 215 U/L  
+- **CK:** 105 U/L  
+- **Fasting Glucose:** 118 mg/dL  
+- **Triglycerides:** 190 mg/dL  
+- **HDL Cholesterol:** 48 mg/dL  
+- **LDL Cholesterol:** 120 mg/dL  
+- **Total Cholesterol:** 180 mg/dL  
+- **LFTs:**  
+  - AST: 45 U/L  
+  - ALT: 62 U/L  
+  - ALP: 110 U/L  
+  - Total Bilirubin: 1.1 mg/dL  
+  - Direct Bilirubin: 0.3 mg/dL  
+  - Gamma-GT: 46 U/L  
+
+**06/08/2025, 13:00:**  
+- **Blood Urea Nitrogen (BUN):** 20 mg/dL  
+- **Creatinine:** 1.0 mg/dL  
+- **Potassium:** 4.1 mEq/L  
+- **Sodium:** 141 mEq/L  
+- **Chloride:** 101 mEq/L  
+ - **Bicarbonate:** 23 mEq/L  
+ - **Calcium:** 9.1 mg/dL (Normal: 8.5–10.5)  
+- **Phosphorus:** 3.2 mg/dL (Normal: 2.5–4.5)  
+- **Magnesium:** 2.0 mg/dL (Normal: 1.5–2.5)  
+- **Iron:** 100 µg/dL (Normal: 60–150)  
+- **Total Iron-Binding Capacity (TIBC):** 320 µg/dL (Normal: 240–360)  
+- **Transferrin Saturation:** 31% (Normal: 15–45)  
+- **Hemoglobin:** 13.2 g/dL  
+- **Hematocrit:** 39.5%  
+- **White Blood Cell (WBC) Count:** 11.2 x 10^9/L  
+- **Platelet Count:** 205 x 10^9/L  
+- **Electrolytes:** Stable.  
+- **Renal Function:** Improved slightly, with BUN 20 mg/dL and creatinine 1.0 mg/dL.  
+- **Glucose:** Fasting glucose remains slightly elevated, but within acceptable range for a patient with T2DM.  
+- **Triglycerides:** Decreasing, indicating some improvement in hypertriglyceridemia.  
+- **LFTs:** Continued improvement, with no signs of hepatic dysfunction.
+
+---
+
+### **Imaging and Diagnostic Reports**
+
+**Abdominal CT Scan (06/07/2025, 10:00):**  
+- Findings consistent with acute pancreatitis.  
+- Pancreas is enlarged with surrounding edema and mild inflammatory changes.  
+- No evidence of gallstones or biliary obstruction.  
+- No free fluid in the abdomen.  
+- No signs of pseudocyst, abscess, or necrosis.  
+- No renal stones or obstructive uropathy.  
+- No evidence of chronic pancreatitis or pancreatic cancer.  
+- Contrast-enhanced imaging shows no significant vascular compromise.  
+- No evidence of systemic inflammatory response syndrome (SIRS) or sepsis.
+
+**Repeat Abdominal Ultrasound (06/07/2025, 13:00):**  
+- Pancreas remains enlarged with surrounding fluid collections.  
+- No gallstones detected.  
+- No free fluid in the abdomen.  
+- No signs of biliary obstruction or ascites.  
+- No evidence of pancreatic necrosis or abscess.  
+- No significant peripancreatic inflammation.
+
+**Repeat Abdominal X-ray (06/08/2025, 09:00):**  
+- Clear lungs, no evidence of pneumonia or pleural effusion.  
+- No bowel obstruction or signs of ileus.  
+- No signs of free air or perforation.  
+- No signs of acute cholecystitis or gallbladder disease.
+
+---
+
+### **Nursing Care Plan and Interventions**
+
+**06/05/2025:**  
+- Initiated NPO status to reduce pancreatic stimulation.  
+- Administered IV fluids (normal saline) to maintain hydration.  
+- Administered hydromorphone for pain management.  
+- Monitored vital signs, pain levels, and abdominal exam.  
+- Initiated metoclopramide for nausea.  
+- Educated patient on the importance of NPO status and the risks of alcohol use.
+
+**06/06/2025:**  
+- Continued IV fluids and pain management.  
+- Administered metoclopramide as needed for nausea.  
+
+- Encouraged ambulation as tolerated.  
+- Monitored for signs of improvement or complications.  
+- Educated patient on dietary restrictions and the need for a low-fat diet.  
+- Prepared patient for repeat lab work and abdominal CT scan.
+
+**06/07/2025:**  
+- Continued NPO status.  
+- Transitioned patient to clear liquids as tolerated.  
+- Administered metoclopramide as needed.  
+- Encouraged gradual advancement to a low-fat diet.  
+- Educated patient on the importance of abstinence from alcohol and the risks of continued use.  
+- Monitored for signs of improvement or complications.  
+- Prepared patient for discharge planning and outpatient follow-up.
+
+**06/08/2025:**  
+- Continued NPO status.  
+- Transitioned patient to clear liquids.  
+- Administered metoclopramide as needed.  
+- Encouraged gradual advancement to a low-fat diet.  
+- Educated patient on dietary restrictions and the importance of abstinence from alcohol.  
+- Monitored for signs of improvement or complications.  
+- Prepared patient for discharge planning and outpatient follow-up.
+
+---
+
+### **Patient Education and Counseling**
+
+**06/05/2025:**  
+- Educated patient on the causes, symptoms, and treatment of acute pancreatitis.  
+- Emphasized the importance of abstinence from alcohol.  
+- Discussed the risks of continued alcohol use and the importance of seeking help.  
+- Provided information on the need for a low-fat diet and hydration.  
+- Encouraged the patient to participate in Alcoholics Anonymous (AA) and a substance use disorder (SUD) program.  
+- Discussed the importance of following up with the primary care physician, gastroenterologist, and endocrinologist for ongoing management of comorbidities.
+
+**06/06/2025:**  
+- Reinforced the importance of NPO status and IV fluids.  
+- Discussed the risks of continued alcohol use and the importance of abstinence.  
+- Explained the need for a low-fat diet and hydration.  
+- Discussed the importance of following up with the primary care physician, gastroenterologist, and endocrinologist.  
+- Encouraged the patient to participate in AA and a SUD program.
+
+**06/07/2025:**  
+- Reinforced the importance of abstinence from alcohol and a low-fat diet.  
+- Discussed the importance of following up with the primary care physician, gastroenterologist, and endocrinologist.  
+- Encouraged the patient to participate in AA and a SUD program.  
+- Provided information on the need for continued monitoring of blood glucose, lipid levels, and electrolytes.
+
+**06/08/2025:**  
+- Reinforced the importance of abstinence from alcohol and a low-fat diet.  
+- Discussed the importance of following up with the primary care physician, gastroenterologist, and endocrinologist.  
+- Encouraged the patient to participate in AA and a SUD program.  
+- Provided information on the need for continued monitoring of blood glucose, lipid levels, and electrolytes.
+
+---
+
+### **Patient and Family Teaching**
+
+**06/05/2025:**  
+- Educated patient on the importance of abstinence from alcohol and the risks of continued use.  
+- Discussed the need for a low-fat diet and hydration.  
+- Provided information on the importance of follow-up with the primary care physician, gastroenterologist, and endocrinologist.  
+- Encouraged the patient to participate in AA and a SUD program.  
+- Discussed the importance of monitoring for signs of complications such as sepsis, bleeding, or respiratory distress.
+
+**06/06/2025:**  
+- Reinforced the importance of abstinence from alcohol and a low-fat diet.  
+- Discussed the importance of monitoring for signs of complications.  
+- Provided information on the need for continued monitoring of blood glucose, lipid levels, and electrolytes.  
+- Encouraged the patient to participate in AA and a SUD program.
+
+**06/07/2025:**   
+- Reinforced the importance of abstinence from alcohol and a low-fat diet.  
+- Discussed the importance of follow-up with the primary care physician, gastroenterologist, and endocrinologist.  
+- Encouraged the patient to participate in AA and a SUD program.  
+- Provided information on the need for continued monitoring of blood glucose, lipid levels, and electrolytes.
+
+**06/08/2025:**  
+- Reinforced the importance of abstinence from alcohol and a low-fat diet.  
+- Discussed the importance of follow-up with the primary care physician, gastroenterologist, and endocrinologist.  
+- Encouraged the patient to participate in AA and a SUD program.  
+- Provided information on the need for continued monitoring of blood glucose, lipid levels, and electrolytes.
+
+---
+
+### **Psychosocial and Social Work Notes**
+
+**06/05/2025:**  
+- Patient is married with two children and lives in a  3-bedroom home with his spouse.  
+- No known support group outside of his family.  
+- Patient expresses concern about the length of hospital stay but is cooperative and compliant with treatment.  
+- Patient is being encouraged to participate in AA and a SUD program.  
+
+- Patient is being referred to a social worker for continued support and resource development.
+
+**06/06/2025:**  
+- Patient is cooperative and compliant with treatment.  
+- Patient is being encouraged to participate in AA and a SUD program.  
+- Patient is being referred to a social worker for continued support and resource development.  
+- Patient is being prepared for outpatient follow-up and discharge planning.
+
+**06/07/2025:**  
+- Patient is cooperative and compliant with treatment.  
+- Patient is being encouraged to participate in AA and a SUD program.  
+- Patient is being referred to a social worker for continued support and resource development.  
+- Patient is being prepared for outpatient follow-up and discharge planning.
+
+**06/08/2025:**  
+- Patient is cooperative and compliant with treatment.  
+- Patient is being encouraged to participate in AA and a SUD program.  
+- Patient is being referred to a social worker for continued support and resource development.  
+- Patient is being prepared for outpatient follow-up and discharge planning.
+
+---
+
+### **Discharge Planning and Follow-Up**
+
+**Discharge Plan:**
+
+- **Discharge Date:** 06/11/2025  
+- **Reason for Discharge:** Improvement in symptoms, no evidence of complications, and stable vital signs.  
+- **Patient Condition:** Stable, with pain controlled, no nausea or vomiting, and tolerating clear liquids.  
+- **Medication Orders:**  
+  - **Metformin 500 mg PO BID**  
+  - **Atorvastatin 40 mg PO QD**  
+  - **Lisinopril 10 mg PO QD**  
+  - **Metoclopramide 10 mg PO QID (as needed)**  
+  - **Diet:** Low-fat, low-fat protein, and no alcohol.  
+  - **Activity:** Gradual return to normal activities as tolerated.  
+- **Follow-Up:**  
+  - **Gastroenterology:** Follow-up within 1 week for further evaluation of pancreatitis.  
+  - **Endocrinology:** Follow-up within 1 week for diabetes management.  
+  - **Primary Care Physician:** Follow-up within 1 week for management of hypertension and hyperlipidemia.  
+  - **Substance Use Disorder (SUD) Program:** Referral to local AA meetings and SUD program.  
+  - **Social Worker:** Follow-up within 1 week for continued support and resource development.  
+- **Patient Education:**  
+  - Emphasize the importance of abstinence from alcohol and a low-fat diet.  
+  - Monitor for signs of complications such as sepsis, bleeding, or respiratory distress.  
+  - Follow-up with primary care physician, gastroenterologist, and endocrinologist as scheduled.  
+  - Participate in AA meetings and a SUD program.  
+  - Monitor blood glucose, lipid levels, and electrolytes.  
+
+**Discharge Instructions:**
+
+- **Diet:** Continue a low-fat, low-fat protein diet. Avoid alcohol completely.  
+- **Activity:** Encourage gradual return to normal activities. Avoid heavy lifting or strenuous activity.  
+- **Medications:** Continue all prescribed medications as directed.  
+- **Follow-Up:** Schedule follow-up appointments with gastroenterology, endocrinology, and primary care as scheduled.  
+- **Psychosocial Support:** Participate in AA meetings and a SUD program. Continue to seek support from family and friends.  
+- **Signs of Complications:** Report any worsening pain, vomiting, fever, or signs of sepsis immediately.  
+
+---
+
+### **Outpatient Follow-Up**
+
+**06/11/2025 (Discharge Date):**  
+- Patient is discharged home with instructions for continued care and follow-up.  
+- Patient is to follow up with gastroenterology, endocrinology, and primary care within 1 week.  
+- Patient is to attend AA meetings and a SUD program as scheduled.  
+- Patient is to continue a low-fat diet and avoid alcohol completely.  
+- Patient is to monitor for signs of complications and seek medical attention immediately if needed.
+
+---
+
+### **Final Notes**
+
+The patient has made a steady improvement over the course of his hospital stay. His symptoms have improved, and he is now tolerating clear liquids and a low-fat diet. He is being prepared for discharge with a plan for continued care and follow-up. He is to be encouraged to participate in AA and a SUD program for long-term support and management. He is also to follow up with his primary care physician, gastroenterologist, and endocrinologist for ongoing management of his comorbidities. He is to continue his current medications and follow a low-fat diet with no alcohol consumption. He is to be educated on the importance of abstinence from alcohol and the risks of continued use. He is to be monitored for signs of complications and to seek medical attention immediately if needed.  
+
+This case highlights the importance of a multidisciplinary approach to the management of acute pancreatitis, especially in patients with a history of alcohol use. It also underscores the importance of addressing comorbidities such as diabetes, hypertension, and hyperlipidemia in the overall care plan. The patient’s progress and response to treatment demonstrate the value of close monitoring, supportive care, and comprehensive follow-up.
+
+**06/08/2025, 15:30:**  
+- **Chest X-ray (Repeat):** No changes from prior study. Lungs are clear with no evidence of pneumonia or pleural effusion. Cardiomegaly not noted. No signs of pulmonary edema or acute respiratory distress.  
+- **Electrocardiogram (ECG):** Normal sinus rhythm. No ST-segment elevation, T-wave abnormalities, or signs of myocardial ischemia. No arrhythmias noted.  
+- **Abdominal Ultrasound (Repeat):** No new findings. Pancreas remains enlarged with surrounding fluid collections. No gallstones or biliary obstruction. No ascites.  
+- **Renal Ultrasound:** No evidence of hydronephrosis or obstructive uropathy. Kidneys are normal in size and structure. No renal stones.  
+- **Liver Ultrasound:** No evidence of hepatic steatosis or fatty infiltration. Liver is normal in size and echotexture. No signs of chronic liver disease or cirrhosis.  
+
+**06/08/2025, 16:30:**  
+- **Blood Cultures:** Negative for bacterial growth.  
+- **Urinalysis (Repeat):** Negative for blood, glucose, or protein. No signs of urinary tract infection (UTI).  
+- **Thyroid Function Tests (TFTs):**  
+  - TSH: 1.8 μIU/mL (Normal: 0.4–4.0)  
+  - Free T4: 1.0 ng/dL (Normal: 0.8–1.8)  
+  - Free T3: 2.5 pg/mL (Normal: 2.0–4.0)  
+- **C-reactive Protein (CRP):** 8.2 mg/L (Normal: <1.0)  
+- **Erythrocyte Sediment

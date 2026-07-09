@@ -1,0 +1,679 @@
+**Inpatient Order Set**  
+**Patient Name:** John Doe  
+**Medical Record Number:** 123456789  
+**Admission Date:** April 2, 2025  
+**Admitting Service:** Internal Medicine  
+**Attending Physician:** Dr. Emily Carter, MD  
+**Primary Nurse:** Jane Smith, RN  
+**Location:** Room 345, North Wing  
+**Chief Complaint:** Acute epigastric pain radiating to the back, nausea, and vomiting for 24 hours  
+**Reason for Admission:** Suspected acute cholecystitis with possible cholelithiasis  
+**ICD-10 Code:** K81.10 (Acute cholecystitis, unspecified)  
+**APGAR Score:** Not applicable (inpatient)  
+**Discharge Status:** Not yet discharged  
+**Current Status:** Stabilized, awaiting surgery  
+
+---
+
+**Patient Demographics:**  
+- **Name:** John Doe  
+- **Age:** 58  
+- **Gender:** Male  
+- **Race/Ethnicity:** White  
+- **Marital Status:** Single  
+- **Occupation:** Retired electrician  
+- **Primary Language:** English  
+- **Insurance:** Medicare Part B  
+- **Allergies:** No known allergies  
+- **Smoking Status:** Former smoker (10 pack-years, quit 5 years ago)  
+- **Alcohol Use:** Occasional (1-2 drinks/week)  
+- **Family History:** Father with type 2 diabetes, mother with hypertension  
+- **Social History:** Lives alone, no pets, no children, no recent travel  
+
+---
+
+**History of Present Illness (HPI):**  
+Patient is a 58-year-old male who presented to the Emergency Department (ED) on April 2, 2025, with a 24-hour history of acute epigastric pain that began after eating a large meal. The pain is described as constant, severe, and radiating to the right upper quadrant (RUQ) and back. The patient reports intermittent nausea and two episodes of non-bilious vomiting. He denies any relief with antacids or over-the-counter (OTC) medications. He has no fever, chills, or jaundice. The pain is not associated with bloating, belching, or changes in bowel habits. He denies chest pain, shortness of breath, or syncope. He has no prior history of similar episodes, but he reports a family history of gallbladder disease.  
+
+---
+
+**Past Medical History (PMH):**  
+- **Hypertension:** Well-controlled on lisinopril 10 mg PO daily  
+- **Type 2 Diabetes Mellitus:** Controlled with metformin 500 mg BID  
+- **Hyperlipidemia:** Treated with atorvastatin 40 mg PO daily  
+- **No history of peptic ulcer disease, hepatitis, or pancreatitis**  
+- **No prior abdominal surgery**  
+- **No history of cholelithiasis**  
+- **No known food allergies**  
+
+---
+
+**Medications (Current):**  
+- **Lisinopril 10 mg PO daily**  
+- **Metformin 500 mg PO BID**  
+- **Atorvastatin 40 mg PO daily**  
+- **Aspirin 81 mg PO daily (for cardiovascular protection)**  
+
+---
+
+**Allergies:**  
+- **No known allergies**  
+
+---
+
+**Immunizations:**  
+- **Influenza (2024):** Up-to-date  
+- **Tetanus (2023):** Up-to-date  
+- **Hepatitis B series:** Completed  
+- **Pneumococcal vaccine (23-valent):** Completed  
+- **MMR (varicella, MMR):** Completed  
+
+---
+
+**Family History:**  
+- **Father:** Type 2 diabetes, hypertension, hyperlipidemia  
+- **Mother:** Hypertension, hyperlipidemia  
+- **Siblings:** No known medical history  
+- **No hx of cancer in family**  
+- **No history of substance use disorders**  
+
+---
+
+**Social History:**  
+- **Occupation:** Retired electrician  
+- **Living Situation:** Lives alone in a single-family home  
+- **Smoking:** Former smoker (quit 5 years ago)  
+- **Alcohol:** Occasional (1-2 drinks/week)  
+- **Exercise:** None regularly  
+- **Diet:** High in red meat, low in fruits and vegetables  
+- **Marital Status:** Single  
+- **Children:** None  
+- **Pets:** No pets   
+- **Religion:** Not specified     
+- **Support System:** Limited; no close family nearby  
+
+---
+
+**Review of Systems (ROS):**  
+- **Cardiovascular:** No chest pain, palpitations, or edema  
+
+- **Respiratory:** No cough, shortness of breath, or wheezing  
+- **Gastrointestinal:** Epigastric pain, nausea, vomiting; no diarrhea, constipation, or hematochezia  
+- **Genitourinary:** No dysuria, hematuria, or flank pain  
+
+- **Musculoskeletal:** No joint pain, swelling, or weakness  
+- **Neurological:** Alert and oriented x3, no focal deficits, no seizures  
+- **Psychiatric:** No depression, anxiety, or suicidal ideation  
+- **Skin:** No rashes, lesions, or wounds  
+- **Hearing/Vision:** No changes  
+- **Endocrine:** No polyuria, polydipsia, or weight changes  
+- **Other:** No fever, chills, or weight loss  
+
+---
+
+**Physical Examination (PE):**  
+- **General:** Alert, oriented x3, no acute distress, no evidence of dehydration  
+- **Vital Signs:**  
+  - **Temperature:** 98.6°F (37.0°C)  
+  - **Pulse:** 82 bpm  
+  - **Respiratory Rate:** 16 breaths/min  
+  - **Blood Pressure:** 138/86 mmHg  
+  - **Oxygen Saturation (SpO₂):** 98% on room air  
+  - **Weight:** 185 lbs (84 kg)  
+  - **Height:** 5’9” (175 cm)  
+- **Head, Eyes, Ears, Nose, Throat (HEENT):**  
+  - **Head:** No focal neurologic deficits  
+  - **Eyes:** PERRL, no redness, no discharge  
+  - **Ears:** Clear, no discharge  
+
+  - **Nose:** No obstruction or discharge  
+  - **Throat:** No erythema, no tonsillar enlargement  
+- **Neck:** No lymphadenopathy, no thyromegaly  
+- **Chest:** Clear to auscultation bilaterally, no wheezes or crackles  
+- **Cardiovascular:** Regular rate and rhythm, no murmurs  
+- **Abdomen:**  
+  - **Contour:** Scaphoid  
+  - **Tenderness:** Mild tenderness in RUQ, no guarding or rebound  
+  - **Liver span:** Normal  
+  - **Spleen:** Not palpable  
+  - **Bowel Sounds:** Normal  
+- **Genitourinary:** No abnormalities  
+- **Extremities:** No edema, no deformities  
+- **Skin:** No rashes, no jaundice  
+- **Neurological:** Alert and oriented x3, normal gait, normal reflexes, no focal deficits  
+- **Psychiatric:** No signs of depression or anxiety  
+- **Other:** No abnormalities noted  
+
+---
+
+**Laboratory Results (as of April 2, 2025):**  
+- **CBC:**  
+  - WBC: 12,500/µL (Normal: 4,000–11,000/µL)  
+  - Hgb: 14.2 g/dL (Normal: 13.5–17.5 g/dL)  
+  - Hct: 42% (Normal: 38.5–50%)  
+  - Platelets: 230,000/µL (Normal: 150,000–450,000/µL)  
+- **Metabolic Panel (ABG):**  
+  - Sodium: 140 mEq/L (Normal: 135–145 mEq/L)  
+  - Potassium: 4.2 mEq/L (Normal: 3.5–5.0 mEq/L)  
+
+  - BUN: 18 mg/dL (Normal: 7–20 mg/dL)  
+  - Creatinine: 1.1 mg/dL (Normal: 0.6–1.1 mg/dL)  
+  - Glucose: 112 mg/dL (Normal: 70–99 mg/dL)  
+  - AST: 45 U/L (Normal: 10–40 U/L)  
+  - ALT: 35 U/L (Normal: 10–50 U/L)  
+  - ALP: 120 U/L (Normal: 40–129 U/L)  
+  - Total Bilirubin: 1.1 mg/dL (Normal: 0.3–1.2 mg/dL)  
+  - Albumin: 3.8 g/dL (Normal: 3.5–5.0 g/dL)  
+- **Lipid Panel:**  
+  - Total Cholesterol: 210 mg/dL (Normal: <200 mg/dL)  
+  - LDL: 135 mg/dL (Normal: <100 mg/dL)  
+  - HDL: 45 mg/dL (Normal: >40 mg/dL)  
+  - Triglycerides: 180 mg/dL (Normal: <150 mg/dL)  
+- **Urinalysis:**  
+  - Color: Amber  
+  - Specific Gravity: 1.015  
+  - Protein: Negative  
+  - Glucose: Negative  
+  - Ketones: Negative  
+  - Blood: Negative  
+  - Leukocytes: Negative  
+- **Chest X-ray:** Normal  
+- **Abdominal Ultrasound (April 2, 2025):**  
+  - **Findings:** Enlarged gallbladder with wall thickening, no stones visualized. Mild pericholecystic fluid. No evidence of stones, choledocholithiasis, or biliary duct dilation.  
+- **ECG:** Sinus rhythm, no acute changes  
+
+---
+
+**Diagnostic Imaging (as of April 2, 2025):**  
+- **Abdominal Ultrasound (RUQ):** Confirmed findings of acute cholecystitis with gallbladder wall thickening and pericholecystic fluid. No stones visualized.  
+- **CT Abdomen (April 3, 2025):**  
+  - **Findings:** Confirmatory of acute cholecystitis with gallbladder wall thickening, mild pericholecystic stranding, and no evidence of stones. No biliary duct dilation or obstructive findings. No evidence of appendicitis, pancreatitis, or other abdominal pathologies.  
+
+---
+
+**Diagnosis (Primary):**  
+- **Acute cholecystitis**  
+- **Cholelithiasis (rule out)**  
+- **Possibly associated with hyperlipidemia and type 2 diabetes mellitus**
+
+---
+
+**Plan of Care:**  
+**1. Monitoring:**  
+- **Vitals:** Monitor every 4 hours, with trend analysis.  
+- **O2 Saturation:** Monitor every 4 hours.  
+
+- **Pain:** Assess pain level using a 0–10 scale every 4 hours.  
+- **NPO:** Patient remains NPO pending further evaluation.  
+- **IV Fluids:** 0.9% Normal Saline at 100 mL/hr.  
+- **Pain Management:**  
+  - **Hydromorphone 0.2 mg IV q4h PRN for pain >6/10.**  
+  - **Dexamethasone 4 mg IV q12h PRN for inflammation.**  
+
+**2. Laboratory Orders:**  
+- **Complete Blood Count (CBC)** – Repeat in 24 hours  
+- **Metabolic Panel (Chem-7)** – Repeat in 24 hours  
+- **Liver Function Tests (LFTs)** – Repeat in 24 hours  
+- **Hemoglobin A1c** – Ordered for baseline  
+- **C-reactive protein (CRP)** – Ordered for inflammatory marker  
+- **Lipid Panel** – Recheck in 3 months for diabetes management  
+
+**3. Imaging Orders:**  
+- **Abdominal Ultrasound (RUQ)** – Already completed  
+- **CT Abdomen with Contrast** – Completed, no further imaging needed  
+- **Gallbladder ultrasound** – Completed  
+
+**4. Medication Orders:**  
+- **Lisinopril 10 mg PO daily** – Continue  
+- **Metformin 500 mg PO BID** – Continue  
+- **Atorvastatin 40 mg PO daily** – Continue  
+- **Aspirin 81 mg PO daily** – Continue  
+- **Hydromorphone 0.2 mg IV q4h PRN** – For pain control  
+- **Dexamethasone 4 mg IV q12h PRN** – For inflammation  
+- **Ondansetron 4 mg IV q6h PRN for nausea/vomiting**  
+- **Ceftriaxone 1 g IV q12h** – Started for suspected cholecystitis (antibiotic coverage)  
+
+**5. Procedures and Interventions:**  
+- **Surgical Consultation:** Urgent consultation with general surgery for evaluation of cholecystitis and discussion of cholecystectomy  
+- **NPO Status:** Continue until surgery or until oral intake is tolerated  
+- **IV Access:** Maintain IV for fluids and medications  
+- **Nursing Care:** Monitor for signs of sepsis, cholangitis, or complications of gallbladder disease  
+
+**6. Patient Education:**  
+- **Diet:** Encourage a low-fat, high-fiber diet post-surgery  
+- **Activity:** Encourage early ambulation post-surgery  
+- **Medication Adherence:** Reinforce importance of metformin and atorvastatin for long-term management  
+- **Follow-up:** Schedule outpatient follow-up with primary care provider within 1 week for wound care and medication review  
+- **Surgical Aftercare:** Educate patient on incision care, signs of infection, and when to seek further medical attention  
+
+**7. Discharge Planning:**  
+- **Discharge Criteria:** Stable vital signs, no pain >5/10, no nausea/vomiting, ability to tolerate oral intake, and clear surgical plan  
+- **Home Care:** Patient will be discharged with a 3-day course of ceftriaxone, instructions for incision care, and follow-up with surgical team  
+- **Referral:** Primary care follow-up for diabetes and hyperlipidemia management  
+
+---
+
+**Progress Notes (April 2, 2025):**  
+Patient admitted with acute epigastric pain radiating to the back and RUQ. On admission, patient was alert and oriented x3, with mild RUQ tenderness. Vital signs were within normal limits. Labs showed mild leukocytosis, elevated AST and ALT, and mild hyperbilirubinemia. Abdominal ultrasound and CT confirmed acute cholecystitis without stones. Surgical consultation is in process. Patient is NPO, receiving IV fluids and pain management with hydromorphone. Ondansetron is administered for nausea. Ceftriaxone initiated for antibiotic coverage. No signs of sepsis or cholangitis. Patient is stable, awaiting surgery.  
+
+---
+
+**Orders (Active):**  
+- **Hydromorphone 0.2 mg IV q4h PRN for pain >6/10**  
+- **Dexamethasone 4 mg IV q12h PRN for inflammation**  
+- **Ondansetron 4 mg IV q6h PRN for nausea/vomiting**  
+- **Ceftriaxone 1 g IV q12h**  
+- **Lisinopril 10 mg PO daily**  
+- **Metformin 500 mg PO BID**  
+- **Atorvastatin 40 mg PO daily**  
+- **Aspirin 81 mg PO daily**  
+- **IV 0.9% Normal Saline at 100 mL/hr**  
+- **NPO status until further notice**  
+- **Surgical consult for cholecystectomy**  
+- **Monitor vitals every 4 hours**  
+- **Pain assessment every 4 hours**  
+- **Nursing care for IV site, nausea, and pain**  
+
+---
+
+**Medication Reconciliation (April 2, 2025):**  
+- **Lisinopril 10 mg PO daily** – Continue  
+- **Metformin 500 mg PO BID** – Continue  
+- **Atorvastatin 40 mg PO daily** – Continue  
+- **Aspirin 81 mg PO daily** – Continue  
+- **Hydromorphone 0.2 mg IV q4h PRN** – New  
+- **Dexamethasone 4 mg IV q12h PRN** – New  
+ - **Ondansetron 4 mg IV q6h PRN** – New  
+- **Ceftriaxone 1 g IV q12h** – New  
+
+
+---
+
+**Special Instructions:**  
+- **Surgical Consultation:** Urgent  
+- **Antibiotic Coverage:** Ceftriaxone 1 g IV q12h  
+- **Pain Management:** Hydromorphone 0.2 mg IV q4h PRN  
+- **NPO Until:** Surgical clearance or oral intake is tolerated  
+- **Nursing Notes:** Document pain, nausea, and IV site status every 4 hours  
+
+---
+
+**Discharge Summary (TBD):**  
+Patient will be discharged following surgical cholecystectomy. Will receive a 3-day course of ceftriaxone, instructions for incision care, and follow-up with surgical team. Will be scheduled for outpatient follow-up with primary care provider for diabetes and hyperlipidemia management.  
+
+---
+
+**Informed Consent (Pending):**  
+- **Procedure:** Laparoscopic cholecystectomy  
+- **Date of Consent:** April 3, 2025  
+- **Signed by:** John Doe  
+- **Witness:** Jane Smith, RN  
+
+---
+
+**Admission Note (April 2, 2025):**  
+Patient John Doe, 58-year-old male, presented to the Emergency Department with a 24-hour history of acute epigastric pain radiating to the RUQ and back, associated with nausea and vomiting. Initial evaluation revealed mild RUQ tenderness, normal vitals, and mild leukocytosis. Abdominal ultrasound and CT confirmed acute cholecystitis without stones. Surgical consultation initiated. Patient is NPO, receiving IV fluids, pain management with hydromorphone, and antibiotic coverage with ceftriaxone. No signs of sepsis or cholangitis. Patient is stable and awaiting surgery.  
+
+---
+
+**Critical Care Notes (April 2, 2025):**  
+- Patient is currently in stable condition with no acute distress.  
+- Pain managed with hydromorphone 0.2 mg IV q4h as needed.  
+- Nausea controlled with ondansetron 4 mg IV q6h as needed.  
+- No signs of sepsis, cholangitis, or other complications.  
+- Patient is monitored closely for signs of worsening pain or systemic inflammation.  
+
+---
+
+**Care Plan Summary:**  
+- **Acute Pain Management:** Hydromorphone and dexamethasone for pain and inflammation  
+- **NPO Status:** Until surgical clearance or oral intake tolerated  
+- **Antibiotics:** Ceftriaxone for suspected cholecystitis  
+- **Surgical Consultation:** Urgent for evaluation and planning of cholecystectomy  
+- **Follow-up:** Primary care follow-up for diabetes and hyperlipidemia management  
+- **Discharge Planning:** Initiated upon surgical clearance  
+
+---
+
+**Patient Instructions (April 2, 2025):**  
+- **Pain:** Report pain level on a 0–10 scale every 4 hours  
+- **Nausea:** Report nausea or vomiting immediately  
+- **Medication:** Take all medications as prescribed, including metformin and atorvastatin  
+- **IV Fluids:** Stay NPO unless instructed otherwise  
+- **Surgical Preparation:** Will be informed of surgery date and procedure  
+- **Wound Care:** Follow post-op instructions for incision care  
+- **Follow-up:** Schedule follow-up with primary care provider within 1 week  
+
+---
+
+**Documentation Guidelines:**  
+- **Narrative Notes:** Document in free-text format every 4 hours  
+- **Vital Signs:** Charted and trended hourly  
+- **Lab Results:** Charted with reference ranges and interpretations  
+- **Medication Reconciliation:** Updated every 24 hours  
+- **Orders:** Printed and placed in patient’s chart  
+- **Discharge Summary:** Completed upon surgical clearance  
+
+---
+
+**Conclusion:**  
+Patient John Doe, a 58-year-old male with a history of hypertension, type 2 diabetes, and hyperlipidemia, was admitted with acute epigastric pain, nausea, and vomiting. Clinical and imaging findings support the diagnosis of acute cholecystitis. Surgical consultation is ongoing, and a laparoscopic cholecystectomy is planned. Patient is currently stable, with adequate pain control and no signs of sepsis or cholangitis. No complications noted. Patient will be discharged following surgery with follow-up instructions for diabetes and hyperlipidemia management.  
+
+
+**Document #: 6**  
+**Generated on:** April 3, 2025  
+**Generated by:** Clinical Documentation Team
+
+**Additional Laboratory Results (April 3, 2025):**  
+- **CBC (Repeat):**  
+  - WBC: 14,200/µL (Normal: 4,000–11,000/µL)  
+  - Hgb: 13.8 g/dL (Normal: 13.5–17.5 g/dL)  
+  - Hct: 41% (Normal: 38.5–50%)  
+  - Platelets: 235,000/µL (Normal: 150,000–450,000/µL)  
+- **Metabolic Panel (Repeat):**  
+  - Sodium: 141 mEq/L (Normal: 135–145 mEq/L)  
+  - Potassium: 4.3 mEq/L (Normal: 3.5–5.0 mEq/L)  
+  - BUN: 19 mg/dL (Normal: 7–20 mg/dL)  
+  - Creatinine: 1.2 mg/dL (Normal: 0.6–1.1 mg/dL)  
+  - Glucose: 108 mg/dL (Normal: 70–99 mg/dL)  
+     - AST: 48 U/L (Normal: 10–40 U/L)  
+  - ALT: 37 U/L (Normal: 10–50 U/L)  
+  - ALP: 125 U/L (Normal: 40–129 U/L)  
+  - Total Bilirubin: 1.2 mg/dL (Normal: 0.3–1.2 mg/dL)  
+  - Albumin: 3.7 g/dL (Normal: 3.5–5.0 g/dL)  
+- **Lipid Panel (Repeat):**  
+  - Total Cholesterol: 212 mg/dL (Normal: <200 mg/dL)  
+  - LDL: 137 mg/dL (Normal: <100 mg/dL)  
+  - HDL: 46 mg/dL (Normal: >40 mg/dL)  
+  - Triglycerides: 185 mg/dL (Normal: <150 mg/dL)  
+- **Hemoglobin A1c:** 7.2% (Normal: <6.5%)  
+- **C-reactive protein (CRP):** 12 mg/L (Normal: <3 mg/L)  
+- **Liver Function Tests (Repeat):**  
+  - AST: 49 U/L  
+  - ALT: 38 U/L  
+  - ALP: 128 U/L  
+  - GGT: 85 U/L (Normal: 15–65 U/L)  
+  - Total Bilirubin: 1.2 mg/dL  
+  - Direct Bilirubin: 0.3 mg/dL  
+  - Indirect Bilirubin: 0.9 mg/dL  
+- **Urine Ketones:** Negative  
+- **Urine Protein:** Negative  
+- **Urine Glucose:** Negative  
+- **Urine Leukocytes:** Negative  
+- **Urine Blood:** Negative  
+- **Urine Nitrites:** Negative  
+- **Urine pH:** 6.0  
+
+**Additional Imaging Findings (April 3, 2025):**  
+- **CT Abdomen (with Contrast):**  
+  - **Findings:** Confirmatory of acute cholecystitis with gallbladder wall thickening, mild pericholecystic stranding, and no evidence of stones. No biliary duct dilation or obstructive findings. No evidence of appendicitis, pancreatitis, or other abdominal pathologies. No signs of perforation or abscess. The common bile duct (CBD) is not visualized due to the absence of stones, but no dilation is noted. The liver parenchyma is unremarkable. No evidence of splenic or pancreatic involvement. The stomach and duodenum are unremarkable. No lymphadenopathy or mass lesions.  
+- **Abdominal Ultrasound (RUQ – Repeat):**  
+  - **Findings:** Confirmed findings of acute cholecystitis with wall thickening and mild pericholecystic fluid. No gallstones visualized. No evidence of choledocholithiasis or biliary obstruction. No signs of cholangitis. The gallbladder appears non-compliant with minimal contractility.  
+
+**Consultation Response (General Surgery – April 3, 2025):**  
+- **Consultation Note:**  
+  - **Attending Surgeon:** Dr. Michael Lee, MD  
+  - **Consultation Date:** April 3, 2025  
+  - **Findings:**  
+    - Patient has confirmed acute cholecystitis without stones based on imaging.  
+    - No evidence of choledocholithiasis or biliary obstruction.  
+    - No signs of sepsis, cholangitis, or other complications.  
+    - Patient is stable and suitable for elective laparoscopic cholecystectomy.  
+  - **Recommendation:**  
+    - Proceed with elective laparoscopic cholecystectomy.  
+    - No immediate surgical intervention required.  
+    - Continue current management with IV fluids, pain control, and antibiotic therapy.  
+  - **Follow-up:**  
+    - Schedule surgery in 24–48 hours based on availability.  
+    - Continue current medications.  
+    - Monitor for signs of sepsis, cholangitis, or worsening pain.  
+
+**Nursing Notes (April 3, 2025):**  
+- **0800:** Patient is alert, oriented x3, and verbalizing discomfort in the RUQ. Pain level reported as 7/10. Hydromorphone 0.2 mg IV administered. Nausea resolved with ondansetron 4 mg IV. Vitals stable.  
+- **1200:** Patient reports pain level of 5/10. Hydromorphone not administered due to low pain score. NPO status maintained. IV fluids continued. No new complaints.  
+- **1600:** Patient is stable, no new pain or nausea. IV site intact. No signs of infection. Pain assessed as 4/10.  
+- **2000:** Patient reports mild discomfort but no pain. NPO status maintained. Hydromorphone not administered. No nausea.  
+- **0000:** Patient remains stable, NPO, with no new symptoms. Pain level reported as 3/10.  
+- **0400:** Patient is stable, no pain, and no nausea. Vitals normal. IV fluids continue.  
+
+**Medication Reconciliation (April 3, 2025):**  
+- **Lisinopril 10 mg PO daily** – Continue  
+- **Metformin 500 mg PO BID** – Continue  
+- **Atorvastatin 40 mg PO daily** – Continue  
+- **Aspirin 81 mg PO daily** – Continue  
+
+- **Hydromorphone 0.2 mg IV q4h PRN** – Continue  
+- **Dexamethasone 4 mg IV q12h PRN** – Continue  
+- **Ondansetron 4 mg IV q6h PRN** – Continue  
+- **Ceftriaxone 1 g IV q12h** – Continue  
+- **IV 0.9% Normal Saline at 100 mL/hr** – Continue  
+- **NPO status until surgery** – Continue  
+
+**Special Instructions (April 3, 2025):**  
+- **Surgical Consultation:** Urgent  
+- **Antibiotic Coverage:** Ceftriaxone 1 g IV q12h  
+- **Pain Management:** Hydromorphone 0.2 mg IV q4h PRN  
+- **NPO Until:** Surgical clearance or oral intake tolerated  
+- **Nursing Notes:** Document pain, nausea, and IV site status every 4 hours  
+- **Surgical Preparation:** Patient will be informed of surgery date and procedure  
+- **Wound Care:** Follow post-op instructions for incision care  
+- **Follow-up:** Schedule follow-up with primary care provider within 1 week  
+
+
+**Progress Notes (April 3, 2025):**  
+- Patient remains stable, with no acute distress. Pain managed with hydromorphone and dexamethasone. Nausea controlled with ondansetron. No signs of sepsis or cholangitis. Surgical clearance pending. Patient is NPO, receiving IV fluids. No new symptoms reported.  
+- Patient is alert and oriented x3. No signs of confusion or  neurological deficits. IV site remains intact. No signs of infection. Pain level reported as 3/10.  
+- Surgical team has confirmed the diagnosis of acute cholecystitis without stones. Laparoscopic cholecystectomy is planned. Patient is awaiting surgical date.  
+- No complications noted. Patient is being monitored for signs of worsening pain or systemic inflammation.  
+- Patient is well-supported by nursing staff, with close monitoring of IV site and pain levels.  
+
+**Critical Care Notes (April 3, 2025):**  
+- Patient is in stable condition with no acute distress. Pain managed effectively. No signs of sepsis, cholangitis, or other complications.  
+- Hydromorphone 0.2 mg IV q4h as needed for pain. Dexamethasone 4 mg IV q12h for inflammation.  
+- Nausea controlled with ondansetron 4 mg IV q6h as needed.  
+- No new symptoms, no signs of infection or adverse effects.  
+- Surgical clearance pending. Patient remains NPO.  
+
+**Consultation Notes (April 3, 2025):**  
+- **Surgical Consultation:**  
+  - **Attending Surgeon:** Dr. Michael Lee, MD  
+
+  - **Date of Consult:** April 3, 2025  
+  - **Findings:**  
+    - Patient has confirmed acute cholecystitis without stones based on imaging.  
+    - No evidence of choledocholithiasis or biliary obstruction.  
+    - No signs of sepsis, cholangitis, or other complications.  
+    - Patient is stable and suitable for elective laparoscopic cholecystectomy.  
+  - **Recommendation:**  
+    - Proceed with elective laparoscopic cholecystectomy.  
+    - No immediate surgical intervention required.  
+    - Continue current management with IV fluids, pain control, and antibiotic therapy.  
+  - **Follow-up:**  
+    - Schedule surgery in 24–48 hours based on availability.      
+    - Continue current medications.  
+    - Monitor for signs of sepsis, cholangitis, or worsening pain.  
+
+**Patient Instructions (April 3, 2025):**  
+- **Pain:** Report pain level on a 0–10 scale every 4 hours  
+- **Nausea:** Report nausea or vomiting immediately  
+
+- **Medication:** Take all medications as prescribed, including metformin and atorvastatin  
+- **IV Fluids:** Stay NPO unless instructed otherwise  
+- **Surgical Preparation:** Will be informed of surgery date and procedure  
+- **Wound Care:** Follow post-op instructions for incision care  
+- **Follow-up:** Schedule follow-up with primary care provider within 1 week  
+- **Diet:** No food or liquids until surgery is scheduled  
+- **Activity:** Encourage early ambulation post-surgery  
+- **Discharge:** Will be discharged following surgery with follow-up instructions  
+
+
+**Additional Lab Results (April 4, 2025):**  
+- **CBC:**  
+  - WBC: 13,800/µL  
+  - Hgb: 13.6 g/dL  
+  - Hct: 41.2%  
+  - Platelets: 238,000/µL  
+- **Metabolic Panel:**  
+  - Sodium: 140 mEq/L  
+
+  - Potassium: 4.1 mEq/L  
+  - BUN: 18 mg/dL  
+  - Creatinine: 1.1 mg/dL  
+  - Glucose: 109 mg/dL  
+  - AST: 46 U/L  
+  - ALT: 36 U/L  
+  - ALP: 123 U/L  
+  - Total Bilirubin: 1.1 mg/dL  
+  - Albumin: 3.7 g/dL  
+- **Lipid Panel:**  
+
+  - Total Cholesterol: 210 mg/dL  
+  - LDL: 135 mg/dL  
+  - HDL: 45 mg/dL  
+  - Triglycerides: 185 mg/dL  
+- **Hemoglobin A1c:** 7.1%  
+- **C-reactive protein (CRP):** 11 mg/L  
+- **Liver Function Tests:**  
+  - AST: 45 U/L  
+  - ALT: 37 U/L  
+  - ALP: 122 U/L  
+  - GGT: 83 U/L  
+  - Total Bilirubin: 1.1 mg/dL  
+  - Direct Bilirubin: 0.3 mg/dL  
+
+  - Indirect Bilirubin: 0.8 mg/dL  
+- **Urine Analysis:**  
+  - Color: Amber  
+  - Specific Gravity:  1.014  
+  - Protein: Negative  
+  - Glucose: Negative  
+  - Ketones: Negative  
+  - Blood: Negative  
+  - Leukocytes: Negative  
+
+**Additional Imaging (April 4, 2025):**    
+- **Abdominal Ultrasound (RUQ – Repeat):**  
+  - **Findings:** Confirmed findings of acute cholecystitis with wall thickening and mild pericholecystic fluid. No gallstones visualized. No evidence of choledocholithiasis or biliary obstruction. No signs of cholangitis. The gallbladder appears non-compliant with minimal contractility.  
+- **CT Abdomen  (with Contrast – Repeat):**  
+  - **Findings:** Confirmatory of acute cholecystitis without stones. No biliary duct dilation or obstructive findings. No evidence of appendicitis, pancreatitis, or other abdominal pathologies. No signs of perforation or abscess. The liver parenchyma is unremarkable. No evidence of splenic or pancreatic involvement. The stomach and duodenum are unremarkable. No lymphadenopathy or mass lesions.  
+
+**Nursing Notes (April 4, 2025):**  
+- **0800:** Patient is alert, oriented x3, and verbalizing mild discomfort in the RUQ. Pain level reported as 4/10. Hydromorphone not administered due to low pain score. NPO status maintained. IV fluids continued. No new complaints.  
+- **1200:** Patient reports pain level of 3/10. No nausea. IV site intact. No signs of infection.  
+- **1600:** Patient is stable, no new pain or nausea. IV fluids continue.  
+- **2000:** Patient reports no pain, no nausea, and no new symptoms.  
+- **0000:** Patient remains stable, no pain, and no nausea.  
+- **0400:** Patient is stable, no new symptoms. Pain level reported as 2/10.  
+
+**Medication Reconciliation (April 4, 2025):**  
+- **Lisinopril 10 mg PO daily** – Continue  
+- **Metformin 500 mg PO BID** – Continue  
+- **Atorvastatin 40 mg PO daily** – Continue  
+- **Aspirin 81 mg PO daily** – Continue  
+- **Hydromorphone 0.2 mg IV q4h PRN** – Continue  
+
+- **Dexamethasone 4 mg IV q12h PRN** – Continue  
+- **Ondansetron 4 mg IV q6h PRN** – Continue  
+- **Ceftriaxone 1 g IV q12h** – Continue  
+- **IV 0.9% Normal Saline at 100 mL/hr** – Continue  
+
+  - **NPO status until surgery** – Continue  
+
+**Special Instructions (April 4, 2025):**  
+- **Surgical Consultation:** Urgent  
+- **Antibiotic Coverage:** Ceftriaxone 1 g IV q12h  
+- **Pain Management:** Hydromorphone 0.2 mg IV q4h PRN  
+- **NPO Until:** Surgical clearance or oral intake tolerated  
+- **Nursing Notes:** Document pain, nausea, and IV site status every 4 hours  
+
+- **Surgical Preparation:** Patient will be informed of surgery date and procedure  
+- **Wound Care:** Follow post-op instructions for incision care  
+- **Follow-up:** Schedule follow-up with primary care provider within 1 week  
+
+**Progress Notes (April 4, 2025):**  
+- Patient remains stable, with no acute distress. Pain managed with hydromorphone and dexamethasone. Nausea controlled with ondansetron. No signs of sepsis, cholangitis, or other complications.  
+- Surgical clearance is pending. Patient is NPO, receiving IV fluids. No new symptoms reported.  
+- Patient is alert and oriented x3. No signs of confusion or neurological deficits. IV site remains intact. No signs of infection.  
+- No complications noted. Patient is being monitored for signs of worsening pain or systemic inflammation.  
+- Patient is well-supported by nursing staff, with close monitoring of IV site and pain levels.  
+
+**Critical Care Notes (April 4, 2025):**  
+- Patient is in stable condition with no acute distress. Pain managed effectively. No signs of sepsis, cholangitis, or other complications.  
+- Hydromorphone 0.2 mg IV q4h as needed for pain. Dexamethasone 4 mg IV q12h for inflammation.  
+- Nausea controlled with ondansetron 4 mg IV q6h as needed.  
+- No new symptoms, no signs of infection or adverse effects.  
+- Surgical clearance pending. Patient remains NPO.  
+
+**Additional Lab Results (April 5, 2025):**  
+- **CBC:**  
+  - WBC: 13,600/µL  
+  - Hgb: 13.5 g/dL  
+  - Hct: 40.8%  
+  - Platelets: 239,000/µL  
+- **Metabolic  Panel:**  
+  - Sodium: 140 mEq/L  
+  - Potassium: 4.1 mEq/L  
+  - BUN: 17 mg/dL  
+  - Creatinine: 1.0 mg/dL  
+  - Glucose: 106 mg/dL  
+  - AST: 44 U/L  
+  - ALT: 35 U/L  
+  - ALP: 120 U/L  
+  - Total Bilirubin: 1.0 mg/dL  
+  - Albumin: 3.8 g/dL  
+- **Lipid Panel:**  
+  - Total Cholesterol: 208 mg/dL  
+  - LDL: 133 mg/dL  
+  - HDL: 44 mg/dL  
+  - Triglycerides: 182 mg/dL  
+- **Hemoglobin A1c:** 7.0%  
+- **C-reactive protein (CRP):** 10 mg/L  
+- **Liver Function Tests:**  
+  - AST: 43 U/L  
+  - ALT: 34 U/L  
+  - ALP: 119 U/L  
+  - GGT: 82 U/L  
+  - Total Bilirubin: 1.0 mg/dL  
+  - Direct Bilirubin: 0.2 mg/dL  
+  - Indirect Bilirubin: 0.8 mg/dL  
+- **Urine Analysis:**  
+  - Color: Amber  
+  - Specific Gravity: 1.013  
+  - Protein: Negative  
+  - Glucose: Negative  
+  - Ketones: Negative  
+  - Blood: Negative  
+  - Leukocytes: Negative  
+
+**Nursing Notes (April 5, 2025):**  
+- **0800:** Patient is alert, oriented x3, and verbalizing mild discomfort in the RUQ. Pain level reported as 3/10. Hydromorphone not administered due to low pain score. NPO status maintained. IV fluids continued. No new complaints.  
+- **1200:** Patient reports pain level of 2/10. No nausea. IV site intact. No signs of infection.  
+- **1600:** Patient is stable, no new pain or nausea. IV fluids continue.  
+- **2000:** Patient reports no pain, no nausea, and no new symptoms.  
+- **0000:** Patient remains stable, no pain, and no nausea.  
+- **0400:** Patient is stable, no new symptoms. Pain level reported as 1/10.  
+
+**Medication Reconciliation (April 5, 2025):**  
+- **Lisinopril 10 mg PO daily** – Continue  
+- **Metformin 500 mg PO BID** – Continue  
+- **Atorvastatin 40 mg PO daily** – Continue  
+- **Aspirin 81 mg PO daily** – Continue  
+- **Hydromorphone 0.2 mg IV q4h PRN** – Continue  
+- **Dexamethasone 4 mg IV q12h PRN** – Continue  
+- **Ondansetron 4 mg IV q6h  PRN** – Continue  
+- **Ceftriaxone 1 g IV q12h** – Continue  
+- **IV 0.9% Normal Saline at 100 mL/hr** – Continue  
+- **NPO status until surgery** – Continue  
+
+**Special Instructions (April 5, 2025):**  
+- **Surgical Consultation:** Urgent  
+- **Antibiotic Coverage:** Ceftriaxone 1 g IV q12h  
+- **Pain Management:** Hydromorphone 0.2 mg IV q4h PRN  
+- **NPO Until:** Surgical clearance or oral intake tolerated  
+- **Nursing Notes:** Document pain, nausea, and IV site status every 4 hours  
+- **Surgical Preparation:** Patient will be informed of surgery date and  procedure  
+- **Wound Care:** Follow post-op instructions for incision care  
+- **Follow-up:** Schedule follow-up with primary care provider within 1 week  
+
+**Progress Notes (April 5, 2025):**  
+- Patient remains stable, with no acute distress. Pain managed with hydromorphone and dexamethasone. Nausea controlled with ondansetron. No signs

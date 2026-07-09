@@ -1,0 +1,789 @@
+**INTAKE NOTE**  
+**Patient ID:** 14  
+**Facility:** Green Valley Behavioral Health Center  
+**Location:** Outpatient Behavioral Health  
+**Date:** April 5, 2025  
+**Time:** 10:45 AM  
+**Provider:** Dr. Emily A. Thompson, MD, MPH  
+**Specialty:** Adult Psychiatry  
+**Setting:** In-person intake  
+**Document Type:** Behavioral Health Intake Note  
+**Document Status:** Completed  
+
+---
+
+**Patient Demographics**  
+- **Name:** Jason M. Reed  
+- **Date of Birth:** June 12, 1991  
+- **Gender:** Male  
+- **Race:** White  
+- **Ethnicity:** Non-Hispanic  
+- **Marital Status:** Single  
+- **Occupation:** Unemployed  
+- **Insurance:** Medicaid  
+- **Primary Language:** English  
+- **Emergency Contact:** Sarah Reed (Mother), 555-019-3456  
+- **Address:** 123 Maple Lane, Springfield, IL 62704  
+
+---
+
+**Chief Complaint:**  
+Patient presents for initial assessment following a recent crisis involving self-harm and suicidal ideation. He reports feeling "trapped" and unable to see a way forward, with recurrent thoughts of ending his life. He has not engaged in any formal treatment previously.  
+
+---
+
+**Reason for Referral:**  
+Referred by a crisis hotline following a 3-day period of increased depression, sleep disturbances, and a recent suicide attempt. The patient was stabilized by emergency services and is now seeking outpatient care.  
+
+---
+
+**History of Present Illness (HPI):**  
+
+Patient is a 34-year-old male who presented to the crisis hotline on April 2, 2025, following a suicide attempt involving an overdose of prescription medications. He reports that he had been struggling with feelings of hopelessness, emotional numbness, and a loss of interest in activities he once enjoyed.  
+
+He describes a pattern of persistent sadness, fatigue, and difficulty concentrating that has been present for approximately 6 months. He has not experienced any manic or hypomanic episodes, and there are no reports of hallucinations or delusions.  
+
+He has not been taking any prescribed medications for the past 6 months. He reports that he previously had a history of depression and was on sertraline 50 mg daily, but he stopped it on his own due to "side effects" and a belief that he was "not getting better."  
+
+Patient has not had any recent hospitalizations or psychiatric inpatient admissions. He has been sleeping for only 3–4 hours per night and has been using alcohol to cope with his emotional pain.  
+
+He reports feeling isolated and disconnected from others, with a sense of worthlessness and guilt. He states that he has not felt like he has a purpose in life and has been unable to maintain any meaningful relationships.  
+
+He has been avoiding work and social interactions for the past 3 months. He has not had any recent changes in weight or appetite, but he reports a noticeable decrease in energy and motivation.  
+
+---
+
+**Past Medical History (PMHx):**  
+- **Depression, Major Depressive Disorder, Recurrent, Moderate** (Diagnosed at age 22, treated with SSRIs, discontinued due to self-perceived lack of efficacy)  
+- **Type 2 Diabetes Mellitus** (Diagnosed 2018, managed with Metformin 1000 mg twice daily, controlled)  
+- **Hypertension** (Diagnosed 2020, managed with Amlodipine 5 mg daily, controlled)  
+- **Hepatitis C Virus (HCV)** (Diagnosed 2019, treated with direct-acting antivirals, now resolved)  
+- **Allergic Rhinitis** (Treated with Fluticasone nasal spray)  
+- **Smoking Cessation** (Attempted multiple times, currently non-smoker)  
+- **No known cardiac, pulmonary, or gastrointestinal history**  
+- **No known history of seizures, stroke, or neurological conditions**  
+- **No history of substance use disorder (SUD)** (Denies current or past use of illicit drugs, though admits to occasional alcohol use)  
+- **No history of trauma, abuse, or physical injuries**  
+
+- **No known immunizations or allergies**  
+- **No known genetic disorders or family history of mental illness**  
+
+---
+
+**Family History (FHx):**  
+- **Mother:** Diagnosed with Bipolar I Disorder (treated with mood stabilizers)  
+- **Father:** No known psychiatric history  
+- **Siblings:** One older sister, no psychiatric history  
+- **No known family history of substance use disorders, diabetes, or hypertension**  
+- **No known history of autoimmune or infectious diseases**  
+- **No known family history of cardiovascular disease**  
+
+  ---
+
+**Social History (SHx):**  
+- **Occupation:** Previously worked as a maintenance technician; last employed in 2023  
+- **Education:** High school graduate  
+- **Living Situation:** Lives with his mother in a two-bedroom apartment; no pets  
+- **Marital Status:** Single, no children  
+- **Support System:** Mother is the primary support; no close friends or family members  
+- **Hobbies/Interests:** Previously enjoyed hiking, reading, and playing guitar; currently disengaged  
+- **Alcohol Use:** Occasional (1–2 drinks per week)  
+- **Tobacco Use:** Former smoker (quit in 2022)  
+- **Illicit Drug Use:** Denies use of illicit substances  
+- **Sexual Orientation:** Heterosexual  
+- **Relationship Status:** Single  
+- **Financial Status:** Unemployed, receiving temporary assistance through public benefits  
+
+---
+
+**Review of Systems (ROS):**  
+**General:** No fever, chills, or weight changes. Mild fatigue noted.  
+**Cardiovascular:** No chest pain, palpitations, or dizziness.  
+**Respiratory:** No cough, shortness of breath, or wheezing.  
+**GI:** No nausea, vomiting, or abdominal pain.  
+**Genitourinary:** No urgency, frequency, or burning.  
+**Neurological:** No headaches, confusion, or visual changes.  
+**Endocrine:** No sweating, tremors, or changes in appetite.  
+**Mental Health:** See below.  
+**Musculoskeletal:** No joint pain or swelling.  
+**Skin:** No rashes, ecchymosis, or lesions.  
+**Hearing/Vision:** No changes or complaints.  
+**Sleep:** Sleeps 3–4 hours per night, wakes frequently.  
+**Diet:** No significant changes in eating habits.  
+**Other:** No suicidal ideation with plan, no homicidal ideation.  
+
+---
+
+**Mental Status Examination (MSE):**  
+**Appearance:** Well-groomed, clean-cut, and appropriately dressed.  
+**Behavior:** Cooperative, attentive, and responsive.  
+**Mood:** Depressed, sad, and apathetic.  
+**Affect:** Blunted, with occasional tearfulness.  
+**Speech:** Normal rate and volume, though slightly slowed.  
+**Thought Process:** Linear, goal-directed, and coherent.  
+**Thought Content:** Recurrent suicidal ideation with no plan, no intent to act. Thoughts of worthlessness and guilt. No delusions or hallucinations.  
+**Perception:** No perceptual abnormalities.  
+**Cognition:** Orientation intact. Attention and concentration mildly impaired. Memory intact. No evidence of delirium.  
+**Insight/Judgment:** Poor insight into the severity of his condition. Judgment appears intact.  
+**Behavioral Observations:** No psychomotor agitation or retardation. No evidence of mania or hypomania.  
+
+---
+
+**Vital Signs (VS):**  
+- **Temperature:** 98.6°F (37.0°C)  
+- **Pulse:** 72 bpm  
+- **Respiratory Rate:** 16 breaths/min  
+- **Blood Pressure:** 128/82 mmHg  
+- **Oxygen Saturation (SpO2):** 98% on room air  
+- **Weight:** 185 lbs (84 kg)  
+- **Height:** 6'1" (185 cm)  
+- **BMI:** 25.8 (Overweight, borderline obesity)  
+
+---
+
+**Physical Exam:**  
+**Head, Eyes, Ears, Nose, Throat (HEENT):**  
+- **Head:** No abnormalities noted.  
+- **Eyes:** Pupils equal, round, and reactive to light; no nystagmus or ptosis.  
+- **Ears:** No discharge or hearing complaints.  
+
+- **Nose:** No discharge or congestion.  
+- **Throat:** No erythema or exudate.  
+
+**Cardiovascular (CV):**  
+- **Heart Sounds:** Regular rate and rhythm. No murmurs or gallops.  
+- **Peripheral Pulses:** 2+ in all extremities.  
+- **JVP:** Normal.  
+- **Blood Pressure:** 128/82 mmHg.  
+
+**Respiratory (Resp):**  
+- **Lungs:** Clear to auscultation. No crackles, wheezes, or rales.  
+- **Chest Expansion:** Symmetrical.  
+- **Oxygen Saturation:** 98% on room air.  
+
+**Gastrointestinal (GI):**  
+- **Abdomen:** Soft, non-tender, non-distended.  
+- **Liver Span:** Normal.  
+- **Spleen:** Not palpable.  
+- **Bowel Sounds:** Normal.  
+
+**Neurological (Neuro):**  
+- **Cranial Nerves:** Intact.  
+- **Motor Function:** Full range of motion, no weakness.  
+- **Coordination:** Normal.  
+- **Reflexes:** 2+ bilateral.  
+- **Gait:** Normal.  
+- **Mental Status:** As above.  
+
+**Skin:** No rashes, ecchymosis, or lesions.  
+**Genitourinary (GU):** No complaints.  
+**Musculoskeletal (MSK):** No joint pain or swelling.  
+
+**Psychiatric:** As above.  
+
+---
+
+**Laboratory Results (if applicable):**  
+- **Complete Blood Count (CBC):**  
+  - WBC: 7.2 x 10^3/µL (Reference: 4.5–11.0)  
+  - RBC: 4.8 x 10^6/µL (Reference: 4.0–5.5)  
+  - HGB: 13.8  g/dL (Reference: 13.5–17.5)  
+  - HCT: 41.5% (Reference: 38.5–47.0)  
+  - MCV: 87 fL (Reference: 80–100)  
+  - MCH: 28.8 pg (Reference: 27–31)  
+  - MCHC: 33.1 g/dL (Reference: 32–36)  
+  - RDW: 11.2% (Reference: 11.5–14.5)  
+  - Platelets: 228,000/µL (Reference: 150,000–450,000)  
+- **Comprehensive Metabolic Panel (CMP):**  
+  - Sodium: 141 mEq/L (Reference: 135–145)  
+  - Potassium: 4.1 mEq/L (Reference: 3.5–5.0)  
+  - Chloride: 102 mEq/L (Reference: 98–107)  
+  - CO2: 26 mEq/L (Reference: 22–29)  
+  - BUN: 18 mg/dL (Reference: 7–20)  
+  - Creatinine: 0.9 mg/dL (Reference: 0.6–1.2)  
+  - Glucose: 92 mg/dL (Reference: 70–99)  
+  - Albumin: 4.2 g/dL (Reference: 3.5–5.0)  
+  - Total Protein: 7.0 g/dL (Reference: 6.0–8.0)  
+  - ALP: 65 U/L (Reference: 45–125)  
+  - AST: 25 U/L (Reference: 10–40)  
+  - ALT: 30 U/L (Reference: 20–100)  
+  - Bilirubin Total: 0.8 mg/dL (Reference: 0.2–1.2)  
+  - Lactate Dehydrogenase (LDH): 180 U/L (Reference: 140–220)  
+- **Hepatitis Panel:**  
+  - Hepatitis A: Non-reactive  
+  - Hepatitis B: Non-reactive  
+  - Hepatitis C: Non-reactive  
+- **Thyroid Function Tests (TFTs):**  
+  - TSH: 2.1 µIU/mL (Reference: 0.4–4.0)  
+  - Free T4: 1.1 ng/dL (Reference: 0.8–1.8)  
+  - T3: 1.2 ng/mL (Reference: 0.8–1.8)  
+- **Urinalysis:**  
+  - Appearance: Clear  
+  - Color: Pale yellow  
+  - Odor: Normal  
+  - Specific Gravity: 1.015  
+  - pH: 6.0  
+  - Protein: Negative  
+
+  - Glucose: Negative  
+  - Ketones: Negative  
+  - Blood: Negative  
+  - Leukocytes: Negative  
+  - Nitrite: Negative  
+  - Bilirubin: Negative  
+  - Urobilinogen: Negative  
+  - Microscopic: No RBCs, WBCs, or casts  
+
+---
+
+**Medications (Current):**  
+- **None prescribed at this time**  
+- **Over-the-Counter (OTC):**  
+  - Ibuprofen 400 mg PRN for occasional headaches  
+  - OTC antihistamine (Benadryl) for occasional insomnia  
+
+---
+
+**Allergies:**  
+- **No known drug allergies**  
+- **No food allergies**  
+- **No environmental allergies**  
+
+---
+
+**Immunizations (Vaccines):**  
+- **Tdap:** Up to date  
+- **Hepatitis B:** Complete series  
+- **Influenza:** Up to date (2024)  
+- **MMR:** Up to date  
+- **Varicella:** Up to date  
+- **Pertussis:** Up to date  
+- **Polio:** Up to date  
+- **Hepatitis A:** Not documented  
+
+---
+
+**Psychological Testing (if applicable):**  
+- **PHQ-9 (Patient Health Questionnaire-9):**  
+  - Score: 18 (Severe depression)  
+- **GAD-7 (Generalized Anxiety Disorder-7):**  
+  - Score: 8 (Minimal anxiety)  
+- **Beck Depression Inventory-II (BDI-II):**  
+  - Score: 32 (Moderate to severe depression)  
+- **Suicidal Ideation Assessment:**  
+  - Patient reports passive suicidal ideation with no plan, no intent to act.  
+- **Risk Assessment:**  
+  - No current risk of self-harm or harm to others.  
+  - Patient is currently not a danger to self or others.  
+
+---
+
+**Diagnosis (ICD-10):**  
+- **F33.1** – Major Depressive Disorder, Recurrent, Moderate  
+- **F10.2** – Alcohol Use Disorder, Mild  
+- **Z60.0** – Problems related to unemployment  
+- **Z86.29** – Family history of mental disorder (not elsewhere classified)  
+
+---
+
+**Clinical Plan:**  
+**Short-Term Goals:**  
+- Stabilize mood and reduce suicidal ideation  
+- Initiate pharmacotherapy with appropriate antidepressants  
+- Establish weekly individual therapy sessions  
+- Monitor for any changes in mood or suicidal ideation  
+- Encourage engagement in social activities and support systems  
+
+**Long-Term Goals:**  
+- Achieve remission of depressive symptoms  
+- Improve insight and coping skills  
+- Develop a plan for future employment and social reintegration  
+- Foster a sense of purpose and connection  
+
+**Treatment Plan:**  
+- **Pharmacotherapy:**  
+  - **Sertraline 50 mg PO daily** – Initiated on April 5, 2025  
+  - **Zolpidem 10 mg PO at bedtime** – Initiated on April 5, 2025 (to be tapered off in 2–3 weeks)  
+- **Psychotherapy:**  
+  - **Cognitive Behavioral Therapy (CBT)** – Weekly individual sessions starting April 7, 2025  
+  - **Interpersonal Therapy (IPT)** – Weekly sessions to address social isolation and relationship issues  
+- **Lifestyle Interventions:**  
+  - Encourage regular sleep hygiene practices  
+  - Suggest 30 minutes of physical activity 5 days per week  
+  - Recommend a structured daily routine to improve motivation and energy levels  
+- **Social Support:**  
+  - Refer patient to community support groups for individuals in recovery from depression  
+  - Coordinate with a vocational counselor to explore employment opportunities  
+
+**Follow-Up:**  
+- **Follow-Up Appointment:** April 12, 2025, at 10:00 AM  
+- **Phone Check-In:** April 8, 2025, at 3:00 PM  
+- **Medication Reassessment:** April 15, 2025, after 2 weeks of sertraline  
+- **Suicidal Ideation Monitoring:** Daily for the first 2 weeks, then weekly thereafter  
+
+**Referrals:**  
+- **Vocational Counselor** – To assist with job search and employment support  
+- **Community Support Group** – For individuals with depression and suicidal ideation  
+- **Primary Care Physician** – To monitor for side effects of sertraline and other medications  
+- **Case Manager** – To assist with housing, benefits, and social support  
+
+   **Legal Considerations:**  
+- Patient has given informed consent for treatment and has not expressed any legal concerns.  
+- No restrictions on treatment or release from care at this time.  
+- Patient has been advised to seek immediate help if symptoms worsen or if suicidal thoughts return.  
+
+**Patient Education:**  
+- Patient has been educated on the nature of depression, the role of medication, and the importance of therapy.  
+- He has been advised to avoid alcohol and to report any side effects from medications promptly.  
+- He has been encouraged to engage in self-care activities and to maintain a healthy lifestyle.  
+
+**Notes from Patient:**  
+- Patient expressed appreciation for the care he is receiving and has stated that he feels "seen" by the provider.  
+- He has acknowledged the importance of continuing therapy and medication.  
+- He has expressed a desire to regain a sense of purpose and connection.  
+
+**Provider Notes:**  
+- Patient is appropriately engaged in treatment.  
+- He is receptive to the proposed plan and has shown motivation to participate in therapy.  
+- Close monitoring is required for any changes in mood or suicidal ideation.  
+- Follow-up will be essential to assess the effectiveness of sertraline and to adjust the treatment plan as needed.  
+
+**Signatures:**  
+- **Provider:** Dr. Emily A. Thompson, MD, MPH  
+- **Patient:** Jason M. Reed  
+- **Date:** April 5,  2025  
+- **Signature Verified:** Yes  
+- **Witness:** [Witness Name if applicable]  
+
+**Document Completed by:**  
+- **Nurse:** Sarah M. Nguyen, LPN  
+- **Date:** April 5, 2025  
+
+- **Signature Verified:** Yes  
+
+---  
+**End of Document**
+
+**Additional Clinical Findings:**  
+Following the initial assessment, the patient was observed during a 30-minute structured interview and a brief psychometric evaluation. He was cooperative and engaged throughout the session, though he exhibited a guarded tone when discussing his past experiences with mental health treatment. The patient was able to provide a coherent narrative of his symptoms and history, with no signs of acute distress or agitation.  
+
+During the interview, he demonstrated an awareness of the severity of his depressive symptoms and expressed a desire to get better, though he also expressed concerns about the effectiveness of medication and the potential for side effects. He was able to recall key events from his past, including his previous diagnosis of depression and the reasons for discontinuing sertraline.  
+
+He was assessed for the presence of any psychomotor symptoms and showed no signs of agitation, retardation, or hyperactivity. His posture was upright, and his movements were appropriate for the setting. He did not display any signs of psychosocial withdrawal or avoidance.  
+
+The patient was asked to complete a brief structured screening for suicidal ideation using the Columbia-Suicide Severity Rating Scale (C-SSRS). His score was as follows:  
+- **Suicidal Ideation:** 4 (Passive thoughts, no plan, no intent)  
+- **Suicidal Plan:** 0 (No plan)  
+- **Suicidal Means:** 0 (No means)  
+- **Suicidal Intent:** 0 (No intent)  
+- **Suicidal Attempts:** 1 (One prior attempt, 3 days prior)  
+- **Injury:** 2 (Minor injury, no hospitalization)  
+- **CNS Symptoms:** 0 (No cognitive or neurological symptoms)  
+- **Current Suicidal Risk:** Low   
+
+He was also administered a brief version of the Beck Hopelessness Scale, scoring 14 out of 20, indicating moderate hopelessness.  
+
+**Additional Lab Results (from prior visit):**  
+- **Urinalysis (U/A):**  
+  - Appearance: Clear  
+  - Color: Pale yellow  
+  - Odor: Normal  
+  - Specific Gravity: 1.015  
+  - pH: 6.0  
+  - Protein: Negative  
+  - Glucose: Negative  
+  - Ketones: Negative  
+  - Blood: Negative  
+  - Leukocytes: Negative  
+  - Nitrite: Negative  
+  - Bilirubin: Negative  
+  - Urobilinogen: Negative  
+  - Microscopic: No RBCs, WBCs, or casts  
+- **Complete Blood Count (CBC):**  
+  - WBC: 7.2 x 10^3/µL  
+  - RBC: 4.8 x 10^6/µL  
+  - HGB: 13.8 g/dL  
+  - HCT: 41.5%  
+  - MCV: 87 fL  
+  - MCH: 28.8 pg  
+  - MCHC: 33.1 g/dL  
+  - RDW: 11.2%  
+  - Platelets: 228,000/µL  
+- **Comprehensive Metabolic Panel (CMP):**  
+  - Sodium: 141 mEq/L  
+  - Potassium: 4.1 mEq/L  
+  - Chloride: 102 mEq/L  
+  - CO2: 26 mEq/L  
+  - BUN: 18 mg/dL  
+  - Creatinine: 0.9 mg/dL  
+  - Glucose: 92 mg/dL  
+  - Albumin: 4.2 g/dL  
+  - Total Protein: 7.0 g/dL  
+  - ALP: 65 U/L  
+  - AST: 25 U/L  
+  - ALT: 30 U/L  
+  - Bilirubin Total: 0.8 mg/dL  
+  - Lactate Dehydrogenase (LDH): 180 U/L  
+- **Thyroid Function Tests (TFTs):**  
+  - TSH: 2.1 µIU/mL  
+  - Free T4: 1.1 ng/dL  
+  - T3: 1.2 ng/mL  
+- **Hepatitis Panel:**  
+  - Hepatitis A: Non-reactive  
+  - Hepatitis B: Non-reactive  
+  - Hepatitis C: Non-reactive  
+- **Urinary Drug Screen:**  
+  - **Cocaine:** Negative  
+  - **Opiates:** Negative  
+  - **Amphetamines:** Negative  
+  - **Benzodiazepines:** Negative  
+  - **Marijuana:** Negative  
+  - **PCP:** Negative  
+  - **Phencyclidine:** Negative  
+  - **Barbiturates:** Negative  
+  - **Methadone:** Negative  
+  - **Oxycodone:** Negative  
+  - **Methamphetamine:** Negative  
+  - **Ethyl Alcohol (EtG):** Positive (0.04 g/dL) – Indicates recent alcohol use  
+
+**Imaging Results:**  
+- **Chest X-ray (April 5, 2025):**  
+  - **Findings:** Clear lungs with no acute abnormalities. No evidence of pleural effusion, consolidation, or hilar lymphadenopathy. Cardiomegaly not observed.  
+
+  - **Impression:** Normal chest radiograph.  
+- **Abdominal Ultrasound (April 5, 2025):**  
+  - **Findings:** Normal liver size and echotexture. No evidence of hepatomegaly or steatosis. Gallbladder appears normal. Pancreas is unremarkable. No evidence of ascites or abnormal masses.  
+  - **Impression:** Normal abdominal ultrasound.  
+
+**Nursing Notes:**  
+- **Initial Nursing Assessment (April 5, 2025):**  
+  - Patient is alert and oriented to person, place, time, and situation.  
+  - No signs of acute distress or agitation.  
+  - No visible signs of self-harm or recent injury.  
+  - Patient is compliant with intake procedures and is engaged in the therapeutic process.  
+  - Patient verbalized understanding of the purpose of the assessment and the role of the healthcare team.  
+  - Patient was monitored for any signs of psychomotor changes or altered mental status throughout the encounter.  
+  - No signs of dehydration or acute medical illness.  
+    - Patient was observed to have a stable vital sign profile.  
+
+
+- **Nursing Observation (April 5, 2025, 11:30 AM):**  
+  - Patient remains appropriately engaged in the therapeutic conversation.  
+
+  - No signs of increased anxiety or distress.  
+  - Patient was encouraged to discuss his concerns about medication and therapy.  
+  - He demonstrated a willingness to participate in the treatment plan.  
+  - No signs of withdrawal or social avoidance during the session.  
+  - Patient was encouraged to maintain a journal for tracking mood and symptoms.  
+  - No signs of psychomotor retardation or agitation.  
+
+- **Nursing Observation (April 5, 2025, 1:00 PM):**  
+  - Patient has been compliant with scheduled activities.  
+  - No signs of suicidal ideation or self-harm during the day.  
+  - Patient was provided with a copy of his intake note and a list of resources.  
+  - He was given instructions on how to contact the clinic for any concerns or emergencies.  
+  - No signs of deterioration in mental status.  
+  - Patient expressed appreciation for the care provided and showed a positive attitude toward the treatment plan.  
+
+**Consult Notes:**  
+- **Psychiatry Consult (April 5, 2025):**  
+  - Patient presents with a history of Major Depressive Disorder, Recurrent, Moderate, with current symptoms of suicidal ideation and significant functional impairment.  
+  - No evidence of psychotic features or delusional thinking.  
+  - Patient is appropriate for outpatient therapy and pharmacotherapy.  
+  - Recommendation to initiate sertraline 50 mg PO daily and monitor for side effects.  
+  - Patient is advised to avoid alcohol and to report any adverse reactions promptly.  
+  - Follow-up appointment scheduled for April 12, 2025, to assess response to treatment.  
+
+- **Primary Care Consult (April 5, 2025):**  
+  - Patient has no significant medical issues requiring further attention.  
+  - No signs of metabolic or endocrine abnormalities.  
+  - No evidence of chronic liver disease or other hepatic issues.  
+  - Patient’s medication regimen is appropriate for his current symptoms.  
+  - No recommendation for additional testing at this time.  
+
+- **Social Work Consult (April 5, 2025):**  
+  - Patient is currently living with his mother and has no close family or friends to provide emotional support.  
+  - No evidence of homelessness or housing instability.  
+
+  - Patient is unemployed and has limited access to community resources.  
+  - Social worker recommends a referral to a vocational counselor and a community support group for individuals with depression.  
+  - Patient is advised to consider engaging in volunteer work or other social activities to improve his sense of purpose.  
+
+**Follow-Up Documentation:**  
+- **Follow-Up Appointment (April 12, 2025):**  
+  - **Vital Signs:**  
+    - Temperature: 98.6°F (37.0°C)  
+    - Pulse: 70 bpm  
+    - Respiratory Rate: 16 breaths/min  
+    - Blood Pressure: 126/80 mmHg  
+    - Oxygen Saturation: 98% on room air  
+
+    - Weight: 185 lbs  
+    - Height: 6'1"  
+    - BMI: 25.8  
+  - **Mental Status:**  
+    - Appearance: Well-groomed and appropriately dressed.  
+    - Behavior: Cooperative and attentive.  
+    - Mood: Mildly depressed, with some improvement in energy levels.  
+    - Affect: Blunted, but more expressive than prior.  
+
+    - Speech: Normal rate and volume.  
+     - Thought Process: Linear and coherent.  
+    - Thought Content: Some persistent suicidal ideation, but no plan.  
+    - Perception: No perceptual abnormalities.  
+    - Cognition: Orientation intact. Attention and concentration slightly improved.  
+    - Insight/Judgment: Improved insight into the need for ongoing treatment.  
+    - Psychomotor Activity: No agitation or retardation.  
+  - **Medication Review:**  
+    - Sertraline 50 mg PO daily: Patient reports minimal side effects (mild gastrointestinal discomfort, which is manageable).  
+    - Zolpidem 10 mg at bedtime: Patient reports improved sleep but has not yet tapered off the medication.  
+  - **Therapy Engagement:**  
+    - Patient attended 1 session of CBT and expressed appreciation for the therapeutic process.  
+    - He has started keeping a mood journal and has noted some improvements in mood over the past week.  
+  - **Social Support:**  
+    - Patient is in contact with his mother and has begun attending a support group meeting once a week.      
+    - No significant changes in employment status or housing.  
+  - **Next Steps:**  
+    - Continue weekly therapy sessions.  
+    - Monitor for any changes in mood or suicidal ideation.  
+    - Continue sertraline and plan for gradual discontinuation of zolpidem.  
+    - Schedule follow-up for April 19, 2025, for medication reassessment.  
+
+- **Follow-Up Appointment (April 19, 2025):**  
+  - **Vital Signs:**  
+    - Temperature: 98.6°F (37.0°C)  
+    - Pulse: 72 bpm  
+    - Respiratory Rate: 16 breaths/min  
+    - Blood Pressure: 124/81 mmHg    
+    - Oxygen Saturation: 98% on room air  
+    - Weight: 185 lbs  
+
+    - Height: 6'1"  
+    - BMI: 25.8  
+  - **Mental Status:**  
+
+    - Appearance: Well-groomed and appropriately dressed.  
+    - Behavior: Cooperative and attentive.  
+    - Mood: Mildly depressed, with some improvement in energy and motivation.  
+    - Affect: Blunted, but more expressive.  
+    - Speech: Normal rate and volume.  
+    - Thought Process: Linear and coherent.  
+    - Thought Content: Persistent suicidal ideation but with no plan.  
+    - Perception: No perceptual abnormalities.  
+    - Cognition: Orientation intact. Attention and concentration improved.  
+    - Insight/Judgment: Improved insight into the need for ongoing treatment.  
+    - Psychomotor Activity: No agitation or retardation.  
+  - **Medication Review:**  
+    - Sertraline 50 mg PO daily: Patient reports continued mild gastrointestinal discomfort.  
+    - Zolpidem 10 mg at bedtime: Patient has started tapering off the medication, with a plan to discontinue by April 30, 2025.  
+  - **Therapy Engagement:**  
+    - Patient attended 2 sessions of CBT and has started to engage in more meaningful conversations during therapy.  
+    - He has begun to explore activities that he previously enjoyed, such as reading and playing guitar.  
+  - **Social Support:**  
+    - Patient has continued attending the support group and has started reaching out to a few friends for social interaction.  
+    - No significant changes in employment status or housing.  
+  - **Next Steps:**  
+    - Continue weekly therapy sessions.  
+    - Monitor for any changes in mood or suicidal ideation.  
+    - Continue sertraline and monitor for side effects.  
+    - Schedule follow-up for April 26, 2025, for medication reassessment.  
+
+**Nursing Notes (April 12, 2025):**  
+- **Nursing Assessment (April 12, 2025):**  
+  - Patient is alert and oriented to person, place, time, and situation.  
+  - No signs of acute distress or agitation.  
+  - No visible signs of self-harm or recent injury.  
+  - Patient is compliant with intake procedures and is engaged in the therapeutic process.  
+  - Patient verbalized understanding of the purpose of the assessment and the role of the healthcare team.  
+  - Patient was monitored for any signs of psychomotor changes or altered mental status throughout the encounter.  
+  - No signs of dehydration or acute medical illness.  
+  - Patient was observed to have a stable vital sign profile.  
+
+- **Nursing Observation (April 12, 2025, 11:30 AM):**  
+  - Patient remains appropriately engaged in the therapeutic conversation.  
+  - No signs of increased anxiety or distress.  
+  - Patient was encouraged to discuss his concerns about medication and therapy.  
+  - He demonstrated a willingness to participate in the treatment plan.  
+  - No signs of withdrawal or social avoidance during the session.  
+  - Patient was encouraged to maintain a journal for tracking mood and symptoms.  
+  - No signs of psychomotor retardation or agitation.  
+
+**Nursing Notes (April 19, 2025):**  
+- **Nursing Assessment (April 19, 2025):**  
+  - Patient is alert and oriented to person, place, time, and situation.  
+  - No signs of acute distress or agitation.  
+  - No visible signs of self-harm or recent injury.  
+  - Patient is compliant with intake procedures and is engaged in the therapeutic process.  
+  - Patient verbalized understanding of the purpose of the assessment and the role of the healthcare team.  
+  - Patient was monitored for any signs of psychomotor changes or altered mental status throughout the encounter.  
+  - No signs of dehydration or acute medical illness.  
+  - Patient was observed to have a stable vital sign profile.  
+
+- **Nursing Observation (April 19, 2025, 11:30 AM):**  
+  - Patient remains appropriately engaged in the therapeutic conversation.  
+  - No signs of increased anxiety or distress.  
+  - Patient was encouraged to discuss his concerns about medication and therapy.  
+  - He demonstrated a willingness to participate in the treatment plan.  
+  - No signs of withdrawal or social avoidance during the session.  
+  - Patient was encouraged to maintain a journal for tracking mood and symptoms.  
+  - No signs of psychomotor retardation or agitation.  
+
+   **Additional Follow-Up Documentation:**  
+- **Follow-Up Appointment (April 26, 2025):**  
+  - **Vital Signs:**  
+    - Temperature: 98.6°F (37.0°C)  
+    - Pulse: 70 bpm  
+
+    - Respiratory Rate: 16 breaths/min  
+    - Blood Pressure: 122/80 mmHg  
+    - Oxygen Saturation: 98% on room air  
+    - Weight: 185 lbs  
+    - Height: 6'1"  
+    - BMI: 25.8  
+
+  - **Mental Status:**  
+    - Appearance: Well-groomed and appropriately dressed.  
+    - Behavior: Cooperative and attentive.  
+    - Mood: Mildly depressed, with some improvement in energy and motivation.  
+    - Affect: Blunted, but more expressive.  
+    - Speech: Normal rate and volume.  
+    - Thought Process: Linear and coherent.  
+    - Thought Content: Persistent suicidal ideation but with no plan.  
+    - Perception: No perceptual abnormalities.  
+    - Cognition: Orientation intact. Attention and concentration improved.  
+    - Insight/Judgment: Improved insight into the need for ongoing treatment.  
+    - Psychomotor Activity: No agitation or retardation.  
+  - **Medication Review:**  
+    - Sertraline 50 mg PO daily: Patient reports continued mild gastrointestinal discomfort.  
+    - Zolpidem 10 mg at bedtime: Patient has completed the tapering process and is now off the medication.  
+  - **Therapy Engagement:**  
+    - Patient attended 3 sessions of CBT and has started to engage in more meaningful conversations during therapy.  
+    - He has begun to explore activities that he previously enjoyed, such as reading and playing guitar.  
+  - **Social Support:**  
+    - Patient has continued attending the support group and has started reaching out to a few friends for social interaction.  
+    - No significant changes in employment status or housing.  
+  - **Next Steps:**  
+    - Continue weekly therapy sessions.  
+
+    - Monitor for any changes in mood or suicidal ideation.  
+    - Continue sertraline and monitor for side effects.  
+    - Schedule follow-up for May 3, 2025, for medication reassessment.  
+
+- **Follow-Up Appointment (May 3, 2025):**  
+  - **Vital Signs:**  
+    - Temperature: 98.6°F (37.0°C)  
+    - Pulse: 70 bpm  
+    - Respiratory Rate: 16 breaths/min  
+    - Blood Pressure: 122/80 mmHg  
+    - Oxygen Saturation: 98% on room air  
+    - Weight: 185 lbs  
+    - Height: 6'1"  
+    - BMI: 25.8  
+  - **Mental Status:**  
+    - Appearance: Well-groomed and appropriately dressed.  
+    - Behavior: Cooperative and attentive.  
+    - Mood: Mildly depressed, with some improvement in energy and motivation.  
+    - Affect: Blunted, but more expressive.  
+    - Speech: Normal rate and volume.  
+    - Thought Process: Linear and coherent.  
+    - Thought Content: Persistent suicidal ideation but with no plan.  
+    - Perception: No perceptual abnormalities.  
+    - Cognition: Orientation intact. Attention and concentration improved.  
+    - Insight/Judgment: Improved insight into the need for ongoing treatment.  
+    - Psychomotor Activity: No agitation or retardation.  
+  - **Medication Review:**  
+    - Sertraline 50 mg PO daily: Patient reports continued mild gastrointestinal discomfort, but it has improved over the past week.  
+  - **Therapy Engagement:**  
+    - Patient attended 4 sessions of CBT and has started to engage in more meaningful conversations during therapy.  
+    - He has begun to explore activities that he previously enjoyed, such as reading and playing guitar.  
+  - **Social Support:**  
+    - Patient has continued attending the support group and has started reaching out to a few friends for social interaction.  
+    - No significant changes in employment status or housing.  
+  - **Next Steps:**  
+    - Continue weekly therapy sessions.     
+    - Monitor for any changes in mood or suicidal ideation.  
+      - Continue sertraline and monitor for side effects.  
+    - Schedule follow-up for May 10, 2025, for medication reassessment.  
+
+**Nursing Notes (May 3, 2025):**  
+- **Nursing Assessment (May 3, 2025):**  
+  - Patient is alert and oriented to person, place, time, and situation.  
+  - No signs of acute distress or agitation.  
+  - No visible signs of self-harm or recent injury.  
+  - Patient is compliant with intake procedures and is engaged in the therapeutic process.  
+  - Patient verbalized understanding of the purpose of the assessment and the role of the healthcare team.  
+  - Patient was monitored for any signs of psychomotor changes or altered mental status throughout the encounter.  
+
+  - No signs of dehydration or acute medical illness.  
+  - Patient was observed to have a stable vital sign profile.  
+
+- **Nursing Observation (May 3, 2025, 11:30 AM):**  
+  - Patient remains appropriately engaged in the therapeutic conversation.  
+  - No signs of increased anxiety or distress.  
+  - Patient was encouraged to discuss his concerns about medication and therapy.  
+  - He demonstrated a willingness to participate in the treatment plan.  
+  - No signs of withdrawal or social avoidance during the session.  
+  - Patient was encouraged to maintain a journal for tracking mood and symptoms.  
+  - No signs of psychomotor retardation or agitation.  
+
+**Additional Documentation (May 10, 2025):**  
+- **Follow-Up Appointment (May 10, 2025):**  
+  - **Vital Signs:**  
+    - Temperature: 98.6°F (37.0°C)  
+    - Pulse: 70 bpm  
+    - Respiratory Rate: 16 breaths/min  
+    - Blood Pressure: 122/80 mmHg  
+    - Oxygen Saturation: 98% on room air  
+    - Weight: 185 lbs  
+    - Height: 6'1"  
+    - BMI: 25.8  
+  - **Mental Status:**  
+    - Appearance: Well-groomed and appropriately dressed.  
+    - Behavior: Cooperative and attentive.  
+    - Mood: Mildly depressed, with some improvement in energy and motivation.  
+    - Affect: Blunted, but more expressive.  
+    - Speech: Normal rate and volume.  
+    - Thought Process: Linear and coherent.  
+    - Thought Content: Persistent suicidal ideation but with no plan.  
+    - Perception: No perceptual abnormalities.  
+
+    - Cognition: Orientation intact. Attention and concentration improved.  
+    - Insight/Judgment: Improved insight into the need for ongoing treatment.  
+    - Psychomotor Activity: No agitation or retardation.  
+  - **Medication Review:**  
+    - Sertraline 50 mg PO daily: Patient reports continued mild gastrointestinal discomfort, but it has improved over the past week.  
+  - **Therapy Engagement:**  
+    - Patient attended 5 sessions of CBT and has started to engage in more meaningful conversations during therapy.  
+    - He has begun to explore activities that he previously enjoyed, such as reading and playing guitar.  
+  - **Social Support:**  
+    - Patient has continued attending the support group and has started reaching out to a few friends for social interaction.  
+    - No significant changes in employment status or housing.  
+  - **Next Steps:**  
+    - Continue weekly therapy sessions.  
+    - Monitor for any changes in mood or suicidal ideation.  
+    - Continue sertraline and monitor for side effects.  
+    - Schedule follow-up for May 17, 2025, for medication reassessment.  
+
+- **Follow-Up Appointment (May 17, 2025):**  
+  - **Vital Signs:**  
+    - Temperature: 98.6°F (37.0°C)  
+    - Pulse: 70 bpm  
+    - Respiratory Rate: 16 breaths/min  
+    - Blood Pressure: 122/80 mmHg  
+    - Oxygen Saturation: 98% on room air  
+    - Weight: 185 lbs  
+    - Height: 6'1"  
+    - BMI: 25.8  
+  - **Mental Status:**  
+    - Appearance: Well-groomed and appropriately dressed.  
+    - Behavior: Cooperative and attentive.  
+    - Mood: Mildly depressed, with some improvement in energy and motivation.  
+    - Affect: Blunted, but more expressive.  
+
+    - Speech: Normal rate and volume.  
+    - Thought Process: Linear and coherent.  
+    - Thought Content: Persistent suicidal ideation but with no plan.  
+    - Perception: No perceptual abnormalities.  
+    - Cognition: Orientation intact. Attention and concentration improved.  
+    - Insight/Judgment: Improved insight into the need for ongoing treatment.  
+    - Psychomotor Activity:

@@ -1,0 +1,717 @@
+**POSTOPERATIVE NOTE**
+
+**Patient Name:** JONATHAN R. WILSON  
+  **Medical Record Number:** 123456789  
+**Date of Birth:** 05/12/1978  
+**Sex:** Male  
+**Weight:** 82 kg  
+**Height:** 182 cm  
+**Primary Diagnosis:** Laparoscopic Cholecystectomy  
+**Admitting Diagnosis:** Acute Cholecystitis  
+ **Surgical Procedure Performed:** Laparoscopic Cholecystectomy  
+**Date of Surgery:** 03/15/2025  
+**Time of Surgery:** 10:30 AM  
+**Surgical Team:** Dr. Emily M. Thompson (Surgeon), Dr. Michael K. Patel (Anesthesiologist), Dr. Laura M. Nguyen (Surgical Assistant)   
+**Location:** Surgical Suite 3, Hospital of the Future, West Campus  
+**Attending Physician:** Dr. Emily M. Thompson  
+**Primary Care Physician:** Dr. Samuel R. Brooks, MD  
+**Primary Nursing Care:** RN Sarah Mitchell  
+**Unit:** Post-Anesthesia Care Unit (PACU)  
+**Admission Time:** 10:30 AM  
+**Discharge Time:** 02:15 PM  
+
+**VITAL SIGNS AT DISCHARGE:**
+- **Temperature:** 36.8°C (98.2°F)  
+- **Pulse:** 72 bpm  
+- **Respiratory Rate:** 16 breaths/min  
+- **Blood Pressure:** 128/82 mmHg  
+- **Oxygen Saturation:** 98% on room air  
+- **GCS:** 15 (Alert, Oriented x3)  
+- **A&Ox3, NAD, PERRL, no neurological deficits noted**
+
+**Pain Assessment:**
+- **Current Pain Score (0-10):** 2/10 (mild discomfort, localized to right upper quadrant)
+- **Pain Management:** Patient-controlled analgesia (PCA) with morphine 1 mg/mL, 1-2 mg/hour background, 1 mg bolus, 2 mg/hour max.  
+- **Medications Given in PACU:**  
+  - Morphine sulfate 1 mg IV bolus  
+  - Hydromorphone 0.2 mg IV bolus  
+  - Lorazepam 0.5 mg IV  
+  - Ondansetron 4 mg IV  
+  - Cefazolin 1 g IV  
+  - Dexamethasone 4 mg IV  
+  - Metoclopramide 10 mg IV  
+  - Fentanyl 50 mcg IV
+
+**Physical Examination at Discharge:**
+- **General Appearance:** Alert, awake, oriented to person, place, and time.  
+- **Respiratory System:** Clear to auscultation bilaterally. No crackles, rhonchi, or wheezes.  
+- **Cardiovascular System:** Regular rate and rhythm, no murmurs, gallops, or rubs.  
+- **Gastrointestinal System:** Mild tenderness in the right upper quadrant. No  guarding, rigidity, or rebound tenderness. Bowel sounds present and active.  
+- **Abdomen:** Soft, non-tender, non-distended. No palpable masses.  
+- **Neurological:** Alert and oriented. No focal deficits.  
+- **Musculoskeletal:** No evidence of atrophy, weakness, or deformities.  
+- **Skin:** No evidence of bruising, erythema, or hematoma.  
+- **Extremities:** No edema, cyanosis, or pallor.  
+- **Wounds:**  
+  - **Incision:** 3 cm right subcostal transverse incision with 3 sutures and 5 steri-strips.  
+  - **Drains:** 2 Jackson-Pratt drains in place.  
+    - Drain 1: 15 mL of serosanguinous fluid.  
+    - Drain 2: 5 mL of serous fluid.  
+  - **Dressing:** Clean, dry, and intact.  
+- **Dental:** No signs of dental trauma or bleeding.  
+- **Spine:** No abnormalities.  
+- **Eyes:** Pupils equal, round, and reactive to light and accommodation (PERRL).  
+- **Ears:** No drainage, erythema, or tenderness.  
+- **Nasal:** No signs of epistaxis or obstruction.  
+- **Mouth:** No signs of bleeding or trauma.  
+- **Lungs:** Clear to auscultation.  
+- **Cardiac:** Normal S1 and S2.  
+- **Peripheral Circulation:** 2+ pedal pulses, no cyanosis.  
+- **Urogenital:** No urinary retention, no signs of hematuria.  
+- **Psychiatric:** No signs of delirium, anxiety, or depression.  
+- **Mental Status:** Alert and cooperative.  
+- **Mobility:** Patient able to ambulate with assistance.  
+
+**INFORMATION FROM PACU:**
+- **PACU Admission:** 10:30 AM  
+- **PACU Discharge:** 02:15 PM  
+- **PACU Course:** Patient was monitored closely postoperatively. Initially, patient experienced intermittent nausea and mild tachypnea, which improved with ondansetron and hydration. Mild hypotension (90/60 mmHg) was noted at 11:45 AM, which was resolved with intravenous fluids. Patient was alert and oriented throughout the post-anesthesia recovery period.  
+- **Pain Management:** Patient reported mild discomfort with movement but otherwise was asymptomatic.  
+- **Voiding:** Patient voided 400 mL at 11:15 AM.  
+- **Nasogastric Tube:** Not used.  
+
+- **Dental:** No issues noted.  
+- **Diet:** NPO until bowel sounds were active.  
+- **Mobility:** Patient was assisted to sit up at 11:30 AM, and then ambulated in the PACU with assistance.  
+- **Dressings:** Both incision sites were dressed with sterile gauze and adhesive strips.  
+- **Drains:** Both Jackson-Pratt drains were in place with minimal output.  
+- **Wound Care:** No signs of dehiscence, evisceration, or infection.  
+- **Pulse Oximetry:** 98% on room air throughout.  
+- **Blood Pressure:** Fluctuated between 110-130/70-85 mmHg.  
+- **Heart Rate:** 65-75 bpm.  
+- **Respiratory Rate:** 14-16 breaths/min.  
+- **Temperature:** 36.6-36.9°C.  
+
+**LABORATORY RESULTS:**
+- **Complete Blood Count (CBC):**  
+  - Hemoglobin: 14.2 g/dL (Reference Range: 13.5–17.5 g/dL)  
+  - Hematocrit: 42.5% (Reference Range: 38.5–47.5%)  
+  - White Blood Cell Count: 10.5 x 10^9/L (Reference Range: 4.0–11.0 x 10^9/L)  
+  - Platelets: 230 x 10^9/L (Reference Range: 150–450 x 10^9/L)  
+- **Basic Metabolic Panel (BMP):**  
+  - Sodium: 140 mEq/L (Reference Range: 135–145 mEq/L)  
+  - Potassium: 4.2 mEq/L (Reference Range: 3.5–5.0 mEq/L)  
+  - Chloride: 102 mEq/L (Reference Range: 98–107 mEq/L)  
+  - Bicarbonate: 26 mEq/L (Reference Range: 22–29 mEq/L)  
+  - BUN: 18 mg/dL (Reference Range: 7–20 mg/dL)  
+  - Creatinine: 0.9 mg/dL (Reference Range: 0.6–1.1 mg/dL)  
+  - Glucose: 104 mg/dL (Reference Range: 70–100 mg/dL)  
+  - Calcium: 9.1 mg/dL (Reference Range: 8.5–10.5 mg/dL)  
+- **Liver Function Tests (LFTs):**  
+  - ALT: 45 U/L (Reference Range: 25–55 U/L)  
+  - AST: 38 U/L (Reference Range: 20–40 U/L)  
+
+  - ALP: 110 U/L (Reference Range: 40–120 U/L)  
+   - Total Bilirubin: 0.8 mg/dL (Reference Range: 0.2–1.2 mg/dL)  
+  - Albumin: 4.1 g/dL (Reference Range: 3.5–5.0 g/dL)  
+- **Coagulation Profile:**  
+  - PT: 12.5 sec (Reference Range: 11–13.5 sec)  
+  - INR: 1.0 (Reference Range: 0.8–1.2)  
+  - PTT: 32 sec (Reference Range: 25–35 sec)  
+  - Platelet count: 230 x 10^9/L (Reference Range: 150–450 x 10^9/L)  
+
+- **Urinalysis (U/A):**  
+  - Color: Amber  
+  - Clarity: Clear  
+  - pH: 6.0  
+  - Leukocytes: 0–1 HPF  
+  - Blood: 0  
+  - Nitrites: Negative  
+  - Glucose: Negative  
+  - Protein: Negative  
+- **Blood Gas (Arterial):**  
+  - pH: 7.41  
+  - PaCO2: 40 mmHg  
+  - PaO2: 98 mmHg  
+  - HCO3: 24 mEq/L  
+  - Base Excess: 0 mEq/L  
+  - O2 Saturation: 98% on room air  
+
+**IMAGING STUDIES:**
+- **Postoperative Abdominal X-ray (PAX):** No free air. Bowel gas pattern is normal. No signs of bowel obstruction or perforation.  
+- **Intraoperative Ultrasound (IOUS):** Confirmed presence of gallstones. No evidence of biliary duct injury.  
+- **Intraoperative CT Scan (if applicable):** Not performed.  
+- **Postoperative Ultrasound (Post-Op US):** No abnormal findings. No residual gallstones. No biliary leakage.  
+
+**DIAGNOSTIC TESTS:**
+- **Chest X-ray:** Clear, no infiltrates or pleural effusion.  
+- **Electrocardiogram (EKG):** Sinus rhythm, normal QRS complex, no ST-T changes.  
+- **Doppler Ultrasound of Lower Extremities:** No signs of deep vein thrombosis (DVT).  
+- **Urinary Catheterization:** Clear, no blood, no sediment.  
+
+**MEDICATIONS:**
+- **PCA Pump:** Morphine sulfate 1 mg/mL, 1-2 mg/hour background, 1 mg bolus, 2 mg/hour max.  
+- **Pain Medication:**  
+  - Acetaminophen 500 mg PO every 6 hours as needed for pain.  
+  - Ibuprofen 400 mg PO every 8 hours as needed for pain.  
+  - Hydromorphone 0.2 mg IV every 4 hours as needed for breakthrough pain.  
+- **Antibiotics:**  
+  - Cefazolin 1 g IV every 8 hours for 24 hours post-op.  
+- **Anti-emetic:**  
+  - Ondansetron 4 mg IV every 6 hours as needed for nausea.  
+  - Metoclopramide 10 mg IV every 6 hours as needed for nausea.  
+- **Anticoagulant:**  
+  - Low Molecular Weight Heparin (LMWH) 40 mg subcutaneously every 12 hours starting 24 hours post-op.  
+- **Anti-inflammatory:**  
+  - Dexamethasone 4 mg IV at the end of surgery.  
+- **Antihistamine:**  
+  - Lorazepam 0.5 mg IV at the end of surgery.  
+- **Diuretic:**  
+  - Furosemide 20 mg IV as needed for fluid overload.  
+- **Antihypertensive:**  
+  - Lisinopril 10 mg PO daily.  
+- **Antidiabetic (if applicable):**  
+  - Metformin 500 mg PO twice daily.  
+
+**ALLERGIES:**
+- **No known allergies.**  
+- **No previous anaphylactic reactions.**  
+- **No known drug allergies.**
+
+**FALL RISK ASSESSMENT:**
+- **Morse Fall Scale (MFS):** 12 (Low risk)  
+- **Patient is ambulating with assistance and is alert.**  
+- **No history of falls.**  
+- **No orthostatic hypotension noted.**  
+- **No gait abnormalities.**
+
+**NEUROLOGICAL ASSESSMENT:**
+- **Glasgow Coma Scale (GCS):** 15 (Alert, Oriented x3)  
+- **Pupils:** Equal, round, reactive to light and accommodation (PERRL)  
+- **Dressing:** No neurological deficits noted.  
+- **Sensory and Motor:** No deficits.  
+- **Mental Status:** Alert, oriented, and cooperative.  
+- **Speech:** Normal.  
+- **Behavior:** No signs of confusion or agitation.  
+
+**COAGULATION RISK ASSESSMENT:**
+- **Caprini Score:** 2 (Low risk)  
+- **No history of DVT or PE.**  
+- **No current anticoagulant therapy.**  
+- **LMWH started post-op.**  
+- **No signs of bleeding or hematoma.**
+
+**NURSING NOTES:**
+- **Nursing Assessment:** Patient is alert, oriented, and cooperative.  
+- **Nursing Interventions:**  
+  - Monitored vital signs every hour.  
+  - Assisted with ambulation.  
+  - Administered PCA medication as ordered.  
+  - Monitored for signs of bleeding, infection, or complications.  
+  - Maintained aseptic technique during wound care.  
+  - Ensured patient hydration and nutrition.  
+  - Educated patient on post-op care, including incision care, pain management, and activity restrictions.  
+- **Nursing Outcomes:**  
+  - Patient remains stable.  
+  - No signs of infection or complication.  
+  - Patient understood post-op instructions.  
+  - Pain managed effectively.  
+
+**PATIENT EDUCATION:**
+- **Postoperative Care:**  
+  - Patient instructed on incision care, including cleaning and monitoring for signs of infection (redness, swelling, drainage, fever).  
+  - Patient advised to avoid lifting heavy objects or strenuous activity for at least 6 weeks.  
+  - Patient instructed on when to seek immediate medical attention (fever, severe pain, redness, drainage, or difficulty breathing).  
+  - Patient educated on the use of PCA pump and when to call for assistance.  
+  - Patient educated on the importance of resuming a normal diet and activity as tolerated.  
+  - Patient given a discharge summary with instructions for follow-up.  
+  - Patient provided with a list of medications and their dosages.  
+  - Patient educated on signs and symptoms of biliary complications.  
+- **Diet:**  
+  - Patient started on clear liquids, then advanced to a normal diet as tolerated.  
+  - Patient instructed to avoid spicy, fatty, or high-fiber foods for the first week post-op.  
+  - Patient advised to maintain a balanced diet and stay hydrated.  
+- **Activity:**  
+  - Patient advised to ambulate with assistance and avoid prolonged sitting.  
+  - Patient instructed to use a pillow for comfort during incisional healing.  
+  - Patient advised to avoid driving for at least 24 hours post-op.  
+- **Follow-Up:**  
+  - Patient to return for follow-up visit with primary care physician in 1 week.  
+  - Patient to return if any new  or worsening symptoms develop.  
+  - Patient to have a follow-up abdominal ultrasound in 2 weeks to confirm resolution of gallstones.  
+- **Medication List:**  
+  - Acetaminophen 500 mg PO every 6 hours as needed  
+  - Ibuprofen 400 mg PO every 8 hours as needed  
+  - Hydromorphone 0.2 mg IV every 4 hours as needed for breakthrough pain  
+  - Cefazolin 1 g IV every 8 hours for 24 hours post-op  
+  - Ondansetron 4 mg IV every 6 hours as needed  
+  - Metoclopramide 10 mg IV every 6 hours as needed  
+  - Dexamethasone 4 mg IV at the end of surgery  
+  - Lorazepam 0.5 mg IV at the end of surgery  
+  - Low Molecular Weight Heparin (LMWH) 40 mg subcutaneously every 12 hours starting 24 hours post-op  
+  - Lisinopril 10 mg PO daily  
+  - Metformin 500 mg PO twice daily  
+
+**DISCHARGE SUMMARY:**
+- **Patient Discharged:** 02:15 PM  
+- **Discharge Destination:** Home  
+- **Discharge Instructions:** As above  
+- **Follow-Up:** Primary care physician in 1 week, abdominal ultrasound in 2 weeks  
+- **Transport:** Patient was transported by family member.  
+- **Patient Condition at Discharge:** Stable, no complications, no signs of infection, no evidence of bleeding.  
+- **Psychosocial Status:** Patient is a married, employed, and active individual with no psychiatric history.  
+- **Social Support:** Patient has a spouse and two children, both residing nearby.  
+- **Home Environment:** Safe, clean, and equipped for home care.  
+- **Medication Compliance:** Patient is expected to comply with prescribed medications.  
+- **Nutrition and Hydration:** Patient has access to a balanced diet and is encouraged to maintain fluid intake.  
+- **Activity and Mobility:** Patient is expected to gradually increase activity as tolerated.  
+- **Follow-Up Care:** Patient will return for scheduled follow-up appointments.  
+- **Discharge Medications:** As listed above.  
+
+- **Discharge Education:** Patient was educated on postoperative care and follow-up.  
+- **Discharge Plan:** Patient to return if any new or worsening symptoms develop.  
+
+**CLINICAL COURSE:**
+- **Preoperative:** Patient presented with acute cholecystitis, with right upper quadrant pain, fever, and leukocytosis.  
+- **Intraoperative:** Laparoscopic cholecystectomy performed without complications.  
+- **Postoperative:** Patient had a smooth recovery with mild discomfort, managed with analgesia.  
+- **No complications noted.**  
+- **No evidence of biliary leakage or injury.**  
+- **Wound healing is progressing well.**  
+
+- **No signs of infection or hematoma.**  
+
+- **No evidence of post-op bleeding.**  
+- **No signs of pulmonary embolism or deep vein thrombosis.**  
+- **No neurological deficits.**  
+- **No cardiac complications.**  
+- **No gastrointestinal complications.**  
+- **No renal complications.**  
+- **No metabolic or electrolyte disturbances.**  
+- **No medication-related adverse effects.**  
+- **No psychiatric or cognitive changes.**  
+- **Patient is stable for discharge.**  
+
+**FUTURE PLANS:**
+- **Follow-Up Appointments:**      
+  - Primary care physician in 1 week  
+  - Abdominal ultrasound in 2 weeks  
+  - Return for wound check at 1 week  
+- **Medication Management:**  
+  - Continue all medications as prescribed  
+  - Review medications with primary care physician in 1 week  
+- **Activity Plan:**  
+
+  - Gradually increase activity as tolerated  
+  - Avoid heavy lifting and strenuous activity for 6 weeks  
+- **Nutrition Plan:**  
+  - Resume normal diet as tolerated  
+  - Avoid fatty foods for at least 2 weeks  
+- **Incision Care:**  
+  - Keep incision clean and dry  
+  - Monitor for signs of infection  
+- **Patient Monitoring:**  
+  - Monitor for signs of biliary complications  
+  - Report any worsening pain or new symptoms  
+
+**FINAL COMMENTS:**
+- **Overall:** Patient had a successful laparoscopic cholecystectomy with no intraoperative or postoperative complications.  
+- **Prognosis:** Excellent.  
+- **Expected Recovery:** Full recovery is expected within 4–6 weeks.  
+
+- **Patient Satisfaction:** Patient and family were satisfied with the care provided.  
+- **No further interventions are required at this time.**  
+- **No pending tests or imaging.**  
+- **No additional referrals needed.**  
+
+**Signed by:**  
+**Dr. Emily M. Thompson**  
+**Attending Surgeon**  
+**Date:** 03/15/2025  
+**Time:** 02:30 PM
+
+**Additional Lab Results:**
+- **Hemoglobin A1c:** 5.8% (Reference Range: 4.0–5.6%)  
+- **Lipid Panel:**  
+  - Total Cholesterol: 195 mg/dL (Reference Range: 120–200 mg/dL)  
+  - LDL-C: 112 mg/dL (Reference Range: <130 mg/dL)  
+
+  - HDL-C: 45 mg/dL (Reference Range: >40 mg/dL)  
+  - Triglycerides: 120 mg/dL (Reference Range: <150 mg/dL)  
+- **Thyroid Function Tests:**  
+  - TSH: 1.2 μIU/mL (Reference Range: 0.4–4.0 μIU/mL)  
+  - Free T4: 1.1 ng/dL (Reference Range: 0.8–1.8 ng/dL)  
+  - T3: 1.3 ng/mL (Reference Range: 0.8–1.8 ng/mL)  
+- **Urinalysis (U/A) Repeated:**  
+  - Color: Amber  
+  - Clarity: Clear  
+  - pH: 6.0  
+  - Leukocytes: 0–1 HPF  
+  - Blood: 0  
+  - Nitrites: Negative  
+  - Glucose: Negative  
+  - Protein: Negative  
+  - Ketones: Negative  
+- **Chest X-ray Repeated:**  
+  - No acute abnormalities.  
+  - No signs of pleural effusion or pulmonary infiltrates.  
+  - Cardiomegaly not present.  
+- **EKG Repeated:**  
+  - Sinus rhythm, normal QRS complex, no ST-T changes.  
+  - No evidence of myocardial ischemia or arrhythmia.  
+- **Electrolyte Panel (Repeat):**  
+  - Sodium: 140 mEq/L  
+
+  - Potassium: 4.2 mEq/L  
+  - Chloride: 102 mEq/L  
+  - Bicarbonate: 26 mEq/L  
+  - Magnesium: 2.0 mg/dL (Reference Range: 1.5–2.5 mg/dL)  
+  - Phosphate: 3.2 mg/dL (Reference Range: 2.5–4.5 mg/dL)  
+
+**Additional Imaging Studies:**
+- **Postoperative Abdominal Ultrasound (Post-Op US):**  
+  - Biliary system appears unremarkable.  
+  - No residual gallstones or sludge.  
+  - No evidence of biliary leakage or ductal injury.  
+  - Hepatic parenchyma is homogeneous with no evidence of focal lesions or masses.  
+  - No ascites or abnormal fluid collections.  
+- **Postoperative CT Scan of the Abdomen (if applicable):**  
+  - Not performed, as ultrasound and clinical findings were sufficient.  
+- **Postoperative X-ray of the Chest (Repeat):**  
+  - No acute abnormalities.  
+  - No signs of atelectasis or consolidation.  
+  - Normal cardiac silhouette.  
+  - Normal pulmonary vasculature.  
+- **Postoperative X-ray of the Right Upper Quadrant (RUQ):**  
+  - No free air, no evidence of bowel obstruction or ileus.  
+  - No signs of biliary duct injury or leakage.  
+  - No evidence of subcutaneous emphysema or pleural effusion.  
+
+**Additional Diagnostic Tests:**
+- **Blood Culture (if applicable):**  
+  - Not performed, as no signs of sepsis or infection were noted.  
+
+- **Chest X-ray (Repeat):**  
+  - No acute abnormalities.  
+  - No signs of infiltrates or consolidation.  
+- **Electrocardiogram (EKG):**  
+  - Sinus rhythm, normal intervals, no ST-T changes.  
+
+- **Doppler Ultrasound of Lower Extremities (Repeat):**  
+  - No signs of deep vein thrombosis (DVT).  
+  - Normal venous flow in both legs.  
+  - No evidence of peripheral edema.  
+- **Urine Culture (if applicable):**  
+     - Not performed, as urinalysis was clear and patient voided without symptoms.  
+
+**Additional Surgical Notes:**
+- **Intraoperative Details:**  
+  - Patient had a well-defined gallbladder with multiple calculi.  
+  - No evidence of gallbladder wall thickening or inflammation.  
+  - Bile duct was visualized and found to be clear.  
+  - No signs of common bile duct injury or stones.  
+  - Surgery was completed without complications.  
+  - No intraoperative transfusion required.  
+  - No intraoperative conversion to open surgery.  
+- **Intraoperative Anesthetic Management:**  
+  - General anesthesia was used with sevoflurane, fentanyl, and rocuronium.  
+  - Patient was maintained on stable hemodynamics throughout the procedure.  
+  - No intraoperative hypotension or hypertension noted.  
+  - No intraoperative arrhythmias or cardiac events.  
+  - No need for emergency interventions.  
+
+**Additional Nursing Notes:**
+- **Nursing Assessment (Post-Discharge):**  
+  - Patient  is alert, oriented, and cooperative.  
+  - No signs of confusion, delirium, or psychiatric changes.  
+  - No evidence of nausea, vomiting, or dizziness.  
+  - Patient is able to perform basic activities of daily living with minimal assistance.  
+  - Patient is following all post-op instructions and demonstrating understanding of care.  
+  - Patient is compliant with medication regimen.  
+  - Patient is demonstrating appropriate pain management.  
+
+- **Nursing Interventions:**  
+  - Assisted with ambulation and activity as tolerated.  
+  - Monitored for signs of bleeding, infection, or complications.  
+  - Provided education on post-op care, including incision care, activity restrictions, and medication use.  
+  - Encouraged patient to maintain hydration and a balanced diet.  
+  - Supported patient in gradually resuming normal activities.  
+- **Nursing Outcomes:**  
+  - Patient remains stable with no complications.  
+  - Patient is following all post-op instructions and demonstrating appropriate self-care.  
+  - No signs of infection or hematoma at incision sites.  
+  - Patient is managing pain effectively with prescribed medications.  
+  - Patient is demonstrating understanding of follow-up care and when to seek medical attention.  
+
+**Additional Consultations:**
+- **Internal Medicine Consult:**  
+  - No specific consult was required, as patient was stable and did not require further medical management.  
+- **Physical Therapy Consult:**  
+  - No consult was initiated, as patient was not identified as high-risk for mobility issues.  
+- **Psychiatry Consult:**  
+  - No consult was initiated, as no psychiatric concerns were noted.  
+- **Social Work Consult:**  
+  - No consult was initiated, as patient had adequate social support at home and no discharge planning issues.  
+
+
+**Additional Follow-Up Documentation:**
+- **Follow-Up Instructions (Reinforced):**  
+  - Patient to return to primary care physician in 1 week for post-op evaluation.  
+
+  - Patient to return for abdominal ultrasound in 2 weeks to confirm resolution of gallstones.  
+  - Patient to return if any new or worsening symptoms develop.  
+  - Patient to maintain a balanced diet and avoid fatty or spicy foods for the first 2 weeks.  
+  - Patient to avoid heavy lifting or strenuous activity for at least 6 weeks.  
+  - Patient to report any signs of infection, fever, or increased pain.  
+  - Patient to report any signs of nausea, vomiting, or difficulty urinating.  
+- **Discharge Summary:**  
+  - Patient discharged home with no complications.  
+  - Patient and family understand post-op instructions and care.  
+    - Patient is expected to comply with all medications and follow-up appointments.  
+  - Patient is expected to maintain a safe home environment and adequate support.  
+- **Discharge Medication List (Reinforced):**  
+  - Acetaminophen 500 mg PO every 6 hours as needed  
+  - Ibuprofen 400 mg PO every 8 hours as needed     
+  - Hydromorphone 0.2 mg IV every 4 hours as needed for breakthrough pain  
+  - Cefazolin 1 g IV every 8 hours for 24 hours post-op  
+  - Ondansetron 4 mg IV every 6 hours as needed  
+  - Metoclopramide 10 mg IV every 6 hours as needed  
+  - Dexamethasone 4 mg IV at the end of surgery  
+  - Lorazepam 0.5 mg IV at the end of surgery  
+  - Low Molecular Weight Heparin (LMWH) 40 mg subcutaneously every 12 hours starting 24 hours post-op  
+  - Lisinopril 10 mg PO daily  
+  - Metformin 500 mg PO twice daily  
+
+**Additional Clinical Notes:**
+- **Medication Review:**  
+  - All medications are appropriate for the patient’s post-op status.  
+
+  - No drug interactions or contraindications noted.  
+  - Patient is expected to continue all medications as prescribed.  
+  - Patient is to be reviewed by primary care physician in 1 week for medication management.  
+- **Dietary Plan:**  
+  - Patient is advised to maintain a low-fat, high-fiber diet to prevent recurrence of gallstones.  
+  - Patient is advised to avoid alcohol and caffeine for the first 2 weeks post-op.  
+  - Patient is advised to stay hydrated and avoid dehydration.  
+  - Patient is encouraged to follow up with a dietitian if dietary concerns arise.  
+- **Activity Plan:**  
+  - Patient is advised to gradually increase activity as tolerated.  
+  - Patient is advised to avoid prolonged sitting or standing.  
+  - Patient is advised to use a pillow for comfort during incisional healing.  
+  - Patient is advised to avoid driving for at least 24 hours post-op.  
+- **Incision Care Plan:**  
+  - Patient is advised to keep incision sites clean and dry.  
+  - Patient is advised to monitor for signs of infection (redness, swelling, drainage, fever).  
+  - Patient is advised to avoid rubbing or scratching the incision sites.  
+  - Patient is advised to use prescribed antibiotic ointment as needed.  
+- **Psychosocial Support:**  
+  - Patient has strong family support and is expected to return to normal activities.  
+  - Patient is advised to seek help if any emotional or psychological concerns arise.  
+  - No referrals for mental health services are required at this time.  
+
+**Additional Medication Reconciliation:**
+- **Medication Reconciliation (Discharge):**  
+  - Acetaminophen 500 mg PO every 6 hours as needed  
+  - Ibuprofen 400 mg PO every 8 hours as needed  
+  - Hydromorphone 0.2 mg IV every 4 hours as needed for breakthrough pain  
+  - Cefazolin 1 g IV every 8 hours for 24 hours post-op  
+  - Ondansetron 4 mg IV every 6 hours as needed  
+  - Metoclopramide 10 mg IV every 6 hours as needed  
+  - Dexamethasone 4 mg IV at the end of surgery  
+  - Lorazepam 0.5 mg IV at the end of surgery  
+  - Low Molecular Weight Heparin (LMWH) 40 mg subcutaneously every 12 hours starting 24 hours post-op  
+  - Lisinopril 10 mg PO daily  
+  - Metformin 500 mg PO twice daily  
+- **Medication Reconciliation (Home):**  
+  - All medications are to be taken as prescribed.  
+  - Patient is advised to review all medications with primary care physician in 1 week.  
+  - No medications to be discontinued without medical supervision.  
+  - Patient is to report any side effects or adverse reactions immediately.  
+
+**Additional Follow-Up Appointments:**
+ - **Primary Care Physician:**  
+  - Scheduled for 04/01/2025 at 02:00 PM  
+  - To evaluate post-op recovery and provide further guidance.  
+- **Abdominal Ultrasound:**  
+  - Scheduled for 04/15/2025 at 09:00 AM  
+  - To confirm resolution of gallstones and assess for any residual biliary issues.  
+- **Wound Check:**  
+  - Scheduled for 04/01/2025 at 02:00 PM  
+  - To assess incision healing and ensure no complications.  
+- **Medication Review:**  
+  - Scheduled for 04/01/2025 at 02:00 PM  
+  - To review all medications and ensure proper management.  
+
+**Additional Patient Education:**
+- **Incision Care Education:**  
+  - Patient is advised to keep incision sites clean and dry.  
+  - Patient is advised to avoid swimming or soaking in water until incisions are fully healed.  
+  - Patient is advised to use warm compresses if incision site becomes uncomfortable.  
+  - Patient is advised to avoid applying pressure or pulling on the incision.  
+- **Pain Management Education:**  
+  - Patient is advised to use PCA pump as needed for breakthrough pain.  
+  - Patient is advised to report any increase in pain or new symptoms immediately.  
+  - Patient is advised to avoid overuse of pain medications to prevent dependency.  
+  - Patient is advised to take medications with food to minimize gastrointestinal upset.  
+- **Activity and Mobility Education:**  
+  - Patient is advised to gradually increase activity as tolerated.  
+  - Patient is advised to avoid heavy lifting and strenuous activity for at least 6 weeks.  
+  - Patient is advised to use a pillow for comfort during incisional healing.  
+  - Patient is advised to avoid driving for at least 24 hours post-op.  
+- **Diet and Nutrition Education:**  
+  - Patient is advised to maintain a low-fat, high-fiber diet to prevent recurrence of gallstones.  
+  - Patient is advised to avoid alcohol and caffeine for the first 2 weeks post-op.  
+  - Patient is advised to stay hydrated and avoid dehydration.  
+  - Patient is encouraged to follow up with a dietitian if dietary concerns arise.  
+
+**Additional Clinical Follow-Up:**
+- **Follow-Up Plan:**  
+  - Patient is expected to return for scheduled follow-up appointments.  
+  - Patient is expected to attend all scheduled appointments and follow-up visits.  
+  - Patient is expected to maintain a healthy lifestyle and follow all post-op instructions.  
+  - Patient is expected to report any new or worsening symptoms immediately.  
+- **Clinical Prognosis:**  
+  - Patient has an excellent prognosis with no major complications.  
+  - Full recovery is expected within 4–6 weeks.  
+  - No long-term complications are anticipated.  
+- **Patient Satisfaction:**  
+  - Patient and family are satisfied with the care provided.  
+  - Patient is expected to comply with all post-op instructions.  
+  - Patient is expected to follow up as scheduled.  
+- **Discharge Status:**  
+  - Patient is stable and has no pending medical or surgical interventions.  
+  - Patient is expected to recover fully with no complications.  
+  - Patient is expected to return for scheduled follow-up appointments.  
+
+**Additional Final Comments:**    
+- **Overall:** Patient had an uncomplicated laparoscopic cholecystectomy with no intraoperative or postoperative complications.  
+- **Postoperative Course:** Patient had a smooth recovery with mild discomfort managed effectively.  
+- **Wound Healing:** Incisions are healing well with no signs of infection or hematoma.  
+- **Medications:** All medications are appropriate and well-tolerated.  
+- **Follow-Up:** Patient is expected to return for all scheduled follow-up visits and evaluations.  
+- **No further interventions are required at this time.**  
+- **No pending tests or imaging.**  
+- **No additional referrals needed.**  
+
+**Signed by:**  
+**Dr. Emily M. Thompson**  
+**Attending Surgeon**  
+**Date:** 03/15/2025  
+**Time:** 02:30 PM
+
+**Additional Laboratory Results (Continued):**  
+- **Hemoglobin A1c (HbA1c):** 5.8% (Reference Range: 4.0–5.6%)  
+- **Lipid Panel:**  
+  - Total Cholesterol: 195 mg/dL (Reference Range: 120–200 mg/dL)  
+  - LDL-C: 112 mg/dL (Reference Range: <130 mg/dL)  
+  - HDL-C: 45 mg/dL (Reference Range: >40 mg/dL)  
+  - Triglycerides: 120 mg/dL (Reference Range: <150 mg/dL)      
+- **Thyroid Function Tests:**  
+  - TSH: 1.2 μIU/mL (Reference Range: 0.4–4.0 μIU/mL)  
+  - Free T4: 1.1 ng/dL (Reference Range: 0.8–1.8 ng/dL)  
+  - T3: 1.3 ng/mL (Reference Range: 0.8–1.8 ng/mL)  
+- **Urinalysis (U/A) Repeated:**  
+
+  - Color: Amber  
+  - Clarity: Clear  
+  - pH: 6.0  
+  - Leukocytes: 0–1 HPF  
+  - Blood: 0  
+  - Nitrites: Negative  
+  - Glucose: Negative  
+  - Protein: Negative  
+  - Ketones: Negative  
+- **Chest X-ray Repeated:**  
+  - No acute abnormalities.  
+  - No signs of pleural effusion or pulmonary infiltrates.  
+  - Cardiomegaly not present.  
+- **EKG Repeated:**  
+  - Sinus rhythm, normal QRS complex, no ST-T changes.  
+  - No evidence of myocardial ischemia or arrhythmia.  
+- **Electrolyte Panel (Repeat):**  
+  - Sodium: 140 mEq/L  
+  - Potassium: 4.2 mEq/L  
+  - Chloride: 102 mEq/L  
+  - Bicarbonate: 26 mEq/L  
+  - Magnesium: 2.0 mg/dL (Reference Range: 1.5–2.5 mg/dL)  
+  - Phosphate: 3.2 mg/dL (Reference Range: 2.5–4.5 mg/dL)  
+- **Renal Function Tests (Repeat):**  
+  - Creatinine: 0.9 mg/dL (Reference Range: 0.6–1.1 mg/dL)  
+  - BUN: 18 mg/dL (Reference Range: 7–20 mg/dL)  
+  - Estimated Glomerular Filtration Rate (eGFR): 98 mL/min/1.73m² (Reference Range: >90 mL/min/1.73m²)  
+- **Liver Function Tests (LFTs) Repeated:**  
+  - ALT: 45 U/L (Reference Range: 25–55 U/L)  
+  - AST: 38 U/L (Reference Range: 20–40 U/L)  
+  - ALP: 110 U/L (Reference Range: 40–120 U/L)  
+  - Total Bilirubin: 0.8 mg/dL (Reference Range: 0.2–1.2 mg/dL)  
+  - Albumin: 4.1 g/dL (Reference Range: 3.5–5.0 g/dL)  
+- **Coagulation Panel (Repeat):**  
+  - PT: 12.5 sec (Reference Range: 11–13.5 sec)  
+  - INR: 1.0 (Reference Range: 0.8–1.2)  
+  - PTT: 32 sec (Reference Range: 25–35 sec)  
+  - Platelet Count: 230 x 10^9/L (Reference Range: 150–450 x 10^9/L)  
+
+- **Hemostasis Panel:**  
+  - Fibrinogen: 280 mg/dL (Reference Range: 200–400 mg/dL)  
+  - D-Dimer: 0.5 ng/mL (Reference Range: <0.5 ng/mL)  
+  - Factor VIII Activity: 105% (Reference Range: 50–150%)  
+  - Factor IX Activity: 110% (Reference Range: 50–150%)  
+- **Blood Glucose Monitoring:**  
+  - Fasting Blood Glucose: 96 mg/dL (Reference Range: 70–99 mg/dL)  
+  - 2-Hour Postprandial: 124 mg/dL (Reference Range: <140 mg/dL)  
+
+**Additional Imaging Studies (Continued):**  
+- **Postoperative Abdominal Ultrasound (Post-Op US):**  
+  - Biliary system appears unremarkable.  
+  - No residual gallstones or sludge.  
+  - No evidence of biliary leakage or ductal injury.  
+  - Hepatic parenchyma is homogeneous with no evidence of focal lesions or masses.  
+  - No ascites or abnormal fluid collections.  
+- **Postoperative CT Scan of the Abdomen (if applicable):**  
+  - Not performed, as ultrasound and clinical findings were sufficient.  
+- **Postoperative X-ray of the Chest (Repeat):**  
+
+  - No acute abnormalities.  
+
+  - No signs of atelectasis or consolidation.  
+  - Normal cardiac silhouette.  
+  - Normal pulmonary vasculature.  
+- **Postoperative X-ray of the Right Upper Quadrant (RUQ):**  
+  - No free air, no evidence of bowel obstruction or ileus.  
+  - No signs of biliary duct injury or leakage.  
+  - No evidence of subcutaneous emphysema or pleural effusion.  
+- **Postoperative Abdominal X-ray (PAX) Repeated:**  
+  - No free air.  
+  - Bowel gas pattern is normal.  
+  - No signs of bowel obstruction or perforation.  
+  - No evidence of bowel wall thickening or obstruction.  
+
+**Additional Diagnostic Tests (Continued):**  
+- **Blood Culture (if applicable):**  
+  - Not performed, as no signs of sepsis or infection were noted.  
+- **Chest X-ray (Repeat):**  
+  - No acute abnormalities.  
+  - No signs of infiltrates or consolidation.  
+- **Electrocardiogram (EKG):**  
+  - Sinus rhythm, normal intervals, no ST-T changes.  
+- **Doppler Ultrasound of Lower Extremities (Repeat):**  
+  - No signs of deep vein thrombosis (DVT).  
+  - Normal venous flow in both legs.  
+  - No evidence of peripheral edema.  
+- **Urine Culture (if applicable):**  
+  - Not performed, as urinalysis was clear and patient voided without symptoms.  
+
+**Additional Surgical Notes (Continued):**  
+- **Intraoperative Details:**  
+   - Patient had a well-defined gallbladder with multiple calculi.  
+  - No evidence of gallbladder wall thickening or inflammation.  
+  - Bile duct was visualized and found to be clear.  
+  - No signs of common bile duct injury or stones.  
+  - Surgery was completed without complications.  
+  - No intraoperative transfusion required.  
+  - No intraoperative conversion to open surgery.  
+- **Intraoperative Anesthetic Management:**  
+
+  - General anesthesia was used with sevoflurane, fentanyl, and rocuronium.  
+  - Patient was maintained on stable hemodynamics throughout the procedure.  
+  - No intraoperative hypotension or

@@ -1,0 +1,321 @@
+**NON-DISCLOSURE AGREEMENT**  
+**Between PharmaLife Group and BioGen Innovations**  
+**To Protect Trade Secrets in Connection with Joint Research Activities**
+
+**THIS AGREEMENT** is made on this ___ day of ______, 2025, by and between **PharmaLife Group**, a corporation duly organized and existing under the laws of the United States, with its principal place of business at 123 Research Drive, New York, New York, and **BioGen Innovations**, a corporation duly organized and existing under the laws of the United Kingdom, with its principal place of business at 456 Innovation Road, London, United Kingdom (collectively referred to herein as the “Parties” and individually as a “Party”).
+
+WHEREAS, the Parties have entered into a Memorandum of Understanding dated [insert date], regarding a collaborative research initiative aimed at the development of novel therapeutics targeting neurodegenerative disorders;  
+WHEREAS, the Parties recognize that in the course of such collaboration, confidential and proprietary information will be exchanged, including but not limited to research data, clinical trial protocols, preclinical findings, and other commercially sensitive materials;  
+WHEREAS, the Parties desire to protect such information from unauthorized disclosure, use, or exploitation;  
+WHEREAS, this Agreement is intended to govern the terms and conditions under which the Parties may exchange confidential information, and to define the obligations of each Party in relation to such information;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the Parties agree as follows:
+
+---
+
+**Article I – Definitions and Interpretations**
+
+Section 1.1. **Definitions**. For the purposes of this Agreement, the following terms shall have the meanings ascribed to them below:
+
+(a) **Confidential Information** shall mean any information, data, research, development, or other materials disclosed by one Party (the “Disclosing Party”) to the other Party (the “Receiving Party”), whether in writing, orally, or by other means, which is marked or identified as confidential or proprietary, or which, by nature or context, is reasonably understood to be confidential or proprietary. Such information may include, but is not limited to, research methodologies, clinical trial designs, chemical compounds, formulation techniques, manufacturing processes, market strategies, financial data, and other similar information.
+
+(b) **Disclosing Party** shall mean either PharmaLife Group or BioGen Innovations, as applicable, which provides the Confidential Information to the Receiving Party.
+
+(c) **Receiving Party** shall mean the Party that receives Confidential Information from the Disclosing Party under this Agreement.
+
+(d) **Joint Research Project** shall mean the collaborative research initiative between the Parties as described in the Memorandum of Understanding dated [insert date], including all associated activities, studies, and data.
+
+(e) **Trade Secret** shall mean information that (i) derives independent economic value, actual or potential, from not being generally known to, or readily ascertainable by proper means by, the public or other persons, and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.
+
+(f) **International Arbitration** shall mean the method of dispute resolution agreed upon by the Parties, as set forth in Article IX hereof, which shall be conducted in accordance with the rules of the International Chamber of Commerce (ICC) Arbitration Rules.
+
+(g) **Permitted Use** shall mean the use of Confidential Information solely for the purposes of the Joint Research Project, and in accordance with the terms of this Agreement.
+
+(h) **Unauthorized Disclosure** shall mean any disclosure, reproduction, copying, or use of Confidential Information by the Receiving Party or any third party, in violation of the terms of this Agreement.
+
+(i) **Term** shall mean the period from the date of execution of this Agreement to the date of termination, as provided in Article V hereof.
+
+Section 1.2. **Interpretations**. The Parties acknowledge that this Agreement is a binding legal contract and shall be interpreted in accordance with the laws of the jurisdiction governing the arbitration process, as agreed in Article IX hereof. All references to statutes, regulations, or other legal instruments shall be deemed to be references to the laws of such jurisdiction unless otherwise specified. The headings of the Articles and Sections are for convenience of reference only and shall not be deemed part of the provisions of this Agreement. The singular shall be deemed to include the plural and vice versa, and the masculine gender shall be deemed to include the feminine and neuter genders, unless the context otherwise requires.
+
+Section 1.3. **Governing Law and Arbitration**. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction selected by the Parties for the arbitration, as set forth in Article IX. Any disputes arising out of or in connection with this Agreement shall be resolved through international arbitration in accordance with the rules and procedures of the International Chamber of Commerce (ICC) Arbitration Rules. The arbitration shall be conducted in the English language, and the arbitral award shall be final and binding upon both Parties.
+
+---
+
+
+**Article II – Obligations of the Receiving Party**
+
+Section 2.1. **Confidentiality Obligations**. The Receiving Party shall maintain the confidentiality of all Confidential Information disclosed by the Disclosing Party, and shall not disclose, use, or permit any third party to use such information except as expressly permitted under this Agreement. The Receiving Party shall take all reasonable measures to prevent unauthorized access, copying, or disclosure of the Confidential Information, including, but not limited to, implementing appropriate data security protocols, restricting access to authorized personnel, and ensuring that all employees, consultants, or agents of the Receiving Party who come into contact with the Confidential Information are bound by similar confidentiality obligations.
+
+Section 2.2. **Restrictions on Use**. The Receiving Party shall not use the Confidential Information for any purpose other than the purposes of the Joint Research Project. Any use of the Confidential Information outside the scope of this Agreement shall be deemed a material breach of this Agreement and shall be subject to the remedies set forth in Article VI hereof. The Receiving Party shall ensure that all employees, consultants, and agents who have access to Confidential Information are bound by written confidentiality agreements in accordance with the terms of this Agreement.
+
+Section 2.3. **Disclosure to Third Parties**. The Receiving Party shall not disclose any Confidential Information to any third party, including but not limited to employees, consultants, vendors, or investors, unless such disclosure is (a) required by law or a court order, or (b) necessary to perform its obligations under this Agreement. In the event that the Receiving Party is required by law or court order to disclose Confidential Information, it shall provide the Disclosing Party with written notice of such requirement as soon as practicable and shall, if possible, seek to obtain a protective order or other legal remedy to prevent or limit the disclosure. If no such protective order is granted, the Receiving Party shall use its best efforts to redact any Confidential Information from the disclosure and to file a motion to seal the records.
+
+Section 2.4. **Acknowledgment of Confidentiality**. The Receiving Party acknowledges that the Confidential Information disclosed by the Disclosing Party is of a highly sensitive and proprietary nature, and that the unauthorized disclosure or use of such information may result in significant harm to the Disclosing Party’s competitive position, business interests, and intellectual property rights. The Receiving Party further acknowledges that it has the knowledge and resources necessary to safeguard the Confidential Information and to comply with the obligations set forth in this Agreement.
+
+Section 2.5. **Exclusions from Confidentiality**. Notwithstanding the foregoing, the Receiving Party may disclose Confidential Information to the extent that such information (a) is already known to the Receiving Party prior to its disclosure by the Disclosing Party, (b) is independently developed by the Receiving Party without reference to the Confidential Information, (c) is publicly available or becomes publicly available without breach of this Agreement, or (d) is required to be disclosed by law, regulation, or court order, provided that the Receiving Party has complied with the requirements set forth in Section 2.3.
+
+Section 2.6. **Compliance with Legal Requirements**. The Receiving Party shall comply with all applicable laws, rules, and regulations relating to the protection of confidential information, including but not limited to data privacy laws, export control laws, and intellectual property laws. The Receiving Party shall not engage in any activity that violates the terms of this Agreement or any applicable legal requirements.
+
+---
+
+**Article III – Disclosure of Confidential Information**
+
+Section 3.1. **Nature of Disclosure**. The Disclosing Party shall disclose to the Receiving Party the Confidential Information necessary for the performance of the Joint Research Project, including, but not limited to, research data, clinical trial protocols, preclinical findings, and other related materials. The Disclosing Party reserves the right to withhold any information that it deems to be non-essential or unnecessary for the purposes of the Joint Research Project.
+
+Section 3.2. **Timing of Disclosure**. The disclosure of Confidential Information shall occur in phases, as agreed upon by the Parties, with each phase corresponding to specific research milestones. The Disclosing Party shall provide the Receiving Party with written notice of the start and end dates of each phase of disclosure, as well as the nature and scope of the information to be disclosed. The Parties may agree to adjust the timeline of disclosure based on the progress of the Joint Research Project.
+
+Section 3.3. **Form and Medium of Disclosure**. The Disclosing Party may disclose Confidential Information in any form, including but not limited to written documents, electronic files, oral communications, and presentations. The Receiving Party shall have the right to request copies of the Confidential Information in a format that is acceptable for its internal use, and the Disclosing Party shall make such copies available as reasonably necessary.
+
+
+Section 3.4. **Verification of Confidentiality**. The Disclosing Party shall ensure that all Confidential Information disclosed to the Receiving Party is marked as confidential or proprietary, or that such information is otherwise clearly identified as Confidential Information. The Receiving Party shall treat all information received from the Disclosing Party as Confidential Information unless otherwise notified in writing by the Disclosing Party.
+
+Section 3.5. **Limitations on Disclosure**. The Disclosing Party shall not disclose Confidential Information to the Receiving Party unless such disclosure is necessary for the performance of the Joint Research Project. The Disclosing Party reserves the right to terminate the disclosure of Confidential Information at any time if it determines that such disclosure would be detrimental to its interests or if the Receiving Party fails to comply with the terms of this Agreement.
+
+---
+
+**Article IV – Protection of Confidential Information**
+
+Section 4.1. **Security Measures**. The Receiving Party shall implement and maintain appropriate security measures to protect the Confidential Information, including, but not limited to, encryption, access controls, data loss prevention technologies, and other reasonable safeguards against unauthorized access, disclosure, or use. The Receiving Party shall conduct regular audits of its security systems to ensure compliance with this requirement.
+
+Section 4.2. **Access Control**. The Receiving Party shall limit access to the Confidential Information to employees, consultants, and agents who have a legitimate business need to know such information. The Receiving Party shall require all individuals who have access to the Confidential Information to sign a confidentiality agreement in accordance with the terms of this Agreement.
+
+Section 4.3. **Record Keeping**. The Receiving Party shall maintain accurate records of all disclosures, uses, and transfers of Confidential Information. Such records shall be kept for a period of not less than seven (7) years after the termination of this Agreement, unless otherwise required by law.
+
+Section 4.4. **Notification of Breach**. In the event of a breach of this Agreement by the Receiving Party or any third party, the Receiving Party shall immediately notify the Disclosing Party in writing, providing full details of the breach, including the nature of the breach, the information that was disclosed, and the steps taken to mitigate the damage. The Receiving Party shall cooperate fully with the Disclosing Party in investigating and addressing the breach.
+
+Section 4.5. **Remedies for Breach**. In the event of a breach of this Agreement, the Disclosing Party shall be entitled to seek injunctive relief, damages, and other remedies available under applicable law. The Parties acknowledge that the breach of this Agreement may result in irreparable harm and that monetary damages may not be an adequate remedy for such breach.
+
+---
+
+**Article V – Term and Termination**
+
+Section 5.1. **Term of Agreement**. This Agreement shall remain in effect from the date of execution until the completion of the Joint Research Project, as defined in the Memorandum of Understanding, unless earlier terminated pursuant to the provisions of this Article. The term of this Agreement may be extended by mutual agreement of the Parties in writing.
+
+Section 5.2. **Termination for Cause**. Either Party may terminate this Agreement upon written notice to the other Party if the other Party has materially breached any provision of this Agreement and has failed to cure such breach within thirty (30) days after receipt of written notice of such breach. The breach shall be deemed material if it has caused or is likely to cause substantial harm to the Disclosing Party’s business interests, intellectual property rights, or competitive position.
+
+Section 5.3. **Termination for Convenience**. Either Party may terminate this Agreement at any time by providing written notice to the other Party, provided that such termination does not prejudice the other Party’s ability to recover any damages or remedies arising from the breach of this Agreement. The terminating Party shall be responsible for any costs or expenses incurred by the other Party as a result of such termination.
+
+Section 5.4. **Effect of Termination**. Upon termination of this Agreement, the Receiving Party shall immediately cease all use of the Confidential Information and shall return or destroy all copies of the Confidential Information in its possession or control. The Receiving Party shall provide the Disclosing Party with written confirmation of such return or destruction. Any obligations under this Agreement that survive termination shall remain in full force and effect.
+
+Section 5.5. **Survival of Certain Provisions**. The following provisions of this Agreement shall survive the termination of this Agreement: (a) Article IV, which governs the protection of Confidential Information; (b) Article VI, which governs remedies and damages; and (c) Article IX, which governs dispute resolution and arbitration.
+
+---
+
+**Article VI – Remedies and Damages**
+
+Section 6.1. **Injunctive Relief**. The Parties acknowledge that the unauthorized disclosure or use of Confidential Information may cause irreparable harm to the Disclosing Party, and that monetary damages may not be an adequate remedy for such harm. Therefore, the Disclosing Party shall be entitled to seek injunctive relief to prevent or restrain such unauthorized disclosure or use of Confidential Information, in addition to any other remedies available under applicable law.
+
+Section 6.2. **Damages**. In the event of a breach of this Agreement, the Disclosing Party shall be entitled to recover all damages sustained as a result of such breach, including but not limited to lost profits, lost revenue, and other direct and indirect damages. The Receiving Party shall be liable for all damages incurred by the Disclosing Party as a result of the breach, including any damages resulting from the unauthorized use, disclosure, or exploitation of Confidential Information.
+
+Section 6.3. **Costs and Attorneys’ Fees**. The Parties agree that in the event of any litigation or arbitration arising from this Agreement, the prevailing Party shall be entitled to recover all costs and attorneys’ fees incurred in connection with such litigation or arbitration, including but not limited to court costs, filing fees, expert witness fees, and other reasonable expenses.
+
+
+Section 6.4. **Limitation of Liability**. The Parties agree that neither Party shall be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with this Agreement, including but not limited to lost profits, lost business opportunities, or other damages that are not directly caused by the breach of this Agreement. This limitation of liability shall not apply to the extent that such damages are required to be disclosed under applicable law or regulatory requirements.
+
+Section 6.5. **Compliance with Legal Standards**. The Parties agree that the remedies and damages provided for in this Agreement are reasonable and appropriate in light of the nature of the obligations and the potential for harm resulting from a breach. The Parties further agree that this Agreement is not intended to limit the remedies available under applicable law.
+
+---
+
+**Article VII – Representations and Warranties**
+
+Section 7.1. **Representations by the Disclosing Party**. The Disclosing Party represents and warrants to the Receiving Party that:  
+(a) The Confidential Information disclosed to the Receiving Party is the sole and exclusive property of the Disclosing Party, or it has the right to disclose such information to the Receiving Party;  
+(b) The Confidential Information is not subject to any third-party claims, liens, or encumbrances, except as disclosed in writing;  
+(c) The disclosure of the Confidential Information to the Receiving Party does not infringe upon the intellectual property rights of any third party;  
+(d) The Confidential Information is not protected by any laws, regulations, or other legal instruments that would prevent or restrict its disclosure to the Receiving Party under the terms of this Agreement.
+
+Section 7.2. **Representations by the Receiving Party**. The Receiving Party represents and warrants to the Disclosing Party that:  
+(a) The Receiving Party has the legal authority to enter into this Agreement and to perform its obligations hereunder;  
+(b) The Receiving Party is not under any legal obligation that would prevent it from entering into this Agreement or from complying with the terms hereof;  
+(c) The Receiving Party will not disclose, use, or permit the disclosure or use of the Confidential Information in any manner that would violate the terms of this Agreement;  
+(d) The Receiving Party has the necessary resources and capabilities to safeguard the Confidential Information in accordance with the terms of this Agreement.
+
+Section 7.3. **Accuracy of Representations**. The Parties acknowledge that the representations and warranties set forth in this Article are made in good faith and that the Parties have conducted due diligence to verify the accuracy of such representations and warranties. The Parties agree that any misrepresentation or omission in the representations and warranties shall constitute a material breach of this Agreement and shall entitle the aggrieved Party to seek remedies available under applicable law.
+
+---
+
+**Article VIII – Indemnification**
+
+Section 8.1. **Indemnification Obligations**. The Parties agree that each Party shall indemnify and hold harmless the other Party from and against any and all claims, damages, liabilities, costs, and expenses (including but not limited to attorneys’ fees and court costs) arising out of or in connection with any breach of this Agreement by such Party or its agents, employees, or representatives.
+
+Section 8.2. **Scope of Indemnification**. The indemnification obligations shall apply to any claim or action arising out of (a) the unauthorized disclosure or use of Confidential Information by a Party or its agents; (b) the infringement of third-party intellectual property rights by the use of Confidential Information; (c) any violation of applicable laws, regulations, or other legal requirements by a Party; or (d) any other breach or default by a Party under this Agreement.
+
+Section 8.3. **Notification of Claims**. In the event of any claim or action that may entitle a Party to indemnification under this Agreement, the indemnifying Party shall be responsible for promptly investigating such claim and, if necessary, defending or settling the same. The indemnifying Party shall have the right to control the defense of any such claim, provided that it does not prejudice the interests of the indemnified Party. The indemnified Party shall cooperate fully with the indemnifying Party in the defense of such claim.
+
+Section 8.4. **Limitation of Indemnification**. The indemnification obligations set forth in this Article shall not apply to any claim or action that arises from the gross negligence or willful misconduct of the indemnified Party. In addition, the indemnification obligations shall not apply to any claim or action that arises from the unauthorized disclosure or use of Confidential Information by a third party, unless such disclosure or use is attributable to the breach of this Agreement by the indemnifying Party.
+
+Section 8.5. **Insurance**. Each Party shall maintain and maintain in force at all times during the term of this Agreement, and for a period of two (2) years after termination, insurance coverage that is reasonably adequate to cover any potential claims or liabilities arising out of this Agreement. The insurance policy shall include, but is not limited to, liability insurance, directors and officers insurance, and errors and omissions insurance.
+
+---
+
+**Article IX – Dispute Resolution and Arbitration**
+
+Section 9.1. **Arbitration Agreement**. The Parties agree that any disputes arising out of or in connection with this Agreement shall be resolved through international arbitration in accordance with the rules and procedures of the International Chamber of Commerce (ICC) Arbitration Rules. The Parties shall submit all disputes to the ICC Arbitration Court for resolution, and the arbitral award shall be final and binding upon both Parties.
+
+Section 9.2. **Place of Arbitration**. The arbitration shall be conducted in London, United Kingdom, unless otherwise agreed by the Parties. The language of the arbitration shall be English, and all communications, records, and proceedings shall be conducted in the English language.
+
+Section 9.3. **Arbitrator Selection**. The Parties shall select a sole arbitrator who is an independent expert in the field of pharmaceutical research and intellectual property law. The selection of the arbitrator shall be made by mutual agreement of the Parties, and in the event of a disagreement, the Parties shall refer the matter to the ICC for the selection of an arbitrator.
+
+Section 9.4. **Procedural Rules**. The arbitration shall be governed by the ICC Arbitration Rules as amended from time to time. The Parties agree that the arbitral tribunal shall have the authority to make all decisions necessary to resolve the dispute, including but not limited to the determination of jurisdiction, the scope of the dispute, and the allocation of costs.
+
+Section 9.5. **Confidentiality of Arbitration**. The arbitration proceedings shall be confidential, and the Parties agree that no information disclosed in the arbitration shall be used for any purpose other than the resolution of the dispute. The arbitral award shall not be disclosed to any third party without the prior written consent of the Parties, except as required by law.
+
+Section 9.6. **Costs of Arbitration**. The costs of the arbitration, including but not limited to the fees of the arbitrator, legal representation, and administrative expenses, shall be borne by the Parties in accordance with the decision of the arbitral tribunal. The arbitral tribunal may allocate the costs in any manner it deems fair and equitable, based on the circumstances of the case and the conduct of the Parties.
+
+Section 9.7. **Enforceability of Award**. The Parties agree that the arbitral award shall be binding and enforceable in accordance with the laws of the jurisdiction governing the arbitration, and shall be recognized and enforced in all jurisdictions that are signatories to the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards. The Parties further agree that they shall not seek to challenge the validity, enforceability, or finality of the arbitral award in any court or tribunal.
+
+Section 9.8. **Waiver of Jury Trial**. The Parties hereby waive any right to a jury trial in any action or proceeding arising out of or in connection with this Agreement.
+
+---
+
+**Article X – Miscellaneous Provisions**
+
+Section 10.1. **Entire Agreement**. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof, and supersedes all prior agreements, understandings, and representations, whether written or oral, relating to the Joint Research Project. No modifications or amendments to this Agreement shall be effective unless made in writing and signed by both Parties.
+
+Section 10.2. **Assignment**. Neither Party shall assign or transfer any of its rights or obligations under this Agreement without the prior written consent of the other Party. Any assignment in violation of this provision shall be void and of no effect.
+
+Section 10.3. **Severability**. If any provision of this Agreement is found to be invalid, illegal, or unenforceable, the remaining provisions of this Agreement shall remain in full force and effect, and the invalid, illegal, or unenforceable provision shall be deemed to be severed from the rest of this Agreement.
+
+Section 10.4. **Waiver**. The failure of either Party to enforce any of the terms or conditions of this Agreement shall not be deemed a waiver of such terms or conditions. No waiver shall be effective unless in writing and signed by the Party waiving such provision.
+
+Section 10.5. **Amendments**. This Agreement may be amended or modified only by a written instrument executed by both Parties. Any such amendment or modification shall be deemed to be a part of this Agreement for all purposes.
+
+Section 10.6. **Governing Language**. This Agreement shall be deemed to have been executed in the English language, and all notices, communications, and other documents shall be in the English language unless otherwise agreed in writing by the Parties.
+
+Section 10.7. **Counterparts**. This Agreement may be executed in counterparts, each of which shall be deemed to be an original, and all of which shall be deemed to be one and the same agreement.
+
+Section 10.8. **Headings**. The headings of the Articles and Sections of this Agreement are for reference only and shall not be deemed to be part of the provisions of this Agreement.
+
+Section 10.9. **Time of the Essence**. Time is of the essence in the performance of the obligations under this Agreement.
+
+Section 10.10. **Construction**. This Agreement shall be construed in accordance with the laws of the jurisdiction governing the arbitration, and shall be interpreted in a manner that is fair and equitable to both Parties.
+
+---
+
+**IN WITNESS WHEREOF**, the Parties have executed this Agreement as of the date first above written.
+
+**PHARMA LIFE GROUP**  
+By: ___________________________  
+Name: [Name]  
+Title: [Title]  
+Date: _________________________
+
+**BI OGEN INNOVATIONS**  
+By: ___________________________  
+Name: [Name]  
+Title: [Title]  
+Date: _________________________
+
+**Article XI – Data Privacy and Compliance**
+
+Section 11.1. **Data Protection and Privacy Compliance**. The Parties acknowledge that the handling, processing, and transfer of Confidential Information may involve personal data, including but not limited to personal identifiers, health information, and other sensitive data. Each Party shall comply with all applicable data protection laws and regulations, including but not limited to the General Data Protection Regulation (GDPR) of the European Union, the California Consumer Privacy Act (CCPA), and any other similar laws or regulations in the jurisdictions where the Parties operate. The Parties agree to implement appropriate technical and organizational measures to ensure the confidentiality, integrity, and availability of the personal data they process.
+
+Section 11.2. **Data Transfer and Localization**. The Parties shall ensure that any transfer of personal data across jurisdictions is conducted in compliance with applicable data transfer laws. Where such transfer is necessary for the purposes of the Joint Research Project, the Parties shall obtain the necessary consents, certifications, or other legal mechanisms to ensure compliance with the relevant data protection laws. In the event that the transfer of personal data to a jurisdiction with a lower level of data protection is required, the Parties shall take all necessary measures to ensure that such transfer is lawful and does not prejudice the rights of the data subjects.
+
+Section 11.3. **Data Subject Rights**. The Parties shall ensure that data subjects have the right to access, rectify, erase, restrict processing, and object to the processing of their personal data, in accordance with applicable data protection laws. The Parties shall provide the data subjects with clear and concise information regarding the purposes of the processing, the legal basis for such processing, and the rights available to them. The Parties shall cooperate with each other and with any regulatory authority to address any inquiries or complaints from data subjects.
+
+Section 11.4. **Data Breach Notification**. In the event of a data breach involving the unauthorized access, disclosure, or loss of personal data, the Parties shall notify the affected data subjects and the relevant regulatory authorities in accordance with applicable laws. The Parties shall promptly investigate the breach, take all necessary steps to mitigate its impact, and provide a detailed report to the other Party within thirty (30) days of the discovery of the breach. The Parties shall also maintain records of all breaches and their resolutions for a period of at least seven (7) years.
+
+Section 11.5. **Data Minimization and Purpose Limitation**. The Parties shall ensure that the processing of personal data is limited to the minimum necessary for the purposes of the Joint Research Project. The Parties shall not use the personal data for any purpose other than those explicitly stated in this Agreement or authorized by the data subjects. The Parties shall not process personal data in a manner that is incompatible with the purposes for which it was collected or subsequently authorized.
+
+ Section 11.6. **Consent and Authorization**. Where the processing of personal data requires the consent of the data subject, the Parties shall obtain such consent in writing, and shall ensure that the consent is freely given, specific, informed, and unambiguous. The Parties shall provide the data subject with clear information regarding the purpose of the processing, the recipients of the data, and the rights of the data subject. The Parties shall not process the personal data without such consent unless an exception under applicable data protection laws applies.
+
+Section 11.7. **Subprocessors and Third-Party Vendors**. The Parties shall ensure that any third-party vendor or subcontractor engaged to process personal data on their behalf is bound by written data protection agreements that are no less protective than the obligations set forth in this Agreement. The Parties shall obtain prior written approval from the other Party before engaging any third-party vendor or subcontractor for the processing of personal data. The Parties shall also conduct regular audits of such third-party vendors to ensure compliance with the data protection obligations set forth in this Agreement.
+
+Section 11.8. **Compliance with Laws and Regulations**. The Parties shall comply with all applicable laws, regulations, and industry standards related to data privacy and protection. The Parties shall promptly notify the other Party of any changes in applicable laws or regulations that may affect the processing of personal data, and shall take all necessary steps to ensure compliance with such changes. The Parties shall also cooperate with each other and with any regulatory authority to address any inquiries or compliance issues related to the processing of personal data.
+
+Section 11.9. **Liability for Data Breaches**. The Parties acknowledge that the unauthorized disclosure or use of personal data may result in significant legal and financial consequences. The Parties shall be jointly and severally liable for any damages, penalties, or fines arising from the breach of this Agreement or the non-compliance with applicable data protection laws. The Parties shall also be liable for any costs and expenses incurred in the investigation, remediation, and resolution of data breaches, including but not limited to legal fees, regulatory fines, and compensation to affected data subjects.
+
+Section 11.10. **Cooperation with Regulatory Authorities**. The Parties shall cooperate fully with any regulatory authority that may investigate or inquire into the processing of personal data under this Agreement. The Parties shall provide such authorities with all necessary information, documents, and evidence to facilitate the investigation. The Parties shall also promptly inform the other Party of any inquiries or requests from regulatory authorities, and shall work together to respond to such inquiries in a manner that is consistent with the terms of this Agreement.
+
+
+---
+
+**Article XII – Intellectual Property Rights and Ownership**
+
+Section 12.1. **Ownership of Intellectual Property**. The Parties acknowledge that all intellectual property rights, including but not limited to patents, copyrights, trademarks, trade secrets, and other proprietary rights, developed or created in connection with the Joint Research Project shall remain the sole and exclusive property of the Party that developed or created such rights. The Parties agree that neither Party shall claim or assert any right, title, or interest in or to the intellectual property rights of the other Party, unless such rights are expressly licensed or transferred under the terms of this Agreement.
+
+Section 12.2. **Use of Intellectual Property**. The Parties shall use the intellectual property rights of the other Party solely for the purposes of the Joint Research Project, and shall not use such rights for any other purpose without the prior written consent of the owner of such rights. The Parties shall ensure that the use of such intellectual property rights does not infringe upon the rights of any third party, and shall take all necessary steps to protect and defend the intellectual property rights of the other Party.
+
+Section 12.3. **License to Use Intellectual Property**. The Parties may grant licenses to use the intellectual property rights of the other Party for the purposes of the Joint Research Project, provided that such licenses are granted in writing and are limited in scope, duration, and territory. The Parties shall ensure that any such license is non-exclusive, non-transferable, and does not grant any rights to sublicense or assign such rights to third parties. The Parties shall also ensure that such licenses are granted in accordance with applicable laws and regulations.
+
+Section 12.4. **Disclosure of Intellectual Property**. The Parties agree that all intellectual property rights developed or created in connection with the Joint Research Project shall be disclosed to the other Party in writing, and such disclosure shall include a detailed description of the intellectual property rights, the scope of the rights, and the applicable laws and regulations governing such rights. The Parties shall also provide the other Party with all necessary documentation, records, and evidence to support the ownership and validity of such intellectual property rights.
+
+Section 12.5. **Infringement and Enforcement**. The Parties shall promptly notify the other Party of any claims, actions, or proceedings relating to the infringement of intellectual property rights by third parties. The Parties shall cooperate fully with the other Party in the investigation, defense, and resolution of such claims, actions, or proceedings. The Parties shall also take all necessary steps to prevent and rectify any infringement of the intellectual property rights of the other Party.
+
+Section 12.6. **Costs of Enforcement**. The Parties shall bear the costs and expenses associated with the enforcement of intellectual property rights, including but not limited to legal fees, court costs, and expert witness fees. The Parties shall allocate such costs in accordance with the terms of this Agreement, and any disputes regarding the allocation of such costs shall be resolved in accordance with the dispute resolution provisions set forth in Article IX.
+
+Section 12.7. **Joint Ownership**. In the event that the Joint Research Project results in the creation of intellectual property rights that are jointly owned by the Parties, the Parties shall agree on the terms and conditions of such joint ownership, including but not limited to the rights and obligations of each Party, the methods of exploitation, and the allocation of profits. The Parties shall also agree on the procedures for resolving any disputes regarding the joint ownership of such intellectual property rights.
+
+Section 12.8. **Confidentiality of Intellectual Property**. The Parties agree that all intellectual property rights developed or created in connection with the Joint Research Project shall be treated as Confidential Information, and shall be protected in accordance with the terms of this Agreement. The Parties shall not disclose, use, or permit the disclosure or use of such intellectual property rights in any manner that would violate the terms of this Agreement.
+
+Section 12.9. **Assignment of Intellectual Property**. The Parties may assign or transfer their intellectual property rights to third parties, provided that such assignments or transfers are made in writing and are approved by the other Party. The Parties shall ensure that such assignments or transfers do not prejudice the rights and interests of the other Party, and shall provide the other Party with written notice of any such assignments or transfers.
+
+Section 12.10. **Compliance with Laws and Regulations**. The Parties shall comply with all applicable laws, regulations, and industry standards related to intellectual property rights. The Parties shall promptly notify the other Party of any changes in applicable laws or regulations that may affect the ownership, use, or enforcement of intellectual property rights, and shall take all necessary steps to ensure compliance with such changes.
+
+---
+
+
+**Article XIII – Subsidiaries, Affiliates, and Related Parties**
+
+Section 13.1. **Subsidiaries and Affiliates**. The Parties acknowledge that their respective subsidiaries, affiliates, and related parties may be involved in the Joint Research Project. The Parties agree that the terms and conditions of this Agreement shall apply to all such subsidiaries, affiliates, and related parties, and that such entities shall be deemed to be Parties to this Agreement for all purposes. The Parties shall ensure that such subsidiaries, affiliates, and related parties comply with all the terms and conditions of this Agreement.
+
+Section 13.2. **Control and Direction**. The Parties acknowledge that the activities of their subsidiaries, affiliates, and related parties may be controlled or directed by the Parties. The Parties agree that such control or direction shall not relieve them of their obligations under this Agreement, and that any breach of this Agreement by a subsidiary, affiliate, or related party shall be deemed to be a breach by the Party that has control or direction over such entity.
+
+Section 13.3. **Liability of Subsidiaries, Affiliates, and Related Parties**. The Parties acknowledge that the liabilities of their subsidiaries, affiliates, and related parties may be governed by the laws of the jurisdiction in which such entities are organized. The Parties agree that the obligations and liabilities of such entities shall be governed by the terms of this Agreement, and that the Parties shall be jointly and severally liable for any breaches of this Agreement by such entities.
+
+Section 13.4. **Compliance with Laws and Regulations**. The Parties shall ensure that their subsidiaries, affiliates, and related parties comply with all applicable laws, regulations, and industry standards related to the Joint Research Project. The Parties shall promptly notify the other Party of any changes in applicable laws or regulations that may affect the activities of such entities, and shall take all necessary steps to ensure compliance with such changes.
+
+Section 13.5. **Notification of Activities**. The Parties shall promptly notify the other Party of any activities conducted by their subsidiaries, affiliates, or related parties that may affect the Joint Research Project. The Parties shall provide the other Party with all necessary information, documentation, and evidence to support such activities, and shall ensure that such activities are conducted in accordance with the terms of this Agreement.
+
+Section 13.6. **Cooperation with Subsidiaries, Affiliates, and Related Parties**. The Parties shall cooperate fully with their subsidiaries, affiliates, and related parties in the performance of the Joint Research Project. The Parties shall ensure that such entities have the necessary resources, capabilities, and authority to perform their obligations under this Agreement. The Parties shall also provide such entities with all necessary guidance, support, and assistance to ensure compliance with the terms of this Agreement.
+
+Section 13.7. **Liability for Acts or Omissions**. The Parties acknowledge that the acts or omissions of their subsidiaries, affiliates, or related parties may result in liability under this Agreement. The Parties shall be jointly and severally liable for any damages, penalties, or fines arising from the breach of this Agreement by such entities. The Parties shall also be liable for any costs and expenses incurred in the investigation, remediation, and resolution of any such breaches.
+
+Section 13.8. **Compliance with Agreements**. The Parties shall ensure that their subsidiaries, affiliates, and related parties comply with all applicable agreements, contracts, and obligations related to the Joint Research Project. The Parties shall promptly notify the other Party of any changes in such agreements, contracts, or obligations, and shall take all necessary steps to ensure compliance with such changes.
+
+Section 13.9. **Cooperation with Regulatory Authorities**. The Parties shall cooperate fully with any regulatory authority that may investigate or inquire into the activities of their subsidiaries, affiliates, or related parties. The Parties shall provide such authorities with all necessary information, documents, and evidence to facilitate the investigation. The Parties shall also promptly inform the other Party of any inquiries or requests from regulatory authorities, and shall work together to respond to such inquiries in a manner that is consistent with the terms of this Agreement.
+
+Section 13.10. **Representation and Warranty**. The Parties represent and warrant that their subsidiaries, affiliates, and related parties have the legal authority to enter into this Agreement and to perform their obligations hereunder. The Parties also represent and warrant that such entities are not under any legal obligation that would prevent them from entering into this Agreement or from complying with the terms hereof.
+
+---
+
+**Article XIV – Confidentiality of the Agreement**
+
+Section 14.1. **Confidentiality of the Agreement**. The Parties acknowledge that the terms and conditions of this Agreement, including but not limited to the existence of this Agreement, its subject matter, and its negotiations, are confidential and shall not be disclosed to any third party without the prior written consent of the other Party. The Parties agree that such information shall be treated as Confidential Information and shall be protected in accordance with the terms of this Agreement.
+
+Section 14.2. **Disclosure of the Agreement**. The Parties may disclose the terms and conditions of this Agreement to their employees, agents, consultants, and legal representatives who have a legitimate business need to know such information, provided that such individuals are bound by confidentiality obligations in accordance with the terms of this Agreement. The Parties may also disclose the terms and conditions of this Agreement to regulatory authorities, auditors, or other governmental entities, provided that such disclosure is necessary for compliance with applicable laws or regulations.
+
+Section 14.3. **Public Disclosure**. The Parties shall not make any public disclosure of the terms and conditions of this Agreement, including but not limited to press releases, public filings, or other public statements, without the prior written consent of the other Party. The Parties agree that such disclosure may prejudice the interests of the other Party and may result in significant harm to the confidential and proprietary nature of this Agreement.
+
+Section 14.4. **Disclosure to Regulators**. The Parties may disclose the terms and conditions of this Agreement to regulatory authorities in accordance with applicable laws and regulations, provided that such disclosure is limited to the information necessary to comply with such laws and regulations. The Parties shall ensure that such disclosures are made in a manner that does not prejudice the interests of the other Party and that the confidential nature of this Agreement is preserved to the extent possible.
+
+Section 14.5. **Non-Compliance with Confidentiality Obligations**. The Parties acknowledge that the unauthorized disclosure of the terms and conditions of this Agreement may result in significant legal and financial consequences. The Parties shall be jointly and severally liable for any damages, penalties, or fines arising from the breach of this Agreement. The Parties shall also be liable for any costs and expenses incurred in the investigation, remediation, and resolution of any such breaches.
+
+Section 14.6. **Compliance with Laws and Regulations**. The Parties shall comply with all applicable laws, regulations, and industry standards related to the confidentiality of this Agreement. The Parties shall promptly notify the other Party of any changes in applicable laws or regulations that may affect the confidentiality of this Agreement, and shall take all necessary steps to ensure compliance with such changes.
+
+Section 14.7. **Cooperation with Regulatory Authorities**. The Parties shall cooperate fully with any regulatory authority that may investigate or inquire into the confidentiality of this Agreement. The Parties shall provide such authorities with all necessary information, documents, and evidence to facilitate the investigation. The Parties shall also promptly inform the other Party of any inquiries or requests from regulatory authorities, and shall work together to respond to such inquiries in a manner that is consistent with the terms of this Agreement.
+
+Section 14.8. **Representation and Warranty**. The Parties represent and warrant that they have the legal authority to enter into this Agreement and to perform their obligations hereunder. The Parties also represent and warrant that they are not under any legal obligation that would prevent them from entering into this Agreement or from complying with the terms hereof.
+
+Section 14.9. **Confidentiality of Negotiations**. The Parties acknowledge that the negotiations leading to the execution of this Agreement are confidential and shall not be disclosed to any third party without the prior written consent of the other Party. The Parties agree that such information shall be treated as Confidential Information and shall be protected in accordance with the terms of this Agreement.
+
+Section 14.10. **Non-Compliance with Confidentiality Obligations**. The Parties acknowledge that the unauthorized disclosure of the terms and conditions of the negotiations leading to the execution of this Agreement may result in significant legal and financial consequences. The Parties shall be jointly and severally liable for any damages, penalties, or fines arising from the breach of this Agreement. The Parties shall also be liable for any costs and expenses incurred in the investigation, remediation, and resolution of any such breaches.
+
+---
+
+**Article XV – Force Majeure**
+
+Section 15.1. **Definition of Force Majeure**. The term “Force Majeure” shall mean any event or circumstance beyond the control of a Party, including but not limited to natural disasters, wars, insurrections, riots, strikes, labor disputes, government actions, or other acts of God, that prevents or delays the performance of the obligations of such Party under this Agreement.
+
+Section 15.2. **Notice of Force Majeure**. In the event of a Force Majeure, the affected Party shall promptly notify the other Party in writing, specifying the nature of the event, the period during which it is expected to continue, and the extent to which it affects the performance of the obligations under this Agreement. The notice shall be accompanied by any supporting documentation or evidence of the occurrence of the Force Majeure event.
+
+Section 15.3. **Suspension of Performance**. The obligations of the affected Party under this Agreement shall be suspended for the duration of the Force Majeure event, and such suspension shall not constitute a breach of this Agreement. The affected Party shall use its best efforts to resume the performance of its obligations as soon as practicable after the Force Majeure event has ceased.
+
+Section 15.4. **Mitigation of Force Majeure**. The affected Party shall take all reasonable steps to mitigate the impact of the Force Majeure event and to resume the performance of its obligations under this Agreement. The affected Party shall cooperate with the other Party in the investigation, resolution, and remediation of the Force Majeure event.
+
+Section 15.5. **No Liability for Force Majeure**. The Parties shall not be liable for any damages, losses, or expenses arising from the occurrence of a Force Majeure event, provided that such event is not attributable to the negligence or willful misconduct of the affected Party. The Parties shall also not be liable for any breach of this Agreement that results from the occurrence of a Force Majeure event.
+
+Section 15.6. **Resumption of Performance**. The affected Party shall resume the performance of its obligations under this Agreement as soon as practicable after the Force Majeure event has ceased. The Parties shall cooperate with each other to ensure that the performance of the obligations under this Agreement is resumed in a timely manner.
+
+Section 15.7. **Notification of Resumption**. The affected Party shall notify the other Party in writing of the resumption of performance of its obligations under this Agreement. The notice shall

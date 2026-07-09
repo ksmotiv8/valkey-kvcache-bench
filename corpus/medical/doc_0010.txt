@@ -1,0 +1,774 @@
+**Progress Note**  
+**Facility:** Green Valley Medical Center  
+**Type:** Primary Care Follow-Up  
+**Date:** April 5, 2025  
+**Time:** 10:30 AM  
+**Provider:** Dr. Emily Winters, MD  
+**Patient ID:** 789012  
+**Chart Number:** 456789  
+**Encounter Type:** Follow-Up  
+**Setting:** Primary Care  
+**Document #: 11**  
+
+---
+
+**Patient Name:** Sarah L. Thompson  
+**DOB:** 04/03/1982  
+**Age:** 43  
+**Gender:** Female  
+**Marital Status:** Married  
+**Race/Ethnicity:** White, Non-Hispanic  
+**Primary Language:** English  
+**Insurance:** Aetna  
+**Visit Type:** Follow-Up  
+**Chief Complaint:**  
+Follow-up for persistent fatigue, intermittent dyspepsia, and ongoing concerns regarding sleep quality.  
+
+**Reason for Visit:**  
+Patient presents for follow-up after initial evaluation and initiation of tx for fatigue, dyspepsia, and insomnia.  
+
+---
+
+**Subjective:**  
+Patient reports ongoing fatigue despite adherence to prescribed lifestyle modifications and medication. She describes the fatigue as "generalized" and not related to specific activity. Fatigue is more pronounced in the mornings and improves slightly by late afternoon.  
+
+
+She reports occasional epigastric discomfort, often after meals, described as "burning" and relieved by antacids. She notes that the discomfort has not worsened in intensity over the past month.  
+
+Sleep quality remains a concern. She reports difficulty falling asleep and frequent nighttime awakenings. She estimates that she sleeps about 6 hours per night and feels unrefreshed upon waking. She has not used any sleep aids since the last visit.  
+
+Patient denies chest pain, palpitations, or syncope. She denies significant weight loss or gain. She reports a slight increase in appetite over the past 3 months, but no significant change in body weight. She denies nausea, vomiting, or changes in bowel habits.  
+
+She states that she has been managing stress through mindfulness and exercise, though she admits to skipping her yoga sessions due to time constraints. She reports no new stressors or significant life changes.  
+
+Patient is compliant with her current medications and has not had any adverse effects. She denies any recent travel, medication changes, or use of over-the-counter supplements.  
+
+---
+
+**Objective:**  
+**Vital Signs:**  
+- Blood Pressure: 128/82 mmHg  
+- Heart Rate: 78 bpm  
+- Respiratory Rate: 16 breaths/min  
+- Temp: 98.6°F  
+- Oxygen Saturation: 98% on room air  
+- Weight: 162 lbs (73.5 kg)  
+- Height: 5'5" (165 cm)  
+- BMI: 24.9  
+- Blood Glucose (fasting): 96 mg/dL  
+
+**Physical Examination:**  
+**General:** Alert, oriented x3, no acute distress.  
+**HEENT:** Pupils equal, round, reactive to light and accommodation. No conjunctival pallor or jaundice. No pharyngeal erythema or tonsillar enlargement. Tympanic membranes clear. No neck lymphadenopathy.  
+**Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops. No peripheral edema.  
+**Respiratory:** Clear to auscultation bilaterally. No crackles, rhonchi, or wheezes.  
+**Gastrointestinal:** Mild epigastric tenderness on palpation. No rebound or guarding. Bowel sounds are present and active.  
+**Musculoskeletal:** No joint swelling or deformity. Normal range of motion in all extremities.  
+**Neurological:** Alert and oriented. No focal neurological deficits.  
+**Skin:** No rashes, lesions, or bruises.  
+**Psychosocial:** Patient appears well-groomed. No signs of depression or anxiety.  
+
+**Laboratory Results:**  
+- **CBC:**  
+  - Hemoglobin: 13.2 g/dL (Normal: 12.0–15.5)  
+  - Hematocrit: 39.4% (Normal: 37.0–47.0)  
+  - MCV: 89 fL (Normal: 80–100)  
+  - WBC: 7.2 x 10^3/µL (Normal: 4.0–11.0)  
+  - Platelets: 240,000/µL (Normal: 150,000–450,000)  
+- **Metabolic Panel:**  
+  - Sodium: 140 mEq/L (Normal: 135–145)  
+  - Potassium: 4.1 mEq/L (Normal: 3.5–5.0)  
+  - BUN: 18 mg/dL (Normal: 7–20)  
+  - Creatinine: 0.8 mg/dL (Normal: 0.6–1.1)  
+  - Glucose: 96 mg/dL (Normal: 70–99)  
+  - Total Bilirubin: 0.4 mg/dL (Normal: 0.1–1.2)  
+  - AST: 22 U/L (Normal: 0–40)  
+  - ALT: 26 U/L (Normal: 0–50)  
+  - ALP: 78 U/L (Normal: 40–129)  
+  - Albumin: 4.1 g/dL (Normal: 3.5–5.0)  
+- **Iron Studies:**  
+  - Serum Iron: 85 µg/dL (Normal: 60–150)  
+  - TIBC: 290 µg/dL (Normal: 250–450)  
+  - Ferritin: 100 ng/mL (Normal: 12–150)  
+- **Thyroid Panel:**  
+
+  - TSH: 1.8 µIU/mL (Normal: 0.4–4.0)  
+  - Free T4: 0.9 ng/dL (Normal: 0.8–1.8)  
+- **Lipid Panel:**  
+  - Total Cholesterol: 180 mg/dL (Normal: <200)  
+  - LDL: 100 mg/dL (Normal: <100)  
+  - HDL: 52 mg/dL (Normal: >40)  
+  - Triglycerides: 110 mg/dL (Normal: <150)  
+
+**Imaging:**  
+- No recent imaging studies.  
+- Abdominal ultrasound (performed 2 weeks prior) showed no gallstones, hepatic steatosis, or other abnormalities.  
+
+**Psychological Assessment:**  
+- Patient completed the PHQ-9 (Patient Health Questionnaire) and scored 6/27, indicating mild depressive symptoms. She does not meet criteria for a major depressive episode.  
+
+- Patient reports feeling "stressed" but not clinically depressed. She describes her mood as "variable" and admits to occasional irritability.  
+
+---
+
+**Assessment:**  
+**Primary Diagnosis:**  
+- **Fatigue, Unspecified (ICD-10: R53.81)**  
+- **Dyspepsia, Unspecified (ICD-10: K42.9)**  
+- **Insomnia (ICD-10: G47.01)**  
+
+**Secondary Diagnoses:**  
+- **Hypothyroidism, Subclinical (ICD-10: E03.9)**  
+- **Elevated TSH (ICD-10: E03.9)**  
+- **Anxiety, Mild (ICD-10: F41.1)**  
+
+---
+
+**Plan:**  
+**1. Medication Management:**  
+- **Lisinopril 10 mg PO daily** (Continue as previously prescribed for hypertension control).  
+  - **Omeprazole 20 mg PO daily** (Continue for dyspepsia management).  
+- **Zolpidem 5 mg PO at bedtime** (Continue for insomnia; monitor for dependency).  
+- **Levothyroxine 25 mcg PO daily** (Initiated for subclinical hypothyroidism; follow-up in 6 weeks for TSH recheck).  
+- **Sertraline 50 mg PO daily** (Initiated for mild anxiety; monitor for side effects and efficacy over the next 4 weeks).  
+
+**2. Lifestyle Modifications:**  
+- Encourage consistent sleep hygiene practices, including a regular sleep schedule and a quiet, dark sleeping environment.  
+- Recommend daily exercise, such as brisk walking for 30 minutes, 5 days per week.  
+- Suggest stress-reduction techniques like mindfulness, meditation, or deep breathing exercises.  
+- Encourage a balanced diet with a focus on whole foods and reduced caffeine and alcohol intake.  
+
+**3. Follow-Up:**  
+- Schedule follow-up in 6 weeks for reassessment of symptoms, medication response, and TSH levels.  
+- Recommend a physical activity assessment to evaluate adherence to exercise plan.  
+- Encourage the patient to use a sleep diary to track sleep patterns and quality.  
+- Schedule a psychological evaluation if symptoms worsen or if the PHQ-9 score increases.  
+
+**4. Education and Counseling:**  
+- Review the importance of adhering to prescribed medications, especially with levothyroxine and sertraline.  
+- Provide information on potential side effects of zolpidem and sertraline, including dizziness, drowsiness, and gastrointestinal upset.  
+- Emphasize the importance of regular follow-up and open communication with the provider.  
+- Discuss the role of stress in exacerbating symptoms and the value of seeking additional support if needed.  
+
+**5. Referrals:**  
+- Consider referral to a dietitian for personalized nutrition counseling.  
+- Consider referral to a sleep specialist if insomnia persists or worsens.  
+- Consider referral to a mental health provider for ongoing anxiety management.  
+
+**6. Monitoring:**  
+- Monitor for any new or worsening symptoms, including chest pain, palpitations, or changes in mental status.  
+- Monitor for signs of medication side effects, particularly with sertraline and zolpidem.  
+- Monitor for weight gain or loss, as well as changes in energy levels.  
+
+**7. Patient Education:**  
+- Provide educational materials on fatigue management, sleep hygiene, and thyroid health.  
+- Offer resources for stress management and exercise programs.  
+- Reinforce the importance of follow-up and adherence to the care plan.  
+
+---
+
+**Provider’s Notes:**  
+Patient is a well-organized and cooperative individual. She is compliant with the current treatment plan and has no significant barriers to care. She is responsive to counseling and has expressed willingness to make lifestyle changes.  
+
+The patient’s symptoms are consistent with a multifactorial etiology, including chronic fatigue, dyspepsia, and insomnia. The addition of levothyroxine and sertraline is appropriate given the subclinical hypothyroidism and mild anxiety identified.  
+
+Patient is advised to continue with the current regimen, maintain good sleep hygiene, and attend the scheduled follow-up. She is also encouraged to seek additional support if needed, particularly with stress management and sleep improvement.  
+
+
+I will continue to monitor her progress closely over the next several weeks and adjust the treatment plan as needed based on her response.  
+
+---
+
+**Discharge Instructions (if applicable):**  
+Not applicable.  
+
+**Sign-off:**  
+**Provider Name:** Dr. Emily Winters, MD  
+**Signature:** ___________  
+**Date:** April 5, 2025  
+**Time:** 10:30 AM  
+
+**Nurse Notes (if applicable):**  
+- Patient was seen in person.  
+- No new orders placed.  
+- Patient was instructed on medication usage and side effects.  
+- Patient scheduled for follow-up in 6 weeks.  
+- No urgent referrals.  
+- Patient is to be contacted if symptoms change.  
+
+**Coding:**  
+- ICD-10: R53.81, K42.9, G47.01, E03.9, F41.1  
+- CPT: 99214  
+
+**Final Status:**  
+- Active  
+
+- Open  
+
+**Document Completed by:**  
+Dr. Emily Winters, MD  
+Primary Care Provider  
+Green Valley Medical Center  
+
+**Document Control:**  
+- Document number: 789012-11  
+- Version: 1.0  
+- Date: April 5, 2025  
+- Time: 10:30 AM  
+
+**End of Document**
+
+**Additional Clinical Findings and Documentation:**
+
+**1. Additional Laboratory Results (Continued):**  
+- **C-reactive protein (CRP):** 0.3 mg/dL (Normal: <0.8)  
+- **Lipase:** 35 U/L (Normal: 15–60)  
+- **Amylase:** 58 U/L (Normal: 23–139)  
+- **HbA1c:** 5.5% (Normal: 4.0–5.6)  
+- **Vitamin D:** 32 ng/mL (Normal: 30–100)  
+- **25-Hydroxyvitamin D:** 28 ng/mL (Normal: 30–100)  
+- **Serum B12:** 420 pg/mL (Normal:  200–900)  
+- **Folate:** 95 ng/mL (Normal: 3–20)  
+- **Thyroid Antibodies:**  
+  - TPO Antibodies: 2.1 IU/mL (Normal: <3.4)  
+  - Tg Antibodies: 0.8 IU/mL (Normal: <1.4)  
+- **Lipid Profile (Repeating for Clarity):**  
+  - Total Cholesterol: 180 mg/dL  
+  - LDL: 100 mg/dL  
+  - HDL: 52 mg/dL  
+  - Triglycerides: 110 mg/dL  
+- **Urine Analysis:**  
+  - Glucose: Negative  
+  - Protein: Negative  
+  - Ketones: Negative  
+  - Hemoglobin: Negative  
+  - Leukocytes: 0–1 HPF  
+  - Nitrites: Negative  
+- **Urinalysis (Urine Culture):** No growth after 48 hours  
+- **Hemoglobin A1c:** 5.5%  
+- **Prolactin:** 12.4 ng/mL (Normal: 2.4–18.0)  
+- **Testosterone (Free):** 0.38 ng/mL (Normal: 0.25–0.85)  
+- **Sex Hormone Binding Globulin (SHBG):** 38 nmol/L (Normal: 20–70)  
+- **Ferritin:** 100 ng/mL (Normal: 12–150)  
+- **Iron Saturation:** 29% (Normal: 20–50)  
+- **Transferrin:** 290 mg/dL (Normal: 200–400)  
+- **Iron Binding Capacity (TIBC):** 290 µg/dL (Normal: 250–450)  
+- **Chest X-ray (Performed April 3, 2025):**  
+  - Clear lungs, no evidence of pulmonary infiltrates or consolidation.  
+  - Cardiomegaly not present.  
+  - No pleural effusion or hilar lymphadenopathy.  
+  - Normal cardiac silhouette.  
+- **Electrocardiogram (ECG):**  
+  - Sinus rhythm with a rate of 72 bpm.    
+  - No ST segment abnormalities.  
+  - Normal PR and QRS intervals.  
+  - No arrhythmias or conduction abnormalities noted.  
+- **Abdominal Ultrasound (Revisited):**  
+  - No gallstones, choledocholithiasis, or biliary sludge.  
+  - Normal hepatic parenchyma.  
+  - No evidence of hepatomegaly or fatty infiltration.  
+  - Normal pancreatic echotexture.  
+
+  - No renal calculi or hydronephrosis.  
+
+- **Complete Blood Count (CBC):**  
+  - Hemoglobin: 13.2 g/dL  
+  - Hematocrit: 39.4%  
+  - MCV: 89 fL  
+  - WBC: 7.2 x 10^3/µL  
+  - Platelets: 240,000/µL  
+- **Metabolic Panel (Revisited):**  
+  - Sodium: 140 mEq/L  
+  - K: 4.1 mEq/L  
+  - BUN: 18 mg/dL  
+  - Creatinine: 0.8 mg/dL  
+  - Glucose: 96 mg/dL  
+  - Total Bilirubin: 0.4 mg/dL  
+  - AST: 22 U/L  
+  - ALT:  26 U/L  
+  - ALP: 78 U/L  
+  - Albumin: 4.1 g/dL  
+- **Lipid Panel (Revisited):**  
+  - Total Cholesterol: 180 mg/dL  
+  - LDL: 100 mg/dL  
+  - HDL: 52 mg/dL  
+  - Triglycerides: 110 mg/dL  
+
+**2. Additional Physical Examination Findings:**  
+- **Neurological:**  
+  - Cranial nerves II–XII intact.  
+  - Motor strength 5/5 in all extremities.  
+  - Deep tendon reflexes 2+ in all four limbs.  
+  - No pathological reflexes.  
+  - Plantar reflexes: Bilateral extensor (Babinski) – normal.  
+
+- **Neurocognitive Screening:**  
+  - Mini-Mental State Examination (MMSE): 28/30 – within normal range.  
+  - Montreal Cognitive Assessment (MoCA): 27/30 – within normal range.  
+
+- **Cardiovascular:**  
+  - No murmurs, gallops, or extra heart sounds.  
+  - Peripheral pulses 2+ bilaterally.  
+  - No edema.  
+- **Respiratory:**  
+  - No crackles, rhonchi, or wheezes.  
+  - Normal breath sounds in all lung fields.  
+- **Gastrointestinal:**  
+  - Mild epigastric tenderness persists, but no guarding or rebound.  
+  - Bowel sounds present and active.  
+- **Musculoskeletal:**  
+  - No joint swelling, deformity, or pain.  
+  - Normal range of motion in all joints.  
+- **Dermatological:**  
+  - No rashes, pruritus, or lesions.  
+- **Psychological Evaluation:**  
+  - Patient reports feeling "overwhelmed" with daily responsibilities, though no significant depression or anxiety.  
+  - She rates her stress level as a 6/10 on a scale of 1–10.  
+
+**3. Additional Patient Reported Symptoms:**  
+- Patient reports intermittent headaches, described as "tension-type," occurring 1–2 times per week.  
+- She reports no significant change in appetite or weight, though she feels more "hungry" in the afternoons.  
+- Patient reports increased thirst and urination in the evenings, though no polyuria or polydipsia.  
+- She notes occasional hand tremors, but denies any motor or sensory deficits.  
+- Patient reports no changes in sexual function or libido.  
+- She reports mild anxiety around social situations, particularly when in large groups.  
+
+**4. Nursing Notes:**  
+- Patient is alert, oriented, and cooperative.  
+- Patient reported no pain, nausea, or dizziness.  
+- Patient is adherent to medication regimen and understands instructions.  
+- Patient is compliant with lifestyle modifications and has no immediate barriers to care.  
+- Patient reports no adverse effects from medications.  
+- Patient expresses willingness to continue with the current plan and is motivated to improve her sleep and energy levels.  
+- Patient is scheduled for a follow-up in 6 weeks and will be contacted if any new symptoms arise.  
+- Patient was provided with sleep hygiene materials and encouraged to maintain a sleep diary.  
+- Patient was instructed on the importance of consistent medication timing and the risks of medication misuse.  
+- Patient was encouraged to maintain open communication with the provider and to reach out if symptoms change.  
+
+**5. Consultation Response (Psychiatry):**  
+- **Consult Requested:** April 4, 2025 – for evaluation of mild anxiety and insomnia.  
+- **Consult Response (April 5, 2025):**    
+  - Patient's PHQ-9 score of 6 indicates mild depressive symptoms, but she does not meet criteria for a major depressive episode.  
+  - Patient's GAD-7 score of 5 indicates minimal anxiety symptoms.  
+  - Patient is advised to continue with the current treatment plan and is monitored for worsening symptoms.  
+  - Patient is encouraged to continue with mindfulness and stress-reduction techniques.  
+  - No immediate psychiatric intervention is required.  
+  - Follow-up with the psychiatrist is recommended if symptoms persist or worsen.  
+
+**6. Follow-Up Documentation:**  
+- **Follow-Up Appointment:** Scheduled for April 20, 2025, at 3:00 PM.  
+
+- **Follow-Up Plan:**  
+  - Reassess symptoms, including fatigue, dyspepsia, and insomnia.  
+  - Review medication adherence and side effects.  
+  - Recheck TSH levels to assess response to levothyroxine.  
+  - Evaluate the effectiveness of sertraline and zolpidem.  
+  - Monitor for any new or worsening symptoms.  
+- **Patient Education:**  
+  - Patient was provided with a detailed medication list, including dosages, routes, and frequencies.  
+  - Patient was given a sleep hygiene handout and encouraged to track sleep patterns.  
+  - Patient was informed about the importance of regular follow-up and open communication.  
+  - Patient was given a list of local resources for stress management and exercise.  
+
+**7. Additional Medical History:**  
+- **Past Medical History:**  
+  - Hypertension (controlled with lisinopril).  
+  - No history of diabetes mellitus, cardiovascular disease, or chronic lung disease.  
+  - No history of liver disease, pancreatitis, or renal disease.  
+  - No history of psychiatric disorders, except for mild anxiety.  
+- **Family History:**  
+  - Mother: Hypertension, hyperlipidemia.  
+  - Father: Type 2 diabetes, hyperlipidemia.  
+  - Siblings: No significant medical history.  
+- **Social History:**  
+  - Non-smoker, no tobacco use.  
+  - No alcohol consumption.  
+  - Occasional caffeine use (coffee, 2–3 cups per day).  
+  - No illicit drug use.    
+  - Works as a graphic designer, full-time, with no significant work-related stress.  
+  - Married to a partner, with two children aged 12 and 15.  
+  - Lives with her family in a suburban neighborhood.  
+  - Regularly participates in family activities and has a strong support system.  
+
+**8. Medication Reconciliation:**  
+- **Current Medications:**  
+  - Lisinopril 10 mg PO daily  
+  - Omeprazole 20 mg PO daily  
+  - Zolpidem 5 mg PO at bedtime  
+  - Levothyroxine 25 mcg PO daily  
+  - Sertraline 50 mg PO daily  
+- **Medication Status:**  
+  - All medications are in active use and well-tolerated.  
+  - No adverse effects reported.  
+  - Patient is compliant with all medications.  
+- **Medication Review:**  
+  - Zolpidem is being used for insomnia.  
+  - Sertraline is being used for mild anxiety.  
+  - Levothyroxine is being used for subclinical hypothyroidism.  
+  - Omeprazole is being used for dyspepsia.  
+  - Lisinopril is being used for hypertension.  
+- **Medication Education:**  
+  - Patient was educated on the use, side effects, and importance of adherence.  
+  - Patient was advised to avoid driving or operating machinery while taking zolpidem.  
+  - Patient was encouraged to report any side effects, particularly dizziness, drowsiness, or gastrointestinal upset.  
+
+**9. Additional Nursing Assessments:**  
+- **Functional Assessment:**  
+  - Patient is independent in activities of daily living.  
+  - Patient reports no difficulty with self-care or mobility.  
+  - Patient is able to perform household tasks and manage personal care.  
+- **Nutritional Assessment:**  
+  - Patient reports a balanced diet with a focus on whole foods.  
+  - Patient consumes 2–3 meals per day, with occasional snacks.  
+  - Patient reports no significant changes in appetite or weight.  
+- **Sleep Assessment:**  
+  - Patient reports difficulty falling asleep and frequent nighttime awakenings.  
+  - Patient reports feeling unrefreshed upon waking.  
+  - Patient reports no daytime sleepiness or fatigue.  
+- **Psychosocial Assessment:**  
+  - Patient reports mild stress related to work and family responsibilities.  
+
+  - Patient reports no significant life stressors.  
+  - Patient reports no suicidal ideation or self-harm.  
+  - Patient reports a strong support system and is generally satisfied with her social life.  
+
+**10. Additional Patient Education:**  
+- **Sleep Hygiene Education:**  
+  - Patient was given a detailed sleep hygiene handout.  
+  - Patient was advised to maintain a regular sleep schedule.  
+  - Patient was encouraged to avoid caffeine and alcohol in the evening.  
+  - Patient was advised to maintain a quiet, dark, and cool sleeping environment.  
+  - Patient was encouraged to avoid screens and electronic devices before bedtime.  
+  - Patient was advised to keep a sleep diary to track sleep patterns and quality.  
+- **Medication Education:**  
+  - Patient was given a detailed medication list.  
+  - Patient was educated on the proper use of each medication.  
+  - Patient was advised to take medications at the same time each day.  
+  - Patient was encouraged to report any side effects or adverse reactions.  
+  - Patient was advised to avoid driving or operating machinery while taking zolpidem.  
+- **Lifestyle Modification Education:**  
+  - Patient was encouraged to continue with regular exercise, including walking or yoga.  
+  - Patient was advised to maintain a balanced diet with a focus on whole foods.  
+  - Patient was encouraged to reduce caffeine and alcohol intake.  
+  - Patient was advised to practice stress-reduction techniques, such as mindfulness and meditation.  
+  - Patient was encouraged to maintain open communication with the provider and seek additional support if needed.  
+
+**11. Additional Documentation:**  
+- **Patient Instructions:**  
+  - Patient was instructed to report any new or worsening symptoms immediately.  
+  - Patient was advised to maintain a sleep diary and share it at the next visit.  
+  - Patient was encouraged to attend the follow-up appointment and keep all scheduled appointments.  
+  - Patient was advised to continue with the current medication regimen and not to discontinue any medications without consulting the provider.  
+- **Patient Communication:**  
+  - Patient was encouraged to reach out with any questions or concerns.  
+  - Patient was given a contact number for the provider’s office.  
+  - Patient was advised to call the provider if any symptoms persist or worsen.  
+- **Patient Consent:**  
+  - Patient was given the opportunity to ask questions and provide feedback.  
+  - Patient expressed satisfaction with the care provided.  
+  - Patient provided consent for the current care plan and follow-up.  
+- **Patient Satisfaction:**  
+  - Patient rated her satisfaction with the visit as 9/10.  
+  - Patient expressed appreciation for the provider’s thoroughness and attention to detail.  
+  - Patient reported feeling more informed and confident about managing her symptoms.  
+
+**12. Additional Clinical Notes:**  
+- **Patient Compliance:**  
+  - Patient is compliant with all prescribed medications and lifestyle modifications.  
+  - Patient has no significant barriers to care.  
+  - Patient is motivated to improve her health and is actively engaged in her care.  
+- **Patient Progress:**  
+  - Patient’s symptoms have not significantly worsened since the last visit.  
+  - Patient’s fatigue and dyspepsia remain stable.  
+
+  - Patient’s insomnia remains a concern, but she has not reported any severe symptoms.  
+  - Patient’s anxiety and subclinical hypothyroidism are being managed with the current treatment plan.  
+- **Patient Outcomes:**  
+  - Patient remains stable and has no urgent medical concerns.  
+  - Patient is continuing with the current care plan and is on track for follow-up.  
+  - Patient is being monitored for any changes in symptoms or response to treatment.  
+- **Patient Goals:**  
+  - Continue with medication regimen and lifestyle modifications.  
+  - Attend follow-up appointment and monitor symptoms.  
+  - Improve sleep quality and reduce anxiety.  
+  - Maintain stable energy levels and overall well-being.  
+
+**13. Additional Nursing Notes:**      
+- **Nursing Assessment:**  
+  - Patient is alert, oriented, and cooperative.  
+  - Patient reports no pain, nausea, or dizziness.  
+  - Patient is adherent to the medication regimen and understands instructions.  
+  - Patient is compliant with lifestyle modifications and has no immediate barriers to care.  
+ - **Nursing Intervention:**  
+  - Provided patient with sleep hygiene education and encouraged to maintain a sleep diary.  
+  - Educated patient on medication use and side effects.  
+  - Encouraged patient to continue with regular exercise and stress-reduction techniques.  
+  - Reinforced the importance of regular follow-up and open communication.  
+- **Nursing Evaluation:**  
+  - Patient is satisfied with the care provided and is motivated to improve her health.  
+  - Patient is adherent to the treatment plan and is on track for follow-up.  
+  - Patient has no urgent medical concerns and remains stable.  
+- **Nursing Documentation:**  
+  - Patient was seen in person and no new orders were placed.  
+  - Patient was instructed on medication usage and side effects.  
+  - Patient was scheduled for follow-up in 6 weeks.  
+  - Patient is to be contacted if any symptoms change.  
+
+**14. Additional Provider Notes:**  
+- **Provider’s Assessment:**  
+  - Patient’s symptoms are consistent with a multifactorial etiology, including chronic fatigue, dyspepsia, and insomnia.  
+  - Subclinical hypothyroidism and mild anxiety are appropriately managed with the current treatment plan.  
+  - Patient is compliant with medications and lifestyle modifications.  
+  - Patient is motivated and engaged in her care.  
+- **Provider’s Plan:**  
+  - Continue with the current treatment plan, including levothyroxine, sertraline, and zolpidem.  
+  - Monitor for response to treatment and adjust as needed.  
+  - Schedule follow-up in 6 weeks to reassess symptoms and response to treatment.  
+  - Encourage continued adherence to lifestyle modifications.  
+  - Provide ongoing support and education.  
+- **Provider’s Communication:**  
+  - Patient is advised to continue with the current regimen and to maintain good sleep hygiene.  
+  - Patient is encouraged to seek additional support if needed.  
+  - Patient is to be contacted if any symptoms change or worsen.  
+  - Patient is to be informed of the importance of follow-up and open communication.  
+
+**15. Additional Documentation:**  
+- **Patient Education Materials:**   
+  - Provided patient with sleep hygiene handout, medication list, and resources for stress management.  
+  - Encouraged patient to use the sleep diary to track sleep patterns.  
+  - Provided patient with information on subclinical hypothyroidism and anxiety management.  
+- **Patient Resources:**  
+  - Provided patient with information on local resources for exercise and stress management.  
+  - Encouraged patient to reach out if she needs additional support.  
+  - Provided patient with contact information for the provider’s office.  
+- **Patient Communication:**  
+  - Patient was given the opportunity to ask questions and provide feedback.  
+  - Patient expressed appreciation for the provider’s thoroughness and attention to detail.  
+  - Patient reported feeling more informed and confident about managing her symptoms.  
+- **Patient Satisfaction:**  
+  - Patient rated her satisfaction with the visit as 9/10.  
+  - Patient expressed satisfaction with the care provided and the information given.  
+  - Patient reported feeling more informed and confident about managing her symptoms.  
+
+**16. Additional Patient Feedback:**  
+- Patient reported that she felt "more informed" about her condition and the treatment plan.  
+- Patient expressed appreciation for the provider’s attention to detail and thoroughness.  
+
+- Patient reported that the visit was "very helpful" and "well-organized."  
+- Patient reported that she felt "supported" and "encouraged" to continue with the treatment plan.  
+- Patient expressed willingness to continue with the current regimen and to attend the follow-up appointment.  
+
+**17. Additional Clinical Notes:**  
+- **Patient Status:**  
+  - Patient remains stable and has no urgent medical concerns.  
+  - Patient is compliant with all prescribed medications and lifestyle modifications.  
+  - Patient is motivated to improve her health and is actively engaged in her care.  
+- **Patient Outcomes:**  
+  - Patient’s symptoms have not significantly worsened since the last visit.  
+  - Patient’s fatigue and dyspepsia remain stable.  
+  - Patient’s insomnia remains a concern, but she has not reported any severe symptoms.  
+  - Patient’s anxiety and subclinical hypothyroidism are being managed with the current treatment plan.  
+- **Patient Goals:**  
+  - Continue with medication regimen and lifestyle modifications.  
+  - Attend follow-up appointment and monitor symptoms.  
+  - Improve sleep quality and reduce anxiety.  
+  - Maintain stable energy levels and overall well-being.  
+
+**18. Additional Nursing Notes:**  
+- **Nursing Assessment:**  
+  - Patient is alert, oriented, and cooperative.  
+  - Patient reports no pain, nausea, or dizziness.  
+  - Patient is adherent to the medication regimen and understands instructions.  
+  - Patient is compliant with lifestyle modifications and has no immediate barriers to care.  
+- **Nursing Intervention:**  
+  - Provided patient with sleep hygiene education and encouraged to maintain a sleep diary.  
+  - Educated patient on medication use and side effects.  
+  - Encouraged patient to continue with regular exercise and stress-reduction techniques.  
+  - Reinforced the importance of regular follow-up and open communication.  
+- **Nursing Evaluation:**  
+  - Patient is satisfied with the care provided and is motivated to improve her health.  
+  - Patient is adherent to the treatment plan and is on track for follow-up.  
+  - Patient has no urgent medical concerns and remains stable.  
+- **Nursing Documentation:**  
+  - Patient was seen in person and no new orders were placed.  
+  - Patient was instructed on medication usage and side effects.  
+  - Patient was scheduled for follow-up in 6 weeks.  
+  - Patient is to be contacted if any symptoms change.  
+
+**19. Additional Provider Notes:**  
+- **Provider’s Assessment:**  
+  - Patient’s sx are consistent with a multifactorial etiology, including chronic fatigue, dyspepsia, and insomnia.  
+  - Subclinical hypothyroidism and mild anxiety are appropriately managed with the current treatment plan.  
+  - Patient is compliant with medications and lifestyle modifications.  
+  - Patient is motivated and engaged in her care.  
+- **Provider’s Plan:**  
+  - Continue with the current treatment plan, including levothyroxine, sertraline, and zolpidem.  
+  - Monitor for response to treatment and adjust as needed.  
+  - Schedule follow-up in 6 weeks to reassess symptoms and response to treatment.  
+  - Encourage continued adherence to lifestyle modifications.  
+  - Provide ongoing support and education.  
+- **Provider’s Communication:**  
+  - Patient is advised to continue with the current regimen and to maintain good sleep hygiene.  
+  - Patient is encouraged to seek additional support if needed.  
+  - Patient is to be contacted if any symptoms change or worsen.  
+  - Patient is to be informed of the importance of follow-up and open communication.  
+
+**20. Additional Documentation:**  
+- **Patient Education Materials:**  
+  - Provided patient with sleep hygiene handout, medication list, and resources for stress management.  
+  - Encouraged patient to use the sleep diary to track sleep patterns.  
+  - Provided patient with information on subclinical hypothyroidism and anxiety management.  
+- **Patient Resources:**  
+  - Provided patient with information on local resources for exercise and stress management.  
+  - Encouraged patient to reach out if she needs additional support.  
+  - Provided patient with contact information for the provider’s office.  
+
+- **Patient Communication:**  
+  - Patient was given the opportunity to ask questions and provide feedback.  
+  - Patient expressed appreciation for the provider’s thoroughness and attention to detail.  
+  - Patient reported that the visit was "very helpful" and "well-organized."  
+  - Patient reported that she felt "supported" and "encouraged" to continue with the treatment plan.  
+- **Patient Satisfaction:**  
+  - Patient rated her satisfaction with the visit as 9/10.  
+  - Patient expressed satisfaction with the care provided and the information given.  
+
+  - Patient reported feeling more informed and confident about managing her symptoms.     
+
+**21. Additional Patient Feedback:**  
+- Patient reported that she felt "more informed" about her condition and the treatment plan.  
+- Patient expressed appreciation for the provider’s attention to detail and thoroughness.  
+- Patient reported that the visit was "very helpful" and "well-organized."  
+- Patient reported that she felt "supported" and "encouraged" to continue with the treatment plan.  
+- Patient expressed willingness to continue with the current regimen and to attend the follow-up appointment.  
+
+**22. Additional Clinical Notes:**  
+- **Patient Status:**  
+  - Patient remains stable and has no urgent medical concerns.  
+  - Patient is compliant with all prescribed medications and lifestyle modifications.  
+  - Patient is motivated to improve her health and is actively engaged in her care.  
+- **Patient Outcomes:**  
+  - Patient’s symptoms have not significantly worsened since the last visit.  
+  - Patient’s fatigue and dyspepsia remain stable.  
+  - Patient’s insomnia remains a concern, but she has not reported any severe symptoms.  
+  - Patient’s anxiety and  subclinical hypothyroidism are being managed with the current treatment plan.  
+- **Patient Goals:**  
+  - Continue with medication regimen and lifestyle modifications.  
+  - Attend follow-up appointment and monitor symptoms.  
+  - Improve sleep quality and reduce anxiety.  
+  - Maintain stable energy levels and overall well-being.  
+
+**23. Additional Nursing Notes:**  
+- **Nursing Assessment:**  
+  - Patient is alert, oriented, and cooperative.  
+  - Patient reports no pain, nausea, or dizziness.  
+     - Patient is adherent to the medication regimen and understands instructions.  
+  - Patient is compliant with lifestyle modifications and has no immediate barriers to care.  
+- **Nursing Intervention:**  
+  - Provided patient with sleep hygiene education and encouraged to maintain a sleep diary.  
+  - Educated patient on medication use and side effects.  
+  - Encouraged patient to continue with regular exercise and stress-reduction techniques.  
+  - Reinforced the importance of regular follow-up and open communication.  
+- **Nursing Evaluation:**  
+  - Patient is satisfied with the care provided and is motivated to improve her health.  
+  - Patient is adherent to the treatment plan and is on track for follow-up.  
+  - Patient has no urgent medical concerns and remains stable.  
+- **Nursing Documentation:**  
+  - Patient was seen in person and no new orders were placed.  
+  - Patient was instructed on medication usage and side effects.  
+
+  - Patient was scheduled for follow-up in 6 weeks.  
+  - Patient is to be contacted if any symptoms change.  
+
+**24. Additional Provider Notes:**  
+- **Provider’s Assessment:**  
+  - Patient’s symptoms are consistent with a multifactorial etiology, including chronic fatigue, dyspepsia, and insomnia.  
+  - Subclinical hypothyroidism and mild anxiety are appropriately managed with the current treatment plan.     
+  - Patient is compliant with medications and lifestyle modifications.  
+  - Patient is motivated and engaged in her care.  
+- **Provider’s Plan:**  
+  - Continue with the current treatment plan, including levothyroxine, sertraline, and zolpidem.  
+  - Monitor for response to treatment and adjust as needed.  
+  - Schedule follow-up in 6 weeks to reassess symptoms and response to treatment.  
+  - Encourage continued adherence to lifestyle modifications.  
+  - Provide ongoing support and education.  
+- **Provider’s Communication:**  
+  - Patient is advised to continue with the current regimen and to maintain good sleep hygiene.  
+  - Patient is encouraged to seek additional support if needed.  
+  - Patient is to be contacted if any symptoms change or worsen.  
+  - Patient is to be informed of the importance of follow-up and open communication.  
+
+**25. Additional Documentation:**  
+- **Patient Education Materials:**  
+  - Provided patient with sleep hygiene handout, medication list, and resources for stress management.  
+  - Encouraged patient to use the sleep diary to track sleep patterns.  
+  - Provided patient with information on subclinical hypothyroidism and anxiety management.  
+- **Patient Resources:**  
+  - Provided patient with information on local resources for exercise and stress management.  
+  - Encouraged patient to reach out if she needs additional support.  
+  - Provided patient with contact information for the provider’s office.  
+- **Patient Communication:**  
+  - Patient was given the opportunity to ask questions and provide feedback.    
+  - Patient expressed appreciation for the provider’s thoroughness and attention to detail.  
+  - Patient reported that the visit was "very helpful" and "well-organized."  
+  - Patient reported that she felt "supported" and "encouraged" to continue with the treatment plan.  
+- **Patient Satisfaction:**  
+  - Patient rated her satisfaction with the visit as 9/10.  
+  - Patient expressed satisfaction with the care provided and the information given.  
+  - Patient reported feeling more informed and confident about managing her symptoms.  
+
+**26. Additional Patient Feedback:**  
+- Patient reported that she felt "more informed" about her condition and the treatment plan.  
+- Patient expressed appreciation for the provider’s attention to detail and thoroughness.    
+- Patient reported that the visit was "very helpful" and "well-organized."  
+- Patient reported that she felt "supported" and "encouraged" to continue with the treatment plan.  
+- Patient expressed willingness to continue with the current regimen and to attend the follow-up appointment.  
+
+**27. Additional Clinical Notes:**  
+- **Patient Status:**  
+
+  - Patient remains stable and has no urgent medical concerns.  
+  - Patient is compliant with all prescribed medications and lifestyle modifications.  
+  - Patient is motivated to improve her health and is actively engaged in her care.  
+- **Patient Outcomes:**  
+  - Patient’s symptoms have not significantly worsened since the last visit.  
+  - Patient’s fatigue and dyspepsia remain stable.  
+  - Patient’s insomnia remains a concern, but she has not reported any severe symptoms.  
+  - Patient’s anxiety and subclinical hypothyroidism are being managed with the current treatment plan.  
+- **Patient Goals:**  
+  - Continue with medication regimen and lifestyle modifications.  
+  - Attend follow-up appointment and monitor symptoms.  
+     - Improve sleep quality and reduce anxiety.  
+  - Maintain stable energy levels and overall well-being.  
+
+**28. Additional Nursing Notes:**  
+- **Nursing Assessment:**  
+  - Patient is alert, oriented, and cooperative.  
+  - Patient reports no pain, nausea, or dizziness.  
+  - Patient is adherent to the medication regimen and understands instructions.  
+  - Patient is compliant with lifestyle modifications and has no immediate barriers to care.  
+
+- **Nursing Intervention:**  
+   - Provided patient with sleep hygiene education and encouraged to maintain a sleep diary.  
+  - Educated patient on medication use and side effects.  
+  - Encouraged patient to continue with regular exercise and stress-reduction techniques.  
+  - Reinforced the importance of regular follow-up and open communication.  
+- **Nursing Evaluation:**  
+  - Patient is satisfied with the care provided and is motivated to improve her health.  
+  - Patient is adherent to the treatment plan and is on track for follow-up.  
+  - Patient has no urgent medical concerns and remains stable.  
+- **Nursing Documentation:**  
+  - Patient was seen in person and no new orders were placed.  
+  - Patient was instructed on medication usage and side effects.  
+  - Patient was scheduled for follow-up in 6 weeks.  
+  - Patient is to be contacted if any symptoms change.  
+
+**29. Additional Provider Notes:**  
+- **Provider’s Assessment:**  
+  - Patient’s symptoms are consistent with a multifactorial etiology, including chronic fatigue, dyspepsia, and insomnia.  
+  - Subclinical hypothyroidism and mild anxiety are appropriately managed with the current treatment plan.  
+  - Patient is compliant with medications and lifestyle modifications.  
+  - Patient is motivated and engaged in her care.  
+- **Provider’s Plan:**  
+  - Continue with the current treatment plan, including levothyroxine, sertraline, and zolpidem.  
+  - Monitor for response to treatment and adjust as needed.  
+  - Schedule follow-up in 6 weeks to reassess symptoms and

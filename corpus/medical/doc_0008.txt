@@ -1,0 +1,765 @@
+**IMAGING REPORT**  
+**Patient Name:** Joseph M. Delaney  
+**MRN:** 456789-01  
+**DOB:** 05/12/1972  
+**Sex:** Male  
+**Medical Record Number:** 456789  
+**Facility:** Riverside Regional Imaging Center  
+**Location:** 334 South Main Street, Springfield, VA 22101  
+**Date of Imaging:** 04/10/2025  
+**Time of Imaging:** 10:15 AM  
+**Technologist:** Dr. Emily R. Carter, MD  
+**Modality:** CT Scan (Abdomen and Pelvis with Contrast)  
+**Radiologist:** Dr. Andrew L. Chen, MD  
+
+**Report Date:** 04/10/2025  
+**Report Time:** 12:45 PM  
+**Report ID:** 20250410-CT-ABDOMEN-PELVIS-CHEN  
+**ICD-10:** R10.1, Z01.81  
+**HIPAA Compliance:** Confirmed  
+
+---
+
+### **PREFERRED NAME:** Joseph Delaney  
+**ALIAS:** None  
+**MAR:** None  
+**PREFERRED LANGUAGE:** English  
+**BIRTHPLACE:** Springfield, VA  
+**CITIZENSHIP:** U.S. Citizen  
+**RACE:** White  
+**ETHNICITY:** Caucasian  
+**MARITAL STATUS:** Divorced  
+**EMPLOYMENT:** Retired  
+**INSURANCE:** Blue Cross Blue Shield (Policy #BCBS-789456)  
+**CONTACT INFORMATION:**  
+- **Home:** 703-555-0198  
+- **Work:** 703-555-0200  
+- **Mobile:** 703-555-0210  
+- **Email:** joseph.delaney@example.com  
+- **Emergency Contact:** Maria Delaney, 703-555-0187  
+
+---
+
+### **CLINICAL HISTORY**
+
+**Chief Complaint:**  
+Patient presents with a 2-week history of left lower quadrant abdominal pain, intermittent nausea, and a recent 5-lb weight loss. He reports no history of prior abdominal surgery or gastrointestinal disease. His symptoms have worsened over the past 5 days with increased frequency of pain and occasional constipation.
+
+**History of Present Illness:**  
+The patient, a 53-year-old male, describes the pain as cramping and intermittent, localized to the left lower abdomen. It is not associated with fever, chills, or changes in bowel habits except for constipation. He denies hematochezia, melena, or rectal bleeding. He denies urinary symptoms, except for mild dysuria. Appetite has decreased slightly, and he reports a 5-lb weight loss over the past 2 weeks. He denies any prior similar episodes.
+
+**Past Medical History:**  
+- **Hypertension** (managed with lisinopril 10 mg daily)  
+- **Hyperlipidemia** (managed with atorvastatin 20 mg daily)  
+- **Type 2 Diabetes Mellitus** (managed with metformin 500 mg twice daily)  
+- **Tonsillectomy** at age 12   
+- **Myocardial Infarction** in 2018 (no residual dysfunction)  
+- **Asthma** (currently well-controlled with albuterol inhaler PRN)  
+- **Smoking history:** 20 pack-years, quit 5 years ago  
+
+**Allergies:**  
+- **No known drug allergies**  
+
+- **No food allergies**  
+- **No environmental allergies**  
+
+**Medications:**  
+- **Lisinopril 10 mg PO daily**  
+- **Atorvastatin 20 mg PO daily**  
+- **Metformin 500 mg PO twice daily**  
+- **Albuterol 2 puffs via MDI PRN**  
+- **Aspirin 81 mg PO daily (secondary prevention)**  
+
+**Family History:**  
+- Father: deceased, died of lung cancer at age 72  
+- Mother: living, age 76, with hypertension and hyperlipidemia  
+- Siblings: 2, both alive, no significant medical history  
+- No known family history of cancer or diabetes  
+
+**Social History:**  
+- **Married, divorced 8 years ago**  
+- **Occupation:** Former construction worker, now retired  
+- **Smoking:** Quit 5 years ago  
+- **Alcohol:** Occasional social drinker (1–2 drinks/week)  
+- **Exercise:** None in the past 3 years due to joint pain  
+- **Diet:** High-fat, low-fiber, with occasional fast food consumption  
+
+- **Occupational Exposure:** Previous exposure to asbestos and silica dust  
+
+**Immunization Status:**  
+- **Tdap:** Up to date  
+- **Influenza:** Up to date (2024–2025 season)  
+- **Hepatitis B:** Completed series  
+- **Hepatitis A:** Completed series  
+- **MMR:** Up to date  
+- **Pneumococcal vaccine:** 13-valent (2019)  
+- **Shingles vaccine:** Recombinant (2022)  
+
+**Vital Signs (Pre-Imaging):**  
+- **Temperature:** 98.6°F  
+- **Pulse:** 72 bpm  
+- **Respiratory Rate:** 16 breaths/min  
+- **Blood Pressure:** 138/86 mmHg  
+   - **O2 Saturation:** 98% on room air  
+- **Weight:** 185 lbs (84 kg)  
+- **Height:** 5'10" (178 cm)  
+- **BMI:** 28.5 (Overweight)  
+- **GCS:** 15 (Alert, Oriented ×3)  
+- **A&Ox3, NAD, PERRL**  
+
+
+**Physical Examination (Pre-Imaging):**  
+- **General:** Alert, oriented, no acute distress  
+- **Head, Eyes, Ears, Nose, Throat:** Normal  
+- **Neck:** No lymphadenopathy or thyroid enlargement  
+- **Chest:** Clear to auscultation, no crackles or wheezes  
+- **Cardiovascular:** Regular rate and rhythm, no murmurs  
+- **Abdomen:** Tenderness in left lower quadrant, no guarding or rebound tenderness, bowel sounds present  
+- **Genitourinary:** No masses, no hydronephrosis  
+- **Extremities:** No edema, no joint swelling  
+- **Neurologic:** Alert, no focal deficits, normal cranial nerves  
+
+**Lab Results (Pre-Imaging):**  
+- **CBC:**  
+  - WBC: 10.2 x 10^9/L (Ref: 4.0–11.0)  
+  - Hgb: 14.2 g/dL (Ref: 13.5–17.5)  
+  - Hct: 42% (Ref: 38.5–47.5)  
+  - Platelets: 230 x 10^9/L (Ref: 150–450)  
+- **Chem 7:**  
+  - Sodium: 142 mEq/L (Ref: 135–145)  
+  - Potassium: 4.1 mEq/L (Ref: 3.5–5.0)  
+  - BUN: 18 mg/dL (Ref: 7–20)  
+  - Creatinine: 1.1 mg/dL (Ref: 0.7–1.3)  
+  - Glucose: 112 mg/dL (Ref: 70–99)  
+  - AST: 22 U/L (Ref: 8–40)  
+  - ALT: 25 U/L (Ref: 10–40)  
+- **Lipids:**  
+  - LDL: 145 mg/dL (Ref: <100)  
+  - HDL: 48 mg/dL (Ref: >40)  
+  - Total Cholesterol: 230 mg/dL (Ref: <200)  
+  - Triglycerides: 180 mg/dL (Ref: <150)  
+- **HbA1c:** 6.5% (Ref: <6.5%)  
+- **Urinalysis:** Negative for blood, protein, or ketones  
+- **C-Reactive Protein (CRP):** 12 mg/L (Ref: <5)  
+- **Liver Function Tests:** Normal  
+- **Electrolytes:** Normal  
+- **Urinalysis:** Clear, no casts, no leukocyte esterase  
+
+**Imaging Request:**  
+The patient was referred for an abdominal and pelvic CT scan with contrast due to the persistent left lower quadrant pain and concerning weight loss. The patient denied any contrast allergy or renal dysfunction. The imaging was performed following appropriate pre-contrast hydration and a negative allergy screening.  
+
+---
+
+### **IMAGING FINDINGS**
+
+**CT Abdomen and Pelvis with Contrast (04/10/2025)**  
+- **Contrast media:** Iohexol 300 mg/mL  
+- **Scan technique:** 120 kVp, 100 mAs, axial slices, 1.25 mm thickness  
+- **Imaging duration:** 12 minutes  
+- **Contrast timing:** 60 seconds post-injection  
+
+**Abdomen:**  
+- **Liver:** No focal lesions, no cirrhosis, no steatosis, no intrahepatic calculi.  
+- **Spleen:** Normal size, no focal mass or calcification.  
+- **Pancreas:** Normal in size, no biliary duct dilation, no evidence of pancreatitis.  
+- **Gallbladder:** Normal in size, no wall thickening, no stones.  
+
+- **Biliary system:** No dilation, no calculi.  
+- **Kidneys:** Bilateral normal size, no hydronephrosis, no calculi, no cortical atrophy.  
+- **Bladder:** Normal in size, no wall thickening, no calculi.  
+- **Small bowel:** No evidence of obstruction, no diverticula, no wall thickening.  
+- **Colon:** No wall thickening, no strictures, no diverticula, no mass.  
+- **Mesentery:** No lymphadenopathy, no fat stranding.  
+- **Intra-abdominal fat:** Normal distribution, no evidence of retroperitoneal fibrosis.  
+
+**Pelvis:**  
+- **Prostate:** No enlargement, no calcification, no suspicious lesions.  
+- **Bladder:** Normal, no wall thickening.  
+- **Uterus (female)** – not applicable.  
+- **Testes:** Normal in size, no mass, no torsion.  
+- **Pelvic lymph nodes:** No lymphadenopathy.  
+- **Rectum:** Normal, no thickening, no mass.  
+- **Spermatic cords:** Normal.  
+
+- **Vessels:** Normal appearance, no aneurysms, no thrombosis.  
+
+**Abdominal Aorta:**  
+- **Aorta:** Normal caliber, no aneurysm, no thrombus.  
+- **Branches:** Normal flow, no stenosis.  
+
+**Abdominal and Pelvic Cavity:**  
+- **Peritoneal fluid:** No free fluid.  
+- **Fat planes:** Normal, no stranding.  
+- **Diaphragms:** Normal in position and contour.  
+- **Lungs:** Normal, no infiltrates or mass.  
+
+**Contrast Enhancement:**  
+- **Enhancement:** Uniform in the liver, spleen, pancreas, and kidneys.  
+- **Lymph nodes:** No abnormal enhancement.  
+- **Colon:** No enhancement of the wall.  
+- **Bladder:** Normal enhancement.  
+- **Pelvis:** No enhancement of the prostate or testes.  
+- **Contrast excretion:** Normal, no delayed retention.  
+
+**Imaging Findings Summary:**  
+The CT scan of the abdomen and pelvis with contrast demonstrates no evidence of acute pathology, including no masses, no abscesses, no obstruction, no vascular abnormalities, and no inflammatory findings. The patient’s symptoms appear to be unrelated to any identifiable structural or inflammatory process within the abdomen or pelvis.  
+
+---
+
+### **CLINICAL IMPRESSION**
+
+**Radiological Impression:**  
+- **No acute abdominal or pelvic pathology identified**  
+- **No evidence of malignancy, obstruction, or inflammatory disease**  
+- **Contrast study was unremarkable**  
+- **No indication for further imaging at this time**  
+
+**Clinical Impression (Radiologist):**  
+The imaging findings are consistent with a normal abdomen and pelvis. The patient’s symptoms of left lower quadrant pain and weight loss may be due to non-organic causes or unrelated to any detectable abdominal pathology. Further evaluation should focus on gastrointestinal function, nutritional status, and possible non-structural causes of pain such as irritable bowel syndrome, psychosomatic factors, or medication side effects.  
+
+**Differential Diagnosis (Radiologist):**  
+- **Irritable Bowel Syndrome (IBS)**  
+- **Functional abdominal pain**  
+- **Gastroesophageal reflux disease (GERD)**  
+- **Psychological factors (e.g. anxiety, depression)**  
+- **Malabsorption or nutritional deficiency**  
+- **Chronic constipation**  
+- **Non-specific abdominal pain of unknown origin**  
+
+**Recommendations (Radiologist):**  
+- **Continue current medications**  
+- **Monitor symptoms over the next 2–4 weeks**      
+- **Consider referral to gastroenterology for further evaluation**  
+- **Follow-up with primary care physician**  
+
+- **If symptoms persist or worsen, repeat imaging or consider endoscopic evaluation**  
+- **Ensure adequate hydration and fiber intake**  
+
+**Follow-up Plan:**  
+- **Primary care follow-up:** 2 weeks  
+- **Gastroenterology referral:** As needed  
+- **Dietary consultation:** As needed  
+- **Psychological evaluation:** As needed  
+
+---
+
+### **IMAGING TECHNICAL SPECIFICATIONS**
+
+**Imaging Modality:**  
+- **CT Scan (Abdomen and Pelvis with Contrast)**  
+- **Imaging Protocol:**  
+  - **Slice thickness:** 1.25 mm  
+  - **Reconstruction:** 1.0 mm  
+  - **Contrast:** Iohexol 300 mg/mL  
+  - **Contrast timing:** 60 seconds post-injection  
+  - **Scan field of view (FOV):** 30 cm  
+  - **Tube voltage:** 120 kVp  
+  - **Tube current:** 100 mAs  
+  - **Rotation time:** 0.6 seconds  
+  - **Helical scan:** Yes  
+  - **Matrix size:** 512 x 512  
+  - **Slice spacing:** 1.25 mm  
+  - **Number of slices:** 320  
+  - **Image format:** DICOM  
+  - **Storage media:** PACS system  
+  - **Radiation dose:** 4.2 mSv (within acceptable limits)  
+
+**Radiology Technician Notes:**  
+- **Patient positioning:** Supine with arms above head  
+- **Contrast administration:** IV push via antecubital vein  
+- **Contrast volume:** 100 mL  
+- **Contrast flow rate:** 3 mL/sec  
+- **Contrast dilution:** 300 mg/mL  
+- **Allergy screening:** Negative  
+- **Renal function:** Normal, eGFR 78 mL/min/1.73m²  
+- **Hydration:** Adequate, no signs of dehydration  
+- **Scan duration:** 12 minutes  
+- **Image quality:** Excellent, no artifacts or motion blur  
+
+**Radiologist Notes:**  
+- **No evidence of acute or chronic pathology**  
+- **Contrast enhancement was adequate for all structures**  
+- **No evidence of bowel obstruction or ileus**  
+- **No evidence of abscess or inflammatory disease**  
+- **No evidence of malignancy**  
+- **No evidence of vascular disease**  
+- **No evidence of metabolic or endocrine disorder**  
+- **No evidence of intra-abdominal bleeding or free fluid**  
+- **No evidence of bowel wall thickening or strictures**  
+- **No evidence of diverticula or Meckel’s diverticulum**  
+- **No evidence of appendicitis or other acute inflammatory conditions**  
+
+**Radiologist Signature:**  
+**Dr. Andrew L. Chen, MD**  
+**Specialty:** Radiology  
+**Credentialing:** Board-certified in Diagnostic Radiology  
+**License:** VA #556789  
+**Contact:** (703) 555-0234  
+**Fax:** (703) 555-0235  
+**Email:** andrew.chen@riversideradiology.com  
+
+---
+
+### **CLINICAL NOTES**
+
+**Primary Care Follow-up:**  
+The patient will be seen by his primary care physician in 2 weeks for further evaluation of his symptoms. The physician will review the imaging report and consider additional testing if necessary.
+
+**Gastroenterology Referral:**  
+A gastroenterologist has been referred for further evaluation of the patient’s left lower quadrant pain and weight loss. The patient has been advised to schedule an appointment within the next 3 weeks.
+
+**Dietary Consultation:**  
+A dietary consultation has been scheduled for the patient to assess his nutritional status and recommend dietary modifications. The patient has been advised to increase fiber intake and stay well-hydrated.
+
+**Psychological Evaluation:**  
+A referral to a psychologist has been made to evaluate the patient for potential anxiety or depression. The patient has been advised to attend the first session within the next 2 weeks.
+
+**Medication Review:**  
+The patient’s current medications are reviewed and found to be appropriate. No adjustments are recommended at this time. The patient is advised to continue his current regimen and to report any side effects.
+
+**Patient Education:**  
+The patient has been educated on the importance of maintaining a balanced diet, staying hydrated, and managing stress. He has been advised to avoid alcohol and smoking, and to continue regular follow-up with his healthcare providers.
+
+---
+
+### **ADDITIONAL INFORMATION**
+
+**Image Access:**  
+- **PACS system:** Riverside Regional PACS  
+- **Image ID:** 20250410-CT-ABDOMEN-PELVIS-CHEN  
+- **Image location:** /Riverside/Imaging/2025/04/CT/20250410-CT-ABDOMEN-PELVIS-CHEN  
+- **DICOM tags:** Complete, all necessary metadata included  
+
+**Radiology Report Access:**  
+- **EHR System:** Riverside Regional Health Information System  
+- **Report ID:** 20250410-CT-ABDOMEN-PELVIS-CHEN  
+- **Report location:** /Riverside/EHR/2025/04/Radiology/20250410-CT-ABDOMEN-PELVIS-CHEN  
+- **Report access:** Available to primary care physician, gastroenterologist, and patient via patient portal  
+
+**Radiology Department Notes:**  
+- **Radiology report completed within 24 hours of imaging**  
+- **No emergent findings**  
+- **No immediate intervention required**  
+- **No further imaging needed at this time**  
+- **Report sent to referring physician via secure email**  
+
+**Patient Portal Access:**  
+- **Patient login:** joseph.delaney@example.com  
+- **Password:** [patient portal password]  
+- **Report accessibility:** Full text and images available  
+- **Patient education materials:** Available for download  
+
+**Radiology Department Contact:**  
+- **Phone:** (703) 555-0234  
+- **Fax:** (703) 555-0235  
+- **Email:** radiology@riversideradiology.com  
+- **Website:** www.riversideradiology.com  
+
+**Radiology Department Hours:**  
+- **Monday–Friday:** 8:00 AM – 5:00 PM  
+- **Saturday:** 8:00 AM – 1:00 PM  
+- **Sunday:** Closed  
+- **Emergency imaging:** Available 24/7  
+
+**Radiology Department Policy:**  
+- **Patient privacy:** Compliant with HIPAA  
+- **Image retention:** 7 years  
+- **Image sharing:** Secure and encrypted  
+- **Image archiving:** PACS system  
+
+
+**Radiology Department Disclaimer:**  
+- **This report is intended for clinical use only**  
+- **Interpretation is based on the imaging findings and is not a substitute for a physical examination**  
+- **No liability is assumed for any errors or omissions in this report**  
+- **This report is not a diagnosis or treatment plan**  
+
+---
+
+### **SIGNATURES**
+
+**Radiologist:**  
+**Dr. Andrew L. Chen, MD**  
+**Signature:** ___________________________  
+ **Date:** 04/10/2025  
+**Title:** Radiologist  
+**Specialty:** Diagnostic Radiology  
+**License Number:** VA #556789  
+**Contact Information:** (703) 555-0234  
+
+**Technologist:**  
+**Dr. Emily R. Carter, MD**  
+**Signature:** ___________________________  
+**Date:** 04/10/2025  
+**Title:** Radiology Technologist  
+**License Number:** VA #456789  
+**Contact Information:** (703) 555-0235  
+
+**Referring Physician:**  
+**Dr. Sarah L. Mitchell, MD**  
+**Signature:** ___________________________  
+**Date:** 04/10/2025  
+**Title:** Family Medicine  
+
+**License Number:** VA #123456  
+**Contact Information:** (703) 555-0198  
+
+**Primary Care Physician:**  
+**Dr. Michael R. Thompson, MD**  
+**Signature:** ___________________________  
+**Date:** 04/10/2025  
+**Title:** Internal Medicine  
+**License Number:** VA #654321  
+**Contact Information:** (703) 555-0200  
+
+**Patient Acknowledgment:**  
+**Patient Name:** Joseph Delaney  
+**Signature:** ___________________________  
+**Date:** 04/10/2025  
+**Acknowledged:** I have received and understood the information in this report. I agree to follow the recommendations and follow-up as advised by my healthcare providers.  
+
+---
+
+**END OF REPORT**  
+**Document #9**  
+**Total Tokens: ~10,000**
+
+
+### **CLINICAL NOTES (CONTINUED)**  
+
+**Additional Lab Results (Post-Imaging):**  
+Following the completion of the CT scan, additional laboratory tests were ordered to assess for potential underlying metabolic or endocrine causes of the patient's symptoms. These tests included:
+
+- **Thyroid Function Tests (TFTs):**  
+  - **TSH:** 1.2 µIU/mL (Ref: 0.4–4.0)  
+  - **Free T4:** 1.1 ng/dL (Ref: 0.8–1.8)  
+  - **Free T3:** 2.5 pg/mL (Ref: 2.0–4.4)  
+  - **Anti-TPO:** 35 IU/mL (Ref: <35)  
+  - **Anti-Tg:** 12 IU/mL (Ref: <12)  
+  - **Interpretation:** Normal thyroid function, no evidence of thyroiditis or hyperthyroidism.
+
+- **Complete Metabolic Panel (CMP):**  
+  - **Albumin:** 4.1 g/dL (Ref: 3.5–5.0)  
+  - **Total Protein:** 7.2 g/dL (Ref: 6.0–8.0)  
+  - **BUN/Creatinine Ratio:** 16.4 (Ref: 10–20)  
+  - **Lactate Dehydrogenase (LDH):** 215 U/L (Ref: 135–220)  
+  - **Alkaline Phosphatase (ALP):** 68 U/L (Ref: 45–125)  
+  - **GGT:** 32 U/L (Ref: 15–70)  
+  - **Interpretation:** Normal electrolytes, protein levels, and liver enzymes. No evidence of chronic liver disease or hemolysis.
+
+- **Iron Studies:**  
+  - **Serum Iron:** 65 µg/dL (Ref: 60–170)  
+  - **Total Iron Binding Capacity (TIBC):** 250 µg/dL (Ref: 240–450)  
+  - **Ferritin:** 110 ng/mL (Ref: 12–250)  
+  - **Transferrin Saturation:** 26% (Ref: 20–50%)  
+  - **Interpretation:** Normal iron studies, no evidence of iron deficiency anemia or hemochromatosis.
+
+- **Vitamin D Levels:**  
+  - **25-Hydroxyvitamin D:** 28 ng/mL (Ref: 30–80)  
+  - **Interpretation:** Mild vitamin D deficiency; however, not considered clinically significant at this time.
+
+- **Celiac Disease Panel (IgA Tissue Transglutaminase Antibody):**  
+  - **IgA Tissue Transglutaminase (tTG):** 2.4 U/mL (Ref: <10)  
+  - **Interpretation:** Negative for celiac disease; no evidence of immune-mediated enteropathy.
+
+- **C-Reactive Protein (CRP):**  
+  - **CRP:** 12 mg/L (Ref: <5)  
+  - **Interpretation:** Mild elevation, not consistent with acute inflammation or infection.
+
+- **Hemoglobin A1c (HbA1c):**  
+  - **HbA1c:** 6.5% (Ref: <6.5%)  
+  - **Interpretation:** Borderline elevated, consistent with mild hyperglycemia. No evidence of diabetes mellitus.
+
+- **Urinalysis (Repeat):**  
+  - **pH:** 6.2  
+  - **Specific Gravity:** 1.015  
+  - **Protein:** Negative  
+  - **Glucose:** Negative  
+  - **Ketones:** Negative  
+  - **Blood:** Negative  
+  - **Leukocyte Esterase:** Negative  
+  - **Nitrites:** Negative  
+  - **Interpretation:** Normal urinalysis; no evidence of urinary tract infection or renal dysfunction.
+
+- **Urinary Albumin-to-Creatinine Ratio (ACR):**  
+  - **ACR:** 18 mg/g (Ref: <30)  
+  - **Interpretation:** Normal, no evidence  of microalbuminuria.
+
+- **Lipid Panel (Repeat):**  
+  - **Total Cholesterol:** 230 mg/dL (Ref: <200)  
+  - **LDL Cholesterol:** 145 mg/dL (Ref: <100)  
+  - **HDL Cholesterol:** 48 mg/dL (Ref: >40)  
+  - **Triglycerides:** 180 mg/dL (Ref: <150)  
+
+  - **Interpretation:** Mild hyperlipidemia, with elevated LDL and triglycerides. No evidence of severe dyslipidemia.
+
+- **Hepatitis Panel:**  
+  - **Hepatitis B Surface Antigen (HBsAg):** Negative  
+  - **Hepatitis B Core Antibody (HBcAb):** Negative  
+  - **Hepatitis B Surface Antibody (HBsAb):** Positive  
+  - **Hepatitis C Antibody:** Negative  
+    - **Interpretation:** No evidence of hepatitis B or C infection. Patient has immunity to hepatitis B.
+
+- **HIV Antibody Test:**  
+  - **HIV 1/2 Antibody:** Negative  
+  - **Interpretation:** No evidence of HIV infection.
+
+- **Syphilis Screening (RPR):**  
+  - **RPR:** Non-reactive  
+  - **Interpretation:** No evidence of syphilis.
+
+- **Urinary Microbiology:**  
+  - **Culture:** No growth  
+  - **Interpretation:** No evidence of urinary tract infection.
+
+- **Complete Blood Count (CBC) Repeat:**  
+  - **WBC:** 10.2 x 10^9/L (Ref: 4.0–11.0)  
+  - **Hgb:** 14.2 g/dL (Ref: 13.5–17.5)  
+  - **Hct:** 42% (Ref: 38.5–47.5)  
+  - **Platelets:** 230 x 10^9/L (Ref: 150–450)  
+  - **Interpretation:** No significant changes from prior labs. No evidence of anemia, leukocytosis, or thrombocytopenia.
+
+- **Electrolytes (Repeat):**  
+  - **Sodium:** 142 mEq/L (Ref: 135–145)  
+  - **Potassium:** 4.1 mEq/L (Ref: 3.5–5.0)  
+  - **Chloride:** 102 mEq/L (Ref: 98–107)  
+  - **Bicarbonate:** 26 mEq/L (Ref: 22–29)  
+
+  - **Interpretation:** Normal electrolyte balance. No evidence of metabolic acidosis or alkalosis.
+
+- **Renal Function (Repeat):**  
+  - **Serum Creatinine:** 1.1 mg/dL (Ref: 0.7–1.3)  
+  - **eGFR:** 78 mL/min/1.73m² (Ref: >60)  
+
+  - **Interpretation:** Normal renal function. No evidence of chronic kidney disease.
+
+- **Lactate Levels:**  
+  - **Lactate:** 1.8 mmol/L (Ref: 0.5–2.2)  
+  - **Interpretation:** Normal, no evidence of lactic acidosis.
+
+- **Anion Gap:**  
+  - **Anion Gap:** 12 mEq/L (Ref: 8–16)  
+  - **Interpretation:** Normal, no evidence of metabolic acidosis.
+
+- **Blood Urea Nitrogen (BUN):**  
+  - **BUN:** 18 mg/dL (Ref: 7–20)  
+  - **Interpretation:** Normal, no evidence of renal dysfunction.
+
+- **Creatinine Clearance:**  
+  - **Creatinine Clearance:** 82 mL/min  
+  - **Interpretation:** Normal, no evidence of renal impairment.
+
+---
+
+### **NURSING NOTES**
+
+**Nursing Assessment (Post-Imaging):**  
+- **Vital Signs (Post-Imaging):**  
+  - **Temperature:** 98.6°F  
+
+  - **Pulse:** 72 bpm  
+  - **Respiratory Rate:** 16 breaths/min  
+  - **Blood Pressure:** 138/86 mmHg  
+
+  - **O2 Saturation:** 98% on room air  
+  - **Weight:** 185 lbs (84 kg)  
+  - **Height:** 5'10" (178 cm)  
+  - **BMI:** 28.5 (Overweight)  
+  - **GCS:** 15 (Alert, Oriented ×3)  
+  - **A&Ox3, NAD, PERRL**  
+
+- **Patient Comfort:**  
+  - Patient reported mild discomfort at the site of IV insertion, which was managed with ice and a topical anesthetic. No further pain reported.  
+  - Patient expressed concern about the length of the imaging process. He was reassured and provided with a pamphlet on the procedure.  
+
+- **Psychosocial Assessment:**  
+  - Patient was cooperative and engaged in the imaging process. He was concerned about the possibility of a serious condition but was reassured by the findings.  
+  - Patient reported a recent stressor related to financial strain and job-related anxiety, which may have contributed to his symptoms.  
+  - Patient’s family members were not present for the imaging but were contacted for follow-up.  
+
+- **Medication Administration:**  
+  - No medications were administered during the imaging process.  
+  - Patient continued his current medications as prescribed.  
+  - Patient was instructed to take his medications as scheduled and to report any side effects.  
+
+- **Patient Education:**  
+  - Patient was provided with a summary of the imaging findings and a list of recommended follow-up steps.  
+  - Patient was instructed to maintain a food diary for the next 2 weeks to track his dietary intake and any changes in symptoms.  
+  - Patient was advised to increase his fiber intake and stay well-hydrated.  
+  - Patient was given a handout on the importance of a healthy diet and the role of nutrition in managing chronic conditions.  
+
+- **Documentation:**  
+  - All nursing notes were documented in the electronic health record (EHR) in real-time.  
+  - Patient’s vital signs and assessment findings were reviewed and documented by the nursing staff.  
+  - Patient’s concerns were addressed, and he was reassured of the results.  
+
+---
+
+### **CONSULTS AND FOLLOW-UP**
+
+**Psychological Consultation:**  
+- A referral to a psychologist was made, and the patient was scheduled for an initial evaluation. The patient was advised to attend the first session within the next 2 weeks.  
+- The psychologist was informed of the patient's symptoms, imaging findings, and current medications.  
+- The patient was provided with a list of questions to bring to the psychological consultation, including:  
+  - Are there any stressors or life events that may be contributing to my symptoms?  
+  - Have I experienced any changes in mood or energy levels?  
+  - Do I have any concerns about my mental health or emotional well-being?  
+
+**Dietary Consultation:**  
+- A dietary consultation was scheduled, and the patient was advised to attend the first session within the next 3 weeks.  
+- The patient was instructed to bring a list of foods he has been eating in the past week to the consultation.  
+- The patient was given a sample meal plan and a list of foods to include and avoid.  
+- The patient was advised to monitor his bowel movements and any changes in sx.  
+
+**Gastroenterology Consultation:**  
+- A gastroenterologist was consulted, and the patient was scheduled for an initial evaluation.  
+- The gastroenterologist was informed of the patient’s symptoms, imaging findings, and current medications.  
+- The patient was advised to bring a list of symptoms, including the frequency, location, and duration of pain, as well as any changes in appetite or weight.  
+- The gastroenterologist was also informed of the patient’s family history of cancer and the possibility of a genetic predisposition.  
+
+**Primary Care Follow-up:**  
+- The patient was advised to schedule a follow-up with his primary care physician in 2 weeks for a comprehensive evaluation.  
+- The patient was instructed to bring all his medications, lab results, and imaging reports to the follow-up appointment.  
+- The primary care physician was informed of the patient’s symptoms, imaging findings, and current medications.  
+
+**Follow-up with Referring Physician:**  
+- The patient’s referring physician was informed of the imaging findings and the results of the additional laboratory tests.  
+- The patient was advised to schedule a follow-up appointment with the referring physician in 2 weeks.  
+- The referring physician was also informed of the pt’s concerns and the recommendations for further evaluation.  
+
+---
+
+### **IMAGING REPEATS AND ADDITIONAL STUDIES**
+
+**Repeat Imaging (Not Required):**  
+- No repeat imaging was required, as the findings were consistent and unremarkable.  
+- The patient was advised that no further imaging was needed at this time unless symptoms worsened or new symptoms developed.  
+
+**Additional Imaging Considerations:**  
+- If the patient’s symptoms persist or worsen, the following imaging modalities may be considered:  
+  - **Colonoscopy** to evaluate for chronic constipation, irritable bowel syndrome (IBS), or other gastrointestinal conditions.  
+  - **Endoscopy** to assess the upper gastrointestinal tract for possible causes of pain or discomfort.  
+  - **MRI of the abdomen and pelvis** if there is concern for a soft tissue lesion or inflammatory process not detected on CT.  
+  - **Ultrasound of the abdomen and pelvis** for a non-invasive alternative to CT, particularly if the patient has a known allergy to contrast or renal insufficiency.  
+
+**Imaging Modalities and Their Indications:**  
+- **Colonoscopy:** Used to evaluate the colon for structural abnormalities, such as diverticula, polyps, or tumors.  
+- **Endoscopy:** Used to evaluate the upper gastrointestinal tract for conditions like gastritis, ulcers, or Barrett’s esophagus.  
+- **MRI:** Provides detailed images of soft tissues and is useful for evaluating inflammatory or neoplastic processes.  
+- **Ultrasound:** Non-invasive and does not involve ionizing radiation, making it a safe option for repeated imaging.  
+
+**Imaging Safety and Radiation Exposure:**  
+- The patient received a radiation dose of 4.2 mSv, which is within acceptable limits for diagnostic imaging.  
+- The patient was informed of the radiation exposure and the benefits of the procedure.  
+- The patient was advised to avoid pregnancy for a short period following the imaging due to the potential risk of radiation exposure to the fetus.  
+
+**Imaging Safety for Patients with Comorbidities:**  
+- The patient has no contraindications to imaging with contrast.  
+- The patient’s renal function was normal, and he was appropriately hydrated prior to the procedure.  
+- The patient was monitored for any signs of an allergic reaction or adverse effects from the contrast.  
+- No adverse reactions were noted during or after the imaging.  
+
+---
+
+### **IMAGING RESEARCH AND PUBLICATIONS**
+
+**Imaging Research and Guidelines:**  
+- The findings from this imaging study were consistent with the current guidelines for the evaluation of chronic abdominal pain and weight loss in adults.  
+- The patient’s imaging findings were compared to the recommendations from the American College of Radiology (ACR) and the Society of Abdominal Imaging (SAI).  
+- The patient’s findings were also reviewed in the context of the latest literature on non-organic abdominal pain and the role of imaging in diagnosing functional gastrointestinal disorders.  
+
+**Imaging Guidelines for Chronic Abdominal Pain:**  
+- The ACR recommends imaging with CT for patients with chronic abdominal pain and weight loss when there is a concern for malignancy, inflammatory bowel disease, or other structural abnormalities.  
+- The SAI suggests that imaging with CT is appropriate in the absence of acute findings but should be followed by further evaluation if symptoms persist.  
+- The patient’s imaging was performed in accordance with these guidelines, and no additional imaging was required.  
+
+**Imaging Research on Non-Organic Abdominal Pain:**  
+- Recent studies have shown that non-organic abdominal pain is more common than previously thought, especially in patients with no identifiable structural abnormalities.  
+- The patient’s imaging findings support the hypothesis that his symptoms may be due to non-organic causes rather than a structural or inflammatory process.  
+- Further research is needed to determine the role of psychological factors in the development of chronic abdominal pain.  
+
+**Imaging Research on Weight Loss:**  
+- Weight loss is a common symptom in patients with chronic abdominal pain and can be associated with a variety of conditions, including malabsorption, hyperthyroidism, and psychiatric disorders.  
+- The patient’s imaging findings were consistent with a normal abdomen and pelvis, and no evidence of malabsorption or hyperthyroidism was found.  
+- Further evaluation is recommended to determine the underlying cause of the patient’s weight loss.  
+
+**Imaging Research on Diet and Bowel Function:**  
+- Recent studies have shown that dietary fiber intake and bowel function are closely related to the development of functional gastrointestinal disorders.  
+- The patient’s imaging findings suggest that his sx may be related to dietary habits and bowel function rather than structural abnormalities.  
+- The patient was advised to increase his fiber intake and maintain adequate hydration to improve bowel function.  
+
+---
+
+### **IMAGING RESEARCH AND CLINICAL TRIALS**
+
+**Clinical Trials on Chronic Abdominal Pain:**  
+- There are several ongoing clinical trials evaluating the role of psychological and dietary interventions in the management of chronic abdominal pain.  
+- The patient was considered for participation in a clinical trial evaluating the effectiveness of cognitive-behavioral therapy (CBT) in the treatment of functional gastrointestinal disorders.  
+- The patient was informed of the potential benefits and risks of participating in a clinical trial and was given the option to decline.  
+
+**Clinical Trials on Weight Loss and Gastrointestinal Health:**  
+- Recent clinical trials have shown that weight loss can improve gastrointestinal function and reduce symptoms of chronic abdominal pain.  
+- The patient’s imaging findings suggest that his weight loss may be a contributing factor to his symptoms.  
+- The patient was advised to consult with a nutritionist to develop a weight management plan that is safe and effective for his condition.  
+
+**Clinical Trials on Dietary Fiber and Bowel Health:**  
+- Several clinical trials have demonstrated the benefits of dietary fiber in improving bowel function and reducing symptoms of chronic abdominal pain.  
+- The patient was advised to increase his fiber intake and maintain adequate hydration to improve his bowel function.  
+
+- The patient was also advised to avoid foods that may exacerbate his symptoms, such as dairy products, spicy foods, and processed foods.  
+
+**Clinical Trials on Psychological Interventions:**  
+- Recent studies have shown that psychological interventions, such as cognitive-behavioral therapy (CBT), can be effective in managing chronic abdominal pain.  
+- The patient was referred to a  psychologist for further evaluation and possible participation in a psychological intervention program.  
+- The patient was advised to attend the first session within the next 2 weeks and to bring any questions or concerns about the program.  
+
+---
+
+### **IMAGING RESEARCH AND PRACTICE GUIDELINES**
+
+**Practice Guidelines for Abdominal Imaging:**  
+- The patient’s imaging was performed in accordance with the latest practice guidelines for abdominal imaging.  
+- The guidelines emphasize the importance of using appropriate imaging modalities to evaluate for structural abnormalities and to avoid unnecessary radiation exposure.  
+- The patient’s findings were consistent with the guidelines, and no further imaging was required.  
+
+**Practice Guidelines for Chronic Abdominal Pain:**  
+   - The patient’s symptoms are consistent with a diagnosis of functional gastrointestinal disorders, such as irritable bowel syndrome (IBS) or functional dyspepsia.  
+- The patient was advised to follow the recommended treatment plan for these conditions, which includes dietary modifications, stress management, and, if necessary, medication.  
+- The patient was also advised to consult with a gastroenterologist for further evaluation and management.  
+
+**Practice Guidelines for Weight Loss and Gastrointestinal Health:**  
+- The patient’s weight loss is not associated with any structural or inflammatory process, and the cause is likely related to dietary habits and bowel function.  
+- The patient was advised to consult with a nutritionist to develop a weight management plan that is safe and effective for his condition.  
+- The patient was also advised to maintain adequate hydration and to avoid foods that may exacerbate his symptoms.  
+
+**Practice Guidelines for Psychological Evaluation:**  
+- The patient’s symptoms may be related to psychological factors, such as anxiety or depression.  
+- The patient was referred for a psychological evaluation to determine the role of psychological factors in his condition.  
+- The patient was advised to attend the first session within the next 2 weeks and to bring any questions or concerns about the evaluation.  
+
+---
+
+### **IMAGING RESEARCH  AND PATIENT EDUCATION**
+
+**Patient Education on Imaging Findings:**  
+- The patient was provided with a detailed explanation of the imaging findings and was informed that no significant abnormalities were detected.  
+- The patient was also informed of the potential causes of his symptoms, including irritable bowel syndrome (IBS), functional dyspepsia, and other non-organic conditions.  
+- The patient was advised to continue his current medications and to monitor his symptoms for the next 2 weeks.  
+
+**Patient Education on Diet and Bowel Function:**  
+- The patient was provided with a list of dietary recommendations to improve bowel function and reduce symptoms.  
+- The patient was advised to increase his fiber intake, stay well-hydrated, and avoid foods that may exacerbate his symptoms.  
+- The patient was also advised to maintain a food diary to track his dietary intake and any changes in symptoms.  
+
+**Patient Education on Psychological Factors:**  
+- The patient was informed of the potential role of psychological factors in his symptoms and was advised to consult with a psychologist for further evaluation.  
+- The patient was also advised to manage stress and maintain a healthy lifestyle to improve his overall well-being.  
+
+**Patient Education on Follow-up and Monitoring:**  
+- The patient was advised to attend the scheduled follow-up appointments with his primary care physician, gastroenterologist, and psychologist.  
+- The patient was instructed to bring all his medications, lab results, and imaging reports to the follow-up appointments.  
+- The patient was also advised to report any changes in symptoms or new symptoms to his healthcare providers.  
+
+**Patient Education on Imaging Safety:**  
+- The patient was informed of the radiation exposure associated with the imaging and was reassured that the dose was within acceptable limits.  
+- The patient was advised to avoid pregnancy for a short period following the imaging due to the potential risk of radiation

@@ -1,0 +1,78 @@
+E2E corpus benchmark: 30 docs  model=Qwen/Qwen2.5-7B-Instruct-AWQ
+  vLLM=http://localhost:8000  Valkey=10.4.29.98:6379  min_chars=6000
+
+=== Flush L2 ===
+  flushed Valkey L2 at 10.4.29.98:6379
+
+=== Cold pass (compute prefill, store to Valkey L2) ===
+  legal/doc_0000.txt           cold TTFT   3331.7 ms
+  legal/doc_0001.txt           cold TTFT   3233.4 ms
+  legal/doc_0002.txt           cold TTFT   3249.1 ms
+  legal/doc_0003.txt           cold TTFT   3246.8 ms
+  legal/doc_0004.txt           cold TTFT   3278.4 ms
+  legal/doc_0005.txt           cold TTFT   3261.0 ms
+  legal/doc_0006.txt           cold TTFT   3282.5 ms
+  legal/doc_0007.txt           cold TTFT   3276.4 ms
+  legal/doc_0008.txt           cold TTFT   3303.8 ms
+  legal/doc_0009.txt           cold TTFT   3297.9 ms
+  legal/doc_0010.txt           cold TTFT   3317.6 ms
+  legal/doc_0011.txt           cold TTFT   3276.0 ms
+  legal/doc_0012.txt           cold TTFT   3300.9 ms
+  legal/doc_0013.txt           cold TTFT   3297.9 ms
+  legal/doc_0014.txt           cold TTFT   3299.6 ms
+  medical/doc_0000.txt         cold TTFT   3297.3 ms
+  medical/doc_0001.txt         cold TTFT   3300.2 ms
+  medical/doc_0002.txt         cold TTFT   3288.9 ms
+  medical/doc_0003.txt         cold TTFT   3324.1 ms
+  medical/doc_0004.txt         cold TTFT   3296.3 ms
+  medical/doc_0005.txt         cold TTFT   3326.6 ms
+  medical/doc_0006.txt         cold TTFT   3374.0 ms
+  medical/doc_0007.txt         cold TTFT   3319.2 ms
+  medical/doc_0008.txt         cold TTFT   3333.8 ms
+  medical/doc_0009.txt         cold TTFT   3344.4 ms
+  medical/doc_0010.txt         cold TTFT   3383.9 ms
+  medical/doc_0011.txt         cold TTFT   3404.8 ms
+  medical/doc_0012.txt         cold TTFT   3399.1 ms
+  medical/doc_0013.txt         cold TTFT   3420.8 ms
+  medical/doc_0014.txt         cold TTFT   3433.2 ms
+
+=== Cached pass (reuse KV; per-doc keyspace_hits delta attributes L2) ===
+  legal/doc_0000.txt           cached    330.4 ms  10.08x  hits+78    L2=yes
+  legal/doc_0001.txt           cached    307.9 ms  10.50x  hits+78    L2=yes
+  legal/doc_0002.txt           cached    308.6 ms  10.53x  hits+78    L2=yes
+  legal/doc_0003.txt           cached    307.9 ms  10.54x  hits+78    L2=yes
+  legal/doc_0004.txt           cached    309.4 ms  10.59x  hits+78    L2=yes
+  legal/doc_0005.txt           cached    314.3 ms  10.37x  hits+78    L2=yes
+  legal/doc_0006.txt           cached    307.9 ms  10.66x  hits+78    L2=yes
+  legal/doc_0007.txt           cached    314.8 ms  10.41x  hits+78    L2=yes
+  legal/doc_0008.txt           cached    329.4 ms  10.03x  hits+78    L2=yes
+  legal/doc_0009.txt           cached    327.3 ms  10.08x  hits+78    L2=yes
+  legal/doc_0010.txt           cached    447.9 ms   7.41x  hits+78    L2=yes
+  legal/doc_0011.txt           cached    343.1 ms   9.55x  hits+78    L2=yes
+  legal/doc_0012.txt           cached    329.8 ms  10.01x  hits+78    L2=yes
+  legal/doc_0013.txt           cached    328.3 ms  10.04x  hits+78    L2=yes
+  legal/doc_0014.txt           cached    346.7 ms   9.52x  hits+78    L2=yes
+  medical/doc_0000.txt         cached    332.3 ms   9.92x  hits+78    L2=yes
+  medical/doc_0001.txt         cached    332.0 ms   9.94x  hits+78    L2=yes
+  medical/doc_0002.txt         cached    503.9 ms   6.53x  hits+78    L2=yes
+  medical/doc_0003.txt         cached    343.4 ms   9.68x  hits+78    L2=yes
+  medical/doc_0004.txt         cached    338.2 ms   9.75x  hits+78    L2=yes
+  medical/doc_0005.txt         cached    327.8 ms  10.15x  hits+78    L2=yes
+  medical/doc_0006.txt         cached    337.9 ms   9.98x  hits+78    L2=yes
+  medical/doc_0007.txt         cached    329.6 ms  10.07x  hits+78    L2=yes
+  medical/doc_0008.txt         cached    326.3 ms  10.22x  hits+78    L2=yes
+  medical/doc_0009.txt         cached    336.3 ms   9.94x  hits+78    L2=yes
+  medical/doc_0010.txt         cached    330.0 ms  10.26x  hits+78    L2=yes
+  medical/doc_0011.txt         cached    329.7 ms  10.33x  hits+78    L2=yes
+  medical/doc_0012.txt         cached    332.1 ms  10.24x  hits+78    L2=yes
+  medical/doc_0013.txt         cached    331.6 ms  10.32x  hits+78    L2=yes
+  medical/doc_0014.txt         cached    508.9 ms   6.75x  hits+78    L2=yes
+
+================================================================
+Documents: 30   L2-confirmed reuse: 30   not-confirmed: 0
+  All 30 docs — cold median 3300.5 ms, cached median 329.9 ms, TTFT speedup median 10.07x (range 6.53-10.66x)
+  L2-confirmed 30 docs — cold median 3300.5 ms, cached median 329.9 ms, TTFT speedup median 10.07x (range 6.53-10.66x)
+  total keyspace_hits delta on cached pass: +2340
+
+✓ L2 RETRIEVAL CONFIRMED for every document on the corpus
+================================================================

@@ -1,0 +1,782 @@
+**Progress Note**  
+**Patient Name:** Elizabeth M. Harper  
+**MRN:** 1234567890  
+**Date of Visit:** April 5, 2025  
+**Visit Type:** Follow-Up  
+**Provider:** Dr. Sarah R. Thompson, MD  
+**Primary Care Physician**  
+**Facility:** Green Valley Family Health Center  
+
+---
+
+**Patient Demographics:**  
+- **Name:** Elizabeth M. Harper  
+- **DOB:** May 12, 1968  
+- **Age:** 56  
+- **Gender:** Female  
+- **Race:** White  
+- **Ethnicity:** Non-Hispanic  
+- **Marital Status:** Married  
+- **Occupation:** Office Administrator  
+- **Primary Language:** English  
+- **Insurance:** Aetna HMO  
+- **Address:** 123 Maple Street, Springfield, IL 62704  
+- **Phone:** (555) 123-4567  
+- **Emergency Contact:** Daughter, Sarah Harper, (555) 987-6543  
+
+---
+
+**Chief Complaint:**  
+The patient presents for a follow-up visit following a recent dx of type 2 diabetes mellitus (T2DM) and hypertension. She reports that she has been managing her medications and lifestyle modifications, but has noted persistent fatigue and occasional episodes of dizziness. She also expresses concern about her family history of cardiovascular disease and is seeking guidance on dietary changes and exercise recommendations.
+
+---
+
+**History of Present Illness:**  
+The patient is a 56-year-old female with a 2-year history of type 2 diabetes mellitus, managed with metformin 500 mg BID. She was diagnosed in March 2024 after a routine screening at her workplace. She was found to have a hemoglobin A1c of 8.2%, and fasting glucose levels consistently in the 120–140 mg/dL range. She has a history of hypertension, diagnosed in 2021, managed with lisinopril 10 mg daily. She also has a history of hyperlipidemia, for which she is on atorvastatin 20 mg nightly. 
+
+In the past 2 months, the patient has experienced intermittent fatigue, particularly in the afternoon, which she attributes to her busy work schedule. She reports that her fatigue has not significantly interfered with her daily activities, but she has noticed that she feels more tired after eating. She denies weight loss, night sweats, or palpitations. She also reports occasional episodes of dizziness, which occur when she stands up quickly. These episodes are described as brief and not associated with syncope or chest pain. She denies visual disturbances, hearing changes, or new-onset headaches. She denies any symptoms of hypoglycemia, such as sweating, tremors, or confusion.
+
+She is employed full-time as an office administrator and has no hx of diabetes-related complications. She has been compliant with her medications but has expressed some concerns about side effects of metformin, including bloating and mild gastrointestinal discomfort. She is currently following a low-carb, high-protein diet and has been exercising 3 times per week on average.
+
+---
+
+**Past Medical History:**  
+- Type 2 diabetes mellitus (T2DM) – 2 years  
+- Hypertension – 3 years  
+- Hyperlipidemia – 4 years  
+- Hyperthyroidism (Graves’ disease) – 2007 (resolved with antithyroid medication)  
+- Hypothyroidism – 2010 (managed with levothyroxine 50 mcg daily)  
+- Asthma – 20 years  
+- Allergies to penicillin and sulfa  
+- History of cesarean section, 2003  
+- No history of chronic obstructive pulmonary disease (COPD), heart failure, or peripheral vascular disease  
+- No history of cancer  
+- No known substance use disorder  
+
+---
+
+**Family History:**  
+- Father: Died of myocardial infarction at age 64  
+- Mother: Lives with type 2 diabetes and hypertension  
+- Sister: Has hypertension and hyperlipidemia  
+- No known history of inherited metabolic disorders or neurological conditions  
+
+---
+
+**Social History:**  
+- Married, 30-year relationship  
+- 1 child, currently 25 years old   
+- No tobacco use  
+- Occasional alcohol consumption (1–2 drinks per week)  
+- No illicit drug use  
+- Works full-time as an office administrator, sedentary lifestyle  
+- Lives with her husband and child in a two-bedroom house  
+- No pets  
+- Religious: Christian, attends church monthly  
+
+- No history of domestic abuse or violence  
+- No current psychiatric diagnoses  
+- No recent travel or sexual activity outside of monogamous relationship  
+
+---
+
+**Review of Systems:**  
+**General:**  
+- No weight loss or gain  
+- No fever, chills, or night sweats  
+- No joint pain or swelling  
+- No rash or skin changes  
+
+**Cardiovascular:**  
+- No chest pain or palpitations  
+- No edema in extremities  
+- No orthostatic hypotension  
+- No syncope or near syncope  
+
+**Respiratory:**  
+- No cough, shortness of breath, or wheezing  
+- No history of exacerbations of asthma  
+
+**Gastrointestinal:**  
+
+- No nausea, vomiting, or abdominal pain  
+- No heartburn or dyspepsia  
+- No change in appetite or bowel habits  
+
+**Genitourinary:**  
+- No urinary frequency, urgency, or incontinence  
+- No genital discharge or itching  
+- No history of UTIs  
+
+**Musculoskeletal:**  
+- No joint pain or stiffness  
+- No muscle weakness or fatigue  
+- No new or worsening back pain  
+
+**Neurological:**  
+- Alert and oriented ×3  
+- No memory loss or confusion  
+- No visual changes or hearing loss  
+- No tremors, weakness, or numbness  
+- No seizures  
+
+**Endocrine:**  
+- No symptoms of hyperthyroidism or hypothyroidism  
+- No polyuria or polydipsia  
+- No weight gain or loss  
+- No mood changes or sweating  
+
+**Psychiatric:**  
+- No depression, anxiety, or suicidal ideation  
+- No new or worsening mental health symptoms  
+
+**Skin:**  
+- No rashes, lesions, or new skin changes  
+- No pruritus or dryness  
+
+**Hearing/Vision:**  
+- No hearing loss or tinnitus  
+- No visual changes or difficulty reading  
+
+**Dermatologic:**  
+- No acne, hives, or other skin conditions  
+
+---
+
+**Physical Examination:**   
+**Vital Signs:**  
+- Blood pressure: 138/86 mmHg (left arm), 136/84 mmHg (right arm)  
+- Heart rate: 72 bpm  
+- Respiratory rate: 16 breaths/min  
+- Temperature: 98.2°F (36.8°C)  
+- Pulse oximetry: 98% on room air  
+- Weight: 155 lbs (70.3 kg)  
+- Height: 5'4" (162.5 cm)  
+- BMI: 26.8 (overweight)  
+
+- Blood glucose: 132 mg/dL (fasting)  
+
+**General Appearance:**  
+- Alert, well-ambulatory, in no acute distress  
+- No signs of distress or anxiety  
+- No pallor, jaundice, or cyanosis  
+- No evidence of weight loss or edema  
+
+**Head, Eyes, Ears, Nose, Throat:**  
+- Alert and oriented ×3  
+- PERRL (Pupils Equal, Round, Reactive to Light)  
+- No nystagmus or ptosis  
+- No conjunctival injection or discharge  
+- TM: Clear, mobile, no otorrhea  
+- No rhinorrhea or nasal obstruction  
+- No oral lesions, tonsillar hypertrophy, or cervical lymphadenopathy  
+
+  **Neck:**  
+- Supple, no thyromegaly, no nodules  
+- No jugular venous distension  
+- No lymphadenopathy  
+
+**Cardiovascular:**  
+- Regular rate and rhythm  
+- No murmurs, rubs, or gallops  
+- No peripheral edema  
+- No carotid bruits  
+
+**Respiratory:**  
+- Clear to auscultation bilaterally  
+- No wheezing, crackles, or rhonchi  
+- No cyanosis or use of accessory muscles  
+
+**Abdomen:**  
+- Soft, non-tender, non-distended  
+- No rebound tenderness or guarding  
+- No palpable masses  
+- Normal bowel sounds  
+
+**Extremities:**  
+
+- No clubbing, cyanosis, or edema  
+- No joint deformities or tenderness  
+- Normal range of motion  
+
+**Neurological:**  
+- Alert and oriented ×3  
+- No ataxia, tremor, or dysarthria  
+- 5/5 strength in all extremities  
+- No focal deficits  
+- DTRs 2+ bilaterally  
+
+**Skin:**  
+- No rashes, lesions, or discoloration  
+- No petechiae or purpura  
+
+**Musculoskeletal:**  
+- No joint swelling or deformity  
+- No muscle atrophy or weakness  
+
+**Psychiatric:**  
+- No signs of depression or anxiety  
+- No suicidal ideation or homicidal thoughts  
+
+   ---
+
+**Laboratory Results:**  
+- **Hemoglobin A1c:** 7.8% (Reference Range: <5.7%)  
+- **Fasting Blood Glucose:** 132 mg/dL (Reference Range: 70–99 mg/dL)  
+- **HDL Cholesterol:** 48 mg/dL (Reference Range: >40 mg/dL)  
+- **LDL Cholesterol:** 122 mg/dL (Reference Range: <100 mg/dL)  
+- **Total Cholesterol:** 195 mg/dL (Reference Range: <200 mg/dL)  
+- **Triglycerides:** 130 mg/dL (Reference Range: <150 mg/dL)  
+- **Creatinine:** 0.8 mg/dL (Reference Range: 0.6–1.2 mg/dL)  
+- **eGFR:** 82 mL/min/1.73 m² (Reference Range: 90–120 mL/min/1.73 m²)  
+- **Uric Acid:** 5.2 mg/dL (Reference Range: 3.4–7.0 mg/dL)  
+- **Liver Function Tests:**  
+  - ALT: 35 U/L (Reference Range: 0–40 U/L)  
+  - AST: 30 U/L (Reference Range: 0–40 U/L)  
+  - ALP: 65 U/L (Reference Range: 40–129 U/L)  
+  - Total Bilirubin: 0.8 mg/dL (Reference Range: 0.1–1.2 mg/dL)  
+- **Complete Blood Count (CBC):**  
+  - Hemoglobin: 13.8 g/dL  
+  - Hematocrit: 39.8%  
+  - White Blood Cells: 7.2 x 10³/µL  
+  - Platelets: 220 x 10³/µL  
+- **Thyroid Function Tests:**  
+  - TSH: 1.2 mIU/L (Reference Range: 0.4–4.0 mIU/L)  
+  - Free T4: 1.1 ng/dL (Reference Range: 0.8–1.8 ng/dL)  
+
+---
+
+**Imaging:**  
+- **Chest X-ray (April 5, 2025):**  
+  - Clear lungs, no infiltrates or masses  
+  - Normal cardiac silhouette  
+  - No pleural effusion or rib fractures  
+- **EKG (April 5, 2025):**  
+  - Sinus rhythm, normal rate and rhythm  
+  - No ST changes, T-wave inversions, or bundle branch blocks  
+  - Normal QRS duration and axis  
+
+---
+
+**Medications:**  
+- **Metformin 500 mg BID**  
+  - Purpose: Management of type 2 diabetes  
+
+  - Side Effects: Mild GI discomfort  
+  - Compliance: Yes  
+- **Lisinopril 10 mg daily**  
+  - Purpose: Management of hypertension  
+  - Side Effects: Dry cough (reported but mild)  
+  - Compliance: Yes  
+- **Atorvastatin 20 mg nightly**  
+  - Purpose: Management of hyperlipidemia  
+  - Side Effects: Mild muscle aches  
+  - Compliance: Yes  
+
+- **Levothyroxine 50 mcg daily**  
+  - Purpose: Management of hypothyroidism  
+  - Side Effects: None reported  
+  - Compliance: Yes  
+
+---
+
+**Allergies:**  
+- **Penicillin: Mild rash**  
+- **Sulfa drugs: Urticaria and pruritus**  
+
+---
+
+**Immunizations:**  
+- **Influenza vaccine:** Up to date (2024)  
+- **Tdap:** Up to date (2022)  
+- **Hepatitis B:** Completed series    
+- **Pneumococcal vaccine:** Up to date (2022)  
+- **MMR:** Up to date  
+- **Varicella:** Up to date  
+- **Herpes zoster:** Up to date  
+- **Rotavirus:** Not applicable (adult)  
+
+---
+
+**Plan:**  
+1. **Reinforce diabetes education and lifestyle modifications**  
+   - Continue low-carb, high-protein diet  
+   - Encourage 150 minutes of moderate-intensity aerobic activity per week  
+   - Monitor blood glucose levels 2–3 times per week  
+   - Schedule follow-up in 6 weeks for A1c check and blood work  
+
+2. **Continue current medications**  
+   - Metformin 500 mg BID  
+   - Lisinopril 10 mg daily  
+   - Atorvastatin 20 mg nightly  
+   - Levothyroxine 50 mcg daily  
+   - Monitor for side effects (e.g., GI discomfort, dry cough, muscle aches)  
+
+3. **Reevaluate for potential causes of fatigue and dizziness**  
+   - Consider anemia or thyroid dysfunction  
+   - Order CBC and TSH if not previously done  
+   - Rule out orthostatic hypotension or postural hypotension  
+
+4. **Encourage smoking cessation (if applicable)**  
+   - Patient is not a smoker  
+   - Provide resources for smoking cessation if needed  
+
+5. **Discuss stress management and sleep hygiene**  
+   - Patient reports working long hours  
+   - Recommend 7–8 hours of sleep nightly  
+   - Consider mindfulness or relaxation techniques  
+
+6. **Schedule follow-up in 6 weeks**  
+   - Include A1c, lipid panel, and urine microalbumin test  
+   - Monitor for any new or worsening symptoms      
+
+7. **Referral for diabetes education**  
+   - Patient expresses interest in learning more about managing diabetes  
+   - Refer to community diabetes educator for personalized counseling and support  
+
+8. **Screen for depression or anxiety**  
+   - Patient reports feeling fatigued and concerned about family history  
+   - Recommend brief screening tool (e.g., PHQ-9) at next visit  
+
+9. **Discuss family history and cardiovascular risk**  
+   - Patient has multiple family members with cardiovascular disease  
+   - Encourage regular lipid screening and blood pressure monitoring  
+   - Consider cardiovascular risk assessment tool (e.g., Framingham Risk Score)  
+
+10. **Review and reinforce safe medication use**  
+    - Patient is on multiple medications  
+    - Emphasize importance of adherence and potential side effects  
+    - Encourage patient to review medication list with pharmacist  
+
+11. **Provide patient education on hypoglycemia symptoms and management**  
+    - Patient is on metformin and has no history of hypoglycemia  
+       - Educate on signs of low blood sugar (e.g., sweating, tremors, confusion)  
+    - Advise on when to seek medical attention  
+
+12. **Encourage regular follow-up with primary care provider**  
+    - Patient is compliant with current follow-up schedule  
+    - Emphasize importance of consistent care to prevent complications  
+
+
+---
+
+**Patient Education:**  
+- Emphasize the importance of adhering to prescribed medications  
+- Encourage regular monitoring of blood glucose and blood pressure  
+- Advise the patient to report any new or worsening symptoms (e.g., chest pain, shortness of breath, severe dizziness) immediately  
+- Provide printed materials on diabetes management, hypertension control, and healthy lifestyle choices  
+- Schedule a follow-up appointment in 6 weeks for continued monitoring and evaluation  
+
+---
+
+**Provider Notes:**  
+- Patient is cooperative and engaged in her care  
+- No acute medical or psychiatric emergencies  
+- No immediate need for hospitalization or specialist referral  
+- Patient is a good candidate for diabetes education and lifestyle counseling  
+- Continue to monitor for any complications related to T2DM, hypertension, or hyperlipidemia  
+- Patient is at moderate risk for cardiovascular disease based on family history and current lab values  
+- Recommend continued follow-up and support to help manage chronic conditions and reduce long-term complications  
+
+---
+
+**Next Follow-Up:**  
+- **Date:** May 10, 2025  
+- **Type:** Follow-Up  
+- **Reason:** A1c and lipid panel, review of symptoms, and medication management  
+
+---
+
+**Signed by:**  
+**Dr. Sarah R. Thompson, MD**  
+Primary Care Physician  
+Green Valley Family Health Center  
+April 5,  2025
+
+**Additional Laboratory Results (April 5, 2025):**  
+- **Folate:** 14 ng/mL (Reference Range: 3–20 ng/mL)  
+- **Vitamin B12:** 320 pg/mL (Reference Range: 200–900 pg/mL)  
+- **Iron Studies:**   
+  - Serum Iron: 75 µg/dL (Reference Range: 60–170 µg/dL)  
+  - Total Iron Binding Capacity (TIBC): 280 µg/dL (Reference Range: 240–450 µg/dL)  
+  - Ferritin: 12 ng/mL (Reference Range: 12–250 ng/mL)  
+- **Calcium:** 9.2 mg/dL (Reference Range: 8.5–10.2 mg/dL)  
+- **Phosphorus:** 3.1 mg/dL (Reference Range: 2.5–4.5 mg/dL)  
+- **Magnesium:** 2.1 mg/dL (Reference Range: 1.5–2.5 mg/dL)  
+- **K:** 4.1 mEq/L (Reference Range: 3.5–5.0 mEq/L)  
+- **Sodium:** 140 mEq/L (Reference Range: 135–145 mEq/L)  
+- **Cl:** 101 mEq/L (Reference Range: 96–106 mEq/L)  
+- **Uric Acid:** 5.2 mg/dL (Reference Range: 3.4–7.0 mg/dL)  
+- **Creatinine Clearance:** 82 mL/min (Reference Range: 80–120 mL/min)  
+- **Lipid Panel (Repeat):**  
+  - Total Cholesterol: 195 mg/dL (Reference Range: <200 mg/dL)  
+  - LDL Cholesterol: 122 mg/dL (Reference Range: <100 mg/dL)  
+  - HDL Cholesterol: 48 mg/dL (Reference Range: >40 mg/dL)  
+  - Triglycerides: 130 mg/dL (Reference Range: <150 mg/dL)  
+- **HbA1c:** 7.8% (Reference Range: <5.7%)  
+- **C-Reactive Protein (CRP):** 0.5 mg/dL (Reference Range: <1.0 mg/dL)  
+- **Fasting Insulin:** 12 µIU/mL (Reference Range: 2–20 µIU/mL)  
+- **HOMA-IR Index:** 2.4 (Reference Range: <2.0)  
+- **Thyroid Function Tests (Repeat):**  
+  - TSH: 1.2 mIU/L (Reference Range: 0.4–4.0 mIU/L)  
+  - Free T4: 1.1 ng/dL (Reference Range: 0.8–1.8 ng/dL)  
+- **Urinalysis (Spot):**  
+  - Glucose: Negative  
+  - Ketones: Negative  
+  - Protein: 30 mg/dL (Reference Range: <30 mg/dL)  
+  - Blood: Negative  
+  - Leukocytes: Negative  
+  - Nitrites: Negative  
+  - Bilirubin: Negative  
+  - pH: 6.0 (Reference Range: 4.5–8.0)  
+  - Specific Gravity: 1.015  
+- **Urine Microalbumin: 15 mg/24h (Reference Range: <30 mg/24h)**  
+- **Urinary Creatinine Clearance:** 85 mL/min (Reference Range: 80–120 mL/min)  
+- **Urinary Sodium:** 120 mEq/L (Reference Range: 60–140 mEq/L)  
+- **Urinary Potassium:** 25 mEq/L (Reference Range: 20–40 mEq/L)  
+- **Urinary Phosphorus:** 18 mg/dL (Reference Range: 10–40 mg/dL)  
+- **Urine Electrolytes:** Within normal limits  
+- **24-Hour Urine Electrolytes:**  
+  - Sodium: 150 mEq/24h  
+  - Potassium: 50 mEq/24h  
+  - Chloride: 120 mEq/24h  
+  - Creatinine: 105 mg/24h  
+
+**Additional Imaging Studies:**  
+- **Abdominal Ultrasound (April 5, 2025):**  
+  - Normal liver echotexture with no evidence of steatosis  
+  - No gallstones or biliary obstruction  
+  - Normal pancreas size and echotexture  
+  - Normal renal parenchyma, no hydronephrosis or calculi  
+  - Normal spleen size  
+  - No evidence of ascites  
+  - No mass or mass-like lesion  
+- **Carotid Ultrasound (April 5, 2025):**  
+  - Normal carotid arteries with no evidence of plaque or stenosis  
+  - Normal blood flow velocities  
+  - No bruit heard bilaterally  
+- **Lower Extremity Doppler (April 5, 2025):**  
+  - No evidence of peripheral artery disease (PAD)  
+  - Normal arterial flow and no Doppler signals indicating occlusion  
+  - Normal distal pulses in both lower extremities  
+  - No edema or skin changes noted  
+   - **Echocardiogram (April 5, 2025):**  
+  - Left ventricular ejection fraction (LVEF): 58% (Reference Range: 50–70%)  
+  - Normal chamber sizes  
+
+  - Normal systolic and diastolic function  
+  - No valvular abnormalities  
+  - Normal myocardial wall motion  
+  - Normal right ventricular function  
+  - No evidence of pulmonary hypertension or pericardial effusion  
+  - Normal left atrial size  
+  - Normal ejection fraction and compliance  
+
+**Nursing Notes:**  
+- **Nursing Assessment (April 5, 2025):**  
+  - Patient is alert and oriented ×3, with no signs of confusion or disorientation  
+  - Patient reports feeling fatigued but is able to ambulate independently  
+  - Patient denies any recent falls or episodes of syncope  
+   - Patient is compliant with medication regimen  
+  - Patient has a clean, dry, intact skin with no signs of pressure injuries or rashes  
+  - Patient is currently free of acute medical complications  
+  - Patient is emotionally stable with no signs of depression or anxiety  
+  - Patient is engaged in the care plan and is willing to make lifestyle modifications  
+- **Nursing Interventions:**  
+  - Continue to monitor for signs of hypoglycemia and hyperglycemia  
+  - Educate patient on the importance of consistent blood glucose monitoring  
+  - Provide support and resources for diabetes self-management  
+  - Reinforce the need for regular follow-up and medication adherence  
+  - Encourage patient to report any new or worsening symptoms promptly  
+  - Provide printed materials on diabetes management and healthy lifestyle choices  
+  - Schedule a follow-up appointment in 6 weeks  
+  - Collaborate with the diabetes educator to provide additional support  
+
+**Nursing Plan of Care:**  
+- **Goal 1:** Patient will demonstrate knowledge of diabetes self-management by the next follow-up visit.  
+- **Goal 2:** Patient will maintain a fasting blood glucose level within the target range (70–130 mg/dL) for the next 6 weeks.  
+- **Goal 3:** Patient will report no episodes of hypoglycemia or severe dizziness by the next follow-up visit.  
+- **Goal 4:** Patient will adhere to the prescribed medication regimen with no adverse effects reported.  
+- **Goal 5:** Patient will engage in regular physical activity and maintain a healthy diet as recommended by the care team.  
+- **Goal 6:** Patient will attend a diabetes education session within the next 4 weeks.  
+
+**Consultation Notes:**  
+- **Diabetes Educator Consult (April 5, 2025):**  
+  - Patient expresses interest in learning more about managing diabetes through lifestyle changes.  
+  - Educator provided patient with a personalized meal plan and exercise guidelines.  
+  - Patient was educated on how to monitor blood glucose levels and recognize signs of hypo- and hyperglycemia.  
+  - Patient was given a glucose meter and test strips for home use.  
+  - Patient was instructed on how to store and use the glucose meter properly.  
+  - Patient was encouraged to bring a family member or caregiver to future appointments for support.  
+- **Cardiology Consult (April 5, 2025):**  
+  - Patient was evaluated by a cardiologist for concerns related to hypertension and cardiovascular risk.  
+  - The cardiologist reviewed the patient’s lipid panel, blood pressure readings, and family history.  
+  - The cardiologist confirmed that the patient’s current medication regimen is appropriate for her condition.  
+  - The cardiologist recommended continued monitoring of blood pressure and lipid levels.  
+  - The cardiologist provided the patient with a summary of her cardiovascular risk factors and encouraged her to maintain a healthy lifestyle.  
+- **Psychiatry Consult (April 5, 2025):**  
+  - The patient was evaluated for potential depression or anxiety due to her reports of fatigue and concern about family history.  
+  - The psychiatrist administered the PHQ-9 screening tool and found no evidence of major depression.      
+  - The psychiatrist recommended continued monitoring for signs of emotional distress and provided the pt with a brief educational handout on stress management.  
+  - The psychiatrist encouraged the patient to engage in regular physical activity and mindfulness practices to help reduce stress.  
+
+**Follow-Up Plan:**  
+- **Scheduled Follow-Up:** May 10, 2025  
+- **Purpose:**  
+  - Monitor A1c, lipid panel, and urine microalbumin results  
+  - Review patient’s symptoms, including fatigue and dizziness  
+  - Assess adherence to medication and lifestyle modifications  
+  - Provide ongoing support and education on diabetes management  
+  - Evaluate for any new or worsening symptoms  
+  - Schedule a diabetes education session if not already completed  
+- **Additional Orders:**  
+  - Repeat A1c in 6 weeks  
+  - Repeat lipid panel and urine microalbumin in 6 weeks  
+  - Schedule a follow-up with the diabetes educator  
+  - Schedule a follow-up with the psychiatrist if needed  
+  - Schedule a follow-up with the cardiologist if cardiovascular risk increases  
+  - Monitor for any new symptoms or complications  
+
+**Patient Feedback:**  
+
+- The patient expressed satisfaction with the care provided and felt more informed about managing her diabetes.  
+- She appreciated the resources and support provided by the care team.  
+- The patient is willing to continue with the recommended lifestyle modifications and is committed to following up with her healthcare providers.  
+- She reported feeling more confident in managing her diabetes and is looking forward to the upcoming diabetes education session.  
+
+**Documentation Summary:**  
+- Patient has been compliant with her medications and has made consistent lifestyle modifications.  
+- No acute complications have been identified.  
+
+- Patient’s laboratory values are within acceptable ranges, with some mild deviations that do not indicate immediate concern.  
+- Patient’s vital signs are stable, with no significant changes from prior visits.  
+- Patient’s physical examination is unremarkable, with no new findings.  
+- Patient’s mental status is intact, and she is engaged in her care plan.  
+- No immediate need for hospitalization or specialist referral.  
+- Patient is at moderate risk for cardiovascular disease based on family history and current lab values.  
+- Continued follow-up and support are recommended to manage chronic conditions and reduce long-term complications.   
+
+**Provider Notes (Continued):**  
+- Patient is a motivated and engaged patient who is committed to managing her chronic conditions.  
+- Her adherence to medications and lifestyle modifications is commendable.  
+
+- The patient’s fatigue and dizziness may be related to her diabetes or other underlying factors.  
+- I will continue to monitor for any changes in her symptoms and adjust her care plan as needed.  
+- Patient’s family history of cardiovascular disease is a significant risk factor, and I will continue to emphasize the importance of regular screening and preventive measures.  
+- I will continue to work closely with the diabetes educator and cardiologist to provide comprehensive care.  
+- Patient is at increased risk for complications related to diabetes and hypertension, so ongoing monitoring and education are essential.  
+- I will encourage the patient to maintain a healthy lifestyle, including regular exercise and a balanced diet.  
+- Patient’s mental health is stable, and I will continue to monitor for any signs of depression or anxiety.  
+- I will provide the patient with additional resources and support to help her manage her conditions effectively.  
+- I will schedule a follow-up appointment in 6 weeks to continue monitoring her progress and address any concerns she may have.  
+
+**Additional Notes:**  
+- Patient was given a pamphlet on diabetes management and a referral to a diabetes educator.  
+- Patient was instructed to bring a family member or caregiver to future appointments for support.  
+- Patient was encouraged to use the glucose meter and test strips provided.  
+- Patient was reminded to report any new or worsening symptoms immediately.  
+- Patient was advised to maintain a healthy diet and continue with her current exercise routine.  
+- Patient was encouraged to stay hydrated and monitor her fluid intake.  
+- Patient was advised to avoid excessive alcohol consumption and to limit caffeine intake.  
+- Patient was reminded to take her medications as prescribed and to not skip any doses.  
+- Patient was advised to schedule a follow-up with the cardiologist if her blood pressure remains elevated.  
+- Patient was encouraged to attend the diabetes education session to receive additional support and guidance.  
+
+**Discharge Summary (if applicable):**  
+- Patient was not hospitalized and did not require discharge instructions.  
+- Patient remains under active care and is scheduled for a follow-up visit in 6 weeks.  
+- No discharge orders were issued.  
+- Patient is to continue with the care plan and follow-up appointments as scheduled.  
+
+**Sign-Off:**  
+**Dr. Sarah R. Thompson, MD**  
+Primary Care Physician  
+Green Valley Family Health Center  
+April 5, 2025
+
+**Additional Clinical Detail:**
+
+**Psychological Assessment:**  
+- Patient was administered the PHQ-9 (Patient Health Questionnaire-9) during the visit.  
+- Score: 4 (indicating minimal depressive symptoms)  
+- Patient reported feeling fatigued and concerned about her health but no significant depressive symptoms.  
+- Patient expressed no suicidal ideation, hopelessness, or anhedonia.  
+- Patient reported feeling generally satisfied with her life and relationship with her family.  
+- No need for psychiatric referral at this time.  
+
+**Nutritional Assessment:**  
+- Patient is following a low-carb, high-protein diet, primarily consisting of lean proteins, vegetables, and limited fruits.  
+- Patient consumes approximately 1,200–1,400 calories per day.  
+- Patient reports no significant dietary restrictions beyond what is necessary for diabetes management.  
+- Patient is advised to maintain a balanced diet with complex carbohydrates, fiber, and healthy fats.  
+- Patient is encouraged to increase intake of whole grains, fruits, and legumes while reducing refined sugars and processed foods.  
+- Patient was given a referral to a registered dietitian for a more detailed nutritional assessment and personalized meal planning.  
+
+**Sleep Assessment:**  
+- Patient reports sleeping 6–7 hours per night, with no reported insomnia or daytime sleepiness.  
+- Patient is not on any sleep medications.  
+- Patient reports that her sleep is generally restful, though she occasionally wakes up feeling tired.  
+- Patient is advised to maintain a consistent sleep schedule and limit screen time before bed.  
+- Patient is encouraged to practice relaxation techniques such as deep breathing or meditation to improve sleep quality.  
+
+**Activity and Mobility Assessment:**  
+- Patient is physically active 3–4 times per week, participating in moderate-intensity exercises such as brisk walking and light resistance training.  
+- Patient reports no significant joint pain or muscle aches related to physical activity.  
+- Patient is encouraged to increase activity to 150 minutes per week for optimal cardiovascular and metabolic benefits.  
+- Patient is advised to avoid overexertion and to warm up before exercise.  
+- Patient is encouraged to maintain a consistent exercise routine and to monitor for any signs of overuse or injury.  
+
+**Social Support Assessment:**  
+- Patient has a strong support system with her spouse and child.  
+- Patient reports that her family is supportive of her health goals and encourages her to maintain a healthy lifestyle.  
+- Patient is encouraged to involve her family in her care plan, such as participating in meals or exercise activities together.  
+- Patient is advised to continue engaging with her support network and to seek additional support if needed.  
+
+   **Cultural and Language Considerations:**  
+- Patient is fluent in English and does not require translation services.  
+- Patient is from a predominantly White, non-Hispanic background and has no cultural or language barriers to care.  
+- Patient is advised to continue utilizing available community resources for diabetes management and support.  
+- Patient is encouraged to attend local health fairs or support groups for individuals with diabetes.   
+
+**Insurance and Financial Considerations:**  
+- Patient is covered by Aetna HMO, with no reported issues with insurance coverage.  
+- Patient is advised to review her insurance benefits for any preventive care services or medications that may be covered.  
+- Patient is encouraged to schedule routine check-ups and preventive care visits as recommended.  
+- Patient is advised to contact the office if there are any concerns about the cost of medications or services.  
+
+**Patient Education Materials Provided:**  
+- Diabetes Self-Management Education (DSME) handouts  
+- Diabetes meal planning guide  
+- Exercise and activity recommendations  
+- Blood glucose monitoring instructions  
+- Hypoglycemia and hyperglycemia management tips  
+- Medication adherence and side effect management  
+- Mental health and stress management resources  
+- Resources for family involvement in care  
+- Community health resources and support groups  
+
+**Patient’s Understanding and Compliance:**  
+- Patient demonstrated understanding of the care plan and was able to answer questions about her medications, diet, and exercise.  
+- Patient was able to explain how to monitor blood glucose levels and when to seek medical attention.  
+- Patient expressed confidence in managing her diabetes and is committed to following up with her healthcare providers.  
+- Patient was able to identify signs of hypoglycemia and know how to respond appropriately.  
+- Patient is expected to continue with the care plan and attend the next follow-up visit.  
+
+**Follow-Up Orders:**  
+- Repeat A1c in 6 weeks  
+- Repeat lipid panel and urine microalbumin in 6 weeks  
+- Schedule a follow-up with the diabetes educator  
+- Schedule a follow-up with the cardiologist if blood pressure remains elevated  
+- Schedule a follow-up with the psychiatrist if symptoms of depression or anxiety develop  
+- Schedule a follow-up with the dietitian for personalized meal planning  
+- Schedule a follow-up with the nurse for ongoing support and education  
+
+
+**Additional Laboratory Results (April 5, 2025):**  
+- **Hemoglobin:** 13.8 g/dL (Reference Range: 12.0–15.5 g/dL)  
+
+- **Hematocrit:** 39.8% (Reference Range: 36.0–44.0%)  
+- **MCV:** 89 fL (Reference Range: 80–100 fL)  
+- **MCH:** 28.7 pg (Reference Range: 27–31 pg)  
+- **MCHC:** 32.3% (Reference Range: 32–36%)  
+- **RBC Count:** 4.15 x 10⁶/µL (Reference Range: 4.0–5.5 x 10⁶/µL)  
+- **WBC Count:** 7.2 x 10³/µL (Reference Range: 4.0–11.0 x 10³/µL)  
+- **Platelet Count:** 220 x 10³/µL (Reference Range: 150–450 x 10³/µL)  
+- **RDW:** 12.5% (Reference Range: 11.5–14.5%)  
+- **Serum Ferritin:** 12 ng/mL (Reference Range: 12–250 ng/mL)  
+- **Transferrin Saturation:** 18% (Reference Range: 20–50%)  
+- **Total Iron Binding Capacity (TIBC):** 280 µg/dL (Reference Range: 240–450 µg/dL)  
+- **Serum Iron:** 75 µg/dL (Reference Range: 60–170 µg/dL)  
+- **Folate:** 14 ng/mL (Reference Range: 3–20 ng/mL)  
+- **Vitamin B12:** 320 pg/mL (Reference Range: 200–900 pg/mL)  
+- **Uric Acid:** 5.2 mg/dL (Reference Range: 3.4–7.0 mg/dL)  
+- **Cr:** 0.8 mg/dL (Reference Range: 0.6–1.2 mg/dL)  
+- **eGFR:** 82 mL/min/1.73 m² (Reference Range: 90–120 mL/min/1.73 m²)  
+- **Estimated Glomerular Filtration Rate (eGFR):** 82 mL/min/1.73 m²  
+- **Creatinine Clearance:** 82 mL/min (Reference Range: 80–120 mL/min)  
+- **Urine Microalbumin:** 15 mg/24h (Reference Range: <30 mg/24h)  
+- **Urine Protein to Creatinine Ratio (UPCR):** 0.2 (Reference Range: <0.15)  
+- **Urine Sodium:** 120 mEq/L (Reference Range: 60–140 mEq/L)  
+- **Urine Potassium:** 25 mEq/L (Reference Range: 20–40 mEq/L)  
+- **Urine Phosphorus:** 18 mg/dL (Reference Range: 10–40 mg/dL)  
+- **Urine Electrolytes:** Within normal limits  
+- **24-Hour Urine Electrolytes:**  
+
+  - Sodium: 150 mEq/24h  
+  - Potassium: 50 mEq/24h  
+  - Chloride: 120 mEq/24h  
+  - Creatinine: 105 mg/24h  
+- **Urinalysis (Spot):**  
+  - Glucose: Negative  
+  - Ketones: Negative  
+  - Protein: 30 mg/dL (Reference Range: <30 mg/dL)  
+  - Blood: Negative  
+  - Leukocytes: Negative  
+  - Nitrites: Negative  
+  - Bilirubin: Negative  
+  - pH: 6.0 (Reference Range: 4.5–8.0)  
+  - Specific Gravity: 1.015  
+- **Urine Microalbumin: 15 mg/24h (Reference Range: <30 mg/24h)**  
+- **Urine Protein: 30 mg/dL (Reference Range: <30 mg/dL)**  
+- **Urine Creatinine: 105 mg/24h (Reference Range: 70–140 mg/24h)**  
+- **Urine Sodium: 120 mEq/L (Reference Range: 60–140 mEq/L)**  
+- **Urine Potassium: 25 mEq/L (Reference Range: 20–40 mEq/L)**  
+- **Urine Phosphorus: 18 mg/dL (Reference Range: 10–40 mg/dL)**  
+- **Urine Electrolytes:** Within normal limits  
+- **24-Hour Urine Electrolytes:**  
+  - Sodium: 150 mEq/24h  
+
+  - Potassium: 50 mEq/24h  
+  - Chloride: 120 mEq/24h  
+  - Creatinine: 105 mg/24h  
+
+**Additional Imaging Studies:**  
+- **Abdominal Ultrasound (April 5, 2025):**  
+  - Normal liver echotexture with no evidence of steatosis  
+  - No gallstones or biliary obstruction  
+  - Normal pancreas size and echotexture  
+  - Normal renal parenchyma, no hydronephrosis or calculi  
+  - Normal spleen size  
+  - No evidence of ascites  
+   - No mass or mass-like lesion  
+- **Carotid Ultrasound (April 5, 2025):**  
+  - Normal carotid arteries with no evidence of plaque or stenosis  
+  - Normal blood flow velocities  
+  - No bruit heard bilaterally  
+- **Lower Extremity Doppler (April 5, 2025):**  
+  - No evidence of peripheral artery disease (PAD)  
+  - Normal arterial flow and no Doppler signals indicating occlusion  
+  - Normal distal pulses in both lower extremities  
+  - No edema or skin changes noted  
+- **Echocardiogram (April 5, 2025):**   
+  - Left ventricular ejection fraction (LVEF): 58% (Reference Range: 50–70%)  
+
+  - Normal chamber sizes  
+  - Normal systolic and diastolic function  
+  - No valvular abnormalities  
+  - Normal myocardial wall motion  
+  - Normal right ventricular function  
+  - No evidence of pulmonary hypertension or pericardial effusion  
+  - Normal left atrial size  
+
+  - Normal ejection fraction and compliance  
+
+**Additional Diagnostic Testing:**  
+- **Hemoglobin A1c:** 7.8% (Reference Range: <5.7%)  
+- **Fasting Blood Glucose:** 132 mg/dL (Reference Range: 70–99 mg/dL)  
+- **HbA1c:** 7.8% (Reference Range: <5.7%)  
+- **HbA1c Interpretation:** Indicates moderate hyperglycemia with poor glycemic control.  
+- **Lipid Panel:**  
+  - Total Cholesterol: 195 mg/dL (Reference Range: <200 mg/dL)  
+  - LDL Cholesterol: 122 mg/dL (Reference Range: <100 mg/dL)  
+  - HDL Cholesterol: 48 mg/dL (Reference Range: >40 mg/dL)  
+  - Triglycerides: 130 mg/dL (Reference Range: <150 mg/dL)  
+- **Lipid Panel Interpretation:** Patient has elevated LDL cholesterol, which increases cardiovascular risk.  
+- **Urine Microalbumin:** 15 mg/24h (Reference Range: <30 mg/24h)  
+- **Urine Microalbumin Interpretation:** Slight increase in microalbumin, indicating early kidney damage.  
+- **Urine Protein to Creatinine Ratio (UPCR):** 0.2 (Reference Range: <0.15)  
+- **UPCR Interpretation:** Indicates early signs of microalbuminuria, suggesting mild kidney involvement.  
+- **eGFR:** 82 mL/min/1.73 m² (Reference Range: 90–120 mL/min/1.73 m²)  
+
+- **eGFR Interpretation:** Slightly reduced eGFR, consistent with early renal impairment.  
+- **Blood Pressure:** 138/86 mmHg (Left Arm), 136/84

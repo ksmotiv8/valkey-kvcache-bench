@@ -1,0 +1,321 @@
+**SOFTWARE LICENSING AGREEMENT**  
+**THIS AGREEMENT** is made as of this [___] day of [___], 2025, by and between **TechNova Inc.**, a Delaware corporation with its principal place of business at 123 Innovation Drive, Silicon Valley, CA 94043, hereinafter referred to as **"Licensor"**, and **GlobalSystems Corp.**, a multinational corporation with its principal place of business at 456 Corporate Plaza, New York, NY 10001, hereinafter referred to as **"Licensee"**.  
+
+**RECITALS**  
+
+WHEREAS, Licensor is the sole owner of certain proprietary software, including but not limited to the software application known as "TechNova Core System" (hereinafter referred to as the "Software"), which is subject to intellectual property rights owned by Licensor and has been developed by Licensor in accordance with applicable laws and regulations;  
+WHEREAS, Licensee desires to obtain a license to use the Software for specified purposes, and Licensor is willing to grant such a license on the terms and conditions set forth in this Agreement;  
+WHEREAS, the parties agree that the Software shall be licensed under the terms and conditions set forth in this Agreement, and that the Software is subject to all applicable laws and regulations in the jurisdictions where it is used;  
+WHEREAS, the parties acknowledge that the Software is a proprietary product and that all rights, title, and interest in and to the Software, including but not limited to all copyrights, patents, trademarks, trade secrets, and other intellectual property rights, shall remain the sole and exclusive property of Licensor, and the Licensee shall not acquire any ownership interest in the Software or any related intellectual property;  
+WHEREAS, the parties further acknowledge that the licensing of the Software is subject to the terms and conditions set forth in this Agreement, and that the parties have entered into this Agreement in good faith and with the intention of creating a binding and enforceable agreement.  
+
+**NOW, THEREFORE**, in consideration of the mutual covenants and promises contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:  
+
+**ARTICLE I – DEFINITIONS AND INTERPRETATION**  
+
+**Section 1.1 – Definitions**  
+For the purposes of this Agreement, the following terms shall have the meanings set forth below:  
+(a) **"Agreement"** shall mean this Software Licensing Agreement, including all exhibits, schedules, and attachments hereto, and any amendments or supplements thereto, as may be entered into in accordance with the terms hereof.  
+(b) **"Software"** shall mean the proprietary software application known as "TechNova Core System" and any related software, code, libraries, documentation, data, and other materials provided by Licensor to Licensee in connection with this Agreement.  
+(c) **"Licensee"** shall mean GlobalSystems Corp., a multinational corporation, and its affiliates, subsidiaries, and successors-in-interest.  
+(d) **"Licensor"** shall mean TechNova Inc., a Delaware corporation, and its affiliates, subsidiaries, and successors-in-interest.  
+(e) **"License"** shall mean the non-exclusive, non-transferable, and non-sublicensable license granted by Licensor to Licensee under Article II of this Agreement to use the Software for the purposes set forth in Section 2.1 hereof.  
+(f) **"Term"** shall mean the period from the Effective Date of this Agreement to the expiration date set forth in Section 10.2, unless terminated earlier in accordance with the terms of this Agreement.  
+(g) **"Effective Date"** shall mean the date on which this Agreement is executed by both parties, or such later date as may be agreed upon by the parties in writing.  
+(h) **"Confidential Information"** shall mean any and all information, whether written or oral, that is disclosed by one party to the other party in connection with this Agreement, including but not limited to technical specifications, business plans, marketing strategies, financial data, and other proprietary information, which is marked as confidential or is otherwise identified as confidential by the disclosing party.  
+(i) **"Intellectual Property"** shall mean all copyrights, patents, trademarks, trade secrets, and other intellectual property rights, whether registered or unregistered, in and to the Software and all related materials.  
+(j) **"Exclusivity"** shall mean the right granted by Licensor to Licensee to use the Software in the manner specified in this Agreement, and the parties acknowledge that such use is not exclusive in nature, unless otherwise agreed in writing.  
+(k) **"Termination"** shall mean the termination of this Agreement by either party in accordance with the provisions set forth in Article X of this Agreement.  
+(l) **"Payment"** shall mean the consideration paid by Licensee to Licensor in accordance with the terms set forth in Article III of this Agreement.  
+(m) **"Compliance"** shall mean the adherence to all applicable laws, regulations, and contractual obligations in connection with the use of the Software.  
+(n) **"Subsidiary"** shall mean any entity that is controlled, directly or indirectly, by Licensor or Licensee.  
+(o) **"Affiliate"** shall mean any entity that controls, is controlled by, or is under common control with Licensor or Licensee.  
+(p) **"Governing Law"** shall mean the laws of the State of Delaware, without regard to its conflict of laws principles.  
+ (q) **"Dispute"** shall mean any actual or potential controversy, claim, or dispute between the parties, whether arising from this Agreement, the performance of the Software, or any other matter related to the parties' relationship.  
+
+**Section 1.2 – Interpretation**  
+(a) The terms of this Agreement shall be interpreted in accordance with the ordinary meaning of the words used, and the parties agree that they have participated in the drafting of this Agreement and that the same shall be construed in a fair and equitable manner.  
+(b) The headings of the sections and articles of this Agreement are for reference only and shall not be used to alter or modify the meaning of the text contained in the sections or articles.  
+(c) All references in this Agreement to any article, section, or clause shall be deemed to refer to the corresponding article, section, or clause of this Agreement, unless otherwise specified.  
+(d) In the event of a conflict between the terms of this Agreement and any other document, the terms of this Agreement shall prevail to the extent that they are not inconsistent with the terms of this Agreement.  
+(e) The rights and obligations of the parties under this Agreement shall be interpreted in a manner consistent with the overall purpose and intent of the Agreement, and any ambiguity shall be resolved in favor of the parties’ mutual intent.  
+(f) This Agreement shall be governed by the laws of the State of Delaware, as specified in Section 1.1(p), and shall be construed under the laws of such State.  
+(g) All references to "including" or "including but not limited to" shall be deemed to be illustrative and not exhaustive.  
+ (h) All provisions of this Agreement shall be deemed to be in pari materia, and shall be read together as a single, integrated document.  
+(i) Any reference to "herein," "hereof," or "hereunder" shall be deemed to refer to this entire Agreement, including all exhibits, schedules, and attachments.  
+(j) This Agreement may be executed in counterparts, each of which shall be deemed to be an original, and all counterparts shall be deemed to be one and the same instrument.  
+(k) The parties agree that the language of this Agreement is intended to be binding, enforceable, and shall be construed in accordance with the principles of contract law.  
+(l) The parties further agree that the terms of this Agreement shall not be amended, modified, or supplemented, except in writing signed by both parties.  
+(m) The parties acknowledge that they have had the opportunity to review the terms of this Agreement, and that they are entering into this Agreement voluntarily, without coercion, duress, or undue influence.  
+
+**ARTICLE II – GRANT OF LICENSE**  
+
+**Section 2.1 – Scope of License**  
+Licensor hereby grants to Licensee a non-exclusive, non-transferable, and non-sublicensable license to use the Software for internal business purposes, including but not limited to the development, testing, deployment, and operation of the Software within the internal infrastructure of Licensee’s organization. The license shall be limited to the specific Software as identified in Section 1.1(b), and shall not include any rights to use or modify the Software in any manner that would infringe upon the intellectual property rights of Licensor.  
+
+**Section 2.2 – Exclusivity of License**  
+(a) The license granted by Licensor to Licensee shall not be exclusive, and Licensor reserves the right to grant licenses to other parties, including but not limited to third-party developers, resellers, and end-users, for the same or similar Software.  
+(b) Licensee acknowledges that the license granted hereunder does not grant any rights of exclusivity, and that Licensor may, at its sole discretion, enter into similar agreements with other parties.  
+(c) Any rights to use the Software for purposes beyond those specified in Section 2.1 shall require the express written consent of Licensor, and shall be subject to additional terms and conditions.  
+
+**Section 2.3 – Use of Software**  
+(a) The Software shall be used solely for the purposes authorized by this Agreement and shall not be used in connection with any other business activity, including but not limited to commercial distribution, modification, or reverse engineering.  
+(b) Licensee shall not, directly or indirectly, copy, adapt, translate, or otherwise alter the Software in any manner that would infringe upon the intellectual property rights of Licensor.  
+(c) Licensee shall not permit any third party to use the Software without the prior written consent of Licensor.  
+(d) Licensee shall not use the Software in any manner that violates any applicable laws, regulations, or policies, and shall ensure that the use of the Software is in compliance with all applicable legal requirements.  
+
+**Section 2.4 – Restrictions on Use**  
+(a) The Software shall not be used in connection with any activity that is illegal, unethical, or violates the terms of this Agreement.  
+(b) The Software shall not be used for any purpose that involves the unauthorized collection, storage, or dissemination of personal data, or any other data that is protected by law.  
+(c) The Software shall not be used in connection with any activity that involves the creation of derivative works, unless such derivative works are explicitly authorized by Licensor.  
+(d) The Software shall not be used in connection with any activity that involves the provision of services to third parties, unless such services are explicitly authorized by Licensor.  
+(e) The Software shall not be used in connection with any activity that involves the modification of the Software or the removal of any proprietary markings, watermarks, or notices.  
+(f) The Software shall not be used in connection with any activity that involves the provision of the Software to third parties for use, unless such use is explicitly authorized by Licensor.  
+
+**Section 2.5 – Compliance with Legal Requirements**  
+(a) Licensee shall comply with all applicable laws, regulations, and policies in connection with the use of the Software, including but not limited to data protection laws, cybersecurity regulations, and intellectual property laws.  
+(b) Licensee shall not use the Software in any manner that would cause Licensor to be liable to any third party, including but not limited to any claims related to the use of the Software.  
+(c) Licensee shall ensure that the use of the Software does not violate any of the terms set forth in this Agreement, and shall be responsible for any and all legal consequences arising from the use of the Software.  
+
+**Section 2.6 – Audit Rights**  
+(a) Licensor shall have the right, at its sole discretion and upon reasonable notice, to audit Licensee’s use of the Software to ensure compliance with the terms of this Agreement.  
+
+(b) Any audit conducted by Licensor shall be limited to the period of the Term and shall not include any data or information that is not relevant to the use of the Software.  
+(c) Licensee shall cooperate fully with Licensor in any audit conducted under this Section and shall provide all necessary documentation and information upon request.  
+(d) Any audit conducted by Licensor shall be limited to a maximum of two times per calendar year, and shall not be conducted more frequently than once every six months.  
+(e) The cost of any audit shall be borne by Licensor, unless such audit is conducted at the request of Licensee, in which case Licensee shall bear the cost.  
+(f) Licensee shall not restrict or interfere with any audit conducted by Licensor, and shall provide access to all relevant systems and data upon request.  
+
+**Section 2.7 – Prohibited Uses**  
+(a) The Software shall not be used in connection with any activity that is prohibited by law, including but not limited to activities involving the use of the Software for the unauthorized collection of personal data, the provision of services to third parties, or the creation of derivative works.  
+  (b) The Software shall not be used in connection with any activity that involves the provision of the Software to third parties for use, unless such use is explicitly authorized by Licensor.  
+(c) The Software shall not be used in connection with any activity that involves the modification of the Software or the removal of any proprietary markings, watermarks, or notices.  
+(d) The Software shall not be used in connection with any activity that involves the creation of any derivative works, unless such derivative works are explicitly authorized by Licensor.  
+(e) The Software shall not be used in connection with any activity that involves the use of the Software for purposes other than those specified in Section 2.1.  
+
+**ARTICLE III – PAYMENT AND FEES**  
+
+**Section 3.1 – Licensing Fees**  
+(a) In consideration of the license granted by Licensor to Licensee under this Agreement, Licensee shall pay to Licensor the following fees:  
+(i) A one-time licensing fee of Two Hundred Thousand Dollars ($200,000.00) for the initial grant of the license.  
+(ii) A recurring monthly maintenance fee of Fifteen Thousand Dollars ($15,000.00), payable on the first day of each calendar month during the Term of this Agreement.  
+(iii) A one-time implementation fee of Fifty Thousand Dollars ($50,000.00), payable upon execution of this Agreement.  
+(b) The fees set forth in this Section shall be paid in United States Dollars (USD) and shall be due and payable in accordance with the payment terms set forth in Section 3.2.  
+(c) Any additional fees or charges may be imposed by Licensor at its sole discretion, provided that such fees are reasonable and necessary for the provision of the Software or the performance of the services associated therewith.  
+
+**Section 3.2 – Payment Terms**  
+(a) The initial licensing fee, implementation fee, and any other fees required under this Agreement shall be paid by Licensee to Licensor in accordance with the following payment schedule:  
+(i) The initial licensing fee of Two Hundred Thousand Dollars ($200,000.00) shall be paid in full on the Effective Date of this Agreement.  
+(ii) The implementation fee of Fifty Thousand Dollars ($50,000.00) shall be paid in full on the Effective Date of this Agreement.  
+(iii) The recurring monthly maintenance fee of Fifteen Thousand Dollars ($15,000.00) shall be paid on the first day of each calendar month during the Term of this Agreement.  
+(b) All payments shall be made by wire transfer to the bank account specified by Licensor in writing.  
+(c) Licensee shall not be entitled to any refunds or credits for any fees paid under this Agreement unless such fees are subject to a specific refund policy, which shall be set forth in writing by Licensor.  
+(d) If any payment is not made within thirty (30) days of the due date, Licensor shall have the right to charge interest on the overdue amount at a rate of one and one-half percent (1.5%) per month, compounded monthly, until such payment is made in full.  
+(e) Licensee shall be responsible for all taxes, fees, and other charges associated with the payment of the fees under this Agreement, including but not limited to sales tax, value-added tax, and any other applicable taxes.  
+
+**Section 3.3 – Payment Method**  
+(a) Licensee shall pay all fees under this Agreement by wire transfer to the account specified by Licensor in writing.  
+(b) Licensee shall ensure that all payments are made in a timely manner and that all required documentation is provided to Licensor to facilitate the processing of such payments.  
+(c) Licensor shall provide Licensee with a receipt or confirmation of payment upon receipt of such payment.  
+(d) Licensee shall not be entitled to any discounts, credits, or other reductions in fees unless such reductions are explicitly stated in writing by Licensor.  
+
+
+**Section 3.4 – Late Payments**  
+(a) If any payment is not made within thirty (30) days of the due date, Licensor shall have the right to charge interest on the overdue amount at a rate of one and one-half percent (1.5%) per month, compounded monthly, until such payment is made in full.  
+(b) In the event that Licensee fails to make any payment within thirty (30) days of the due date, Licensor may, at its sole discretion, suspend the provision of the Software or any related services until such payment is made in full.  
+(c) Licensee acknowledges that the failure to make any payment on time may result in the termination of this Agreement, and that such termination shall be in accordance with the provisions of Article X of this Agreement.  
+
+**Section 3.5 – Payment Disputes**  
+(a) In the event of a dispute regarding the amount or timing of any payment, the parties shall resolve such dispute in good faith and in accordance with the procedures set forth in Section 15.1 of this Agreement.  
+(b) If the dispute cannot be resolved through negotiation, the parties agree that the dispute shall be resolved through the arbitration procedures set forth in Section 15.1 of this Agreement.  
+(c) The parties acknowledge that the payment of fees is a material obligation under this Agreement and that failure to make such payments may result in the termination of this Agreement, as provided in Section 10.1 of this Agreement.  
+
+**Section 3.6 – Invoicing**  
+(a) Licensor shall issue an invoice to Licensee for all fees due under this Agreement, which shall include a breakdown of the fees and the due date for payment.  
+(b) Licensor shall provide Licensee with an invoice for each payment due, and Licensee shall have the right to review and question any items included in such invoice.  
+(c) If Licensee has any questions or disputes regarding an invoice, it shall notify Licensor in writing within ten (10) business days of receipt of the invoice.  
+(d) If Licensee disputes any item on an invoice, Licensor shall have the right to investigate such dispute and may require Licensee to provide additional information or documentation to support its position.  
+(e) If the dispute cannot be resolved within thirty (30) days of the date of the invoice, Licensee shall be deemed to have accepted the invoice and the fees shall be due and payable in accordance with the terms of this Agreement.  
+
+**Section 3.7 – Refunds**  
+(a) Licensor shall not be obligated to provide any refunds for any fees paid under this Agreement unless such fees are subject to a specific refund policy, which shall be set forth in writing by Licensor.  
+(b) If a refund is required by law, Licensor shall provide such refund in accordance with the applicable legal requirements.  
+(c) Licensee shall not be entitled to any refunds for any fees paid under this Agreement unless such refunds are explicitly stated in writing by Licensor.  
+(d) In the event of a refund, Licensor shall issue a refund to Licensee in accordance with the payment method used to make the original payment.  
+(e) Refunds shall be issued within thirty (30) days of the request for such a refund, unless the refund is subject to a specific processing time, which shall be set forth in writing by Licensor.  
+
+**Section 3.8 – Taxes**  
+(a) Licensee shall be responsible for all taxes, duties, fees, and other charges associated with the payment of fees under this Agreement, including but not limited to sales tax, value-added tax, and any other applicable taxes.  
+(b) If any taxes are imposed on the fees paid under this Agreement, Licensee shall pay such taxes in accordance with the applicable legal requirements.  
+(c) Licensor shall not be liable for any taxes, duties, fees, or other charges that may be imposed on Licensee in connection with the fees paid under this Agreement.  
+(d) Licensee acknowledges that it is responsible for all tax obligations arising from the payment of fees under this Agreement.  
+
+**Section 3.9 – Payment Schedule**  
+(a) The payment schedule for all fees under this Agreement shall be as follows:  
+(i) Initial Licensing Fee: Two Hundred Thousand Dollars ($200,000.00), payable on the Effective Date of this Agreement.  
+(ii) Implementation Fee: Fifty Thousand Dollars ($50,000.00), payable on the Effective Date of this Agreement.  
+(iii) Monthly Maintenance Fee: Fifteen Thousand Dollars ($15,000.00), payable on the first day of each calendar month during the Term of this Agreement.  
+(b) All payments shall be made in United States Dollars (USD) and shall be due and payable in accordance with the payment terms set forth in Section 3.2.  
+(c) Any additional fees or charges may be imposed by Licensor at its sole discretion, provided that such fees are reasonable and necessary for the provision of the Software or the performance of the services associated therewith.  
+
+(d) The payment schedule shall be subject to change by Licensor in its sole discretion, provided that such changes are communicated to Licensee in writing.  
+
+**Section 3.10 – Late Charges**  
+(a) If any payment is not made within thirty (30) days of the due date, Licensor shall have the right to charge interest on the overdue amount at a rate of one and one-half percent (1.5%) per month, compounded monthly, until such payment is made in full.  
+(b) In the event that Licensee fails to make any payment within thirty (30) days of the due date, Licensor may, at its sole discretion, suspend the provision of the Software or any related services until such payment is made in full.  
+(c) Licensee acknowledges that the failure to make any payment on time may result in the termination of this Agreement, and that such termination shall be in accordance with the provisions of Article X of this Agreement.  
+
+**Section 3.11 – Currency and Exchange Rate**  
+(a) All payments under this Agreement shall be made in United States Dollars (USD), unless otherwise agreed in writing by the parties.  
+(b) If any payment is made in a different currency, such currency shall be converted to USD using the exchange rate of the bank at the time of payment.  
+(c) Licensee shall bear the risk of any fluctuations in the exchange rate and shall be responsible for any currency conversion charges.  
+   (d) Licensor shall not be liable for any losses, costs, or expenses arising from currency conversion or exchange rate fluctuations.  
+
+**Section 3.12 – Payment Records**  
+
+(a) Licensor shall maintain accurate records of all payments received under this Agreement.  
+(b) Licensee shall provide Licensor with a copy of all payment records upon request.  
+(c) Licensor shall have the right to audit Licensee’s payment records to ensure compliance with the terms of this Agreement.  
+(d) Any audit conducted by Licensor shall be limited to the period of the Term and shall not include any data or information that is not relevant to the use of the Software.  
+(e) Licensee shall cooperate fully with Licensor in any audit conducted under this Section and shall provide all necessary documentation and information upon request.  
+(f) The cost of any audit shall be borne by Licensor, unless such audit is conducted at the request of Licensee, in which case Licensee shall bear the cost.  
+(g) Licensee shall not restrict or interfere with any audit conducted by Licensor, and shall provide access to all relevant systems and data upon request.  
+
+**Section 3.13 – Currency Conversion**  
+(a) If any payment is made in a different currency, such currency shall be converted to USD using the exchange rate of the bank at the time of payment.  
+(b) Licensee shall bear the risk of any fluctuations in the exchange rate and shall be responsible for any currency conversion charges.  
+(c) Licensor shall not be liable for any losses, costs, or expenses arising from currency conversion or exchange rate fluctuations.  
+(d) Licensor shall have the right to adjust the payment amounts based on the exchange rate at the time of payment.  
+(e) Any adjustments to the payment amounts shall be communicated to Licensee in writing.  
+(f) Licensee shall have the right to dispute any adjustments to the payment amounts, provided that such dispute is made in writing within ten (10) business days of receipt of the adjustment notice.  
+(g) If Licensee disputes any adjustment to the payment amounts, Licensor shall have the right to investigate such dispute and may require Licensee to provide additional information or documentation to support its position.  
+(h) If the dispute cannot be resolved within thirty (30) days of the date of the adjustment notice, Licensee shall be deemed to have accepted the adjustment and the payment amounts shall be due and payable in accordance with the terms of this Agreement.  
+
+**ARTICLE IV – REPRESENTATIONS AND WARRANTIES**  
+
+**Section 4.1 – Representations and Warranties of Licensor**  
+(a) Licensor represents and warrants that it is the sole owner of all right, title, and interest in and to the Software and that it has the full right and authority to enter into this Agreement and to grant the license to Licensee.  
+(b) Licensor represents and warrants that the Software is free from any liens, encumbrances, or other claims of third parties, except for those that are disclosed in writing by Licensor.  
+(c) Licensor represents and warrants that the Software is not infringing upon any intellectual property rights of any third party, and that Licensor has the necessary rights and permissions to use the Software in the manner specified in this Agreement.  
+(d) Licensor represents and warrants that the Software is in good working condition and that it is suitable for the purposes specified in this Agreement.  
+(e) Licensor represents and warrants that it has not engaged in any activity that would make the Software illegal or unlawful in any jurisdiction where it is used.  
+(f) Licensor represents and warrants that it is not involved in any legal proceeding that could affect the validity or enforceability of this Agreement.  
+(g) Licensor represents and warrants that it has complied with all applicable laws and regulations in connection with the development and provision of the Software.  
+(h) Licensor represents and warrants that it has provided all necessary documentation and support to Licensee in connection with the use of the Software.  
+(i) Licensor represents and warrants that it has not made any false or misleading statements regarding the Software, its capabilities, or its intended use.  
+(j) Licensor represents and warrants that the Software is not subject to any restrictions that would prevent Licensee from using it in accordance with the terms of this Agreement.  
+(k) Licensor represents and warrants that it has not engaged in any activity that would prevent the Software from being used in the manner specified in this Agreement.  
+(l) Licensor represents and warrants that it  has taken all necessary steps to protect the intellectual property rights in and to the Software, including but not limited to registering all necessary copyrights, patents, and trademarks.  
+(m) Licensor represents and warrants that it has not engaged in any activity that would violate the terms of this Agreement or any other agreement between the parties.  
+(n) Licensor represents and warrants that it has not engaged in any activity that would make the Software unsuitable for the purposes specified in this Agreement.  
+(o) Licensor represents and warrants that it has not engaged in any activity that would result in the termination of this Agreement.  
+(p) Licensor represents and warrants that it has not engaged in any activity that would result in the failure of the Software to perform as intended.  
+
+(q) Licensor represents and warrants that it has not engaged in any activity that would result in the Software being used for purposes other than those specified in this Agreement.  
+(r) Licensor represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is illegal, unethical, or violates the terms of this Agreement.  
+(s) Licensor represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is prohibited by law.  
+(t) Licensor represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of this Agreement.  
+(u) Licensor represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement between the parties.  
+(v) Licensor represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+
+**Section 4.2 – Representations and Warranties of Licensee**  
+(a) Licensee represents and warrants that it is duly organized, validly existing, and in good standing under the laws of the jurisdiction in which it is incorporated or organized.  
+(b) Licensee represents and warrants that it has the full right and authority to enter into this Agreement and to use the Software in accordance with the terms of this Agreement.  
+(c) Licensee represents and warrants that it has not engaged in any activity that would make the use of the Software illegal or unlawful in any jurisdiction where it is used.  
+(d) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used for purposes other than those specified in this Agreement.  
+(e) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is illegal, unethical, or violates the terms of this Agreement.  
+(f) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is prohibited by law.  
+(g) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of this Agreement.  
+(h) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement between the parties.  
+(i) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(j) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(k) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(l) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(m) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(n) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(o) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(p) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(q) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(r) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(s) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(t) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(u) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(v) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(w) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(x) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(y) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(z) Licensee represents and warrants that it has not engaged in any activity that would result in the Software being used in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+
+**Section 4.3 – Disclaimer of Warranties**  
+ (a) Except as expressly set forth in this Agreement, Licensor makes no warranties, express or implied, with respect to the Software or the services provided under this Agreement.  
+(b) Licensor disclaims all warranties, whether express or implied, including but not limited to warranties of merchantability, non-infringement, and fitness for a particular purpose.  
+(c) The Software shall be provided "as is" and "with all faults," and Licensor shall not be liable for any defects, errors, or omissions in the Software.  
+(d) Licensor shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use of the Software, including but not limited to damages for loss of profits, loss of data, or business interruption.  
+(e) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is illegal, unethical, or violates the terms of this Agreement.  
+
+(f) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is prohibited by law.  
+(g) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of this Agreement.  
+(h) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement between the parties.  
+
+(i) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(j) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(k) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(l) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(m) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(n) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(o) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(p) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.      
+(q) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(r) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(s) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(t) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(u) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(v) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(w) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(x) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(y) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(z) Licensor shall not be liable for any damages arising from the use of the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+
+**ARTICLE V – INTELLECTUAL PROPERTY AND OWNERSHIP**  
+
+**Section 5.1 – Ownership of Software**  
+(a) All right, title, and interest in and to the Software, including but not limited to all copyrights, patents, trademarks, trade secrets, and other intellectual property rights, shall remain the sole and exclusive property of Licensor, and Licensee shall not acquire any ownership interest in the Software or any related intellectual property.  
+(b) The license granted by Licensor to Licensee under this Agreement does not convey any ownership rights in the Software, and Licensee acknowledges that it does not own any rights to the Software, its source code, or any related materials.  
+(c) Licensee acknowledges that the Software is the intellectual property of Licensor and that it is not authorized to use the Software for any purpose other than those specified in this Agreement.  
+(d) Licensee shall not attempt to reverse engineer, modify, or create derivative works of the Software, and any such activity shall be deemed a material breach of this Agreement.  
+(e) Licensee shall not disclose any confidential information regarding the  Software to any third party, and shall use such information solely for the purposes of this Agreement.  
+(f) Licensee shall not use the Software for any purpose other than those specified in this Agreement, and any such use shall be deemed a material breach of this Agreement.  
+(g) Licensee shall not use the Software in connection with any activity that is illegal, unethical, or violates the terms of this Agreement.  
+(h) Licensee shall not use the Software in connection with any activity that is prohibited by law.  
+(i) Licensee shall not use the Software in connection with any activity that is in violation of the terms of this Agreement.  
+(j) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement between the parties.  
+(k) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(l) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(m) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(n) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(o) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(p) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(q) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(r) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(s) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(t) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(u) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(v) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(w) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(x) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(y) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(z) Licensee shall not use the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+
+**Section 5.2 – Confidentiality**  
+(a) The parties agree that the Software, its source code, and all related materials are confidential and proprietary information, and shall be treated as such by both parties.  
+(b) Licensee shall not disclose any confidential information regarding the Software to any third party, and shall use such information solely for the purposes of this Agreement.  
+(c) Licensee shall not use any confidential information regarding the Software for any purpose other than those specified in this Agreement, and any such use shall be deemed a material breach of this Agreement.    
+(d) Licensee shall not reverse engineer, modify, or create derivative works of the Software, and any such activity shall be deemed a material breach of this Agreement.  
+(e) Licensee shall not provide any information regarding the Software to any third party, including but not limited to employees, contractors, or consultants, unless such disclosure is expressly authorized in writing by Licensor.  
+(f) Licensee shall not use any confidential information regarding the Software in connection with any activity that is illegal, unethical, or violates the terms of this Agreement.  
+(g) Licensee shall not use any confidential information regarding the Software in connection with any activity that is prohibited by law.  
+(h) Licensee shall not use any confidential information regarding the Software in connection with any activity that is in violation of the terms of this Agreement.  
+(i) Licensee shall not use any confidential information regarding the Software in connection with any activity that is in violation of the terms of any other agreement between the parties.  
+(j) Licensee shall not use any confidential information regarding the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(k) Licensee shall not use any confidential information regarding the Software in connection with any activity that is in violation of the terms of any other agreement that may be entered into between the parties.  
+(l) Licensee shall not use any confidential information regarding the Software in connection with any activity that is in violation of the terms

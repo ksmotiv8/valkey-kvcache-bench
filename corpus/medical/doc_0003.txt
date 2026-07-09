@@ -1,0 +1,898 @@
+**Progress Note**  
+**Patient Name:** Sarah E. Thompson  
+**Medical Record Number:** 123456  
+**Date of Birth:** 06/12/1989  
+**Gender:** Female  
+**Age:** 34  
+**Admission Date:** 04/10/2025  
+**Discharge Date:** 04/18/2025  
+**Service:** Internal Medicine  
+**Attending Physician:** Dr. Emily J. Carter, MD  
+**Primary Care Provider:** Dr. Robert L. Green, MD  
+**Consulting Services:** Cardiology, Pulmonary, Psychiatry  
+**Admission Type:** Inpatient  
+**Chief Complaint:** Recurrent episodes of chest discomfort and dyspnea over the past 6 weeks, with worsening symptoms over the last 3 days.  
+**Reason for Admission:** Evaluation for possible cardiac or pulmonary etiology of chest discomfort and dyspnea, with concern for acute decompensated heart failure.  
+
+---
+
+**HISTORY OF PRESENT ILLNESS (HPI):**  
+The patient is a 34-year-old female with a 6-week history of intermittent chest discomfort and dyspnea. The discomfort is described as pressure-like, centrally located, and is associated with mild diaphoresis and nausea. It occurs with exertion and is relieved by rest. She reports that the sx have increased in frequency and severity over the past 3 days, with episodes occurring up to 2–3 times per day. She has also developed orthopnea and paroxysmal nocturnal dyspnea (PND), requiring her to sleep in a semi-Fowler's position. She denies palpitations, syncope, or presyncope. She denies chest pain with radiation, and there is no associated fever or chills. She denies cough, sputum production, or hemoptysis. She denies any recent travel, exposure to sick contacts, or use of illicit substances. She denies recent medication changes.  
+
+On admission, she was found to be in mild respiratory distress, with increased work of breathing and mild cyanosis of the lips. She was unable to lie flat without dyspnea and required the use of an oxygen mask. Her oxygen saturation was 92% on room air, improving to 96% with 4 L nasal cannula. She was noted to have bilateral crackles in the mid-lower lung fields and a low-pitched, holosystolic murmur at the apex. She has a history of hypertension and a family history of coronary artery disease.  
+
+---
+
+**PAST MEDICAL HISTORY (PMH):**  
+- Hypertension, well-controlled on lisinopril 10 mg daily  
+- Obesity (BMI 32)  
+- History of gestational diabetes in 2018 (now resolved)  
+- No history of tobacco use or illicit drug use  
+- No history of asthma or chronic obstructive pulmonary disease (COPD)  
+- No history of stroke, transient ischemic attack (TIA), or deep vein thrombosis (DVT)  
+- No history of prior myocardial infarction (MI) or coronary artery disease (CAD)  
+- No history of renal disease or diabetes mellitus  
+- No known food allergies or drug allergies  
+- No history of psychiatric illness, though she reports mild anxiety and occasional depressive symptoms  
+
+---
+
+**PAST SURGICAL HISTORY (PSH):**  
+- Cesarean section for a 39-week gestation, 2018  
+- Appendectomy at age 22 for acute appendicitis  
+- No other surgeries  
+
+---
+
+**FAMILY HISTORY (FH):**  
+- Father: 68, deceased from coronary artery disease  
+- Mother: 72, alive, no known chronic disease  
+- Sibling: 35, no known chronic disease  
+- No history of cancer or psychiatric illness in immediate family  
+
+---
+
+**SOCIAL HISTORY (SH):**  
+- Married, 7 years  
+- 2 children, ages 5 and 7  
+- Lives with spouse and children  
+- Works as a school teacher  
+- No smoking or tobacco use  
+- No alcohol consumption  
+- No illicit drug use  
+- No travel history  
+- No pets  
+- No recent hospitalizations or emergency department visits  
+
+---
+
+**ALLERGIES (A):**  
+- No known drug or food allergies     
+
+---
+
+**REVIEW  OF SYSTEMS (ROS):**  
+**General:** No weight loss, no fatigue, no fever, no night sweats, no joint pain or swelling.  
+**Cardiovascular:** Chest discomfort, orthopnea, PND, no palpitations, no claudication.  
+**Respiratory:** Dyspnea, mild crackles on auscultation, no cough, no hemoptysis, no wheezing.  
+**Gastrointestinal:** Nausea, no vomiting, no abdominal pain, no diarrhea, no constipation.  
+
+**Neurological:** No headaches, no dizziness, no confusion, no seizure, no numbness or tingling.  
+**Musculoskeletal:** No joint pain, no swelling, no muscle weakness.  
+**Psychiatric:** Mild anxiety, occasional depressive symptoms, no suicidal ideation, no hallucinations.  
+**Genitourinary:** No dysuria, no hematuria, no flank pain, no urinary incontinence.  
+**Skin:** No rashes, no pruritus, no jaundice.  
+**Endocrine:** No changes in appetite, no weight gain, no changes in menstrual cycle.  
+**Hematologic:** No bruising, no petechiae.  
+**Immunologic:** No lymphadenopathy, no fever.  
+
+---
+
+**PHYSICAL EXAMINATION (PE):**      
+**Vital Signs:**  
+- Temperature: 98.6°F (37.0°C)  
+- Pulse: 92 bpm  
+- Respiratory Rate: 20 breaths/min  
+
+- Blood Pressure: 148/90 mmHg  
+- Oxygen Saturation: 96% on 4 L nasal cannula  
+- Pain: 3/10 (chest discomfort)  
+- Weight: 165 lbs (75 kg)  
+- Height: 5'4" (163 cm)  
+- BMI: 32.1  
+
+**Head, Eyes, Ears, Nose, Throat (HEENT):**  
+- Alert, oriented x3.  
+- Pupils equal, round, reactive to light and accommodation.  
+- No nystagmus, no ptosis, no strabismus.  
+- No conjunctival injection.  
+- No rhinorrhea, no nasal obstruction.  
+- No pharyngeal erythema, no tonsillar hypertrophy.  
+- No lymphadenopathy.  
+
+**Neurologic:**  
+- Alert and oriented.  
+- No focal deficits.  
+- No ataxia, no tremors.  
+- No signs of meningismus.  
+- No abnormal reflexes.  
+- Normal cranial nerves II–XII.  
+
+**Cardiovascular:**  
+- Regular rate and rhythm.  
+- S1 and S2 normal.  
+- Low-pitched holosystolic murmur at the apex, 3/6, best heard at the left lower sternal border.  
+- No S3 or S4.  
+- No jugular venous distention (JVD).  
+- No  peripheral edema.  
+- No carotid bruits.  
+
+**Respiratory:**  
+- Respiratory distress noted.  
+- Increased work of breathing.  
+- Mild cyanosis of the lips.  
+- Bilateral crackles at the mid-lower lung fields.  
+- No wheezing, no rhonchi.  
+- No pleural friction rub.  
+- No clubbing.  
+
+**Gastrointestinal:**  
+- No abdominal distension.  
+- No tenderness to palpation.  
+- No rebound or guarding.  
+- No bowel sounds.  
+- No masses.  
+
+**Genitourinary:**  
+- No suprapubic tenderness.  
+- No urinary hesitancy.  
+- No hematuria.  
+
+**Musculoskeletal:**  
+- No joint swelling, no deformities.  
+- No muscle atrophy.  
+- No gait abnormalities.  
+
+**Skin:**  
+- No rashes, no petechiae, no ecchymoses.  
+- No jaundice.  
+- No lichenification.  
+
+**Psychiatric:**  
+- Mild anxiety noted.  
+- No suicidal ideation or intent.  
+- No hallucinations or delusions.  
+
+**Other:**   
+- No significant findings.  
+
+---
+
+**LABORATORY STUDIES (LABS):**  
+**CBC (Complete Blood Count):**  
+- WBC: 9,500 /μL (Normal: 4,500–11,000)  
+- Hgb: 12.8 g/dL (Normal: 12.0–15.5)  
+- Hct: 38.2% (Normal: 37–47)  
+- MCV: 92 fL (Normal: 80–100)  
+- Platelets: 235,000 /μL (Normal: 150,000–450,000)  
+
+**Chemistry Panel (Sodium, Potassium, BUN, Creatinine, Glucose, Lipids, LFTs):**  
+- Sodium: 138 mEq/L (Normal: 135–145)  
+  - Potassium: 4.2 mEq/L (Normal: 3.5–5.0)  
+- BUN: 22 mg/dL (Normal: 7–20)  
+- Cr: 1.3 mg/dL (Normal: 0.6–1.1)  
+- Glucose: 96 mg/dL (Normal: 70–99)  
+- Total Cholesterol: 208 mg/dL (Normal: <200)  
+- LDL: 128 mg/dL (Normal: <100)  
+- HDL: 52 mg/dL (Normal: >40)  
+- Triglycerides: 170 mg/dL (Normal: <150)  
+- AST: 32 U/L (Normal: 20–40)  
+- ALT: 34 U/L (Normal: 20–50)  
+- ALP: 68 U/L (Normal: 40–120)  
+- Bilirubin: 0.8 mg/dL (Normal: 0.3–1.2)  
+
+**Electrolytes (Na, K, Cl, HCO3):**  
+- Sodium: 138 mEq/L  
+- Potassium: 4.2 mEq/L  
+- Chloride: 102 mEq/L  
+- HCO3: 24 mEq/L  
+
+**Coagulation Studies:**  
+- PT: 11.8 sec (Normal: 11–13)  
+- INR: 1.0 (Normal: 0.8–1.2)  
+- aPTT: 32 sec (Normal: 25–35)  
+- Bleeding Time: 6 min (Normal: 2–9)   
+
+**Urinalysis (UA):**  
+- Color: Pale yellow  
+- Appearance: Clear  
+- Specific Gravity: 1.012  
+- pH: 6.0  
+- Glucose: Negative  
+- Ketones: Negative  
+- Blood: Negative  
+- Protein: 1+  
+- Leukocytes: Negative     
+- Nitrites: Negative  
+
+**Chest X-ray (PA and lateral):**  
+- Mild cardiomegaly noted.  
+
+- No pleural effusion.  
+- No infiltrates.  
+- No focal consolidation.  
+- No pneumothorax.  
+
+**Echocardiogram:**  
+- Left ventricular ejection fraction (LVEF): 42% (Normal: >50%)  
+- Mild mitral regurgitation.  
+- Mild tricuspid regurgitation.  
+- No pericardial effusion.  
+- No regional wall motion abnormalities.  
+
+**ECG (12-lead):**  
+- Sinus rhythm, rate 92.  
+- Left axis deviation.  
+- T-wave inversions in V4–V6.  
+- No ST-segment elevation.  
+- No Q waves.  
+- No bundle branch block.  
+- No atrial fibrillation.  
+
+**BNP (B-type natriuretic peptide):**  
+- 380 pg/mL (Normal: <100)  
+
+**Pulmonary Function Tests (PFTs):**  
+- FVC: 83% predicted  
+- FEV1: 79% predicted  
+- FEV1/FVC: 68% (suggestive of mild airway obstruction)  
+- TLC: 92% predicted  
+- DLCO: 85% predicted  
+
+**Urinary Albumin:Creatinine Ratio:**  
+- 12 mg/g (Normal: <30)  
+
+**Serum Uric Acid:**  
+- 5.2 mg/dL (Normal: 3.4–7.0)  
+
+**C-Reactive Protein (CRP):**  
+- 3.2 mg/L (Normal: <0.5)  
+
+---
+
+**IMAGING STUDIES:**  
+**Chest X-ray:** As noted above.  
+**Echocardiogram:** As noted above.  
+**ECG:** As noted above.  
+**Pulmonary Function Tests:** As noted above.  
+
+---
+
+**DIAGNOSTIC TESTS:**  
+- **Echocardiogram:** Left ventricular dysfunction with reduced ejection fraction, consistent with heart failure with reduced ejection fraction (HFrEF).  
+- **BNP:** Elevated, consistent with heart failure.  
+- **Chest X-ray:** Mild cardiomegaly, no pulmonary infiltrates.  
+- **PFTs:** Mild obstructive pattern, not diagnostic of obstructive lung disease.  
+- **ECG:** Sinus tachycardia, left axis deviation, non-specific T-wave changes.  
+
+---
+
+**CLINICAL DIAGNOSIS  (ICD-10-CM):**  
+- **I50.21** Heart failure with reduced ejection fraction, unspecified  
+- **I50.32** Heart failure with reduced ejection fraction, with pulmonary congestion  
+- **I50.9** Heart failure, unspecified  
+- **R06.03** Dyspnea, unspecified  
+
+---
+
+**FINDINGS:**  
+- Chest discomfort with exertion, relieved by rest, increasing in frequency and severity over the past 3 days.  
+- Orthopnea and paroxysmal nocturnal dyspnea (PND), requiring semi-Fowler's position.  
+- Mild respiratory distress, increased work of breathing, cyanosis.  
+- Bilateral crackles in mid-lower lung fields.  
+- Low-pitched holosystolic murmur at the apex.  
+- Mild left ventricular dysfunction (LVEF 42%).  
+- Elevated BNP.  
+- Mild obstructive pattern on pulmonary function tests.  
+- Mild left axis deviation on ECG.  
+- No evidence of acute coronary syndrome, acute pulmonary embolism, or acute bronchitis.  
+- No evidence of acute renal failure or sepsis.  
+
+---
+
+**PLAN (TREATMENT):**  
+**Medical Management:**  
+- **Diuretics:** Furosemide 40 mg IV every 6 hours as needed for volume status.  
+- **ACE Inhibitor:** Lisinopril 10 mg once daily (currently on).  
+- **Beta-blocker:** Metoprolol 25 mg twice daily, titrated up to 50 mg twice daily.  
+- **ARNI:** Sacubitril/Valsartan 97.5/103 mg once daily, started as per ACC/AHA guidelines for HFrEF.  
+- **Aldosterone Antagonist:** Spironolactone 25 mg once daily, started.  
+- **Atrial Fibrillation Prophylaxis:** Amiodarone 200 mg once daily, started for rate control.  
+- **Pulmonary Vasodilator:** Nesiritide 0.01 mcg/kg/min IV, started for acute decompensated heart failure.  
+- **Oxygen Therapy:** 4 L nasal cannula as needed.  
+- **Anticoagulation:** Warfarin 5 mg once daily, started for prevention of thromboembolism.  
+- **Lifestyle Modifications:** Dietary counseling for sodium restriction and weight management.  
+- **Psychosocial Support:** Referral to outpatient cardiac rehab and psychiatric follow-up for anxiety and depressive symptoms.  
+
+**Monitoring:**  
+- Daily weight monitoring.  
+- Daily urine output.  
+- Daily BNP levels.  
+- Electrolytes, renal function, and liver enzymes.  
+- ECG monitoring for arrhythmias and ischemia.  
+- Pulmonary function tests repeated in 1 week.  
+- Cardiac echo in 2 weeks.  
+
+**Diet and Activity:**  
+- Low-sodium, low-fat, and low-calorie diet.  
+- No physical activity until symptoms resolve.  
+- Gradual reintroduction of ambulation as tolerated.  
+
+**Follow-up:**  
+- Outpatient follow-up with cardiology in 1 week.  
+- Pulmonary function tests in 1 week.  
+
+- Psychiatric evaluation in 3 days.  
+- Discharge planning in 3 days.  
+
+---
+
+**RESPONSE TO TREATMENT:**  
+- The patient responded well to diuretic therapy, with a decrease in dyspnea and improvement in oxygen saturation.  
+- Her heart failure symptoms were controlled with the initiation of lisinopril, metoprolol, spironolactone, and nesiritide.  
+- She tolerated the medications well, with no evidence of hypotension or electrolyte disturbances.  
+- Her BNP levels decreased from 380 pg/mL to 180 pg/mL by day 3.  
+- She is now able to lie flat without significant dyspnea.  
+- Her left ventricular ejection fraction remained at 42% on follow-up echo.  
+- Her pulmonary function tests showed a slight improvement in FEV1.  
+- She was weaned off oxygen therapy by day 5.  
+
+---
+
+**ONGOING ISSUES / PROBLEMS:**  
+- Mild anxiety and depressive symptoms remain, though less severe than on admission.  
+- Mild obstructive pattern on pulmonary function tests, which may be related to deconditioning.  
+- Mild left axis deviation on ECG, which may be age-related or due to left ventricular hypertrophy.  
+- Patient is non-compliant with her outpatient medications and requires further education on adherence.  
+- Patient has not yet been referred for cardiac rehabilitation.  
+
+---
+
+**CONSENT AND INFORMED PERMISSION:**  
+- The patient and family were counseled on the diagnosis, treatment, and prognosis of heart failure.  
+- They understand the risks and benefits of the proposed therapies.  
+- Informed consent was obtained for the administration of all medications and procedures.  
+
+---
+
+**PROGNOSIS:**  
+- The patient has a moderate to high risk of recurrent heart failure exacerbations, given her reduced ejection fraction and comorbidities.  
+- With appropriate medical management, she is expected to have improved quality of life and functional status.  
+- Long-term prognosis is guarded, and she will require close outpatient follow-up.  
+- The patient has a high risk of mortality, but this can be reduced with optimal medical therapy and lifestyle modifications.  
+
+---
+
+**DISCHARGE SUMMARY (DRAFT):**  
+**Discharge Date:** 04/18/2025  
+**Discharge Status:** Medical stable, no acute decompensation, ready for home care.  
+**Discharge Medications:**  
+- Furosemide 40 mg PO twice daily  
+
+- Lisinopril 10 mg PO once daily  
+- Metoprolol 50 mg PO twice daily  
+- Sacubitril/Valsartan 97.5/103 mg PO once daily  
+- Spironolactone 25 mg PO once daily  
+- Amiodarone 200 mg PO once daily  
+- Warfarin 5 mg PO once daily  
+- Vitamin D 2000 IU PO daily   
+
+- Multivitamin PO daily  
+
+**Follow-up:**  
+- Cardiology follow-up in 1 week.  
+- Pulmonary function tests in 1 week.  
+- Psychiatric evaluation in 1 week.  
+- Cardiac rehab referral.  
+- Inpatient social work and discharge planning.  
+
+**Diet:** Low-sodium, low-fat, and low-calorie diet.  
+**Activity:** Gradual increase in ambulation as tolerated.  
+**Monitoring:** Daily weight, daily BNP, daily urine output, and daily ECG.  
+**Reeducation:** Patient and family educated on heart failure management, medication adherence, and when to seek emergency care.  
+
+**Discharge Instructions:**  
+- Report any worsening chest discomfort, dyspnea, or leg swelling immediately.  
+- Avoid salt, caffeine, and alcohol.  
+- Take all medications as prescribed.  
+- Attend all follow-up appointments.  
+- Call the clinic if symptoms recur or worsen.  
+
+---
+
+**FINAL NOTES:**  
+The patient had a positive response to treatment with diuretics, beta-blockers, and other heart failure medications. She is now stable for discharge. She requires ongoing outpatient management and close follow-up. She is a good candidate for cardiac rehabilitation and psychosocial support. The patient and family are cooperative and understanding. No further interventions are required at this time.  
+
+**Documented by:**  
+**Name:** Dr. Emily J. Carter, MD  
+**Signature:** ___________________________  
+**Date:** 04/18/2025  
+**Time:** 10:30 AM  
+
+---  
+**End of Progress Note**
+
+**Nursing Notes:**  
+**Nursing Care Plan:**  
+- **Problem:** Ineffective breathing pattern related to pulmonary congestion and respiratory distress.  
+- **Interventions:**  
+  - Administered furosemide as prescribed, monitored for response.  
+  - Assisted with oxygen therapy, maintained nasal cannula at 4 L.  
+
+  - Encouraged upright positioning and use of semi-Fowler’s position.  
+
+  - Performed frequent respiratory assessments, including breath sounds, work of breathing, and oxygen saturation.  
+  - Educated patient on signs of worsening dyspnea and when to seek help.    
+- **Outcomes:**  
+  - Patient’s dyspnea decreased over the course of the hospitalization.  
+  - Patient was able to tolerate 4 L nasal cannula and was weaned off by day 5.  
+
+  - Oxygen saturation improved to 98% on room air by day 6.  
+  - No signs of acute respiratory distress or decompensation.  
+
+**Nursing Documentation:**  
+- **04/10/2025 14:30:**  
+  - Patient admitted with acute dyspnea and chest discomfort.  
+  - Noted to be in mild respiratory distress, with mild cyanosis.  
+  - Initiated nasal cannula at 4 L.  
+  - Patient reported chest discomfort of 3/10, relieved by rest.  
+  - Began furosemide 40 mg IV.  
+  - No adverse reactions.  
+
+- **04/11/2025 09:00:**  
+  - Patient showed improvement in dyspnea, with oxygen saturation of 96% on 4 L.  
+  - Crackles in mid-lower lung fields.  
+  - Patient reported fatigue but no chest discomfort.  
+  - Continued on furosemide and nasal cannula.  
+  - Educated patient on fluid intake and sodium restriction.  
+
+- **04/12/2025 16:00:**  
+  - Patient tolerated furosemide well, with decreased weight and improved respiratory status.  
+  - Oxygen saturation improved to 98% on room air.  
+  - Encouraged to ambulate in the hallway.  
+  - Patient reported mild anxiety but no depressive symptoms.  
+  - Scheduled for psychiatric consult.  
+
+- **04/13/2025 08:30:**  
+  - Patient remained stable, with no new symptoms.  
+  - Patient started on lisinopril and metoprolol.  
+  - No adverse effects noted.  
+  - Patient expressed concern about medication side effects.  
+  - Reassured and educated on expected side effects.  
+
+- **04/14/2025 11:00:**  
+  - Patient started on nesiritide and sacubitril/valsartan.  
+  - BNP level decreased from 380 pg/mL to 180 pg/mL.  
+  - Patient continued to tolerate medications well.  
+  - Encouraged to increase ambulation.  
+  - Patient began cardiac rehab exercises.  
+
+- **04/15/2025 15:00:**  
+  - Patient showed continued improvement in dyspnea.  
+  - Oxygen saturation improved to 98% on room air.  
+  - No signs of pulmonary congestion on auscultation.  
+  - Patient reported feeling more energetic and less anxious.  
+  - Discharge planning initiated.  
+
+- **04/16/2025 09:30:**   
+  - Patient stable, with no acute symptoms.  
+  - All medications were reviewed and reinforced.  
+  - Discharge instructions were given.  
+  - Patient and family expressed understanding and willingness to follow up.  
+  - Patient’s weight was 162 lbs, down from admission weight of 165 lbs.  
+
+- **04/17/2025 14:00:**  
+  - Patient remained stable, with no signs of decompensation.  
+  - Patient was able to ambulate independently.  
+  - No new symptoms.  
+  - Final discharge instructions provided.  
+  - Patient and family were prepared for home care.  
+
+---
+
+**Consultations:**  
+**Psychiatric Consultation (Dr. Michael W. Lee, MD):**  
+- **Date:** 04/12/2025  
+- **Reason for Consultation:** Evaluation of mild anxiety and occasional depressive symptoms.  
+- **Consultation Summary:**  
+  - The patient reported mild anxiety and occasional depressive symptoms, with no suicidal ideation or intent.  
+  - She described feeling fatigued and overwhelmed with her diagnosis and treatment.  
+  - No signs of major depressive disorder or generalized anxiety disorder.  
+  - No evidence of psychotic symptoms or cognitive impairment.  
+  - The patient was started on sertraline 50 mg PO once daily for mild anxiety and depressive symptoms.  
+  - She was encouraged to continue with outpatient psychiatric follow-up.  
+
+**Cardiology Consultation (Dr. Sarah R. Kim, MD):**  
+- **Date:** 04/11/2025  
+- **Reason for Consultation:** Evaluation of heart failure with reduced ejection fraction and management plan.  
+- **Consultation Summary:**  
+  - The patient was diagnosed with heart failure with reduced ejection fraction (HFrEF) based on echocardiogram findings (LVEF 42%) and elevated BNP.  
+  - The patient has a history of hypertension and obesity, contributing to her risk factors for heart failure.  
+  - The patient was started on optimal medical therapy (OMT) including lisinopril, metoprolol, spironolactone, and sacubitril/valsartan.  
+  - The patient was advised to avoid NSAIDs and to monitor for signs of worsening heart failure.  
+
+  - No evidence of acute coronary syndrome or pulmonary embolism.  
+  - The patient was scheduled for a follow-up cardiology appointment in 1 week.  
+
+**Pulmonary Consultation (Dr. Laura M. Chen, MD):**  
+- **Date:** 04/13/2025  
+- **Reason for Consultation:** Evaluation of mild obstructive pattern on pulmonary function tests.  
+- **Consultation Summary:**  
+  - The patient had a mild obstructive pattern on pulmonary function tests (FEV1/FVC 68%).  
+  - This pattern was consistent with deconditioning and not obstructive lung disease.  
+  - No evidence of chronic obstructive pulmonary disease (COPD), asthma, or interstitial lung disease.  
+  - The patient was advised to avoid smoking and to increase physical activity gradually.  
+  - Pulmonary function tests were repeated in 1 week to monitor for improvement.  
+
+---
+
+**Additional Lab Results:**  
+**Complete Blood Count (CBC):**  
+- **04/12/2025:**  
+  - WBC: 9,000 /μL  
+  - Hgb: 12.5 g/dL  
+  - Hct: 37.5%  
+  - MCV: 91 fL  
+
+  - Platelets: 245,000 /μL  
+
+**Chemistry Panel (04/12/2025):**  
+- Sodium: 137 mEq/L  
+- Potassium: 4.1 mEq/L  
+- BUN: 18 mg/dL  
+- Cr: 1.1 mg/dL  
+- Glucose: 94 mg/dL  
+- Total Cholesterol: 205 mg/dL  
+- LDL: 125 mg/dL  
+- HDL: 53 mg/dL  
+- Triglycerides: 165 mg/dL  
+- AST: 31 U/L  
+- ALT: 33 U/L  
+- ALP: 67 U/L  
+- Bilirubin: 0.7 mg/dL  
+
+**Electrolytes (04/13/2025):**  
+- Sodium: 136 mEq/L  
+- Potassium: 4.0 mEq/L  
+
+- Chloride: 100 mEq/L  
+- HCO3: 24 mEq/L  
+
+**Coagulation Studies (04/14/2025):**  
+- PT: 11.9 sec  
+- INR: 1.1  
+- aPTT: 33 sec  
+- Bleeding Time: 6 min  
+
+**Urinalysis (04/15/2025):**  
+- Color: Pale yellow  
+  - Appearance: Clear  
+- Specific Gravity: 1.013    
+- pH: 6.1  
+- Glucose: Negative  
+- Ketones: Negative  
+- Blood: Negative  
+- Protein: 1+  
+- Leukocytes: Negative  
+- Nitrites: Negative  
+
+**Chest X-ray (04/15/2025):**  
+- Mild cardiomegaly noted.  
+- No pleural effusion.  
+- No infiltrates.  
+- No focal consolidation.  
+- No pneumothorax.  
+
+**Echocardiogram (04/15/2025):**  
+- Left ventricular ejection fraction (LVEF): 43%  
+- Mild mitral regurgitation.  
+- Mild tricuspid regurgitation.  
+- No pericardial effusion.  
+- No regional wall motion abnormalities.  
+
+**ECG (04/15/2025):**  
+- Sinus rhythm, rate 89.  
+- Left axis deviation.  
+- T-wave inversions in V4–V6.  
+- No ST-segment elevation.  
+- No Q waves.  
+- No bundle branch block.  
+- No atrial fibrillation.  
+
+**BNP (04/15/2025):**  
+
+- 180 pg/mL  
+
+**Pulmonary Function Tests (04/15/2025):**  
+- FVC: 82% predicted  
+- FEV1: 77% predicted  
+
+- FEV1/FVC: 67%  
+- TLC: 91% predicted  
+- DLCO: 84% predicted  
+
+**Urinary Albumin:Creatinine Ratio (04/16/2025):**  
+  - 10 mg/g  
+
+**Serum Uric Acid (04/16/2025):**  
+- 5.1 mg/dL  
+
+**C-Reactive Protein (CRP) (04/16/2025):**  
+- 2.8 mg/L  
+
+**Blood Glucose (04/17/2025):**   
+- 96 mg/dL  
+
+
+**Blood Pressure Monitoring (04/18/2025):**  
+- 138/88 mmHg  
+- 135/86 mmHg  
+- 132/84 mmHg  
+
+---
+
+**Additional Imaging:**  
+**Chest X-ray (04/18/2025):**  
+- Mild cardiomegaly persisting, but no evidence of acute pulmonary congestion.  
+
+- No pleural effusion.  
+- No infiltrates.  
+- No focal consolidation.  
+
+- No pneumothorax.  
+
+**Echocardiogram (04/18/2025):**  
+- Left ventricular ejection fraction (LVEF): 44%  
+- Mild mitral regurgitation.  
+- Mild tricuspid regurgitation.  
+- No pericardial effusion.  
+- No regional wall motion abnormalities.  
+
+
+**ECG (04/18/2025):**  
+- Sinus rhythm, rate 88.  
+- Left axis deviation.  
+- T-wave inversions in V4–V6.  
+- No ST-segment elevation.  
+- No Q waves.  
+- No bundle branch block.  
+- No atrial fibrillation.  
+
+---
+
+**Additional Findings:**  
+- **04/17/2025:** The patient was noted to have mild peripheral edema in the lower extremities.      
+- **04/18/2025:** Edema resolved with continued diuretic therapy.  
+- **04/15/2025:** Patient had mild ankle swelling, which improved with furosemide.  
+- **04/17/2025:** Patient had mild fatigue, which improved with rest and activity modification.  
+- **04/18/2025:** Patient showed no signs of acute decompensation.  
+- **04/16/2025:** Patient had mild anxiety, which improved with sertraline.  
+- **04/17/2025:** Patient had mild depressive symptoms, which improved with sertraline and counseling.  
+
+---
+
+**Patient and Family Education:**  
+- **Heart Failure Management:**  
+   - Patient was educated on the signs and symptoms of worsening heart failure, including increased dyspnea, weight gain, and peripheral edema.  
+  - Patient was instructed to weigh themselves daily and report any significant changes.  
+
+  - Patient was advised to monitor their BNP levels and report any changes.  
+  - Patient was educated on the importance of medication adherence and the risks of non-compliance.  
+
+- **Medication Education:**  
+  - Furosemide: Patient was instructed to take it as prescribed and to monitor for signs of dehydration or electrolyte imbalances.  
+  - Lisinopril: Patient was advised to take it consistently and to report any cough or dizziness.  
+  - Metoprolol: Patient was instructed to take it as prescribed and to avoid abrupt discontinuation.  
+  - Sacubitril/Valsartan: Patient was educated on the risks of hyperkalemia and to report any changes in kidney function.  
+  - Spironolactone: Patient was advised to take it with food and to monitor for hyperkalemia.  
+  - Amiodarone: Patient was instructed to take it as prescribed and to report any side effects such as dizziness or fatigue.  
+  - Warfarin: Patient was educated on the importance of regular INR monitoring and dietary restrictions.  
+  - Sertraline: Patient was advised to take it consistently and to report any side effects such as gastrointestinal upset or sleep disturbances.  
+
+- **Lifestyle Modifications:**  
+  - Patient was educated on the importance of a low-sodium, low-fat, and low-calorie diet.  
+  - Patient was encouraged to avoid caffeine and alcohol.  
+  - Patient was advised to engage in gradual physical activity as tolerated.  
+  - Patient was educated on the importance of weight management and regular follow-up with their primary care provider.  
+
+- **Psychosocial Support:**  
+  - Patient was referred to outpatient psychiatric follow-up for continued management of mild anxiety and depressive symptoms.  
+  - Patient was encouraged to participate in cardiac rehabilitation.  
+  - Patient and family were counseled on the importance of family support and regular follow-up.  
+
+---
+
+**Home Care Plan:**  
+- **Medications:**  
+  - Furosemide 40 mg PO twice daily  
+  - Lisinopril 10 mg PO once daily  
+  - Metoprolol 50 mg PO twice daily  
+  - Sacubitril/Valsartan 97.5/103 mg PO once daily  
+  - Spironolactone 25 mg PO once daily  
+  - Amiodarone 200 mg PO once daily  
+
+  - Warfarin 5 mg PO once daily  
+  - Sertraline 50 mg PO once daily  
+  - Vitamin D 2000 IU PO daily  
+  - Multivitamin PO daily  
+
+- **Follow-up:**  
+  - Cardiology follow-up in 1 week.  
+  - Pulmonary function tests in 1 week.  
+  - Psychiatric evaluation in 1 week.  
+  - Cardiac rehab referral.  
+  - Inpatient social work and discharge planning.  
+
+- **Diet:** Low-sodium, low-fat, and low-calorie diet.  
+- **Activity:** Gradual increase in ambulation as tolerated.  
+- **Monitoring:** Daily weight, daily BNP, daily urine output, and daily ECG.  
+- **Reeducation:** Patient and family educated on heart failure management, medication adherence, and when to seek emergency care.  
+
+**Discharge Instructions:**  
+- Report any worsening chest discomfort, dyspnea, or leg swelling immediately.  
+- Avoid salt, caffeine, and alcohol.  
+- Take all medications as prescribed.  
+- Attend all follow-up appointments.  
+- Call the clinic if symptoms recur or worsen.  
+
+**Final Notes:**  
+The patient had a positive response to treatment with diuretics, beta-blockers, and other heart failure medications. She is now stable for discharge. She requires ongoing outpatient management and close follow-up. She is a good candidate for cardiac rehabilitation and psychosocial support. The patient and family are cooperative and understanding. No further interventions are required at this time.  
+
+**Documented by:**  
+**Name:** Dr. Emily J. Carter, MD  
+**Signature:** ___________________________  
+**Date:** 04/18/2025  
+**Time:** 10:30 AM  
+
+---  
+**End of Progress Note**
+
+**Additional Lab Results (Continued):**  
+**Complete Blood Count (CBC) – 04/17/2025:**  
+- WBC: 9,200 /μL  
+- Hgb: 12.3 g/dL  
+- Hct: 36.9%  
+- MCV: 90 fL  
+- Platelets: 240,000 /μL  
+
+**Chemistry Panel – 04/17/2025:**  
+- Sodium: 135 mEq/L  
+- Potassium: 4.0 mEq/L  
+- BUN: 16 mg/dL  
+- Creatinine: 1.0 mg/dL  
+- Glucose: 92 mg/dL  
+- Total Cholesterol: 202 mg/dL  
+- LDL: 123 mg/dL  
+- HDL: 51 mg/dL  
+- Triglycerides: 160 mg/dL  
+- AST: 29 U/L  
+- ALT: 31 U/L  
+- ALP: 66 U/L  
+- Bilirubin: 0.7 mg/dL  
+
+**Electrolytes – 04/17/2025:**  
+- Sodium: 135 mEq/L  
+- Potassium: 4.0 mEq/L  
+- Chloride: 101 mEq/L  
+
+- HCO3: 24 mEq/L  
+
+**Coagulation Studies – 04/17/2025:**  
+- PT: 11.7 sec  
+- INR: 1.05  
+- aPTT: 31 sec  
+- Bleeding Time: 6 min  
+
+**Urinalysis – 04/17/2025:**  
+- Color: Pale yellow  
+- Appearance: Clear  
+- Specific Gravity: 1.013  
+- pH: 6.0  
+- Glucose: Negative  
+- Ketones: Negative  
+
+- Blood: Negative  
+- Protein: 1+  
+- Leukocytes: Negative  
+- Nitrites: Negative  
+
+**Chest X-ray – 04/17/2025:**  
+- Mild cardiomegaly noted.  
+
+- No pleural effusion.  
+- No infiltrates.  
+- No focal consolidation.  
+-  No pneumothorax.  
+
+**Echocardiogram – 04/17/2025:**  
+- Left ventricular ejection fraction (LVEF): 43%  
+- Mild mitral regurgitation.  
+- Mild tricuspid regurgitation.  
+- No pericardial effusion.  
+- No regional wall motion abnormalities.  
+
+**ECG – 04/17/2025:**  
+- Sinus rhythm, rate 87.  
+- Left axis deviation.  
+- T-wave inversions in V4–V6.  
+
+- No ST-segment elevation.  
+- No Q waves.  
+- No bundle branch block.  
+- No atrial fibrillation.  
+
+**BNP – 04/17/2025:**  
+- 175 pg/mL  
+
+**Pulmonary Function Tests – 04/17/2025:**  
+- FVC: 81% predicted  
+- FEV1: 76% predicted  
+- FEV1/FVC: 66%  
+- TLC: 90% predicted  
+- DLCO: 83% predicted  
+
+**Urinary Albumin:Creatinine Ratio – 04/17/2025:**  
+- 9 mg/g  
+
+**Serum Uric Acid – 04/17/2025:**  
+- 5.0 mg/dL  
+
+**C-Reactive Protein (CRP) – 04/17/2025:**  
+- 2.5 mg/L  
+
+**Blood Glucose – 04/18/2025:**  
+- 95 mg/dL  
+
+**Blood Pressure Monitoring – 04/18/2025:**  
+- 137/87 mmHg  
+- 135/85 mmHg  
+- 132/83 mmHg  
+
+**Additional Imaging:**  
+**Chest X-ray – 04/18/2025:**  
+- Mild cardiomegaly persisting, but no evidence of acute pulmonary congestion.  
+- No pleural effusion.  
+- No infiltrates.  
+- No focal consolidation.  
+- No pneumothorax.  
+
+**Echocardiogram – 04/18/2025:**  
+- Left ventricular ejection fraction (LVEF): 44%  
+- Mild mitral regurgitation.  
+- Mild tricuspid regurgitation.  
+- No pericardial effusion.  
+- No regional wall motion abnormalities.  
+
+**ECG – 04/18/2025:**  
+- Sinus rhythm, rate 88.  
+- Left axis deviation.  
+- T-wave inversions in V4–V6.  
+- No ST-segment elevation.  
+- No Q waves.  
+- No bundle branch block.  
+- No atrial fibrillation.  
+
+**Additional Findings:**  
+- **04/17/2025:** The patient was noted to have mild peripheral edema in the lower extremities.  
+- **04/18/2025:** Edema resolved with continued diuretic therapy.  
+- **04/16/2025:** Patient had mild ankle swelling, which improved with furosemide.  
+- **04/17/2025:** Patient had mild fatigue, which improved with rest and activity modification.  
+- **04/18/2025:** Patient showed no signs of acute decompensation.  
+- **04/16/2025:** Patient had mild anxiety, which improved with sertraline.  
+- **04/17/2025:** Patient had mild depressive symptoms, which improved with sertraline and counseling.  
+
+- **04/18/2025:** Patient reported feeling more energetic and less anxious.  
+- **04/18/2025:** Patient’s sleep quality improved, and she was able to lie flat without dyspnea.  
+- **04/17/2025:** Patient was able to ambulate independently in the hospital corridors.  
+- **04/18/2025:** Patient was able to perform activities of daily living without assistance.  
+- **04/17/2025

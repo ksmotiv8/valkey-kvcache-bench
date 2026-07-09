@@ -1,0 +1,483 @@
+**NON-DISCLOSURE AGREEMENT**  
+**DATED AS OF** [Insert Date]  
+
+**THIS NON-DISCLOSURE AGREEMENT** (this “Agreement”) is entered into as of the date first above written (the “Effective Date”) by and between **PharmaLife Group**, a company incorporated under the laws of [Jurisdiction], with its principal place of business at [Address], and **BioGen Innovations**, a company incorporated under the laws of [Jurisdiction], with its principal place of business at [Address].  
+
+The parties hereto, collectively referred to as the “Parties” and individually as a “Party,” agree as follows:  
+
+---
+
+### **ARTICLE I – DEFINITIONS**
+
+**1.1. Definitions.** For the purpose of this Agreement, the following terms shall have the meanings set forth below:  
+
+(a) **“Confidential Information”** shall mean any and all data, information, materials, documents, drawings, reports, formulas, specifications, processes, technologies, know-how, inventions, research data, results, methodologies, trade secrets, or other information of any nature, whether or not reduced to writing, which is disclosed by one Party (the “Disclosing Party”) to the other Party (the “Receiving Party”) in connection with the joint research project referenced in Section 2.1 below, including but not limited to: (i) all data, materials, and intellectual property related to the development, testing, or commercialization of compounds or formulations under development by either Party; (ii) all research findings, clinical trial results, or safety and efficacy data; (iii) all business plans, strategies, or financial projections; and (iv) any other information which the Disclosing Party has marked as confidential or which the Disclosing Party has otherwise designated as proprietary, whether or not such information is explicitly identified as confidential.  
+
+(b) **“Disclosing Party”** shall mean the Party which discloses Confidential Information to the other Party under this Agreement.  
+
+(c) **“Receiving Party”** shall mean the Party to which Confidential Information is disclosed under this Agreement.  
+
+(d) **“Joint Research Project”** shall mean the collaborative research initiative undertaken by the Parties as set forth in Section 2.1, which is intended to develop and evaluate novel therapeutic compounds for the treatment of [Insert Disease or Condition], with the aim of advancing such compounds through preclinical and clinical development stages.  
+
+(e) **“Permitted Purpose”** shall mean the use of Confidential Information solely for the purpose of conducting the Joint Research Project, including the evaluation, development, and commercialization of compounds related thereto.  
+
+(f) **“Trade Secrets”** shall mean all information, including but not limited to formulas, processes, methods, techniques, data, or other information, which (i) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, the public; and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.  
+
+(g) **“Term”** shall mean the period from the Effective Date through the date on which all obligations under this Agreement have been fully performed, including but not limited to the termination of the Joint Research Project and the expiration of all applicable confidentiality obligations.  
+
+(h) **“International Arbitration”** shall mean the method of dispute resolution agreed upon by the Parties as set forth in Section 11.1, which shall govern any disputes arising under this Agreement.  
+
+(i) **“Written Form”** shall mean a document that is in a tangible, permanent form, including but not limited to printed, handwritten, electronic, or facsimile form.  
+
+(j) **“Material Breach”** shall mean any failure by a Party to perform or comply with any obligation under this Agreement, which failure, if capable of remedy, has not been remedied within [Insert Number] days of written notice from the other Party.  
+
+(k) **“Intellectual Property”** shall mean all rights and interests, whether registered or unregistered, in and to inventions, patents, trademarks, copyrights, trade secrets, data, and other intellectual property rights, including but not limited to all rights of discovery, use, disclosure, and protection under applicable laws, whether arising under contract, statute, or common law.  
+
+(l) **“Confidentiality Obligations”** shall mean all obligations of confidentiality imposed upon the Receiving Party under this Agreement.  
+
+(m) **“Confidentiality Agreement”** shall mean any other agreement, whether executed before, on, or after the Effective Date, that contains terms or conditions regarding the protection of confidentiality, including but not limited to other Non-Disclosure Agreements, confidentiality clauses, or similar obligations.  
+
+(n) **“Excluded Information”** shall mean information that is (i) publicly available or becomes publicly available through no fault of the Receiving Party; (ii) independently developed by the Receiving Party without use of Confidential Information; (iii) disclosed to the Receiving Party by a third party who is authorized to disclose such information without breach of any confidentiality obligation; or (iv) required to be disclosed by law, regulation, or governmental authority, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement and, if permissible, cooperates in seeking a protective order or other remedy to prevent or limit disclosure.  
+
+(o) **“Subsidiary”** shall mean any entity that is controlled, directly or indirectly, by a Party.  
+
+(p) **“Affiliate”** shall mean any entity that, directly or indirectly, controls, is controlled by, or is under common control with a Party.  
+
+(q) **“Control”** shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through ownership of voting securities, by contract, or otherwise.  
+
+(r) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(s) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(t) **“Termination”** shall mean the end of the Term, as defined in Section 1.3, and the cessation of all obligations and rights under this Agreement, including but not limited to the obligations of confidentiality.  
+
+(u) **“Permitted Use”** shall mean the use of Confidential Information solely for the purposes permitted by this Agreement, including but not limited to the conduct of the Joint Research Project, the evaluation of compounds, the development of formulations, and the commercialization of products derived therefrom.  
+
+(v) **“Permitted Recipient”** shall mean any employee, consultant, contractor, or agent of the Receiving Party who is required to have access to Confidential Information in the course of performing its obligations under this Agreement, provided that such individual is bound by confidentiality obligations at least as stringent as those set forth in this Agreement.  
+
+(w) **“Third Party”** shall mean any entity or individual other than the Parties or their Affiliates.  
+
+(x) **“Confidentiality Period”** shall mean the period during which the obligations of confidentiality under this Agreement remain in effect, which shall commence on the Effective Date and shall continue for a period of [Insert Number] years from the Effective Date, or until the termination of the Joint Research Project, whichever occurs later.  
+
+(y) **“Written Consent”** shall mean the written agreement of the Disclosing Party, which may be provided in any form, including but not limited to electronic, facsimile, or printed form, that is signed by an authorized representative of the Disclosing Party.  
+
+(z) **“Disclosure”** shall mean any communication, transfer, transmission, or dissemination of Confidential Information by the Disclosing Party to the Receiving Party, whether in writing, orally, or in any other form.  
+
+(aa) **“Receiving Party’s Obligations”** shall mean all obligations of the Receiving Party under this Agreement, including but not limited to the obligations of confidentiality, the restrictions on use and disclosure, and the obligations to maintain the secrecy of Confidential Information.  
+
+(bb) **“Disclosing Party’s Obligations”** shall mean all obligations of the Disclosing Party under this Agreement, including but not limited to the obligations to provide access to Confidential Information, the obligations to ensure that such information is accurate and complete, and the obligations to maintain the confidentiality of such information.  
+
+(cc) **“Agreement”** shall mean this Non-Disclosure Agreement, including all amendments, supplements, and other documents executed in connection with it.  
+
+(dd) **“Clause”** shall mean any individual paragraph or section of this Agreement.  
+
+(ee) **“Section”** shall mean any individual section or subsection of this Agreement.  
+
+(ff) **“Subsection”** shall mean any individual subsection or sub-subsection of this Agreement.  
+
+(gg) **“Paragraph”** shall mean any individual paragraph or part of a paragraph within a section or subsection.      
+
+(hh) **“Part”** shall mean any individual part of this Agreement.  
+
+(ii) **“Article”** shall mean any individual article of this Agreement.  
+
+(jj) **“Definition”** shall mean any individual definition provided in this Agreement.  
+
+(kk) **“Term”** shall mean the period of time during which this Agreement is in effect, as defined in Section 1.3.  
+
+(ll) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(mm) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(nn) **“International Arbitration”** shall mean the method of dispute resolution agreed upon by the Parties as set forth in Section 11.1.  
+
+(oo) **“Written Form”** shall mean a document that is in a tangible, permanent form, including but not limited to printed, handwritten, electronic, or facsimile form.  
+
+(pp) **“Material Breach”** shall mean any failure by a Party to perform or comply with any obligation under this Agreement, which failure, if capable of remedy, has not been remedied within [Insert Number] days of written notice from the other Party.  
+
+(qq) **“Intellectual Property”** shall mean all rights and interests, whether registered or unregistered, in and to inventions, patents, trademarks, copyrights, trade secrets, data, and other intellectual property rights.  
+
+(rr) **“Confidentiality Obligations”** shall mean all obligations of confidentiality imposed upon the Receiving Party under this Agreement.  
+
+(ss) **“Confidentiality Agreement”** shall mean any other agreement, whether executed before, on, or after the Effective Date, that contains terms or conditions regarding the protection of confidentiality.  
+
+(tt) **“Excluded Information”** shall mean information that is (i) publicly available or becomes publicly available through no fault of the Receiving Party; (ii) independently developed by the Receiving Party without use of Confidential Information; (iii) disclosed to the Receiving Party by a third party who is authorized to disclose such information without breach of any confidentiality obligation; or (iv) required to be disclosed by law, regulation, or governmental authority, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement and, if permissible, cooperates in seeking a protective order or other remedy to prevent or limit disclosure.  
+
+(uu) **“Subsidiary”** shall mean any entity that is controlled, directly or indirectly, by a Party.  
+
+(vv) **“Affiliate”** shall mean any entity that, directly or indirectly, controls, is controlled by, or is under common control with a Party.  
+
+
+(ww) **“Control”** shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through ownership of voting securities, by contract, or otherwise.  
+
+(xx) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(yy) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(zz) **“Termination”** shall mean the end of the Term, as defined in Section 1.3, and the cessation of all obligations and rights under this Agreement, including but not limited to the obligations of confidentiality.  
+
+(aaa) **“Permitted Use”** shall mean the use of Confidential Information solely for the purposes permitted by this Agreement, including but not limited to the conduct of the Joint Research Project, the evaluation of compounds, the development of formulations, and the commercialization of products derived therefrom.  
+
+(bbb) **“Permitted Recipient”** shall mean any employee, consultant, contractor, or agent of the Receiving Party who is required to have access to Confidential Information in the course of performing its obligations under this Agreement, provided that such individual is bound by confidentiality obligations at least as stringent as those set forth in this Agreement.  
+
+(ccc) **“Third Party”** shall mean any entity or individual other than the Parties or their Affiliates.  
+
+(ddd) **“Confidentiality Period”** shall mean the period during which the obligations of confidentiality under this Agreement remain in effect, which shall commence on the Effective Date and shall continue for a period of [Insert Number] years from the Effective Date, or until the termination of the Joint Research Project, whichever occurs later.  
+
+(eee) **“Written Consent”** shall mean the written agreement of the Disclosing Party, which may be provided in any form, including but not limited to electronic, facsimile, or printed form, that is signed by an authorized representative of the Disclosing Party.  
+
+(fff) **“Disclosure”** shall mean any communication, transfer, transmission, or dissemination of Confidential Information by the Disclosing Party to the Receiving Party, whether in writing, orally, or in any other form.  
+
+(ggg) **“Receiving Party’s Obligations”** shall mean all obligations of the Receiving Party under this Agreement, including but not limited to the obligations of confidentiality, the restrictions on use and disclosure, and the obligations to maintain the secrecy of Confidential Information.  
+
+(hhh) **“Disclosing Party’s Obligations”** shall mean all obligations of the Disclosing Party under this Agreement, including but not limited to the obligations to provide access to Confidential Information, the obligations to ensure that such information is accurate and complete, and the obligations to maintain the confidentiality of such information.  
+
+(www) **“Agreement”** shall mean this Non-Disclosure Agreement, including all amendments, supplements, and other documents executed in connection with it.  
+
+(xxx) **“Clause”** shall mean any individual paragraph or section of this Agreement.  
+
+(yyy) **“Section”** shall mean any individual section or subsection of this Agreement.  
+
+(zzz) **“Subsection”** shall mean any individual subsection or sub-subsection of this Agreement.  
+
+(aaaa) **“Paragraph”** shall mean any individual paragraph or part of a paragraph within a section or subsection.  
+
+(bbbb) **“Part”** shall mean any individual part of this Agreement.  
+
+(cccc) **“Article”** shall mean any individual article of this Agreement.  
+
+(dddd) **“Definition”** shall mean any individual definition provided in this Agreement.  
+
+(eeee) **“Term”** shall mean the period of time during which this Agreement is in effect, as defined in Section 1.3.  
+
+(ffff) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(gggg) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(hhhh) **“International Arbitration”** shall mean the method of dispute resolution agreed upon by the Parties as set forth in Section 11.1.  
+
+(iiii) **“Written Form”** shall mean a document that is in a tangible, permanent form, including but not limited to printed, handwritten, electronic, or facsimile form.  
+
+(jjjj) **“Material Breach”** shall mean any failure by a Party to perform or comply with any obligation under this Agreement, which failure, if capable of remedy, has not been remedied within [Insert Number] days of written notice from the other Party.  
+
+(kkkk) **“Intellectual Property”** shall mean all rights and interests, whether registered or unregistered, in and to inventions, patents, trademarks, copyrights, trade secrets, data, and other intellectual property rights.  
+
+(llll) **“Confidentiality Obligations”** shall mean all obligations of confidentiality imposed upon the Receiving Party under this Agreement.  
+
+
+(mmmm) **“Confidentiality Agreement”** shall mean any other agreement, whether executed before, on, or after the Effective Date, that contains terms or conditions regarding the protection of confidentiality.  
+
+(nnnn) **“Excluded Information”** shall mean information that is (i) publicly available or becomes publicly available through no fault of the Receiving Party; (ii) independently developed by the Receiving Party without use of Confidential Information; (iii) disclosed to the Receiving Party by a third party who is authorized to disclose such information without breach of any confidentiality obligation; or (iv) required to be disclosed by law, regulation, or governmental authority, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement and, if permissible, cooperates in seeking a protective order or other remedy to prevent or limit disclosure.  
+
+(oooo) **“Subsidiary”** shall mean any entity that is controlled, directly or indirectly, by a Party.  
+
+(pppp) **“Affiliate”** shall mean any entity that, directly or indirectly, controls, is controlled by, or is under common control with a Party.  
+
+(qqqq) **“Control”** shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through ownership of voting securities, by contract, or otherwise.  
+
+
+  (rrrr) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(ssss) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(tttt) **“Termination”** shall mean the end of the Term, as defined in Section 1.3, and the cessation of all obligations and rights under this Agreement, including but not limited to the obligations of confidentiality.  
+
+(uuuu) **“Permitted Use”** shall mean the use of Confidential Information solely for the purposes permitted by this Agreement, including but not limited to the conduct of the Joint Research Project, the evaluation of compounds, the development of formulations, and the commercialization of products derived therefrom.  
+
+(vvvv) **“Permitted Recipient”** shall mean any employee, consultant, contractor, or agent of the Receiving Party who is required to have access to Confidential Information in the course of performing its obligations under this Agreement, provided that such individual is bound by confidentiality obligations at least as stringent as those set forth in this Agreement.  
+
+(wwww) **“Third Party”** shall mean any entity or individual other than the Parties or their Affiliates.  
+
+(xxxx) **“Confidentiality Period”** shall mean the period during which the obligations of confidentiality under this Agreement remain in effect, which shall commence on the Effective Date and shall continue for a period of [Insert Number] years from the Effective Date, or until the termination of the Joint Research Project, whichever occurs later.  
+
+(yyyy) **“Written Consent”** shall mean the written agreement of the Disclosing Party, which may be provided in any form, including but not limited to electronic, facsimile, or printed form, that is signed by an authorized representative of the Disclosing Party.  
+
+(zzzz) **“Disclosure”** shall mean any communication, transfer, transmission, or dissemination of Confidential Information by the Disclosing Party to the Receiving Party, whether in writing, orally, or in any other form.      
+
+(aaaaa) **“Receiving Party’s Obligations”** shall mean all obligations of the Receiving Party under this Agreement, including but not limited to the obligations of confidentiality, the restrictions on use and disclosure, and the obligations to maintain the secrecy of Confidential Information.  
+
+(bbbbb) **“Disclosing Party’s Obligations”** shall mean all obligations of the Disclosing Party under this Agreement, including but not limited to the obligations to provide access to Confidential Information, the obligations to ensure that such information is accurate and complete, and the obligations to maintain the confidentiality of such information.  
+
+(ccccc) **“Agreement”** shall mean this Non-Disclosure Agreement, including all amendments, supplements, and other documents executed in connection with it.  
+
+(dcccc) **“Clause”** shall mean any individual paragraph or section of this Agreement.  
+
+(ecccc) **“Section”** shall mean any individual section or subsection of this Agreement.  
+
+(fcccc) **“Subsection”** shall mean any individual subsection or sub-subsection of this Agreement.  
+
+(gcccc) **“Paragraph”** shall mean any individual paragraph or part of a paragraph within a section or subsection.  
+
+(hcccc) **“Part”** shall mean any individual part of this Agreement.  
+
+(icccc) **“Article”** shall mean any individual article of this Agreement.  
+
+(jcccc) **“Definition”** shall mean any individual definition provided in this Agreement.  
+
+(kcccc) **“Term”** shall mean the period of time during which this Agreement is in effect, as defined in Section 1.3.  
+
+(lcccc) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(mcccc) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(ncccc) **“International Arbitration”** shall mean the method of dispute resolution agreed upon by the Parties as set forth in Section 11.1.  
+
+(occcc) **“Written Form”** shall mean a document that is in a tangible, permanent form, including but not limited to printed, handwritten, electronic, or facsimile form.  
+
+(pcccc) **“Material Breach”** shall mean any failure by a Party to perform or comply with any obligation under this Agreement, which failure, if capable of remedy, has not been remedied within [Insert Number] days of written notice from the other Party.  
+
+(qcccc) **“Intellectual Property”** shall mean all rights and interests, whether registered or unregistered, in and to inventions, patents, trademarks, copyrights, trade secrets, data, and other intellectual property rights.  
+
+(rcccc) **“Confidentiality Obligations”** shall mean all obligations of confidentiality imposed upon the Receiving Party under this Agreement.  
+
+(scccc) **“Confidentiality Agreement”** shall mean any other agreement, whether executed before, on, or after the Effective Date, that contains terms or conditions regarding the protection of confidentiality.  
+
+(tcccc) **“Excluded Information”** shall mean information that is (i) publicly available or becomes publicly available through no fault of the Receiving Party; (ii) independently developed by the Receiving Party without use of Confidential Information; (iii) disclosed to the Receiving Party by a third party who is authorized to disclose such information without breach of any confidentiality obligation; or (iv) required to be disclosed by law, regulation, or governmental authority, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement and, if permissible, cooperates in seeking a protective order or other remedy to prevent or limit disclosure.  
+
+(ucccc) **“Subsidiary”** shall mean any entity that is controlled, directly or indirectly, by a Party.  
+
+(vcccc) **“Affiliate”** shall mean any entity that, directly or indirectly, controls, is controlled by, or is under common control with a Party.  
+
+(wcccc) **“Control”** shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through ownership of voting securities, by contract, or otherwise.  
+
+(xcccc) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(ycccc) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(zcccc) **“Termination”** shall mean the end of the Term, as defined in Section 1.3, and the cessation of all obligations and rights under this Agreement, including but not limited to the obligations of confidentiality.  
+
+(aaaaaa) **“Permitted Use”** shall mean the use of Confidential Information solely for the purposes permitted by this Agreement, including but not limited to the conduct of the Joint Research Project, the evaluation of compounds, the development of formulations, and the commercialization of products derived therefrom.  
+
+(baaaaa) **“Permitted Recipient”** shall mean any employee, consultant, contractor, or agent of the Receiving Party who is required to have access to Confidential Information in the course of performing its obligations under this Agreement, provided that such individual is bound by confidentiality obligations at least as stringent as those set forth in this Agreement.  
+
+(caaaaa) **“Third Party”** shall mean any entity or individual other than the Parties or their Affiliates.  
+
+(daaaaa) **“Confidentiality Period”** shall mean the period during which the obligations of confidentiality under this Agreement remain in effect, which shall commence on the Effective Date and shall continue for a period of [Insert Number] years from the Effective Date, or until the termination of the Joint Research Project, whichever occurs later.  
+
+(eaaaaa) **“Written Consent”** shall mean the written agreement of the Disclosing Party, which may be provided in any form, including but not limited to electronic, facsimile, or printed form, that is signed by an authorized representative of the Disclosing Party.  
+
+(faaaaa) **“Disclosure”** shall mean any communication, transfer, transmission, or dissemination of Confidential Information by the Disclosing Party to the Receiving Party, whether in writing, orally, or in any other form.  
+
+(gaaaaa) **“Receiving Party’s Obligations”** shall mean all obligations of the Receiving Party under this Agreement, including but not limited to the obligations of confidentiality, the restrictions on use and disclosure, and the obligations to maintain the secrecy of Confidential Information.  
+
+(haaaaa) **“Disclosing Party’s Obligations”** shall mean all obligations of the Disclosing Party under this Agreement, including but not limited to the obligations to provide access to Confidential Information, the obligations to ensure that such information is accurate and complete, and the obligations to maintain the confidentiality of such information.  
+
+(iaaaaa) **“Agreement”** shall mean this Non-Disclosure Agreement, including all amendments, supplements, and other documents executed in connection with it.  
+
+(jaaaaa) **“Clause”** shall mean any individual paragraph or section of this Agreement.  
+
+(kaaaaa) **“Section”** shall mean any individual section or subsection of this Agreement.  
+
+(laaaaa) **“Subsection”** shall mean any individual subsection or sub-subsection of this Agreement.  
+
+(maaaaa) **“Paragraph”** shall mean any individual paragraph or part of a paragraph within a section or subsection.  
+
+(naaaaa) **“Part”** shall mean any individual part of this Agreement.  
+
+(oaaaaa) **“Article”** shall mean any individual article of this Agreement.      
+
+(paaaaa) **“Definition”** shall mean any individual definition provided in this Agreement.  
+
+(qaaaaa) **“Term”** shall mean the period of time during which this Agreement is in effect, as defined in Section 1.3.  
+
+(raaaaa) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(saaaaa) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(taaaaa) **“International Arbitration”** shall mean the method of dispute resolution agreed upon by the Parties as set forth in Section 11.1.  
+
+(uaaaaa) **“Written Form”** shall mean a document that is in a tangible, permanent form, including but not limited to printed, handwritten, electronic, or facsimile form.  
+
+(vaaaaa) **“Material Breach”** shall mean any failure by a Party to perform or comply with any obligation under this Agreement, which failure, if capable of remedy, has not been remedied within [Insert Number] days of written notice from the other Party.  
+
+(wwaaaa) **“Intellectual Property”** shall mean all rights and interests, whether registered or unregistered, in and to inventions, patents, trademarks, copyrights, trade secrets, data, and other intellectual property rights.  
+
+(xwwaaa) **“Confidentiality Obligations”** shall mean all obligations of confidentiality imposed upon the Receiving Party under this Agreement.  
+
+(ywwaaa) **“Confidentiality Agreement”** shall mean any other agreement, whether executed before, on, or after the Effective Date, that contains terms or conditions regarding the protection of confidentiality.  
+
+(zwwaaa) **“Excluded Information”** shall mean information that is (i) publicly available or becomes publicly available through no fault of the Receiving Party; (ii) independently developed by the Receiving Party without use of Confidential Information; (iii) disclosed to the Receiving Party by a third party who is authorized to disclose such information without breach of any confidentiality obligation; or (iv) required to be disclosed by law, regulation, or governmental authority, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement and, if permissible, cooperates in seeking a protective order or other remedy to prevent or limit disclosure.  
+
+(aaaaaaa) **“Subsidiary”** shall mean any entity that is controlled, directly or indirectly, by a Party.  
+
+(baaaaaa) **“Affiliate”** shall mean any entity that, directly or indirectly, controls, is controlled by, or is under common control with a Party.  
+
+(caaaaaa) **“Control”** shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through ownership of voting securities, by contract, or otherwise.  
+
+(daaaaaa) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(eaaaaaa) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(faaaaaa) **“Termination”** shall mean the end of the Term, as defined in Section 1.3, and the cessation of all obligations and rights under this Agreement, including but not limited to the obligations of confidentiality.  
+
+(gaaaaaa) **“Permitted Use”** shall mean the use of Confidential Information solely for the purposes permitted by this Agreement, including but not limited to the conduct of the Joint Research Project, the evaluation of compounds, the development of formulations, and the commercialization of products derived therefrom.  
+
+(haaaaaa) **“Permitted Recipient”** shall mean any employee, consultant, contractor, or agent of the Receiving Party who is required to have access to Confidential Information in the course of performing its obligations under this Agreement, provided that such individual is bound by confidentiality obligations at least as stringent as those set forth in this Agreement.  
+
+(iaaaaaa) **“Third Party”** shall mean any entity or individual other than the Parties or their Affiliates.  
+
+(jaaaaaa) **“Confidentiality Period”** shall mean the period during which the obligations of confidentiality under this Agreement remain in effect, which shall commence on the Effective Date and shall continue for a period of [Insert Number] years from the Effective Date, or until the termination of the Joint Research Project, whichever occurs later.  
+
+(kaaaaaa) **“Written Consent”** shall mean the written agreement of the Disclosing Party, which may be provided in any form, including but not limited to electronic, facsimile, or printed form, that is signed by an authorized representative of the Disclosing Party.  
+
+(laaaaaa) **“Disclosure”** shall mean any communication, transfer, transmission, or dissemination of Confidential Information by the Disclosing Party to the Receiving Party, whether in writing, orally, or in any other form.  
+
+(maaaaaa) **“Receiving Party’s Obligations”** shall mean all obligations of the Receiving Party under this Agreement, including but not limited to the obligations of confidentiality, the restrictions on use and disclosure, and the obligations to maintain the secrecy of Confidential Information.  
+
+(naaaaaa) **“Disclosing Party’s Obligations”** shall mean all obligations of the Disclosing Party under this Agreement, including but not limited to the obligations to provide access to Confidential Information, the obligations to ensure that such information is accurate and complete, and the obligations to maintain the confidentiality of such information.  
+
+(oaaaaaa) **“Agreement”** shall mean this Non-Disclosure Agreement, including all amendments, supplements, and other documents executed in connection with it.  
+
+(paaaaaa) **“Clause”** shall mean any individual paragraph or section of this Agreement.  
+
+(qaaaaaa) **“Section”** shall mean any individual section or subsection of this Agreement.  
+
+(raaaaaa) **“Subsection”** shall mean any individual subsection or sub-subsection of this Agreement.  
+
+(saaaaaa) **“Paragraph”** shall mean any individual paragraph or part of a paragraph within a section or subsection.  
+
+(taaaaaa) **“Part”** shall mean any individual part of this Agreement.  
+
+(uaaaaaa) **“Article”** shall mean any individual article of this Agreement.  
+
+(vaaaaaa) **“Definition”** shall mean any individual definition provided in this Agreement.  
+
+(waaaaaa) **“Term”** shall mean the period of time during which this Agreement is in effect, as defined in Section 1.3.  
+
+(xaaaaaa) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(yaaaaaa) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(zaaaaaa) **“International Arbitration”** shall mean the method of dispute resolution agreed upon by the Parties as set forth in Section 11.1.  
+
+(aaaaaaaa) **“Written Form”** shall mean a document that is in a tangible, permanent form, including but not limited to printed, handwritten, electronic, or facsimile form.  
+
+(baaaaaaa) **“Material Breach”** shall mean any failure by a Party to perform or comply with any obligation under this Agreement, which failure, if capable of remedy, has not been remedied within [Insert Number] days of written notice from the other Party.  
+
+(caaaaaaa) **“Intellectual Property”** shall mean all rights and interests, whether registered or unregistered, in and to inventions, patents, trademarks, copyrights, trade secrets, data, and other intellectual property rights.  
+
+(dcaaaaaa) **“Confidentiality Obligations”** shall mean all obligations of confidentiality imposed upon the Receiving Party under this Agreement.  
+
+(ecaaaaaa) **“Confidentiality Agreement”** shall mean any other agreement, whether executed before, on, or after the Effective Date, that contains terms or conditions regarding the protection of confidentiality.    
+
+(fcaaaaaa) **“Excluded Information”** shall mean information that is (i) publicly available or becomes publicly available through no fault of the Receiving Party; (ii) independently developed by the Receiving Party without use of Confidential Information; (iii) disclosed to the Receiving Party by a third party who is authorized to disclose such information without breach of any confidentiality obligation; or (iv) required to be disclosed by law, regulation, or governmental authority, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement and, if permissible, cooperates in seeking a protective order or other remedy to prevent or limit disclosure.  
+
+(gcaaaaaa) **“Subsidiary”** shall mean any entity that is controlled, directly or indirectly, by a Party.  
+
+(hcaaaaaa) **“Affiliate”** shall mean any entity that, directly or indirectly, controls, is controlled by, or is under common control with a Party.  
+
+(icaaaaaa) **“Control”** shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through ownership of voting securities, by contract, or otherwise.  
+
+(jcaaaaaa) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(kcaaaaaa) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(lcaaaaaa) **“Termination”** shall mean the end of the Term, as defined in Section 1.3, and the cessation of all obligations and rights under this Agreement, including but not limited to the obligations of confidentiality.  
+
+(mcaaaaaa) **“Permitted Use”** shall mean the use of Confidential Information solely for the purposes permitted by this Agreement, including but not limited to the conduct of the Joint Research Project, the evaluation of compounds, the development of formulations, and the commercialization of products derived therefrom.  
+
+(ncaaaaaa) **“Permitted Recipient”** shall mean any employee, consultant, contractor, or agent of the Receiving Party who is required to have access to Confidential Information in the course of performing its obligations under this Agreement, provided that such individual is bound by confidentiality obligations at least as stringent as those set forth in this Agreement.  
+
+(ocaaaaaa) **“Third Party”** shall mean any entity or individual other than the Parties or their Affiliates.  
+
+(pcaaaaaa) **“Confidentiality Period”** shall mean the period during which the obligations of confidentiality under this Agreement remain in effect, which shall commence on the Effective Date and shall continue for a period of [Insert Number] years from the Effective Date, or until the termination of the Joint Research Project, whichever occurs later.  
+
+(qcaaaaaa) **“Written Consent”** shall mean the written agreement of the Disclosing Party, which may be provided in any form, including but not limited to electronic, facsimile, or printed form, that is signed by an authorized representative of the Disclosing Party.  
+
+(rcaaaaaa) **“Disclosure”** shall mean any communication, transfer, transmission, or dissemination of Confidential Information by the Disclosing Party to the Receiving Party, whether in writing, orally, or in any other form.  
+
+(scaaaaaa) **“Receiving Party’s Obligations”** shall mean all obligations of the Receiving Party under this Agreement, including but not limited to the obligations of confidentiality, the restrictions on use and disclosure, and the obligations to maintain the secrecy of Confidential Information.  
+
+(tcaaaaaa) **“Disclosing Party’s Obligations”** shall mean all obligations of the Disclosing Party under this Agreement, including but not limited to the obligations to provide access to Confidential Information, the obligations to ensure that such information is accurate and complete, and the obligations to maintain the confidentiality of such information.  
+
+(ucaaaaa) **“Agreement”** shall mean this Non-Disclosure Agreement, including all amendments, supplements, and other documents executed in connection with it.  
+
+(vcaaaaaa) **“Clause”** shall mean any individual paragraph or section of this Agreement.  
+
+(wcaaaaaa) **“Section”** shall mean any individual section or subsection of this Agreement.  
+
+(xcaaaaaa) **“Subsection”** shall mean any individual subsection or sub-subsection of this Agreement.  
+
+(ycaaaaaa) **“Paragraph”** shall mean any individual paragraph or part of a paragraph within a section or subsection.  
+
+(zcaaaaaa) **“Part”** shall mean any individual part of this Agreement.  
+
+(acaaaaaa) **“Article”** shall mean any individual article of this Agreement.  
+
+(bcaaaaaa) **“Definition”** shall mean any individual definition provided in this Agreement.  
+
+(ccaaaaaa) **“Term”** shall mean the period of time during which this Agreement is in effect, as defined in Section 1.3.  
+
+(dcaaaaaa) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(ecaaaaaa) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(fcaaaaaa) **“International Arbitration”** shall mean the method of dispute resolution agreed upon by the Parties as set forth in Section 11.1.  
+
+
+(gcaaaaaa) **“Written Form”** shall mean a document that is in a tangible, permanent form, including but not limited to printed, handwritten, electronic, or facsimile form.  
+
+(hcaaaaaa) **“Material Breach”** shall mean any failure by a Party to perform or comply with any obligation under this Agreement, which failure, if capable of remedy, has not been remedied within [Insert Number] days of written notice from the other Party.  
+
+(icaaaaaa) **“Intellectual Property”** shall mean all rights and interests, whether registered or unregistered, in and to inventions, patents, trademarks, copyrights, trade secrets, data, and other intellectual property rights.  
+
+(jcaaaaaa) **“Confidentiality Obligations”** shall mean all obligations of confidentiality imposed upon the Receiving Party under this Agreement.  
+
+(kcaaaaaa) **“Confidentiality Agreement”** shall mean any other agreement, whether executed before, on, or after the Effective Date, that contains terms or conditions regarding the protection of confidentiality.  
+
+(lcaaaaaa) **“Excluded Information”** shall mean information that is (i) publicly available or becomes publicly available through no fault of the Receiving Party; (ii) independently developed by the Receiving Party without use of Confidential Information; (iii) disclosed to the Receiving Party by a third party who is authorized to disclose such information without breach of any confidentiality obligation; or (iv) required to be disclosed by law, regulation, or governmental authority, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement and, if permissible, cooperates in seeking a protective order or other remedy to prevent or limit disclosure.  
+
+
+(mcaaaaaa) **“Subsidiary”** shall mean any entity that is controlled, directly or indirectly, by a Party.  
+
+(ncaaaaaa) **“Affiliate”** shall mean any entity that, directly or indirectly, controls, is controlled by, or is under common control with a Party.  
+
+(ocaaaaaa) **“Control”** shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through ownership of voting securities, by contract, or otherwise.  
+
+(pcaaaaaa) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(qcaaaaaa) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(rcaaaaaa) **“Termination”** shall mean the end of the Term, as defined in Section 1.3, and the cessation of all obligations and rights under this Agreement, including but not limited to the obligations of confidentiality.  
+
+(scaaaaaa) **“Permitted Use”** shall mean the use of Confidential Information solely for the purposes permitted by this Agreement, including but not limited to the conduct of the Joint Research Project, the evaluation of compounds, the development of formulations, and the commercialization of products derived therefrom.  
+
+(tcaaaaaa) **“Permitted Recipient”** shall mean any employee, consultant, contractor, or agent of the Receiving Party who is required to have access to Confidential Information in the course of performing its obligations under this Agreement, provided that such individual is bound by confidentiality obligations at least as stringent as those set forth in this Agreement.  
+
+(ucaaaaa) **“Third Party”** shall mean any entity or individual other than the Parties or their Affiliates.  
+
+(vcaaaaaa) **“Confidentiality Period”** shall mean the period during which the obligations of confidentiality under this Agreement remain in effect, which shall commence on the Effective Date and shall continue for a period of [Insert Number] years from the Effective Date, or until the termination of the Joint Research Project, whichever occurs later.  
+
+(wcaaaaaa) **“Written Consent”** shall mean the written agreement of the Disclosing Party, which may be provided in any form, including but not limited to electronic, facsimile, or printed form, that is signed by an authorized representative of the Disclosing Party.  
+
+(xcaaaaaa) **“Disclosure”** shall mean any communication, transfer, transmission, or dissemination of Confidential Information by the Disclosing Party to the Receiving Party, whether in writing, orally, or in any other form.  
+
+(ycaaaaaa) **“Receiving Party’s Obligations”** shall mean all obligations of the Receiving Party under this Agreement, including but not limited to the obligations of confidentiality, the restrictions on use and disclosure, and the obligations to maintain the secrecy of Confidential Information.  
+
+(zcaaaaaa) **“Disclosing Party’s Obligations”** shall mean all obligations of the Disclosing Party under this Agreement, including but not limited to the obligations to provide access to Confidential Information, the obligations to ensure that such information is accurate and complete, and the obligations to maintain the confidentiality of such information.  
+
+(acaaaaaa) **“Agreement”** shall mean this Non-Disclosure Agreement, including all amendments, supplements, and other documents executed in connection with it.  
+
+(bcaaaaaa) **“Clause”** shall mean any individual paragraph or section of this Agreement.  
+
+(ccaaaaaa) **“Section”** shall mean any individual section or subsection of this Agreement.  
+
+(ddaaaaaa) **“Subsection”** shall mean any individual subsection or sub-subsection of this Agreement.  
+
+(eeaaaaaa) **“Paragraph”** shall mean any individual paragraph or part of a paragraph within a section or subsection.  
+
+(ffaaaaaa) **“Part”** shall mean any individual part of this Agreement.  
+
+(ggaaaaaa) **“Article”** shall mean any individual article of this Agreement.  
+
+(hhaaaaaa) **“Definition”** shall mean any individual definition provided in this Agreement.  
+
+(iiaaaaaa) **“Term”** shall mean the period of time during which this Agreement is in effect, as defined in Section 1.3.  
+
+(jjaaaaaa) **“Effective Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(kkaaaaaa) **“Execution Date”** shall mean the date on which this Agreement is executed by both Parties.  
+
+(llaaaaaa) **“International Arbitration”** shall mean the method of dispute resolution agreed upon by the Parties as set forth in Section 11.1.  
+
+(mmaaaaaa) **“Written Form”** shall mean a document that is in a tangible, permanent form, including but not limited to printed, handwritten, electronic, or facsimile form.

@@ -1,0 +1,599 @@
+**SOFTWARE LICENSING AGREEMENT**  
+**THIS SOFTWARE LICENSING AGREEMENT ("Agreement")** is made and entered into on this ___ day of __________, 2025, by and between **TechNova Inc.**, a Delaware corporation with its principal place of business at 123 Innovation Drive, Palo Alto, CA 94301 ("Licensor"), and **GlobalSystems Corp**, a multinational corporation with its principal place of business at 456 Global Plaza, New York, NY 10001 ("Licensee").  
+
+**RECITALS**  
+WHEREAS, Licensor is the sole owner of certain proprietary software, including, but not limited to, the **TechNova Enterprise Suite** ("Software"), which includes, but is not limited to, the **Core Application Module**, the **Data Analytics Platform**, and the **Cloud Integration Engine**;  
+
+WHEREAS, Licensee desires to obtain a license to use the Software under the terms and conditions set forth herein;  
+
+WHEREAS, the parties acknowledge that the Software is the subject of intellectual property rights owned by Licensor, and that such rights are protected under applicable laws;  
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+---
+
+### ARTICLE I – DEFINITIONS AND INTERPRETATION
+
+**Section 1.1 Definitions.**  
+For the purposes of this Agreement, the following terms shall have the meanings ascribed to them below:  
+
+(a) **"Software"** shall mean the proprietary software developed and owned by Licensor, including, without limitation, all source code, object code, documentation, user manuals, and any derivative works or modifications thereof, as further described in Schedule A attached hereto and incorporated by reference.  
+
+(b) **"Licensee"** shall mean the entity identified above as "GlobalSystems Corp" and any affiliate, subsidiary, or entity controlled by Licensee, as may be authorized by Licensor in writing.  
+
+(c) **"Licensor"** shall mean the entity identified above as "TechNova Inc." and any affiliate, subsidiary, or entity controlled by Licensor, as may be authorized by Licensee in writing.  
+
+(d) **"Term"** shall mean the period commencing on the Effective Date and ending on the expiration or termination of this Agreement, as specified in Section 4.1.  
+
+(e) **"Effective Date"** shall mean the date on which this Agreement is executed and delivered by both parties.  
+
+
+(f) **"Permitted Use"** shall mean the use of the Software solely for the internal operations, data processing, and strategic planning of Licensee, as outlined in Section 2.2.  
+
+(g) **"Confidential Information"** shall mean any non-public information, whether disclosed orally or in writing, relating to Licensor's business, including, but not limited to, trade secrets, product designs, pricing structures, and customer lists.  
+
+(h) **"Intellectual Property Rights"** shall include all rights of ownership and use under United States and foreign laws, including, without limitation, copyrights, patents, trademarks, and trade secrets.  
+
+(i) **"User"** shall mean any individual or entity authorized by Licensee to access or use the Software under the terms of this Agreement.  
+
+(j) **"Violation"** shall mean any act or omission by Licensee or any User that contravenes the terms of this Agreement, including, but not limited to, unauthorized use, modification, or distribution of the Software.  
+
+**Section 1.2 Interpretation.**  
+Unless otherwise specified, all terms used in this Agreement shall be interpreted in accordance with the plain meaning of the English language, without consideration of any literal, technical, or other interpretations. In the event of a conflict between the provisions of this Agreement and any applicable law, the provisions of this Agreement shall govern, provided that such conflict does not violate the fundamental principles of public policy. All references to laws, statutes, or regulations shall be deemed to refer to the laws, statutes, and regulations in effect as of the Effective Date, unless otherwise specified.  
+
+**Section 1.3 Headings.**  
+The headings of the sections and subsections of this Agreement are for reference only and shall not be deemed to alter, modify, or restrict the meaning of any provision of this Agreement.  
+
+**Section 1.4 Governing Law.**  
+This Agreement shall be governed by and construed in accordance with the laws of the United States of America, without regard to the conflict of laws principles that might otherwise apply.  
+
+---
+
+### ARTICLE II – LICENSE GRANT AND SCOPE
+
+**Section 2.1 Grant of License.**  
+Licensor hereby grants to Licensee a non-exclusive, non-transferable, and non-sublicensable license to use the Software for the purposes set forth in Section 2.2. This license shall be subject to the terms and conditions of this Agreement, and shall not include any right to modify, reverse engineer, or distribute the Software without the express written consent of Licensor.  
+
+**Section 2.2 Permitted Use.**  
+The Software may be used solely by Licensee and its designated Users for internal operations, including, but not limited to, data processing, strategic planning, and analytical modeling. No part of the Software shall be used for any purpose other than those explicitly outlined in this Agreement, and Licensee shall not permit any third party to use the Software unless such use is authorized in writing by Licensor.  
+
+**Section 2.3 Exclusions.**  
+The Software shall not be used for any commercial purpose, including, but not limited to, the sale, rental, or licensing of the Software to third parties. The Software is not intended for use in any jurisdiction where the use thereof would violate local laws, regulations, or customs.  
+
+**Section 2.4 Restrictions.**  
+Licensee shall not:  
+(a) Use the Software in connection with any illegal activity;  
+(b) Modify, alter, or reverse engineer the Software without prior written consent from Licensor;  
+(c) Distribute, copy, or reproduce the Software in any form, except as expressly permitted in this Agreement;  
+(d) Transfer, assign, or sublicense the rights granted under this Agreement without the prior written consent of Licensor;  
+(e) Use the Software in any manner that could damage, interfere with, or compromise the integrity or functionality of the Software or Licensor’s systems.  
+
+**Section 2.5 Compliance with Laws.**  
+Licensee shall ensure that the use of the Software complies with all applicable laws, including, but not limited to, data protection, privacy, and cybersecurity laws. Licensor shall not be liable for any claims arising from Licensee’s non-compliance with applicable laws or regulations.  
+
+---
+
+### ARTICLE III – PAYMENT AND LICENSE FEES
+
+**Section 3.1 License Fees.**  
+In consideration for the grant of the license, Licensee agrees to pay to Licensor the sum of **$2,500,000.00** (Two Million Five Hundred Thousand Dollars), which shall be paid in accordance with the payment schedule set forth in Section 3.2.  
+
+**Section 3.2 Payment Schedule.**  
+The total license fee shall be paid in three installments as follows:  
+(a) The first installment of **$750,000.00** (Seven Hundred Fifty Thousand Dollars) shall be paid within thirty (30) days of the Effective Date;  
+(b) The second installment of **$750,000.00** (Seven Hundred Fifty Thousand Dollars) shall be paid within ninety (90) days of the Effective Date;  
+(c) The third installment of **$1,000,000.00** (One Million Dollars) shall be paid within one hundred eighty (180) days of the Effective Date.  
+
+**Section 3.3 Late Payment.**  
+Any payment not received by Licensor within ten (10) business days after the due date shall accrue interest at the rate of one and one-half percent (1.5%) per month, compounded monthly. Such interest shall be paid in addition to the principal amount of the outstanding payment.  
+
+   **Section 3.4 Currency.**  
+All payments shall be made in United States Dollars (USD) and shall be subject to exchange rate fluctuations as determined by the prevailing market rates.  
+
+**Section 3.5 Invoices.**  
+Licensor shall issue an invoice for each payment installment in accordance with the schedule set forth in Section 3.2. Licensee shall remit payment to the account designated by Licensor in writing.  
+
+**Section 3.6 Taxes.**  
+Licensee shall be responsible for all taxes, duties, and fees, including, but not limited to, value-added taxes (VAT), sales taxes, and withholding taxes, arising from the payment of the license fee.  
+
+---
+
+### ARTICLE IV – TERM  AND TERMINATION
+
+**Section 4.1 Term.**  
+This Agreement shall commence on the Effective Date and shall continue for a period of three (3) years, unless terminated earlier by either party in accordance with the terms of this Agreement.  
+
+**Section 4.2 Termination for Cause.**  
+Either party may terminate this Agreement immediately upon written notice if the other party:  
+(a) Materially breaches any provision of this Agreement and fails to cure such breach within thirty (30) days after receipt of written notice from the non-breaching party;   
+(b) Becomes insolvent, files for bankruptcy, or otherwise ceases to carry on business;  
+(c) Violates any export control, anti-bribery, or anti-corruption laws;  
+(d) Fails to maintain the confidentiality of the Software or any related information;  
+(e) Uses the Software in violation of the terms of this Agreement.  
+
+**Section 4.3 Termination for Convenience.**  
+Licensor shall have the right to terminate this Agreement at any time for convenience, provided that Licensee shall be entitled to a pro-rata refund of the license fee for the remaining term of the Agreement, calculated based on the number of months remaining in the original three-year term.  
+
+**Section 4.4 Effect of Termination.**  
+Upon termination of this Agreement, Licensee shall:  
+(a) Immediately cease all use of the Software;  
+(b) Return all copies of the Software, including any source code, documentation, or other materials, to Licensor;  
+(c) Destroy all copies of the Software and any derivative works;  
+(d) Provide Licensor with a written confirmation that all copies of the Software have been returned or destroyed.  
+
+**Section 4.5 Survival.**  
+The following provisions shall survive the termination or expiration of this Agreement:  
+(a) Sections 1.1 through 1.4;  
+(b) Sections 5.1 through 5.5;  
+(c) Sections 6.1 through 6.6;  
+(d) Sections 7.1 through 7.6;  
+(e) Sections 8.1 through 8.6;  
+   (f) Sections 9.1 through 9.6.  
+
+---
+
+### ARTICLE V – CONFIDENTIALITY
+
+**Section 5.1 Confidential Information.**  
+Both parties agree to maintain the confidentiality of all Confidential Information of the other party, which includes, but is not limited to, trade secrets, technical data, business strategies, and other proprietary information.  
+
+**Section 5.2 Obligations of Confidentiality.**  
+Licensee shall not use, disclose, or permit the use or disclosure of any Confidential Information of Licensor without the prior written consent of Licensor. Licensee shall take all reasonable measures to protect the confidentiality of such information, including, but not limited to, limiting access to authorized personnel and implementing appropriate security measures.  
+
+**Section 5.3 Exceptions.**  
+The obligations of confidentiality shall not apply to Confidential Information that:  
+(a) Is publicly available without breach of this Agreement;  
+(b) Is independently developed by the receiving party without use of the other party’s Confidential Information;  
+(c) Is disclosed to the receiving party by a third party who is not prohibited from disclosing such information;      
+(d) Is required to be disclosed by law or legal process, in which case the receiving party shall provide prior written notice to the other party and shall cooperate in good faith to obtain a protective order or other remedy.  
+
+**Section 5.4 Duration.**  
+The obligations of confidentiality shall survive the termination or expiration of this Agreement for a period of five (5) years following such termination or expiration.  
+
+---
+
+### ARTICLE VI – INTELLECTUAL PROPERTY
+
+**Section 6.1 Ownership.**  
+All right, title, and interest in and to the Software, including, but not limited to, copyrights, patents, trademarks, and trade secrets, shall remain the sole and exclusive property of Licensor.  
+
+**Section 6.2 License Grant.**  
+The license granted under this Agreement is not a transfer of ownership, but rather a limited grant of rights to use the Software in accordance with the terms of this Agreement.  
+
+**Section 6.3 No Warranties.**  
+Licensor makes no warranties, express or implied, regarding the performance, functionality, or suitability of the Software. The Software is provided "as is" and "as available" without any representations or guarantees of fitness for a particular purpose.  
+
+**Section 6.4 Limitation of Liability.**  
+In no event shall Licensor be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the Software, including, but not limited to, loss of profits, data, or business opportunities.  
+
+**Section 6.5 Indemnification.**  
+Licensor shall indemnify and hold harmless Licensee from and against any and all claims, liabilities, damages, penalties, fines, or costs arising from any third-party claim of infringement of intellectual property rights by the Software.  
+
+**Section 6.6 No Warranty of Compatibility.**  
+Licensor shall not be liable for any incompatibility between the Software and any other software, hardware, or system used by Licensee.  
+
+---
+
+### ARTICLE VII – REPRESENTATIONS AND WARRANTIES
+
+**Section 7.1 Representations of Licensor.**  
+Licensor represents and warrants that:  
+(a) It has the legal right and authority to enter into this Agreement and to grant the license contemplated herein;  
+(b) The Software is free from any liens, encumbrances, or claims of third parties;  
+(c) The Software is not subject to any outstanding litigation or regulatory action;  
+(d) The Software is suitable for the purposes for which it is intended to be used.  
+
+**Section 7.2 Representations of Licensee.**  
+Licensee represents and warrants that:  
+(a) It has the legal right and authority to enter into this Agreement;  
+(b) It will use the Software in accordance with the terms of this Agreement and applicable laws;  
+(c) It has the necessary systems, infrastructure, and personnel to use the Software in compliance with this Agreement;  
+(d) It will not use the Software for any illegal or unauthorized purpose.  
+
+**Section 7.3 Survival.**  
+The representations and warranties set forth in this Agreement shall survive the termination or expiration of this Agreement and shall remain in full force and effect for a period of five (5) years following such termination or expiration.  
+
+---
+
+### ARTICLE VIII – INDEMNIFICATION
+
+**Section 8.1 Indemnification by Licensor.**  
+Licensor shall indemnify, defend, and hold harmless Licensee from and against any and all claims, damages, losses, liabilities, costs, and expenses arising from or related to:  
+(a) Any breach of this Agreement by Licensor;  
+
+(b) Any intellectual property infringement claims arising from the Software;  
+(c) Any violation of applicable laws or regulations by Licensor.  
+
+**Section 8.2 Indemnification by Licensee.**  
+Licensee shall indemnify, defend, and hold harmless Licensor from and against any and all claims, damages, losses, liabilities, costs, and expenses arising from or related to:  
+(a) Any breach of this Agreement by Licensee;  
+(b) Any use of the Software by Licensee or its Users in violation of this Agreement;  
+(c) Any claim arising from the actions or omissions of Licensee’s Users or third parties.  
+
+**Section 8.3 Notice of Claims.**  
+In the event of any claim that may entitle a party to indemnification under this Agreement, the indemnifying party shall be notified in writing within thirty (30) days of the date of the claim. The indemnifying party shall have the right to control the defense and settlement of such claim, provided that the indemnified party shall have the right to participate in such defense and settlement.  
+
+
+**Section 8.4 Settlement.**  
+Any settlement of a claim shall be made in the name and on behalf of the indemnifying party, and any settlement shall be subject to the approval of the indemnified party.  
+
+---
+
+   ### ARTICLE IX – DISPUTE RESOLUTION
+
+**Section 9.1 Negotiation.**  
+In the event of any dispute, controversy, or claim arising out of or relating to this Agreement, the parties agree to first attempt to resolve such dispute through good faith negotiations between authorized representatives of both parties.  
+
+**Section 9.2 Mediation.**  
+If the parties are unable to resolve the dispute through negotiation, they shall submit the dispute to mediation before a mutually agreed-upon mediator. The mediation shall be conducted in accordance with the rules and procedures of the American Arbitration Association.  
+
+**Section 9.3 Arbitration.**  
+If mediation fails to resolve the dispute, the parties agree to submit the dispute to binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall be conducted in the state of New York, and the award shall be enforceable in any jurisdiction.  
+
+**Section 9.4 Jurisdiction.**  
+Except as otherwise provided in this Agreement, all legal proceedings arising out of or related to this Agreement shall be brought in the federal or state courts of New York, New York.  
+
+**Section 9.5 Waiver of Class Actions.**  
+Each party agrees that any dispute or claim arising under this Agreement shall be resolved on an individual basis, and neither party shall be entitled to assert a claim as part of a class, collective, or representative action.  
+
+---
+
+### ARTICLE X – GENERAL PROVISIONS
+
+
+**Section 10.1 Assignment.**  
+Neither party may assign, transfer, or sublicense any rights or obligations under this Agreement without the prior written consent of the other party. Any assignment or transfer without such consent shall be void and of no effect.  
+
+**Section 10.2 Entire Agreement.**  
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior understandings, agreements, and representations, whether written or oral.  
+
+**Section 10.3 Amendments.**  
+
+Any amendments or modifications to this Agreement shall be made in writing and shall be signed by both parties.  
+
+**Section 10.4 Severability.**  
+
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect, and the invalid or unenforceable provision shall be deemed to be severed from this Agreement.  
+
+**Section 10.5 Waiver.**  
+No waiver of any provision of this Agreement shall be deemed to be a waiver of any other provision or of the same provision on any other occasion.  
+
+**Section 10.6 Force Majeure.**  
+Neither party shall be liable for any failure or delay in performing its obligations under this Agreement due to events beyond its reasonable control, including, but not limited to, natural disasters, wars, acts of terrorism, or government actions.  
+
+**Section 10.7 Notices.**  
+All notices and communications under this Agreement shall be in writing and shall be sent by certified mail, return receipt requested, or by electronic means, to the addresses set forth in the first paragraph of this Agreement.  
+
+**Section 10.8 Counterparts.**  
+This Agreement may be executed in counterparts, each of which shall be deemed to be an original, and all counterparts shall together constitute one and the same instrument.  
+
+**Section 10.9 Headings.**  
+The headings of the sections and subsections of this Agreement are for reference only and shall not be deemed to alter, modify, or restrict the meaning of any provision of this Agreement.  
+
+**Section 10.10 Governing Law.**  
+This Agreement shall be governed by and construed in accordance with the laws of the United States of America, without regard to the conflict of laws principles that might otherwise apply.  
+
+---
+
+### SCHEDULE A – SOFTWARE DESCRIPTION
+
+**1.1 Software Overview.**  
+The Software consists of the **TechNova  Enterprise Suite**, which includes the following modules:  
+(a) **Core Application Module**: Provides the foundational architecture and core functionalities for enterprise-level data processing and system integration.  
+(b) **Data Analytics Platform**: Enables advanced data analysis, visualization, and reporting capabilities for business intelligence.  
+(c) **Cloud Integration Engine**: Facilitates seamless integration with cloud-based services, including AWS, Azure, and Google Cloud.  
+(d) **Security and Compliance Module**: Ensures data security, regulatory compliance, and audit trails for internal and external use.  
+
+**1.2 Software Version.**  
+The Software shall be provided in its current version as of the Effective Date, subject to updates and modifications as permitted under this Agreement.  
+
+**1.3 Access and Support.**  
+Licensor shall provide Licensee with access to the Software via a secure web portal and shall offer technical support for a period of ninety (90) days following the Effective Date.  
+
+**1.4 Updates and Modifications.**  
+Licensor shall have the right to provide updates, patches, and modifications to the Software, which shall be deemed part of the Software for the purposes of this Agreement.  
+
+**1.5 Data Usage.**  
+   Licensee agrees that all data processed or stored using the Software shall be the sole responsibility of Licensee, and Licensor shall not be liable for any loss, damage, or unauthorized access to such data.  
+
+**1.6 Non-Use of Software.**  
+Licensee shall not use the Software for any purpose other than those explicitly outlined in this Agreement.  
+
+**1.7 Additional Terms.**  
+The parties agree that the Software may be used in conjunction with third-party applications, provided that such use does not conflict with the terms of this Agreement.  
+
+---
+
+**IN WITNESS WHEREOF**, the parties have executed this Agreement as of the day and year first above written.  
+
+**TECHNOVA INC.**  
+By: ___________________________  
+Name: [Authorized Signatory]  
+Title: [Title]  
+Date: _________________________  
+
+**GLOBALSYSTEMS CORP**  
+By: ___________________________  
+Name: [Authorized Signatory]  
+Title: [Title]  
+Date: _________________________
+
+### ARTICLE XI – DATA PRIVACY AND SECURITY
+
+**Section 11.1 Data Protection.**  
+Licensee acknowledges that the use of the Software involves the processing of personal data, which may include, but is not limited to, employee information, customer data, and business intelligence. Licensee shall ensure that the processing of such data complies with all applicable data protection laws, including, but not limited to, the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and any other applicable data privacy legislation in the jurisdictions where Licensee operates.  
+
+**Section 11.2 Compliance with Laws.**  
+Licensee shall be responsible for ensuring that the use of the Software in accordance with this Agreement complies with all applicable data protection laws, including, but not limited to, the requirements for data subject access, data portability, and data deletion. Licensor shall not be liable for any violations of data protection laws arising from Licensee’s use of the Software.  
+
+**Section 11.3 Data Security Measures.**  
+Licensee shall implement and maintain reasonable and appropriate technical and organizational measures to ensure the protection of the data processed through the Software. Such measures shall include, but are not limited to, encryption, access controls, regular security audits, and employee training on data protection.  
+
+**Section 11.4 Notification of Breaches.**  
+In the event of a data breach or unauthorized access to data processed through the Software, Licensee shall notify Licensor in writing within twenty-four (24) hours of becoming aware of such breach. Licensee shall also provide Licensor with a detailed report of the breach, including the nature of the breach, the data affected, the number of individuals impacted, and the steps taken to mitigate the breach.  
+
+**Section 11.5 Data Retention.**  
+Licensee shall retain all data processed through the Software for no longer than is necessary for the purposes for which it was collected, in accordance with applicable data protection laws. Upon termination of this Agreement, Licensee shall delete or permanently remove all data processed through the Software, unless such data is required by law to be retained.  
+
+**Section 11.6 Data Ownership.**  
+Licensee acknowledges that all data processed through the Software shall remain the property of Licensee, and Licensor shall not claim any ownership rights over such data. However, Licensee agrees that Licensor may use the data solely for the purpose of providing technical support, troubleshooting, and performance monitoring of the Software, subject to the confidentiality obligations set forth in Section 5.1.  
+
+**Section 11.7 Data Transfer.**  
+Licensee shall ensure that the transfer of data processed through the Software across borders, whether within the European Economic Area (EEA) or to third-party jurisdictions, is conducted in compliance with all applicable data transfer laws, including, but not limited to, the adequacy decisions of the European Commission, standard contractual clauses, and binding corporate rules.  
+
+**Section 11.8 Data Processing Agreements.**  
+If Licensor processes any data on behalf of Licensee, such processing shall be governed by a data processing agreement in accordance with the applicable data protection laws. Such agreement shall be executed by both parties and shall be subject to the terms of this Agreement.  
+
+**Section 11.9 Liability for Data Loss.**  
+Licensor shall not be liable for any loss, damage, or unauthorized access to data processed through the Software, provided that Licensee has implemented appropriate data security measures and has complied with all applicable data protection laws.  
+
+---
+
+### ARTICLE XII – INTELLECTUAL PROPERTY OWNERSHIP AND INFRINGEMENT
+
+**Section 12.1 Ownership of Intellectual Property.**  
+Licensor retains full ownership of all intellectual property rights, including, but not limited to, copyrights, patents, trademarks, and trade secrets, in and to the Software. Licensee acknowledges that the license granted under this Agreement does not transfer ownership of the Software or any related intellectual property rights.  
+
+**Section 12.2 Use of Third-Party IP.**  
+Licensee acknowledges that the Software may contain third-party intellectual property, including, but not limited to, open-source software, proprietary libraries, and licensed components. Licensee agrees to comply with all applicable licenses, terms, and conditions associated with such third-party intellectual property.  
+
+**Section 12.3 Right to Enforce IP Rights.**  
+Licensor reserves the right to enforce its intellectual property rights in the Software, including, but not limited to, initiating legal proceedings against any party that infringes upon such rights. Licensee agrees to cooperate fully with Licensor in such enforcement efforts.  
+
+**Section 12.4 Non-Infringement Warranties.**  
+Licensor warrants that the Software does not infringe upon any valid intellectual property rights of third parties, provided that Licensee uses the Software in accordance with the terms of this Agreement. In the event that the Software is found to infringe upon any valid intellectual property rights, Licensor shall be liable for any resulting damages, provided that such infringement arises from the use of the Software by Licensee in compliance with this Agreement.  
+
+**Section 12.5 Disclaimer of IP Warranty.**  
+Licensor makes no warranties, express or implied, regarding the absence of third-party intellectual property rights in the Software. Licensee acknowledges that the use of the Software may involve the use of third-party intellectual property, and Licensor shall not be liable for any such use.  
+
+**Section 12.6 Right to Modify Software.**  
+Licensor reserves the right to modify, update, or replace the Software at its sole discretion, provided that such modifications do not infringe upon any valid intellectual property rights of third parties.  
+
+**Section 12.7 Termination of IP Rights.**  
+Upon termination of this Agreement, Licensee shall cease all use of the Software and shall not retain any intellectual property rights in the Software. Licensor shall have the right to enforce its intellectual property rights against Licensee and any third party that may have obtained a copy of the Software.  
+
+---
+
+### ARTICLE XIII – DISCLOSURE AND COMPLIANCE WITH GOVERNMENT REGULATIONS
+
+**Section 13.1 Government Regulations.**  
+Licensee acknowledges that the use of the Software may be subject to various government regulations, including, but not limited to, export control laws, sanctions, and anti-corruption laws. Licensee shall ensure that the use of the Software complies with all applicable government regulations.  
+
+**Section 13.2 Export Control.**  
+Licensee acknowledges that the Software may be subject to export control laws, including, but not limited to, the Export Administration Regulations (EAR) and the International Traffic in Arms Regulations (ITAR). Licensee shall comply with all export control requirements and shall not use the Software for any purpose that would violate such laws.  
+
+**Section 13.3 Sanctions.**  
+Licensee acknowledges that the use of the Software may be subject to U.S. sanctions and embargoes. Licensee shall not use the Software to engage in any activity that is prohibited by U.S. law or any applicable sanctions regime.  
+
+**Section 13.4 Anti-Corruption.**  
+Licensee acknowledges that the use of the Software may be subject to anti-corruption laws, including, but not limited to, the Foreign Corrupt Practices Act (FCPA) and the UK Bribery Act. Licensee shall comply with all applicable anti-corruption laws and shall not use the Software to engage in any corrupt practices.  
+
+**Section 13.5 Reporting Requirements.**  
+Licensee shall report to Licensor any changes in its legal status, including, but not limited to, mergers, acquisitions, or changes in ownership, that may affect the use of the Software.  
+
+**Section 13.6 Compliance with Laws.**  
+Licensee shall be solely responsible for ensuring that the use of the Software complies with all applicable laws, including, but not limited to, data protection, export control, anti-corruption, and anti-bribery laws. Licensor shall not be liable for any violations of such laws.  
+
+---
+
+### ARTICLE XIV – AUDITS AND INSPECTIONS
+
+**Section 14.1 Right to Audit.**  
+Licensor shall have the right, at its sole discretion, to conduct audits or inspections of Licensee’s use of the Software, including, but not limited to, the number of users, the extent of use, and the compliance with the terms of this Agreement.  
+
+**Section 14.2 Audit Procedures.**  
+Any audit or inspection shall be conducted in accordance with reasonable notice to Licensee and shall be limited to the period of the last twelve (12) months. Licensor shall provide Licensee with a written notice of the audit at least thirty (30) days in advance, specifying the scope, time, and location of the audit.  
+
+**Section 14.3 Cooperation.**  
+Licensee shall cooperate fully with Licensor in the conduct of any audit or inspection, including, but not limited to, providing access to relevant records, personnel, and systems. Licensee shall bear all costs associated with the audit, unless such costs are determined by a court of competent jurisdiction to be unreasonable or excessive.  
+
+**Section 14.4 Audit Results.**  
+Licensor shall provide Licensee with a written report of the audit results, including, but not limited to, the number of users, the extent of use, and any discrepancies found. If any discrepancies are found, Licensee shall correct such discrepancies within thirty (30) days of receipt of the audit report.  
+
+**Section 14.5 Confidentiality.**  
+All information obtained by Licensor during the audit shall be treated as confidential and shall not be disclosed to any third party without the prior written consent of Licensee.  
+
+**Section 14.6 Limitation of Liability.**  
+Licensor shall not be liable for any damages arising from the audit or inspection, provided that Licensee has complied with all applicable laws and the terms of this Agreement.  
+
+---
+
+### ARTICLE XV –  INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS
+
+**Section 15.1 Notice of Infringement.**  
+If Licensee becomes aware of any claim that the Software infringes upon the intellectual property rights of a third party, Licensee shall notify Licensor in writing within thirty (30) days of becoming aware of such claim.  
+
+**Section 15.2 Cooperation.**  
+Licensee shall cooperate fully with Licensor in the defense of any such claim, including, but not limited to, providing all relevant information and documentation.  
+
+**Section 15.3 Legal Fees.**  
+  Licensor shall be responsible for all legal fees and expenses incurred in defending against any such claim, provided that such claim arises from the use of the Software in compliance with the terms of this Agreement.  
+
+**Section 15.4 Waiver of Claims.**  
+Licensee shall not assert any claims against Licensor for any infringement of intellectual property rights by the Software, provided that such claims arise from the use of the Software in compliance with the terms of this Agreement.  
+
+**Section 15.5 Limitation of Liability.**  
+Licensor shall not be liable for any damages arising from any third-party claims of intellectual property infringement, provided that Licensee has complied with all applicable laws and the terms of this Agreement.  
+
+**Section 15.6 Remedies.**  
+If the Software is found to infringe upon the intellectual property rights of a third party, Licensor shall have the right to replace the Software with a non-infringing alternative, at its sole discretion.  
+
+---
+
+### ARTICLE XVI – GOVERNANCE AND GOVERNANCE OF THE SOFTWARE
+
+**Section 16.1 Governance Structure.**  
+Licensor shall have sole authority over the governance, maintenance, and development of the Software. Licensee shall not participate in or influence the governance of the Software unless otherwise agreed in writing.  
+
+**Section 16.2 Development and Updates.**  
+Licensor shall have the right to develop, update, and modify the Software at its sole discretion. Licensee acknowledges that such development and updates may include changes to the functionality, features, and performance of the Software.  
+
+**Section 16.3 User Feedback.**  
+Licensee may provide feedback or suggestions regarding the Software, but such feedback shall not be deemed to be a grant of any rights or licenses to Licensor. Licensor may use such feedback to improve the Software, provided that such use is in compliance with the terms of this Agreement.  
+
+**Section 16.4 Control of Software.**  
+Licensor shall have full control over the Software, including, but not limited to, the right to modify, update, or replace the Software at any time. Licensee shall not interfere with the control of the Software by Licensor.  
+
+**Section 16.5 User Access.**  
+Licensee shall have the right to access the Software in accordance with the terms of this Agreement, but such access shall be limited to the designated Users and shall be subject to the confidentiality obligations set forth in Section 5.1.  
+
+**Section 16.6 Termination of Access.**  
+Licensor may terminate Licensee’s access to the Software at any time, provided that such termination is in compliance with the terms of this Agreement.  
+
+---
+
+### ARTICLE XVII – INSURANCE AND RISK MITIGATION
+
+**Section 17.1 Insurance Requirements.**  
+Licensee shall maintain, at its own expense, commercial general liability insurance, cyber liability insurance, and data breach insurance, covering the use of the Software and the processing of data through the Software.  
+
+**Section 17.2 Coverage.**  
+The insurance policies maintained by Licensee shall provide coverage for all liabilities arising from the use of the Software, including, but not limited to, third-party claims, data breaches, and other risks associated with the Software.  
+
+**Section 17.3 Notice of Claims.**  
+Licensee shall notify Licensor in writing of any claims, losses, or damages arising from the use of the Software within thirty (30) days of becoming aware of such claims.  
+
+**Section 17.4 Compliance with Insurance Requirements.**  
+Licensor shall have the right to inspect and verify the insurance policies maintained by Licensee to ensure compliance with the terms of this Agreement.  
+
+**Section 17.5 Limitation of Liability.**  
+Licensor shall not be liable for any damages arising from the use of the Software, provided that Licensee has maintained the required insurance coverage and has complied with all applicable laws.  
+
+---
+
+### ARTICLE XVIII – INTELLECTUAL PROPERTY INFRINGEMENT AND REMEDIES
+
+**Section 18.1 Infringement by Licensee.**  
+Licensee acknowledges that the use of the Software may involve the use of third-party intellectual property, and Licensee shall be responsible for ensuring that such use does not infringe upon the intellectual property rights of any third party.  
+
+**Section 18.2 Infringement by Licensor.**  
+Licensor warrants that the Software does not infringe upon the intellectual property rights of any third party, provided that Licensee uses the Software in accordance with the terms of this Agreement.  
+
+
+**Section 18.3 Remedies for Infringement.**  
+If the Software is found to infringe upon the intellectual property rights of a third party, Licensor shall be responsible for all costs and expenses incurred in resolving such infringement, including, but not limited to, legal fees, settlements, and damages.  
+
+**Section 18.4 Limitation of Liability.**  
+Licensor shall not be liable for any damages arising from any third-party claims of intellectual property infringement, provided that Licensee has complied with all applicable laws and the terms of this Agreement.  
+
+**Section 18.5 Disclaimer of Warranty.**  
+Licensor makes no warranties, express or implied, regarding the absence of third-party intellectual property rights in the Software. Licensee acknowledges that the use of the Software may involve the use of third-party intellectual property, and Licensor shall not be liable for any such use.  
+
+---
+
+### ARTICLE XIX – WARRANTIES AND REPRESENTATIONS
+
+**Section 19.1 Representations of Licensee.**  
+Licensee represents and warrants that:  
+(a) It has the legal capacity and authority to enter into this Agreement and to use the Software in accordance with the terms of this Agreement;  
+(b) It has obtained all necessary licenses, permits, and approvals required by law to use the Software;  
+(c) It has implemented and maintains appropriate technical and organizational measures to ensure the security and confidentiality of the data processed through the Software;  
+(d) It has not used the Software for any purpose other than those explicitly outlined in this Agreement.  
+
+**Section 19.2 Representations of Licensor.**  
+Licensor represents and warrants that:  
+(a) It has the legal capacity and authority to enter into this Agreement and to grant the license contemplated herein;  
+(b) The Software is free from any liens, encumbrances, or claims of third parties;  
+(c) The Software is not subject to any outstanding litigation or regulatory action;  
+(d) The Software is suitable for the purposes for which it is intended to be used.  
+
+**Section 19.3 Survival.**  
+The representations and warranties set forth in this Agreement shall survive the termination or expiration of this Agreement and shall remain in full force and effect for a period of five (5) years following such termination or expiration.  
+
+---
+
+### ARTICLE  XX – CONFIDENTIALITY AND DATA PRIVACY
+
+**Section 20.1 Confidential Information.**  
+Both parties agree to maintain the confidentiality of all Confidential Information of the other party, which includes, but is not limited to, trade secrets, technical data, business strategies, and other proprietary information.  
+
+**Section 20.2 Obligations of Confidentiality.**  
+Licensee shall not use, disclose, or permit the use or disclosure of any Confidential Information of Licensor without the prior written consent of Licensor. Licensee shall take all reasonable measures to protect the confidentiality of such information, including, but not limited to, limiting access to authorized personnel and implementing appropriate security measures.  
+
+**Section 20.3 Exceptions.**  
+The obligations of confidentiality shall not  apply to Confidential Information that:  
+(a) Is publicly available without breach of this Agreement;  
+(b) Is independently developed by the receiving party without use of the other party’s Confidential Information;  
+(c) Is disclosed to the receiving party by a third party who is not prohibited from disclosing such information;  
+(d) Is required to be disclosed by law or legal process, in which case the receiving party shall provide prior written notice to the other party and shall cooperate in good faith to obtain a protective order or other remedy.  
+
+**Section 20.4 Duration.**  
+The obligations of confidentiality shall survive the termination or expiration of this Agreement for a period of five (5) years following such termination or expiration.  
+
+**Section 20.5 Data Privacy.**  
+Licensee acknowledges that the use of the Software involves the processing of personal data, which may include, but is not limited to, employee information, customer data, and business intelligence. Licensee shall ensure that the processing of such data complies with all applicable data protection laws, including, but not limited to, the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and any other applicable data privacy legislation in the jurisdictions where Licensee operates.  
+
+**Section 20.6 Compliance with Laws.**  
+Licensee shall be responsible for ensuring that the use of the Software in accordance with this Agreement complies with all applicable data protection laws, including, but not limited to, the requirements for data subject access, data portability, and data deletion. Licensor shall not be liable for any violations of data protection laws arising from Licensee’s use of the Software.  
+
+**Section 20.7 Data Security Measures.**  
+Licensee shall implement and maintain reasonable and appropriate technical and organizational measures to ensure the protection of the data processed through the Software. Such measures shall include, but are not limited to, encryption, access controls, regular security audits, and employee training on data protection.  
+
+**Section 20.8 Notification of Breaches.**  
+In the event of a data breach or unauthorized access to data processed through the Software, Licensee shall notify Licensor in writing within twenty-four (24) hours of becoming aware of such breach. Licensee shall also provide Licensor with a detailed report of the breach, including the nature of the breach, the data affected, the number of individuals impacted, and the steps taken to mitigate the breach.     
+
+**Section 20.9 Data Retention.**  
+Licensee shall retain all data processed through the Software for no longer than is necessary for the purposes for which it was collected, in accordance with applicable data protection laws. Upon termination of this Agreement, Licensee shall delete or permanently remove all data processed through the Software, unless such data is required by law to be retained.  
+
+**Section 20.10 Data Ownership.**  
+Licensee acknowledges that all data processed through the Software shall remain the property of Licensee, and Licensor shall not claim any ownership rights over such data. However, Licensee agrees that Licensor may use the data solely for the purpose of providing technical support, troubleshooting, and performance monitoring of the Software, subject to the confidentiality obligations set forth in Section 5.1.  
+
+**Section 20.11 Data Transfer.**  
+Licensee shall ensure that the transfer of data processed through the Software across borders, whether within the European Economic Area (EEA) or to third-party jurisdictions, is conducted in compliance with all applicable data transfer laws, including, but not limited to, the adequacy decisions of the European Commission, standard contractual clauses, and binding corporate rules.  
+
+**Section 20.12 Data Processing Agreements.**  
+If Licensor processes any data on behalf of Licensee, such processing shall be governed by a data processing agreement in accordance with the applicable data protection laws. Such agreement shall be executed by both parties and shall be subject to the terms of this Agreement.  
+
+**Section 20.13 Data Loss.**  
+Licensor shall not be liable for any loss, damage, or unauthorized access to data processed through the Software, provided that Licensee has implemented appropriate data security measures and has complied with all applicable data protection laws.  
+
+---
+
+### ARTICLE XXI – MISCELLANEOUS PROVISIONS
+
+**Section 21.1 Entire Agreement.**  
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior understandings, agreements, and representations, whether written or oral.  
+
+**Section 21.2 Amendments.**  
+ Any amendments or modifications to this Agreement shall be made in writing and shall be signed by both parties.  
+
+**Section 21.3 Severability.**  
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect, and the invalid or unenforceable provision shall be deemed to be severed from this Agreement.  
+
+**Section 21.4 Waiver.**  
+No waiver of any provision of this Agreement shall be deemed to be a waiver of any other provision or of the same provision on any other occasion.  
+
+**Section 21.5 Force Majeure.**  
+Neither party shall be liable for any failure or delay in performing its obligations under this Agreement due to events beyond its reasonable control, including, but not limited to, natural disasters, wars, acts of terrorism, or government actions.  
+
+**Section 21.6 Notices.**  
+All notices and communications under this Agreement shall be in writing and shall be sent by certified mail, return receipt requested, or by electronic means, to the addresses set forth in the first paragraph of this Agreement.  
+
+**Section 21.7 Counterparts.**  
+This Agreement may be executed in counterparts, each of which shall be deemed to be an original, and all counterparts shall together constitute one and the same instrument.  
+
+**Section 21.8 Headings.**  
+The headings of the sections and subsections of this Agreement are for reference only and shall not be deemed to alter, modify, or restrict the meaning of any provision of this Agreement.  
+
+**Section 21.9 Governing Law.**  
+This Agreement shall be governed by and construed in accordance with the laws of the

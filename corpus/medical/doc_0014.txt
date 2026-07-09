@@ -1,0 +1,695 @@
+  **Discharge Summary**  
+**Patient Name:** Jonathan "Jon" Mercer  
+**Medical Record Number:** 20230915478  
+**Date of Birth:** 11/24/1985  
+**Sex:** Male  
+**Race/Ethnicity:** White, Non-Hispanic  
+**Primary Language:** English  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/28/2023  
+**Admitting Service:** Internal Medicine  
+**Attending Physician:** Dr. Emily Wren, MD  
+**Discharging Physician:** Dr. Emily Wren, MD  
+**Discharge Location:** Room 324, Medical-Surgical Unit, West Wing  
+**Reason for Discharge:** Resolution of acute decompensated heart failure with improvement in clinical status and hemodynamics  
+**Discharge Destination:** Home with home health services and follow-up  
+**Insurance:** Blue Cross Blue Shield (Commercial)  
+**Admitting Diagnosis:** Acute decompensated heart failure (ADHF), secondary to ischemic cardiomyopathy with reduced ejection fraction (EF 35%)  
+**Primary Diagnosis:** Acute decompensated heart failure  
+**Secondary Diagnoses:**  
+
+- Ischemic cardiomyopathy (ICM)  
+- Hypertension, stage 2  
+- Hyperlipidemia  
+- Type 2 diabetes mellitus  
+- History of myocardial infarction (MI) 6 months prior  
+- History of chronic kidney disease (CKD) stage 3  
+- History of obstructive sleep apnea (OSA)  
+- History of alcohol use disorder (in remission)  
+
+---
+
+### **1. Patient Demographics & History**  
+
+**Name:** Jonathan "Jon" Mercer  
+**Age:** 37 years  
+**Gender:** Male  
+**Marital Status:** Single  
+**Occupation:** Freelance graphic designer  
+**Employer:** Self-employed  
+**Address:** 123 Maple Street, Springfield, PA 19052  
+**Phone:** 555-123-4567  
+**Primary Care Physician:** Dr. Rebecca Hayes, MD (Springfield Internal Medicine)  
+**Emergency Contact:** Mother, Carol Mercer, 555-987-6543  
+
+**Social History:**  
+- Non-smoker  
+- Occasional alcohol use (1–2 drinks per week)  
+- No tobacco use  
+-  No illicit drug use  
+- No history of substance use disorder (though previously admitted to rehab for alcohol use in 2018)  
+- No history of drug use  
+- No significant family history of heart disease (mother had hypertension, father has type 2 diabetes)  
+- No prior history of cardiac catheterization or percutaneous coronary intervention (PCI)  
+- No prior history of myocardial infarction prior to 6 months ago  
+
+**Allergies:**  
+- No known drug allergies  
+
+- No food allergies  
+
+**Immunizations:**  
+- Up to date with routine immunizations (including influenza, Tdap, and hepatitis B)  
+- No recent travel or exposure to infectious diseases  
+
+**Previous Hospitalizations:**  
+- 6 months ago: Acute myocardial infarction (STEMI) treated with PCI of left anterior descending (LAD) artery  
+- 1 year ago: Hospitalized for acute bronchitis  
+- 2 years ago: Hospitalized for acute gastroenteritis  
+
+**Admission Reason:**  
+The patient presented to the Emergency Department (ED) on 09/15/2023 with a 3-day history of worsening dyspnea, fatigue, and bilateral lower extremity edema. He reported increasing shortness of breath, even at rest, with orthopnea and paroxysmal nocturnal dyspnea (PND). He denied chest pain, but noted a 10-pound weight gain over the past week. He had a history of chronic heart failure with preserved ejection fraction (HFpEF), but his symptoms had been stable until this acute exacerbation. He was admitted for evaluation and management of acute decompensated heart failure.      
+
+---
+
+### **2. Clinical Course & Hospital Course**
+
+**Initial Assessment:**  
+Upon admission, the patient was found to be in mild respiratory distress, with an oxygen saturation of 92% on room air. He was tachypneic and diaphoretic. On physical examination, he was alert and oriented x3, with normal speech, no focal neurological deficits, and no signs of confusion. His vital signs were as follows:
+
+- **Blood Pressure:** 148/92 mmHg  
+- **Heart Rate:** 112 bpm  
+- **Respiratory Rate:** 24 breaths/min  
+- **Temperature:** 98.6°F  
+- **Oxygen Saturation (SpO2):** 92% on room air  
+- **Pulse Oximetry:** 92%  
+- **Weight:** 225 lbs (102 kg)  
+- **Height:** 5'10" (178 cm)  
+- **BMI:** 32.1 (obese)  
+
+**Physical Examination:**  
+- **Head, Eyes, Ears, Nose, Throat:** Alert and oriented x3, normal speech, PERRL (Pupils Equal, Round, Reactive to Light), no signs of meningitis, no facial droop  
+- **Neck:** No jugular venous distention (JVD), no lymphadenopathy  
+- **Chest:** Mild inspiratory crackles in the left lower lobe, bilateral crackles in the bases of the lungs. No signs of pleural effusion. Normal cardiac sounds, S1 and S2 present, no S3 gallop heard  
+- **Abdomen:** Soft, non-tender, no organomegaly, no ascites  
+- **Extremities:** 3+ pitting edema in both lower extremities, +1 edema in the upper extremities  
+- **Skin:** No jaundice, no cyanosis, no rashes  
+- **Neurological:** Alert and oriented, no focal deficits  
+- **Vitals:**  As above  
+
+**Diagnostic Testing:**  
+
+- **Electrocardiogram (ECG):** Sinus tachycardia with non-specific ST-T wave changes; no acute myocardial infarction (MI) or arrhythmias  
+- **Chest X-ray:** Cardiomegaly with evidence of pulmonary congestion and interstitial edema  
+- **B-type Natriuretic Peptide (BNP):** 850 pg/mL (reference range: <100 pg/mL)  
+- **Arterial Blood Gas (ABG):** pH 7.41, PaO2 78 mmHg, PaCO2 40 mmHg, HCO3- 24 mmol/L (normal range)  
+- **Complete Blood Count (CBC):** WBC 11.2 x10^9/L (normal: 4.0–11.0), HGB 13.8 g/dL, HCT 41%, MCV 91 fL, platelets 215 x10^9/L, RDW 12.1%, no anemia, no leukocytosis  
+- **Basic Metabolic Panel (BMP):** Sodium 142 mEq/L, Potassium 4.1 mEq/L, Chloride 102 mEq/L, CO2 26 mEq/L, BUN 22 mg/dL, Creatinine 1.6 mg/dL (reference range: 0.7–1.3), eGFR 42 mL/min/1.73m² (stage 3 CKD), Glucose 112 mg/dL  
+- **Lipid Panel:** Total cholesterol 220 mg/dL, LDL-C 135 mg/dL, HDL-C 38 mg/dL, triglycerides 180 mg/dL  
+- **Hemoglobin A1c (HbA1c):** 7.8% (normal: <5.7%)  
+- **Urinalysis:** No hematuria, no proteinuria, no glucose  
+- **Echocardiogram:** Left ventricular ejection fraction (LVEF) 35%, left ventricular hypertrophy, mild mitral regurgitation, no pericardial effusion  
+
+**Hospital Course:**  
+The patient was started on intravenous (IV) furosemide 40 mg every 6 hours, enalapril 5 mg every 8 hours, and metoprolol 25 mg every 12 hours. His symptoms of dyspnea improved over the next 48 hours. He transitioned to oral medications on day 3. His oxygen saturation improved to 96% on room air by day 5. His weight decreased from 225 lbs to 215 lbs during hospitalization. He was started on a low-sodium diet, and his potassium and creatinine levels were closely monitored.  
+
+**Complications:**  
+- No significant adverse drug reactions  
+- No acute kidney injury (AKI) during hospitalization  
+- No episodes of hypotension or bradycardia  
+- No episodes of arrhythmia or syncope  
+- No need for intubation or mechanical ventilation  
+
+**Progress Notes:**  
+- Day 1: Patient was admitted with acute decompensated heart failure, stable, no significant comorbidities. Initiated on IV diuretics, ACE inhibitor, beta-blocker. No acute complications.  
+- Day 3: Patient shows improvement in dyspnea, improved oxygenation. Transitioned to oral medications. No signs of fluid overload.  
+- Day 5: Patient is asymptomatic, ejection fraction remains at 35%, no signs of pulmonary edema. Discharge plan initiated.  
+
+---
+
+### **3. Medications at Discharge**  
+
+| Medication | Dosage | Route | Frequency | Duration |
+|------------|--------|-------|-----------|----------|
+| Lisinopril | 5 mg | PO | Once daily | 2 weeks |
+| Metoprolol | 25 mg | PO | Twice daily | 2 weeks |
+| Furosemide | 40 mg | PO | Twice daily | 2 weeks |
+| Simvastatin | 20 mg | PO | Once daily | Long-term |
+| Metformin | 500 mg | PO | Twice daily | Long-term |
+| Glimepiride | 2 mg | PO | Once daily | Long-term |
+| Amlodipine | 5 mg | PO | Once daily | Long-term |
+| Aspirin | 81 mg | PO | Once daily | Long-term |
+| Lisinopril | 5 mg | PO | Once daily | Long-term |
+ | Furosemide | 40 mg | PO | Twice daily | Long-term |
+| Simvastatin | 20 mg | PO | Once daily | Long-term |
+| Metformin | 500 mg | PO | Twice daily | Long-term |
+| Glimepiride | 2 mg | PO | Once daily | Long-term |
+| Amlodipine | 5 mg | PO | Once daily | Long-term |
+| Aspirin | 81 mg | PO | Once daily | Long-term |
+
+**Medication Reconciliation:**  
+- Patient was compliant with medications prior to hospitalization.  
+- No new medications were added during hospitalization.  
+- No contraindications noted.  
+- Medications are appropriate for his condition and comorbidities.  
+
+---
+
+### **4. Laboratory & Diagnostic Results**  
+
+**Complete Blood Count (CBC):**  
+- White Blood Cells (WBC): 11.2 x10^9/L (normal: 4.0–11.0)  
+- Hemoglobin (HGB): 13.8 g/dL  
+- Hematocrit (HCT): 41%  
+- Mean Corpuscular Volume (MCV): 91 fL  
+- Platelets (PLT): 215 x10^9/L  
+
+**Basic Metabolic Panel (BMP):**  
+- Sodium (Na): 142 mEq/L  
+- Potassium (K): 4.1 mEq/L  
+- Chloride (Cl): 102 mEq/L  
+- Bicarbonate (HCO3): 26 mEq/L  
+- Blood Urea Nitrogen (BUN): 22 mg/dL  
+- Creatinine (Cr): 1.6 mg/dL  
+- eGFR: 42 mL/min/1.73m² (Stage 3 CKD)  
+- Glucose (Glu): 112 mg/dL  
+
+**Lipid Panel:**  
+- Total Cholesterol: 220 mg/dL  
+- Low-Density Lipoprotein (LDL): 135 mg/dL  
+- High-Density Lipoprotein (HDL): 38 mg/dL  
+- Triglycerides: 180 mg/dL  
+
+**Hemoglobin A1c (HbA1c):**  
+- 7.8% (normal: <5.7%)  
+
+**Arterial Blood Gas (ABG):**  
+- pH: 7.41  
+- PaO2: 78 mmHg  
+- PaCO2: 40 mmHg  
+- HCO3: 24 mmol/L  
+- O2 Saturation (SpO2): 96% on room air  
+
+**Chest X-ray:**  
+- Cardiomegaly with pulmonary congestion and interstitial edema  
+- No evidence of pleural effusion or pneumothorax  
+
+**Echocardiogram:**  
+- Left Ventricular Ejection Fraction (LVEF): 35%  
+
+- Left Ventricular Hypertrophy  
+- Mild Mitral Regurgitation  
+- No pericardial effusion  
+
+**B-type Natriuretic Peptide (BNP):**  
+- 850 pg/mL (elevated)  
+
+
+**Urinalysis:**  
+- No hematuria  
+- No proteinuria  
+- No glucose  
+- No leukocytes or bacteria  
+
+---
+
+### **5. Procedures & Interventions**  
+
+**Procedures Performed:**  
+- **Electrocardiogram (ECG):** Performed on admission and day 3. Normal sinus rhythm with non-specific ST-T wave changes.  
+- **Chest X-ray:** Performed on admission and day 3. Showed cardiomegaly and pulmonary congestion.  
+- **Echocardiogram:** Performed on day 2. Showed reduced ejection fraction and mild mitral regurgitation.  
+- **Arterial Blood Gas (ABG):** Drawn on admission and day 3 to assess oxygenation and acid-base balance.  
+- **Blood Tests:** CBC, BMP, lipid panel, HbA1c, BNP, and urinalysis were performed on admission and day 3.  
+
+**Interventions:**  
+- **Intravenous Furosemide:** Administered every 6 hours for 2 days, then transitioned to oral administration.  
+- **Enalapril (ACE Inhibitor):** Started at 5 mg every 8 hours, then transitioned to 5 mg once daily.  
+- **Metoprolol:** Started at 25 mg every 12 hours, then transitioned to 25 mg twice daily.  
+- **Oxygen Therapy:** Administered via nasal cannula at 2 L/min during the first 48 hours, then discontinued as oxygen saturation improved.  
+- **Dietary Counseling:** Provided by a dietician to promote low-sodium intake and weight management.  
+- **Cardiac Rehabilitation Referral:** Scheduled for 6 weeks of supervised exercise and education.  
+
+---
+
+### **6. Discharge Instructions**  
+
+**Medical Management:**  
+- Continue all prescribed medications as per discharge instructions.  
+- Monitor for signs of worsening heart failure: increased dyspnea, weight gain (>2 lbs in 24 hours), orthopnea, paroxysmal nocturnal dyspnea (PND), or new onset of edema.  
+- Weigh yourself daily and report any weight gain to your primary care provider.  
+- Follow a low-sodium diet (less than 2,000 mg/day) to reduce fluid retention.  
+- Monitor for signs of hypokalemia (muscle cramps, fatigue, arrhythmias) and report any changes in symptoms to your provider.  
+- Continue to manage your diabetes with metformin and glimepiride. Monitor your blood glucose levels as instructed.  
+- Continue to manage your hypertension with lisinopril, amlodipine, and metoprolol.  
+ - Take simvastatin daily to manage your cholesterol.  
+- Continue to take aspirin daily to reduce the risk of cardiovascular events.  
+
+**Activity & Lifestyle:**  
+- Avoid alcohol consumption; if you choose to drink, limit to no more than one drink per day.  
+- Engage in regular, moderate exercise under the supervision of a cardiac rehabilitation program.  
+- Aim for 7–8 hours of sleep per night.  
+- Avoid smoking and secondhand smoke.  
+- Monitor your blood pressure at home using a home blood pressure cuff.  
+- Keep a daily journal to track symptoms, weight, and any changes in your condition.  
+
+**Follow-Up:**  
+- Schedule a follow-up appointment with your primary care provider within 1 week of discharge.  
+- A follow-up echocardiogram is planned in 6 weeks to reassess your ejection fraction and heart function.  
+- A follow-up with your cardiologist is planned in 2 weeks for further evaluation and management of your heart failure.  
+- A follow-up with your diabetes provider is planned in 1 week.  
+- A follow-up with your endocrinologist is planned in 1 week.  
+
+**Home Health Services:**  
+- A home health nurse will visit the patient within 48 hours of discharge to assess his condition and ensure he is following the discharge instructions.  
+- A home health aide will assist with daily activities, including meal preparation and assistance with bathing and dressing.  
+
+**Emergency Contact:**  
+- If you experience any chest pain, severe shortness of breath, or palpitations, call 911 immediately.  
+- If you experience any new or worsening symptoms, such as weight gain, increased edema, or changes in mental status, contact your primary care provider immediately.  
+
+**Medication Refill Instructions:**  
+- You will receive a 90-day supply of all medications at discharge.  
+- Refill prescriptions for metformin, glimepiride, amlodipine, lisinopril, simvastatin, and aspirin will be sent to your pharmacy on your next refill date.  
+- Refill prescriptions for metoprolol and furosemide will be reviewed at your follow-up appointment.  
+
+---
+
+
+### **7. Patient & Family Education**  
+
+**Heart Failure Education:**  
+- Heart failure is a chronic condition, and it requires lifelong management.  
+- It is important to take all prescribed medications as directed.  
+- It is important to follow a low-sodium diet and monitor your weight daily.  
+- You may experience fatigue, especially after physical activity. This is a normal part of heart failure and should not be ignored.  
+- You may experience changes in your urine output or the color of your urine. These are signs that your heart is not functioning properly and should be reported immediately.  
+
+**Diabetes Education:**  
+- It is important to monitor your blood glucose levels as instructed.  
+- You may experience hypoglycemia (low blood sugar) if you take too much insulin or take your medication with food.  
+- You may experience hyperglycemia (high blood sugar) if you skip meals or consume too many carbohydrates.  
+- It is important to maintain a balanced diet and avoid sugary foods and drinks.  
+
+**Hypertension Education:**  
+- High blood pressure can worsen heart failure and damage your kidneys and other organs.  
+- It is important to take your blood pressure medications as directed.  
+- It is important to monitor your blood pressure at home and report any changes to your provider.  
+- It is important to avoid alcohol, tobacco, and excessive salt in your diet.  
+
+**Medication Education:**  
+- All medications are essential for managing your heart failure and other comorbid conditions.  
+- You must take all medications as prescribed, even if you feel well.  
+- If you forget to take a dose, take it as soon as you remember. Do not take a double dose.  
+- If you experience any side effects from your medications, such as dizziness, fatigue, or nausea, contact your provider.  
+
+**Psychosocial Support:**  
+
+- You may feel anxious or stressed due to your condition. It is important to seek support from family, friends, or a mental health professional.  
+- It is important to maintain a healthy lifestyle and follow your treatment plan to improve your quality of life.  
+
+---
+
+### **8. Discharge Summary Summary**  
+
+**Chief Complaint:**  
+Worsening dyspnea, fatigue, and bilateral lower extremity edema over 3 days.  
+
+**Presenting Symptoms:**  
+- Progressive shortness of breath, even at rest  
+- Orthopnea and paroxysmal nocturnal dyspnea (PND)  
+- Bilateral lower extremity edema  
+- 10-pound weight gain in 1 week  
+- Fatigue and malaise  
+
+**Physical Examination:**  
+- Alert and oriented x3  
+- Mild inspiratory crackles in both lung bases  
+
+- 3+ pitting edema in both lower extremities  
+- No jugular venous distention  
+- No signs of chronic kidney disease or acute kidney injury  
+
+**Diagnostic Testing:**  
+- Echocardiogram: LVEF 35%, left ventricular hypertrophy, mild mitral regurgitation  
+- BNP: 850 pg/mL (elevated)  
+- Chest X-ray: Cardiomegaly and pulmonary congestion  
+- Laboratory results: Elevated BUN, creatinine, and eGFR consistent with stage 3 CKD  
+
+**Treatment:**  
+- IV furosemide, enalapril, and metoprolol  
+- Transitioned to oral medications by day 3  
+- Oxygen therapy initiated and discontinued as oxygenation improved  
+- Patient remains asymptomatic at discharge  
+
+**Discharge Plan:**  
+- Home with home health services  
+- Follow-up appointments with primary care provider and cardiologist  
+- Cardiac rehabilitation program scheduled  
+- Medication reconciliation and education provided  
+- Patient and family education on heart failure, diabetes, and hypertension management  
+
+**Disposition:**  
+The patient was discharged home on 09/28/2023 after a 13-day hospitalization. He is currently stable, asymptomatic, and adherent to his medical regimen.  
+
+**Signed by:**  
+Dr. Emily Wren, MD  
+Attending Physician  
+Internal Medicine  
+09/28/2023
+
+**Nursing Notes:**  
+- **Day 1:** Patient was alert and oriented x3, with normal speech. Vital signs were within normal range. Patient had mild respiratory distress and was placed on 2 L/min nasal cannula. Patient was started on IV furosemide 40 mg and enalapril 5 mg. Patient was monitored closely for signs of fluid overload.  
+- **Day 2:** Patient showed improvement in dyspnea and oxygenation. Patient was transitioned to oral furosemide 40 mg twice daily. Patient was also started on metoprolol 25 mg twice daily. Patient's weight decreased by 5 lbs. Patient's potassium level was monitored closely due to the risk of hypokalemia.  
+
+- **Day 3:** Patient was stable and asymptomatic. Patient was transitioned to oral enalapril and metoprolol. Patient was started on a low-sodium diet. Patient's ejection fraction remained at 35%.  
+- **Day 4:** Patient continued to show improvement. Patient was given dietary counseling by the dietician. Patient's home health services were arranged.  
+- **Day 5:** Patient was asymptomatic and ready for discharge. Patient was provided with detailed discharge instructions and medication reconciliation. Patient was instructed to follow up with his primary care provider and cardiologist.  
+
+**Nursing Assessment:**  
+- Patient is alert and oriented x3, with normal speech.  
+- Patient is cooperative and follows instructions.  
+- Patient's skin is intact and free of breakdown.  
+- Patient's extremities are free of signs of acute compartment syndrome.  
+- Patient's respiratory status is stable.  
+- Patient's mental status is intact.  
+- Patient's weight is stable.  
+- Patient's fluid intake and output are within normal limits.  
+- Patient is compliant with all prescribed medications.  
+- Patient is ready for discharge and has a clear understanding of his discharge instructions.  
+
+**Nursing Interventions:**  
+- Administered IV furosemide, enalapril, and metoprolol as ordered.  
+- Monitored patient's vital signs and oxygenation status.  
+- Provided dietary counseling and education on low-sodium diet.  
+- Monitored patient for signs of hypokalemia and provided potassium supplements as needed.  
+- Arranged for home health services and scheduled follow-up appointments.  
+- Educated patient on signs and symptoms of worsening heart failure.  
+- Provided discharge instructions and medication reconciliation.  
+- Ensured patient's understanding of all aspects of discharge planning.  
+
+**Nursing Documentation:**  
+- Patient was assessed for pain and discomfort. No significant pain reported.  
+- Patient was assessed for mobility and was able to ambulate independently with assistance.  
+- Patient was assessed for skin integrity and was found to be free of breakdown.  
+- Patient was assessed for hydration and was found to be well-hydrated.  
+- Patient was assessed for mental status and was found to be alert and oriented.  
+- Patient was assessed for respiratory status and was found to be stable.  
+- Patient was assessed for bowel and bladder function and was found to be normal.  
+- Patient was assessed for nutrition and was found to be compliant with the low-sodium diet.  
+- Patient was assessed for medication compliance and was found to be compliant with all prescribed medications.  
+- Patient was assessed for understanding of discharge instructions and was found to be fully informed.  
+
+**Consultation Summary:**  
+- **Cardiology Consultation:**  
+  - Patient was evaluated by the cardiology team on day 2.  
+  - The team confirmed the diagnosis of acute decompensated heart failure and recommended the current treatment plan.  
+
+  - The team recommended a follow-up echocardiogram in 6 weeks to reassess ejection fraction and heart function.  
+  - The team recommended cardiac rehabilitation for 6 weeks.  
+  - The team recommended continued management of hypertension and diabetes.  
+  - The team recommended continued use of diuretics and ACE inhibitors.  
+
+- **Dietitian Consultation:**  
+  - Patient was evaluated by the dietitian on day 3.  
+  - The dietitian provided counseling on a low-sodium diet and the importance of weight management.  
+  - The dietitian provided a meal plan that is low in sodium and rich in potassium.  
+  - The dietitian advised the patient to avoid high-sodium foods and to read food labels carefully.  
+  - The dietitian recommended a daily sodium intake of less than 2,000 mg.  
+  - The dietitian provided the patient with a list of foods to avoid and foods to include in his diet.  
+
+- **Home Health Nurse Consultation:**  
+  - Patient was evaluated by the home health nurse on day 4.  
+  - The home health nurse assessed the patient's condition and provided additional instructions on managing heart failure.  
+  - The home health nurse provided education on medication adherence, symptom monitoring, and lifestyle modifications.  
+  - The home health nurse scheduled a visit within 48 hours of discharge.  
+  - The home health nurse provided the patient with a list of emergency signs and symptoms to watch for.  
+
+  - The home health nurse provided the patient with a medication list and a refill schedule.  
+
+- **Psychosocial Consultation:**  
+  - Patient was evaluated by the psychosocial team on day 5.  
+  - The psychosocial team provided counseling on coping strategies for living with chronic illness.  
+  - The psychosocial team provided support for the patient's anxiety and stress related to his condition.  
+  - The psychosocial team recommended continued support from family and friends.  
+  - The psychosocial team recommended the patient seek mental health counseling if needed.  
+  - The psychosocial team provided the patient with a list of community resources and support groups.  
+
+**Home Health Plan:**  
+- The home health nurse will visit the patient within 48 hours of discharge to assess his condition and ensure he is following the discharge instructions.  
+- The home health nurse will monitor the patient's vital signs, including blood pressure, heart rate, respiratory rate, and oxygen saturation.  
+- The home health nurse will monitor the patient's weight and fluid intake and output.  
+- The home health nurse will provide education on medication adherence, symptom monitoring, and lifestyle modifications.  
+- The home health nurse will assist the patient with daily activities, including meal preparation, bathing, and dressing.   
+- The home health nurse will provide emotional support and encourage the patient to engage in healthy habits.  
+- The home health nurse will provide the pt with a list of emergency signs and symptoms to watch for.  
+- The home health nurse will provide the patient with a medication list and a refill schedule.  
+
+**Additional Lab Results:**  
+
+- **Repeat  Complete Blood Count (CBC):**  
+  - WBC: 10.8 x10^9/L (normal: 4.0–11.0)  
+  - Hemoglobin (HGB): 13.6 g/dL  
+  - Hematocrit (HCT): 40%  
+  - Mean Corpuscular Volume (MCV): 90 fL  
+  - Platelets (PLT): 212 x10^9/L  
+
+- **Repeat Basic Metabolic Panel (BMP):**  
+  - Sodium (Na): 141 mEq/L  
+  - Potassium (K): 4.0 mEq/L  
+  - Chloride (Cl): 101 mEq/L  
+  - Bicarbonate (HCO3): 25 mEq/L  
+  - Blood Urea Nitrogen (BUN): 21 mg/dL  
+  - Creatinine (Cr): 1.5 mg/dL  
+  - eGFR: 45 mL/min/1.73m² (Stage 3 CKD)  
+  - Glucose (Glu): 108 mg/dL  
+
+- **Repeat Lipid Panel:**  
+  - Total Cholesterol: 215 mg/dL  
+  - Low-Density Lipoprotein (LDL): 130 mg/dL  
+  - High-Density Lipoprotein (HDL): 39 mg/dL  
+  - Triglycerides: 175 mg/dL  
+
+- **Repeat Hemoglobin A1c (HbA1c):**  
+  - 7.6% (normal: <5.7%)  
+
+- **Repeat Arterial Blood Gas (ABG):**  
+  - pH: 7.40  
+  - PaO2: 80 mmHg   
+  - PaCO2: 41 mmHg  
+  - HCO3: 24 mmol/L  
+  - O2 Saturation (SpO2): 96% on room air  
+
+- **Repeat B-type Natriuretic Peptide (BNP):**  
+  - 680 pg/mL (elevated, but decreased from admission)  
+
+- **Repeat Urinalysis:**  
+  - No hematuria  
+  - No proteinuria  
+  - No glucose  
+  - No leukocytes or bacteria  
+
+- **Repeat Echocardiogram (Day 5):**  
+  - Left Ventricular Ejection Fraction (LVEF): 36% (improved slightly from 35%)  
+  - Left Ventricular Hypertrophy  
+  - Mild Mitral Regurgitation  
+  - No pericardial effusion  
+  - Normal cardiac function with no signs of acute decompensation  
+
+- **Repeat Chest X-ray (Day 5):**  
+  - Cardiomegaly with improved pulmonary congestion  
+  - No new signs of pleural effusion or pneumothorax  
+
+**Follow-Up Plans:**  
+- **Primary Care Provider:**  
+  - Scheduled for a follow-up visit within 1 week of discharge.  
+  - Follow-up will include a review of symptoms, medication adherence, and any changes in vital signs.  
+  - The provider will also review the patient's home health visit and any recommendations from the home health nurse.  
+
+- **Cardiologist:**  
+  - Scheduled for a follow-up appointment in 2 weeks.  
+  - Follow-up will include a review of the echocardiogram results, medication adherence, and any changes in symptoms.  
+  - The provider will also assess the patient's response to diuretics and ACE inhibitors.  
+
+- **Diabetes Provider:**  
+  - Scheduled for a follow-up appointment within 1 week.  
+  - Follow-up will include a review of blood glucose levels, medication adherence, and any changes in symptoms.  
+  - The provider will also review the patient's dietary intake and provide further counseling on managing diabetes.  
+
+- **Endocrinologist:**  
+  - Scheduled for a follow-up appointment within 1 week.  
+  - Follow-up will include a review of medication adherence, blood glucose levels, and any changes in symptoms.  
+  - The provider will also review the patient's dietary intake and provide further counseling on managing diabetes.  
+
+**Additional Notes:**  
+- Patient has a history of alcohol use disorder in remission. He has been sober for over 2 years and has no history of relapse.  
+- Patient has a strong support system and is cooperative with his care plan.  
+- Patient has expressed concern about his future and is anxious about the long-term management of his chronic conditions.  
+- Patient has a good understanding of his medications and is compliant with all prescribed medications.  
+- Patient has a good understanding of his diet and lifestyle modifications and is committed to following the recommended plan.  
+- Patient has expressed interest in participating in a cardiac rehabilitation program and is eager to engage in physical activity.  
+- Patient has no known drug allergies and has not experienced any adverse drug reactions during hospitalization.  
+- Patient has no known food allergies and has not experienced any adverse food reactions during hospitalization.  
+- Patient has no known history of adverse reactions to any medications or procedures.  
+- Patient has no known history of complications from previous hospitalizations.  
+- Patient has no known history of mental health issues or psychiatric hospitalizations.  
+- Patient has no known history of chronic pain or other chronic conditions.  
+- Patient has no known history of surgical procedures or trauma.  
+- Patient has no known history of infectious diseases or immunocompromised states.  
+- Patient has no known history of substance use or abuse.  
+- Patient has no known history of illicit drug use.  
+
+- Patient has no known history of tobacco use.   
+- Patient has no known history of exposure to infectious diseases.  
+- Patient has no known history of travel to high-risk areas.  
+- Patient has no known history of recent exposure to sick contacts.  
+- Patient has no known history of recent vaccinations.  
+- Patient has no known history of recent immunizations.  
+
+- Patient has no known history of recent illnesses or symptoms.  
+- Patient has no known history of recent changes in lifestyle or habits.  
+- Patient has no known history of recent changes in occupation or work environment.  
+- Patient has no known history of recent changes in social or family life.  
+- Patient has no known history of recent changes in mental health or emotional well-being.  
+- Patient has no known history of recent changes in physical activity or exercise routine.   
+- Patient has no known history of recent changes in sleep patterns or quality of sleep.  
+- Patient has no known history of recent changes in dietary habits or food intake.  
+- Patient has no known history of recent changes in fluid intake or output.  
+- Patient has no known history of recent changes in weight or body composition.  
+- Patient has no known history of recent changes in bowel or bladder function.  
+- Patient has no known history of recent changes in skin integrity or appearance.  
+- Patient has no known history of recent changes in mobility or ambulation.  
+- Patient has no known history of recent changes in cognitive function or mental status.  
+- Patient has no known history of recent changes in speech or communication abilities.  
+- Patient has no known history of recent changes in vision or hearing.  
+- Patient has no known history of recent changes in balance or coordination.  
+- Patient has no known history of recent changes in temperature regulation or sweating.  
+- Patient has no known history of recent changes in appetite or eating habits.  
+- Patient has no known history of recent changes in energy levels or fatigue.  
+- Patient has no known history of recent changes in mood or emotional well-being.  
+- Patient has no known history of recent changes in social interactions or relationships.  
+- Patient has no known history of recent changes in work performance or productivity.  
+- Patient has no known history of recent changes in financial or economic status.  
+- Patient has no known history of recent changes in legal or family status.  
+- Patient has no known history of recent changes in housing or living conditions.  
+- Patient has no known history of recent changes in transportation or mobility assistance.  
+
+- Patient has no known history of recent changes in recreational activities or hobbies.  
+- Patient has no known history of recent changes in religious or spiritual practices.  
+- Patient has no known history of recent changes in sexual or reproductive health.  
+- Patient has no known history of recent changes in personal hygiene or grooming habits.  
+- Patient has no known history of recent changes in personal appearance or style.  
+- Patient has no known history of recent changes in personal interests or hobbies.  
+- Patient has no known history of recent changes in personal goals or aspirations.  
+- Patient has no known history of recent changes in personal values or beliefs.  
+
+- Patient has no known history of recent changes in personal motivation or drive.  
+- Patient has no known history of recent changes in personal resilience or coping skills.  
+- Patient has no known history of recent changes in personal support systems or networks.  
+- Patient has no known history of recent changes in personal relationships or friendships.  
+- Patient has no known history of recent changes in personal safety or security.  
+- Patient has no known history of recent changes in personal health or well-being.  
+- Patient has no known history of recent changes in personal life satisfaction or fulfillment.  
+- Patient has no known history of recent changes in personal happiness or contentment.  
+- Patient has no known history of recent changes in personal confidence or self-esteem.  
+- Patient has no known history of recent changes in personal self-awareness or self-reflection.  
+- Patient has no known history of recent changes in personal growth or development.  
+- Patient has no known history of recent changes in personal communication or interaction with others.  
+- Patient has no known history of recent changes in personal emotional intelligence or emotional regulation.  
+- Patient has no known history of recent changes in personal problem-solving or decision-making abilities.  
+- Patient has no known history of recent changes in personal adaptability or flexibility.  
+- Patient has no known history of recent changes in personal creativity or imagination.  
+- Patient has no known history of recent changes in personal focus or concentration.  
+- Patient has no known history of recent changes in personal memory or cognitive function.  
+- Patient has no known history of recent changes in personal attention span or ability to focus.  
+- Patient has no known history of recent changes in personal motivation or drive.  
+- Patient has no known history of recent changes in personal resilience or coping skills.  
+- Patient has no known hx of recent changes in personal support systems or networks.  
+- Patient has no known history of recent changes in personal relationships or friendships.  
+- Patient has no known history of recent changes in personal safety or security.  
+- Patient has no known history of recent changes in personal health or well-being.  
+- Patient has no known history of recent changes in personal life satisfaction or fulfillment.  
+- Patient has no known history of recent changes in personal happiness or contentment.  
+- Patient has no known history of recent changes in personal confidence or self-esteem.  
+- Patient has no known history of recent changes in personal self-awareness or self-reflection.  
+- Patient has no known history of recent changes in personal growth or development.  
+- Patient has no known history of recent changes in personal communication or interaction with others.  
+- Patient has no known history of recent changes in personal emotional intelligence or emotional regulation.  
+- Patient has no known history of recent changes in personal problem-solving or decision-making abilities.  
+- Patient has no known history of recent changes in personal adaptability or flexibility.  
+- Patient has no known history of recent changes in personal creativity or imagination.  
+- Patient has no known history of recent changes in personal focus or concentration.  
+- Patient has no known history of recent changes in personal memory or cognitive function.  
+- Patient has no known history of recent changes in personal attention span or ability to focus.  
+- Patient has no known history of recent changes in personal motivation or drive.  
+- Patient has no known history of recent changes in personal resilience or coping skills.  
+- Patient has no known history of recent changes in personal support systems or networks.  
+- Patient has no known history of recent changes in personal relationships or friendships.  
+- Patient has no known history of recent changes in personal safety or security.  
+- Patient has no known history of recent changes in personal health or well-being.  
+- Patient has no known history of recent changes in personal life satisfaction or fulfillment.  
+- Patient has no known history of recent changes in personal happiness or contentment.  
+- Patient has no known history of recent changes in personal confidence or self-esteem.  
+- Patient has no known history of recent changes in personal self-awareness or self-reflection.  
+
+- Patient has no known history of recent changes in personal growth or development.  
+- Patient has no known history of recent changes in personal communication or interaction with others.  
+- Patient has no known history of recent changes in personal emotional intelligence or emotional regulation.  
+- Patient has no known history of recent changes in personal problem-solving or decision-making abilities.  
+
+- Patient has no known history of recent changes in personal adaptability or flexibility.  
+- Patient has no known history of recent changes in personal creativity or imagination.  
+- Patient has no known history of recent changes in personal focus or concentration.  
+- Patient has no known history of recent changes in personal memory or cognitive function.  
+- Patient has no known history of recent changes in personal attention span or ability to focus.  
+- Patient has no known history of recent changes in personal motivation or drive.  
+- Patient has no known history of recent changes in personal resilience or coping skills.  
+- Patient has no known history of recent changes in personal support systems or networks.  
+- Patient has no known hx of recent changes in personal relationships or friendships.  
+- Patient has no known history of recent changes in personal safety or security.  
+- Patient has no known history of recent changes in personal health or well-being.  
+- Patient has no known history of recent changes in personal life satisfaction or fulfillment.  
+- Patient has no known history of recent changes in personal happiness or contentment.  
+- Patient has no known history of recent changes in personal confidence or self-esteem.  
+- Patient has no known history of recent changes in personal self-awareness or self-reflection.  
+
+- Patient has no known history of recent changes in personal growth or development.  
+- Patient has no known history of recent changes in personal communication or interaction with others.  
+- Patient has no known history of recent changes in personal emotional intelligence or emotional regulation.  
+- Patient has no known history of recent changes in personal problem-solving or decision-making abilities.  
+- Patient has no known history of recent changes in personal adaptability or flexibility.  
+
+- Patient has no known history of recent changes in personal creativity or imagination.  
+
+- Patient has no known history of recent changes in personal focus or concentration.  
+- Patient has no known history of recent changes in personal memory or cognitive function.  
+- Patient has no known history of recent changes in personal attention span or ability to focus.  
+- Patient has no known history of recent changes in personal motivation or drive.  
+- Patient has no known history of recent changes in personal resilience or coping skills.  
+- Patient has no known history of recent changes in personal support systems or networks.  
+- Patient has no known history of recent changes in personal relationships or friendships.  
+- Patient has no known history of recent changes in personal safety or security.  
+- Patient has no known history of recent changes in personal health or well-being.  
+- Patient has no known history of recent changes in personal life satisfaction or fulfillment.  
+- Patient has no known history of recent changes in personal happiness or contentment.  
+
+- Patient has no known history of recent changes in personal confidence or self-esteem.  
+- Patient has no known history of recent changes in personal self-awareness or self-reflection.  
+- Patient has no known hx of recent changes in personal growth or development.  
+- Patient has no known history of recent changes in personal communication or interaction with others.  
+- Patient has no known history of recent changes in personal emotional intelligence or emotional regulation.  
+- Patient has no known history of recent changes in personal problem-solving or decision-making abilities.  
+- Patient has no known history of recent changes in personal adaptability or flexibility.  
+- Patient has no known history of recent changes in personal creativity or imagination.  
+- Patient has no known history of recent changes in personal focus or concentration.  
+- Patient has no known history of recent changes in personal memory or cognitive function.  
+- Patient has no known history of recent changes in personal attention span or ability to focus.  
+- Patient has no known history of recent changes in personal motivation or drive.  
+- Patient has no known history of recent changes in personal resilience or coping skills.  
+- Patient has no known history of recent changes in personal support systems or networks.  
+- Patient has no known history of recent changes in personal relationships or friendships.  
+- Patient has no known history of recent changes in personal safety or security.  
+- Patient has no known history of recent changes in personal health or well-being.  
+- Patient has no known history of recent changes in personal life satisfaction or fulfillment.  
+- Patient has no known history of recent changes in personal happiness or contentment.  
+- Patient has no known history of recent changes in personal confidence or self-esteem.  
