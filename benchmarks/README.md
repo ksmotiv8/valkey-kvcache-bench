@@ -10,7 +10,7 @@ warmup pass first. See `../docs/METHODOLOGY.md` for what each measures.
 | `bench_baseline.py` | throughput | Is large-object GET ≥2× vs the pre-optimization baseline? (paired, ABBA) |
 | `valkey_microbench.py` | throughput | Baseline / +parallel / +zero-copy breakdown; worker & payload sweeps |
 | `connector_compare.py` | throughput | GLIDE connector vs RESP connector, same server |
-| `bench_exists_patch.py` | throughput | Before/after for the EXISTS-pipelining patch |
+| `bench_exists_patch.py` | throughput | Before/after for the EXISTS-pipelining change ([LMCache#3955](https://github.com/LMCache/LMCache/pull/3955)) |
 | `bench_latency.py` | latency | Per-op p50/p90/p99/p99.9 for SET/GET/EXISTS |
 | `bench_resource_efficiency.py` | resource | Client CPU-ms/GiB and RSS, copy vs zero-copy |
 | `bench_corpus_e2e.py` | end-to-end | vLLM+LMCache TTFT cold-vs-cached over the 30-doc corpus, L2 verified |

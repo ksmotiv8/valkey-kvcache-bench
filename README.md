@@ -11,6 +11,13 @@ stack. This suite measures that workload end to end: connector throughput,
 per-operation latency, client resource cost, and real time-to-first-token
 through vLLM.
 
+Two optimizations found with this suite are proposed upstream:
+**[LMCache/LMCache#3955](https://github.com/LMCache/LMCache/pull/3955)**
+(pipelined batched EXISTS) and
+**[valkey-io/valkey-glide#6367](https://github.com/valkey-io/valkey-glide/pull/6367)**
+(zero-copy multi-key `mget`). The suite includes the before/after benchmarks
+for both.
+
 ## Results at a glance
 
 Client: AWS G6 (NVIDIA L4). Server: Valkey 9.1.0, 10 I/O threads, single node.
@@ -19,8 +26,8 @@ Client: AWS G6 (NVIDIA L4). Server: Valkey 9.1.0, 10 I/O threads, single node.
 |---|---|
 | GET, 4 MiB: baseline vs optimized connector (8 workers) | ~0.85 vs ~2.7 GiB/s (**over 2x in every one of 20 paired reps**, median ~3x) |
 | Optimal worker count (single node) | ~8 (GET peaks ~2.76 GiB/s, near NIC line rate) |
-| EXISTS prefix-scan, pipelined vs per-key | 17k vs **220k ops/s** (12.6x at 1024 keys) |
-| Batched zero-copy `mget` vs per-key GET (64 KB x 1024) | 0.84 vs **2.11 GiB/s** (2.51x) |
+| EXISTS prefix-scan, pipelined vs per-key ([LMCache#3955](https://github.com/LMCache/LMCache/pull/3955)) | 17k vs **220k ops/s** (12.6x at 1024 keys) |
+| Batched zero-copy `mget` vs per-key GET, 64 KB x 1024 ([glide#6367](https://github.com/valkey-io/valkey-glide/pull/6367)) | 0.84 vs **2.11 GiB/s** (2.51x) |
 | End-to-end TTFT, 30-doc corpus: cold vs Valkey-cached | 3300 vs **330 ms** (~10x, all 30 docs verified) |
 
 Full tables and caveats: [`docs/RESULTS.md`](docs/RESULTS.md).
