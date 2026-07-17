@@ -73,6 +73,11 @@ See [`benchmarks/README.md`](benchmarks/README.md) for every tool's flags,
 number is produced, and [`docs/SCENARIOS.md`](docs/SCENARIOS.md) for eleven
 copy-paste scenarios with expected results.
 
+For the raw engine (no connector), [`docs/LARGE_OBJECT_BASELINE.md`](docs/LARGE_OBJECT_BASELINE.md)
+gives a large-object (1-64 MB) SET/GET baseline across Valkey 8.0/8.1/9.0/9.1
+on a 200 Gbps rig: 9.0 lifts 64 MB GETs from ~31 to ~191 Gbps, and 9.1 adds
+11-24% on large SETs.
+
 ## Repository layout
 
 ```
@@ -80,7 +85,7 @@ valkey-kvcache-bench/
 ├── benchmarks/     The seven tools, plus results/ with a sample e2e run
 ├── corpus/         30 synthetic legal/medical documents + manifest, plus the
 │                   two-stage LLM generator that produced them (see corpus/README.md)
-├── docs/           RESULTS, METHODOLOGY, SCENARIOS
+├── docs/           RESULTS, METHODOLOGY, SCENARIOS, LARGE_OBJECT_BASELINE
 └── LICENSE         MIT
 ```
 
