@@ -7,7 +7,7 @@ workloads in the rest of this repo: KV-cache chunks are MB-sized values, and
 these tables show what the engine itself delivers at those sizes.
 
 Measured July 2026. Longer-form analysis of the same data:
-[Valkey 9 removes the large-object read bottleneck](https://ksh-public.s3.us-west-2.amazonaws.com/valkey-large-objects/index.html).
+[Valkey's strongest consistency model is not what you think](https://ksh-public.s3.us-west-2.amazonaws.com/valkey-large-objects/index.html).
 
 ## Summary
 
