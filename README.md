@@ -74,7 +74,7 @@ number is produced, and [`docs/SCENARIOS.md`](docs/SCENARIOS.md) for eleven
 copy-paste scenarios with expected results.
 
 For the raw engine (no connector), [`docs/LARGE_OBJECT_BASELINE.md`](docs/LARGE_OBJECT_BASELINE.md)
-gives a large-object (1-64 MB) SET/GET baseline across Valkey 8.0/8.1/9.0/9.1
+gives a large-object (1-64 MB) SET/GET baseline across Valkey 7.2 through 9.1
 on a 200 Gbps rig: 9.0 lifts 64 MB GETs from ~31 to ~191 Gbps, and 9.1 adds
 11-24% on large SETs.
 
