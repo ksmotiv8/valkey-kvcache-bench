@@ -68,7 +68,7 @@ Measured July 2026. Longer-form analysis of the same data:
 | 1 MB | 32 | 183 | 183 | 200 | 201 |
 | 2 MB | 35 | 92* | 55* | 193 | 201 |
 | 4 MB | 26 | 41 | 45 | 197 | 201 |
-| 8 MB | 21 | 33 | 33 | 201 | 195 |
+| 8 MB | 21 | 33 | 33 | 200 | 201 |
 | 12 MB | 21 | 32 | 32 | 191 | 201 |
 | 16 MB | 21 | 32 | 32 | 201 | 200 |
 | 32 MB | 21 | 32 | 32 | 196 | 189 |
@@ -81,7 +81,7 @@ Measured July 2026. Longer-form analysis of the same data:
 | 1 MB | 3,800 | 21,800 | 21,800 | 23,900 | 23,900 |
 | 2 MB | 2,100 | 5,500* | 3,300* | 11,500 | 12,000 |
 | 4 MB | 772 | 1,200 | 1,300 | 5,900 | 6,000 |
-| 8 MB | 319 | 490 | 490 | 3,000 | 2,900 |
+| 8 MB | 319 | 490 | 490 | 3,000 | 3,000 |
 | 12 MB | 213 | 320 | 321 | 1,900 | 2,000 |
 | 16 MB | 158 | 239 | 241 | 1,500 | 1,500 |
 | 32 MB | 79 | 118 | 119 | 732 | 704 |
@@ -94,7 +94,7 @@ Measured July 2026. Longer-form analysis of the same data:
 | 1 MB | 13 ms | 2.1 ms | 2.2 ms | 2.4 ms | 3.4 ms |
 | 2 MB | 20 ms | 17 ms* | 19 ms* | 5.1 ms | 6.6 ms |
 | 4 MB | 58 ms | 46 ms | 41 ms | 9.4 ms | 14 ms |
-| 8 MB | 174 ms | 113 ms | 112 ms | 26 ms† | 33 ms† |
+| 8 MB | 174 ms | 113 ms | 112 ms | 24 ms† | 30 ms† |
 | 12 MB | 244 ms | 171 ms | 166 ms | 56 ms | 44 ms |
 | 16 MB | 329 ms | 238 ms | 238 ms | 56 ms | 58 ms |
 | 32 MB | 531 ms | 457 ms | 489 ms | 116 ms | 94 ms |
@@ -102,8 +102,8 @@ Measured July 2026. Longer-form analysis of the same data:
 
 \* 8.x cells at 2 MB sit on the 8.x throughput cliff and are noisy run to
 run; treat them as a 40-90 Gbps band rather than a point.
-† Median of four measurements; single 8 MB runs varied 22-30 ms (9.0.4) and
-27-41 ms (9.1.0).
+† Median of 12 measurements; single runs varied 21-29 ms (9.0.4) and
+25-41 ms (9.1.0).
 
 ## SET, 32 connections
 
@@ -156,7 +156,8 @@ run; treat them as a 40-90 Gbps band rather than a point.
   after warmup.
 - One cell deviated on first run (9.1.0, 16 MB GET); it was re-run and
   reproduced line rate in 3 of 4 total measurements. The 9.0.4 vs 9.1.0 GET
-  latency comparison at 1/4/8 MB was re-measured three times per cell.
+  latency comparison at 1 and 4 MB was re-measured three times per cell; the
+  8 MB read cells are the median of 12 runs per version.
 - These results describe this rig and workload. Broader production claims
   need repeated runs and additional configurations (TLS, persistence, mixed
   workloads, cluster mode).
