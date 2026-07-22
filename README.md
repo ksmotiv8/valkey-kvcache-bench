@@ -89,6 +89,13 @@ valkey-kvcache-bench/
 └── LICENSE         MIT
 ```
 
+## Reports
+
+- [Valkey Search HNSW performance across bundle releases](reports/valkey-search-hnsw-bundle-releases.md):
+  recall/latency/QPS frontiers for the vector-search module measured across three
+  valkey-bundle releases with an open harness, plus operational findings
+  (persistence interactions, ingest pitfalls).
+
 ## Related upstream work
 
 Two optimizations measured by this suite are proposed upstream:
