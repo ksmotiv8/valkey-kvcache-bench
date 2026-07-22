@@ -1,4 +1,4 @@
-# Valkey Search HNSW Performance Across Bundle Releases
+# Valkey Search HNSW Performance: Across Bundle Releases, and vs Redis
 
 Measured with `valkey-lab search` ([cachecannon PR #116](https://github.com/cachecannon/cachecannon/pull/116)), an open benchmarking harness that reports vector-search performance the way ann-benchmarks does: as points in (recall, latency, throughput) space against precomputed ground truth, never as a lone throughput number.
 
@@ -13,7 +13,8 @@ Headline results:
 1. **The query path is remarkably stable across releases.** At every `ef_search` operating point, recall@10 agrees to three decimal places across all three releases, and single-client query throughput agrees within about 3 percent in these runs. We found no regression and no measurable improvement between the three bundles on this workload.
 2. **The recall/throughput frontier is healthy.** On one Graviton core driving one connection: recall@10 of 0.80 at about 7,000 QPS (`ef_search` 16), 0.96 at about 3,700 (`ef_search` 64), 0.986 at about 2,300 (`ef_search` 128), and 0.997 at about 1,350 (`ef_search` 256), with p99 latency under 1 ms at every point.
 3. **Ingest and index build are consistent across releases**: roughly 320,000 to 425,000 vectors/s pipelined HSET ingest and 39 to 42 s to build the 1.18M-vector HNSW index (M=16, EF_CONSTRUCTION=200) on all three bundles.
-4. **Operational configuration dominates version choice.** The performance differences we found came not from the module version but from server state and configuration: default RDB persistence wedged the server outright under index churn, and a server with that history ingested 7x slower even after persistence was disabled. Details in Findings.
+4. **Against Redis 8.8.0 on dedicated cross-host hardware** (added campaign, see the cross-host section): recall is effectively identical, Valkey builds the HNSW index about 1.8x faster, Redis shows a markedly cleaner p99.9 tail in that setup, and query throughput splits by operating point.
+5. **Operational configuration dominates version choice.** The performance differences we found came not from the module version but from server state and configuration: default RDB persistence wedged the server outright under index churn, and a server with that history ingested 7x slower even after persistence was disabled. Details in Findings.
 
 ## Methodology
 
@@ -125,10 +126,49 @@ curl -LO http://ann-benchmarks.com/glove-25-angular.hdf5
 
 Every run performs its own cleanup, load, and index build, so runs are independent and self-contained.
 
+## Cross-host comparison: Valkey Search vs Redis Query Engine
+
+A second measurement campaign on dedicated hardware, added after the single-host results above: two c8gn.16xlarge (Graviton4, 64 vCPU) instances, harness on one, server on the other, so queries cross a real network hop. Servers run as host-network Docker containers with persistence disabled. Same dataset, parameters, and procedure as above.
+
+These numbers are **not comparable to the single-host tables earlier in this report**: different hardware, a network hop instead of loopback, and a newer Valkey Search module build (the `valkey/valkey-bundle:9` tag had moved; this campaign's module reports version 66049, which decodes as 1.2.1, versus the 1.0.x builds measured above).
+
+| Engine | Image | Server version | Vector search |
+|---|---|---|---|
+| Valkey | valkey/valkey-bundle:9 | 9.0.3 | Valkey Search module 1.2.1 (encoded 66049) |
+| Redis | redis:8 | 8.8.0 | Redis Query Engine (built in) |
+
+### Valkey (cross-host)
+
+| ef_search | recall@10 | QPS | p50 | p99 | p99.9 | build (s) | ingest (vec/s) |
+|---|---|---|---|---|---|---|---|
+| 16 | 0.8011 | 8,223 | 0.115 | 0.199 | 2.857 | 21.7 | 413k |
+| 64 | 0.9573 | 5,079 | 0.192 | 0.246 | 2.939 | 21.4 | 371k |
+| 128 | 0.9865 | 3,299 | 0.297 | 0.371 | 3.194 | 21.4 | 349k |
+| 256 | 0.9971 | 2,005 | 0.491 | 0.616 | 3.378 | 21.4 | 377k |
+
+### Redis (cross-host)
+
+| ef_search | recall@10 | QPS | p50 | p99 | p99.9 | build (s) | ingest (vec/s) |
+|---|---|---|---|---|---|---|---|
+| 16 | 0.8011 | 7,051 | 0.140 | 0.159 | 0.301 | 39.8 | 447k |
+| 64 | 0.9568 | 5,008 | 0.199 | 0.228 | 0.398 | 37.9 | 429k |
+| 128 | 0.9861 | 3,652 | 0.274 | 0.314 | 0.516 | 38.2 | 430k |
+| 256 | 0.9970 | 2,397 | 0.419 | 0.487 | 0.684 | 37.8 | 425k |
+
+### What the comparison shows
+
+- **Recall is effectively identical.** At ef_search 16 both engines return 0.8011, and the other points agree within a few parts in ten thousand. In this cross-host sweep, the throughput differences are not explained by recall tradeoffs.
+- **Valkey builds the index about 1.8x faster** (21.4 to 21.7 s versus 37.8 to 39.8 s for the same 1.18M vectors). On this 64-vCPU host that difference was consistent across all four builds per engine.
+- **Query throughput splits by operating point.** Valkey is about 17 percent faster at ef_search 16 (8,223 vs 7,051 QPS), the two tie at ef_search 64, and Redis is about 11 to 20 percent faster at ef_search 128 and 256. Single sweeps per engine; treat differences under about 10 percent with caution.
+- **Redis has a markedly cleaner tail in this setup.** Redis p99.9 stays at 0.3 to 0.7 ms across the sweep, while Valkey shows 2.9 to 3.4 ms p99.9 at every operating point (its p50 and p99 remain competitive, so this is a tail phenomenon, not a shift of the whole distribution). We did not root-cause the Valkey tail; it did not appear in the single-host runs of the older 1.0.x module earlier in this report, so it may be specific to this module build, the cross-host path, or their interaction.
+- **Ingest is modestly faster on Redis**, about 8 to 23 percent in these runs (425k to 447k vectors/s versus 349k to 413k), with both engines comfortably fast.
+
+The overall picture matches the rest of this report: the engines are close where it matters most (recall, median latency), and the differences that would drive a choice are workload-specific: index build time favors Valkey, tail latency in this configuration favors Redis.
+
 ## Limitations
 
 - Single node, single-client query measurement by design; saturation and cluster behavior are out of scope here.
 - One dataset (glove-25-angular). Higher-dimensional and larger corpora may rank versions differently.
-- Docker on one Graviton host; absolute numbers will differ on other hardware, though cross-version deltas measured on the same host should hold.
-- All three bundles carry 1.0.x search modules; this report does not cover any 2.x module line.
+- The bundle-release comparison ran in Docker on one Graviton host; the Valkey-vs-Redis comparison ran on a dedicated two-instance client/server pair. Neither set of absolute numbers transfers to other hardware, and the two campaigns are not comparable to each other.
+- The bundle-release campaign covers 1.0.x search modules; the cross-host campaign used the newer 1.2.1 module build then current on the bundle:9 tag.
 - HNSW only, one (M, EF_CONSTRUCTION) setting; the build-parameter space is unexplored.
