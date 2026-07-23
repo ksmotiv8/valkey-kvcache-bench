@@ -15,7 +15,7 @@ Headline results:
 3. **Ingest and index build are consistent across releases**: roughly 320,000 to 425,000 vectors/s pipelined HSET ingest and 39 to 42 s to build the 1.18M-vector HNSW index (M=16, EF_CONSTRUCTION=200) on all three bundles.
 4. **Against Redis 8.8.0 on dedicated cross-host hardware** (added campaign, see the cross-host section): recall is effectively identical, Valkey builds the HNSW index about 1.8x faster, Redis shows a markedly cleaner p99.9 tail in that setup, and query throughput splits by operating point.
 5. **Operational configuration dominates version choice.** The performance differences we found came not from the module version but from server state and configuration: default RDB persistence wedged the server outright under index churn, and a server with that history ingested 7x slower even after persistence was disabled. Details in Findings.
-6. **Under concurrency the picture inverts** (round-three campaign): with engine defaults on a 64-vCPU host, Valkey Search scales to about 65,000 QPS while the Redis Query Engine plateaus at about 19,500 (its WORKERS default of 16), a 3.3x ceiling difference that flips Redis's single-client advantage at high `ef_search`. A module build from main (with valkey-search PR 1163) cuts Valkey's p99.9 tail by about 30 percent at identical medians.
+6. **Under concurrency the picture inverts** (round-three campaign): with engine defaults on a 64-vCPU host, Valkey Search scales to about 65,000 QPS while the Redis Query Engine plateaus at about 19,500 (its WORKERS setting is hard-capped at 16 in this build), a 3.3x ceiling difference that persists even with Valkey lowered to the same 16 threads and that flips Redis's single-client advantage at high `ef_search`. A module build from main (with valkey-search PR 1163) cuts Valkey's p99.9 tail by about 30 percent at identical medians.
 
 ## Methodology
 
@@ -193,7 +193,7 @@ Client: `valkey-lab search` built against ringline 0.5.3 (which fixes a client s
 | Valkey + main module | valkey/valkey:9 | 9.1.1 | Valkey Search main @ `578a75a` (includes PR 1163) | search reader-threads 64, writer-threads 64 |
 | Redis | redis:8 | 8.8.0 | Redis Query Engine (built in) | WORKERS 16 |
 
-Thread counts are the engines' own defaults on this 64-vCPU host; nothing was tuned. That asymmetry (64 search threads versus 16 workers) is part of the out-of-the-box story the saturation section tells, and retuning WORKERS upward is an obvious follow-up this round did not cover.
+Thread counts are the engines' own defaults on this 64-vCPU host; nothing was tuned for the main tables. The asymmetry (64 search threads versus 16 workers) prompted a follow-up equalization experiment, reported after the saturation section, whose short version is: the asymmetry cannot be tuned away on the Redis side (`FT.CONFIG SET WORKERS 64` is rejected with `SEARCH_LIMIT_OVER: Number of worker threads cannot exceed 16` in this build), and equalizing the Valkey side down to 16 threads barely moves its ceiling.
 
 ### Single-client frontier
 
@@ -260,10 +260,29 @@ ef_search 128:
 
 What the ladder shows:
 
-- **Redis hits a hard ceiling at about 19.5k QPS** from 8 connections onward at ef 16 (and from 16 connections at ef 128), at both operating points, which matches its Query Engine's WORKERS default of 16 on this host. Past the ceiling, added concurrency converts entirely into queueing: p99 climbs from 0.7 ms to 5 ms while QPS stays flat, and its formerly clean tail disappears (p50 alone reaches 3.1 to 3.3 ms at 64 connections).
+- **Redis hits a hard ceiling at about 19.5k QPS** from 8 connections onward at ef 16 (and from 16 connections at ef 128), at both operating points, which matches its Query Engine's WORKERS value of 16, the maximum this build accepts (see the equalization section). Past the ceiling, added concurrency converts entirely into queueing: p99 climbs from 0.7 ms to 5 ms while QPS stays flat, and its formerly clean tail disappears (p50 alone reaches 3.1 to 3.3 ms at 64 connections).
 - **Both Valkey builds scale to roughly 65k QPS** (peak observed 67.5k, bundle at ef 128 with 64 connections), about 3.3x the Redis ceiling, while holding p99 at 1.2 to 1.9 ms at 64 connections. The 64 reader threads as shipped simply cover more of the 64-vCPU host.
 - **The crossover flips the single-client story.** Redis's ef 128 single-client advantage disappears by 8 connections; from there Valkey's throughput advantage grows monotonically.
 - At saturation the two Valkey builds are equivalent within a few percent; PR 1163's tail advantage persists but compresses (pooled p99.9 at 64 connections: 3.1 to 3.5 ms versus 4.0 to 4.3 ms for 1.2.1).
+
+### Thread equalization: the ceiling gap is architectural, not a thread-count artifact
+
+The obvious objection to the ladder is that 64 search threads against 16 workers is not a fair fight. Two follow-up measurements address it:
+
+- **The Redis side cannot be raised.** `FT.CONFIG SET WORKERS 64` (and any value above 16) is rejected with `SEARCH_LIMIT_OVER: Number of worker threads cannot exceed 16` on this redis:8 build. The 19.5k ceiling is not a conservative default; it is the maximum this build allows.
+- **Lowering Valkey to the same 16 threads barely moves its ceiling.** `search.reader-threads` is runtime-tunable; we set it to 16 (verified as exactly 16 live `read-worker` threads in the server process) and re-ran the ladder on the bundle engine:
+
+| Clients | ef 16 QPS | p99 | ef 128 QPS | p99 |
+|---|---|---|---|---|
+| 4 | 31,319 | 0.179 | 12,335 | 0.472 |
+| 8 | 53,797 | 0.230 | 22,516 | 0.574 |
+| 16 | 65,210 | 0.409 | 39,906 | 0.632 |
+| 32 | 71,876 | 0.686 | 59,436 | 0.760 |
+| 64 | 74,085 | 1.048 | 60,185 | 3.356 |
+
+At equal thread counts, Valkey's ceiling is 60k to 74k QPS against Redis's 19.5k: still 3.1x to 3.8x. The per-thread arithmetic is stark: roughly 4,600 QPS per reader thread at ef 16 versus roughly 1,200 QPS per worker. The throughput gap is architectural, not a thread-budget artifact.
+
+Two second-order observations from the same run: at ef 16, sixteen threads actually outperforms the 64-thread default (74.1k versus 64.9k peak, with lower p99), suggesting the default oversubscribes for cheap queries; at ef 128 with 64 connections the smaller pool starts to queue (p99 rises from 1.7 to 3.4 ms and peak drops about 11 percent), so the default earns its keep on expensive queries. Reader threads were restored to 64 afterward.
 
 ### Ingest, build, and memory
 
@@ -275,7 +294,7 @@ What the ladder shows:
 
 - **A harness artifact was found and excluded.** This round added an index-reuse mode to the harness so throughput ladders would not reload 1.18M vectors per rung. In that mode only, against Redis only, single-connection runs showed a false latency floor of about 0.26 ms whenever the request rate would otherwise exceed roughly 4k QPS (a connection that has not carried the bulk load traffic behaves differently; root cause on the client side, still under investigation). All single-client numbers in this section therefore come from full-cycle runs, where the effect does not occur; ladder rungs at 2 or more connections were verified unaffected.
 - **Long-running server processes drift.** The Redis container that had been serving benchmark churn for hours showed degraded single-client numbers at low ef (ef 64 dropped from about 5,000 to 3,830 QPS) that recovered fully on process restart. This is the query-path sibling of Finding 2 (server-state history distorts ingest); the numbers above are from a freshly restarted process, and the practice of restarting engines before measuring is worth adopting generally.
-- One dataset, one host pair, engine defaults as shipped; the WORKERS-versus-reader-threads asymmetry is reported, not equalized. Saturation was measured with closed-loop clients on one event-loop core; open-loop arrival patterns may place the knee differently.
+- One dataset, one host pair, engine defaults as shipped for the main tables; the thread asymmetry is addressed by the equalization experiment above. Saturation was measured with closed-loop clients on one event-loop core; open-loop arrival patterns may place the knee differently.
 
 ## Limitations
 
