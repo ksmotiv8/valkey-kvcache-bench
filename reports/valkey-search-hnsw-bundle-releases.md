@@ -270,6 +270,8 @@ Index build (s), four independent builds per engine:
 |---|---|---|---|
 | build range | 21.4 to 21.5 | 21.6 to 21.7 | 38.6 to 38.8 |
 
+![Recall vs throughput frontier: Valkey Search 1.2.1, Valkey Search main with PR 1163, and Redis Query Engine 8.8 on the same axes](assets/frontier-valkey-vs-redis.png)
+
 The single-client shape repeats the earlier cross-host round: recall parity everywhere, Valkey ahead at ef 16, a tie at ef 64, Redis ahead by 11 to 21 percent at ef 128 and 256, and Redis's p99.9 five to seven times cleaner than the bundle module's. Run-to-run spread at ef 16 was about 8 percent across repeats (7,965 to 8,624 for the bundle), so treat single-digit percentage differences accordingly.
 
 ### The PR 1163 module build changes tails, not medians, on this workload
@@ -301,6 +303,8 @@ ef_search 128:
 | 16 | 40,254 | 0.655 | 39,574 | 0.644 | 18,858 | 1.193 |
 | 32 | 60,544 | 0.782 | 58,055 | 0.798 | 19,415 | 2.657 |
 | 64 | 67,495 | 1.728 | 64,096 | 1.868 | 19,581 | 4.952 |
+
+![Throughput vs concurrency at ef 16 and ef 128: both Valkey builds climb to roughly 65k QPS while Redis plateaus at its 19.5k worker ceiling](assets/ladder-valkey-vs-redis.png)
 
 What the ladder shows:
 
