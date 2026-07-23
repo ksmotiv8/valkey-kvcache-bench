@@ -2,7 +2,7 @@
 
 Measured with `valkey-lab search` ([cachecannon PR #116](https://github.com/cachecannon/cachecannon/pull/116)), an open benchmarking harness that reports vector-search performance the way ann-benchmarks does: as points in (recall, latency, throughput) space against precomputed ground truth, never as a lone throughput number.
 
-Author: ksmotiv8. 2026-07-22.
+Author: ksmotiv8. 2026-07-22; round-three update (saturation throughput, PR 1163 module build, node setup) 2026-07-23.
 
 ## Executive summary
 
@@ -15,6 +15,7 @@ Headline results:
 3. **Ingest and index build are consistent across releases**: roughly 320,000 to 425,000 vectors/s pipelined HSET ingest and 39 to 42 s to build the 1.18M-vector HNSW index (M=16, EF_CONSTRUCTION=200) on all three bundles.
 4. **Against Redis 8.8.0 on dedicated cross-host hardware** (added campaign, see the cross-host section): recall is effectively identical, Valkey builds the HNSW index about 1.8x faster, Redis shows a markedly cleaner p99.9 tail in that setup, and query throughput splits by operating point.
 5. **Operational configuration dominates version choice.** The performance differences we found came not from the module version but from server state and configuration: default RDB persistence wedged the server outright under index churn, and a server with that history ingested 7x slower even after persistence was disabled. Details in Findings.
+6. **Under concurrency the picture inverts** (round-three campaign): with engine defaults on a 64-vCPU host, Valkey Search scales to about 65,000 QPS while the Redis Query Engine plateaus at about 19,500 (its WORKERS default of 16), a 3.3x ceiling difference that flips Redis's single-client advantage at high `ef_search`. A module build from main (with valkey-search PR 1163) cuts Valkey's p99.9 tail by about 30 percent at identical medians.
 
 ## Methodology
 
@@ -165,9 +166,120 @@ These numbers are **not comparable to the single-host tables earlier in this rep
 
 The overall picture matches the rest of this report: the engines are close where it matters most (recall, median latency), and the differences that would drive a choice are workload-specific: index build time favors Valkey, tail latency in this configuration favors Redis.
 
+## Round three, same pair: node setup, saturation throughput, and the PR 1163 module build
+
+A third campaign on the same two-instance pair as the cross-host comparison above, run 2026-07-23 with all three engines as containers on the same server host, measured back to back by the same client host. This round adds three things the earlier campaigns lacked: a full node-setup inventory, closed-loop concurrency to find each engine's throughput ceiling, and a build of the Valkey Search module from main containing [valkey-search PR 1163](https://github.com/valkey-io/valkey-search/pull/1163) (SIMD enabled by default in the build plus a rewritten three-phase prefetch loop in the HNSW query path), which no released module carries yet.
+
+These numbers supersede the cross-host tables above where they overlap (same pair, newer engine builds, newer client) and are still not comparable to the single-host bundle-release tables at the top of this report.
+
+### Node setup
+
+Both instances are identical and were used exclusively for this work:
+
+| | Client (runs harness) | Server (runs engines) |
+|---|---|---|
+| Instance | c8gn.16xlarge (Graviton, 64 vCPU, 123 GB) | c8gn.16xlarge (Graviton, 64 vCPU, 123 GB) |
+| Placement | us-west-2c, same cluster placement group | us-west-2c, same cluster placement group |
+| OS / kernel | Amazon Linux 2023, 6.18.36 | Amazon Linux 2023, 6.18.36 |
+| Docker | 25.0.14, containers on host networking | 25.0.14, containers on host networking |
+
+Client: `valkey-lab search` built against ringline 0.5.3 (which fixes a client send-path hang the earlier campaigns had to work around with 8 KiB load batches; this round pipelines 256 KiB load batches). One event-loop core drives all query connections. Server: three engine containers side by side on host networking, persistence off (`save ""`, `appendonly no`), one engine exercised at a time while the others idle.
+
+### Engines measured
+
+| Engine | Image | Server | Vector search | Query threading (as shipped) |
+|---|---|---|---|---|
+| Valkey bundle | valkey/valkey-bundle:9 | 9.1.0 | Valkey Search 1.2.1 (encoded 66049) | search reader-threads 64, writer-threads 64 |
+| Valkey + main module | valkey/valkey:9 | 9.1.1 | Valkey Search main @ `578a75a` (includes PR 1163) | search reader-threads 64, writer-threads 64 |
+| Redis | redis:8 | 8.8.0 | Redis Query Engine (built in) | WORKERS 16 |
+
+Thread counts are the engines' own defaults on this 64-vCPU host; nothing was tuned. That asymmetry (64 search threads versus 16 workers) is part of the out-of-the-box story the saturation section tells, and retuning WORKERS upward is an obvious follow-up this round did not cover.
+
+### Single-client frontier
+
+Each row is an independent full cycle (fresh load, fresh index build, then 10,000 queries on one connection with one request in flight).
+
+Valkey bundle (9.1.0, module 1.2.1):
+
+| ef_search | recall@10 | QPS | p50 | p99 | p99.9 | build (s) |
+|---|---|---|---|---|---|---|
+| 16 | 0.8030 | 7,965 | 0.110 | 0.261 | 2.882 | 21.5 |
+| 64 | 0.9573 | 4,996 | 0.194 | 0.252 | 3.027 | 21.5 |
+| 128 | 0.9867 | 3,287 | 0.299 | 0.372 | 3.150 | 21.4 |
+| 256 | 0.9972 | 1,990 | 0.495 | 0.621 | 3.374 | 21.4 |
+
+Valkey + main module (9.1.1, `578a75a` with PR 1163):
+
+| ef_search | recall@10 | QPS | p50 | p99 | p99.9 | build (s) |
+|---|---|---|---|---|---|---|
+| 16 | 0.8004 | 8,567 | 0.112 | 0.143 | 2.001 | 21.7 |
+| 64 | 0.9573 | 4,942 | 0.198 | 0.260 | 2.119 | 21.7 |
+| 128 | 0.9862 | 3,290 | 0.302 | 0.370 | 2.214 | 21.7 |
+| 256 | 0.9969 | 1,981 | 0.502 | 0.619 | 2.489 | 21.6 |
+
+Redis (8.8.0, freshly restarted process):
+
+| ef_search | recall@10 | QPS | p50 | p99 | p99.9 | build (s) |
+|---|---|---|---|---|---|---|
+| 16 | 0.7990 | 7,206 | 0.137 | 0.156 | 0.317 | 38.7 |
+| 64 | 0.9570 | 5,099 | 0.195 | 0.223 | 0.419 | 38.8 |
+| 128 | 0.9858 | 3,703 | 0.271 | 0.309 | 0.487 | 38.6 |
+| 256 | 0.9966 | 2,402 | 0.418 | 0.485 | 0.693 | 38.6 |
+
+The single-client shape repeats the earlier cross-host round: recall parity everywhere, Valkey ahead at ef 16, a tie at ef 64, Redis ahead by 11 to 21 percent at ef 128 and 256, and Redis's p99.9 five to seven times cleaner than the bundle module's. Run-to-run spread at ef 16 was about 8 percent across repeats (7,965 to 8,624 for the bundle), so treat single-digit percentage differences accordingly.
+
+### The PR 1163 module build changes tails, not medians, on this workload
+
+Median latency and QPS for the main-branch module are within 2 to 3 percent of released 1.2.1 at every operating point: no measurable median gain here. What did move is the tail: p99.9 dropped from 2.9 to 3.4 ms (1.2.1) to 2.0 to 2.5 ms at every ef point, roughly 30 percent, consistent across three separate rounds of runs, and the p99 at ef 16 dropped from 0.261 to 0.143 ms. The PR's own benchmarks measured 11 to 16 percent median improvements on 1024-dimensional vectors on an AMD host; at 25 dimensions the distance arithmetic is a far smaller share of query time, so median parity on this dataset is a plausible outcome rather than a contradiction. The tail improvement makes the main-branch module the best Valkey tail behavior we have measured, though still about 4x the Redis tail in this configuration.
+
+### Closed-loop throughput: Valkey's ceiling is about 3.3x Redis's
+
+Same procedure, but N connections each run closed loop with one request in flight (per-request latencies pooled across connections; the single client core was verified not to be the bottleneck at these rates). QPS and p99 (ms) by connection count:
+
+ef_search 16:
+
+| Clients | Bundle QPS | p99 | Main QPS | p99 | Redis QPS | p99 |
+|---|---|---|---|---|---|---|
+| 2 | 16,510 | 0.228 | 16,890 | 0.154 | 11,417 | 0.196 |
+| 4 | 30,103 | 0.256 | 30,920 | 0.203 | 17,927 | 0.297 |
+| 8 | 50,644 | 0.261 | 51,152 | 0.217 | 19,058 | 0.681 |
+| 16 | 57,581 | 0.438 | 60,094 | 0.430 | 19,084 | 1.360 |
+| 32 | 63,353 | 0.776 | 64,906 | 0.783 | 19,548 | 2.526 |
+| 64 | 62,718 | 1.199 | 64,556 | 1.166 | 19,500 | 3.699 |
+
+ef_search 128:
+
+| Clients | Bundle QPS | p99 | Main QPS | p99 | Redis QPS | p99 |
+|---|---|---|---|---|---|---|
+| 2 | 6,572 | 0.385 | 6,666 | 0.365 | 7,295 | 0.322 |
+| 4 | 12,658 | 0.466 | 12,743 | 0.427 | 13,016 | 0.484 |
+| 8 | 22,315 | 0.598 | 23,120 | 0.589 | 17,993 | 0.649 |
+| 16 | 40,254 | 0.655 | 39,574 | 0.644 | 18,858 | 1.193 |
+| 32 | 60,544 | 0.782 | 58,055 | 0.798 | 19,415 | 2.657 |
+| 64 | 67,495 | 1.728 | 64,096 | 1.868 | 19,581 | 4.952 |
+
+What the ladder shows:
+
+- **Redis hits a hard ceiling at about 19.5k QPS** from 8 connections onward at ef 16 (and from 16 connections at ef 128), at both operating points, which matches its Query Engine's WORKERS default of 16 on this host. Past the ceiling, added concurrency converts entirely into queueing: p99 climbs from 0.7 ms to 5 ms while QPS stays flat, and its formerly clean tail disappears (p50 alone reaches 3.1 to 3.3 ms at 64 connections).
+- **Both Valkey builds scale to roughly 65k QPS** (peak observed 67.5k, bundle at ef 128 with 64 connections), about 3.3x the Redis ceiling, while holding p99 at 1.2 to 1.9 ms at 64 connections. The 64 reader threads as shipped simply cover more of the 64-vCPU host.
+- **The crossover flips the single-client story.** Redis's ef 128 single-client advantage disappears by 8 connections; from there Valkey's throughput advantage grows monotonically.
+- At saturation the two Valkey builds are equivalent within a few percent; PR 1163's tail advantage persists but compresses (pooled p99.9 at 64 connections: 3.1 to 3.5 ms versus 4.0 to 4.3 ms for 1.2.1).
+
+### Ingest, build, and memory
+
+- Ingest (pipelined HSET from one client connection, 256 KiB batches): Redis 572k to 678k vectors/s, Valkey main 519k to 599k, Valkey bundle 470k to 565k. The deeper client pipeline enabled by the ringline 0.5.3 fix raised everyone's numbers relative to the earlier campaigns (which measured 319k to 447k with 8 KiB batches); Redis keeps its modest ingest lead.
+- Index build is unchanged from the earlier round: Valkey 21.4 to 22.0 s, Redis 38.6 to 39.3 s, about 1.8x in Valkey's favor, for the same 1.18M x 25-dim HNSW (M 16, EF_CONSTRUCTION 200).
+- Memory after load plus index: Redis 1.02 GiB, Valkey bundle 1.30 GiB, Valkey main 1.31 GiB. Redis holds the same dataset and index in about 22 percent less memory.
+
+### Measurement notes
+
+- **A harness artifact was found and excluded.** This round added an index-reuse mode to the harness so throughput ladders would not reload 1.18M vectors per rung. In that mode only, against Redis only, single-connection runs showed a false latency floor of about 0.26 ms whenever the request rate would otherwise exceed roughly 4k QPS (a connection that has not carried the bulk load traffic behaves differently; root cause on the client side, still under investigation). All single-client numbers in this section therefore come from full-cycle runs, where the effect does not occur; ladder rungs at 2 or more connections were verified unaffected.
+- **Long-running server processes drift.** The Redis container that had been serving benchmark churn for hours showed degraded single-client numbers at low ef (ef 64 dropped from about 5,000 to 3,830 QPS) that recovered fully on process restart. This is the query-path sibling of Finding 2 (server-state history distorts ingest); the numbers above are from a freshly restarted process, and the practice of restarting engines before measuring is worth adopting generally.
+- One dataset, one host pair, engine defaults as shipped; the WORKERS-versus-reader-threads asymmetry is reported, not equalized. Saturation was measured with closed-loop clients on one event-loop core; open-loop arrival patterns may place the knee differently.
+
 ## Limitations
 
-- Single node, single-client query measurement by design; saturation and cluster behavior are out of scope here.
+- Frontier sweeps are single-client by design; the round-three campaign adds closed-loop saturation on the same pair, but open-loop arrival patterns and cluster behavior remain out of scope.
 - One dataset (glove-25-angular). Higher-dimensional and larger corpora may rank versions differently.
 - The bundle-release comparison ran in Docker on one Graviton host; the Valkey-vs-Redis comparison ran on a dedicated two-instance client/server pair. Neither set of absolute numbers transfers to other hardware, and the two campaigns are not comparable to each other.
 - The bundle-release campaign covers 1.0.x search modules; the cross-host campaign used the newer 1.2.1 module build then current on the bundle:9 tag.
