@@ -265,6 +265,8 @@ What the ladder shows:
 - **The crossover flips the single-client story.** Redis's ef 128 single-client advantage disappears by 8 connections; from there Valkey's throughput advantage grows monotonically.
 - At saturation the two Valkey builds are equivalent within a few percent; PR 1163's tail advantage persists but compresses (pooled p99.9 at 64 connections: 3.1 to 3.5 ms versus 4.0 to 4.3 ms for 1.2.1).
 
+**Read latencies at equal load, not equal connection count.** These are closed-loop ladders, so a row compares equal concurrency, not equal throughput: at 64 connections Valkey is serving about 64k QPS while Redis is serving about 19.5k, and Redis's multi-millisecond latencies there are saturation queueing, not the latency an operator would see at a sane operating point. Matching rungs by achieved QPS instead (ef 128): at about 7k QPS, Redis p99 0.322 ms versus Valkey 0.385; at about 13k, 0.484 versus 0.466; at 18k to 22k, 0.649 versus 0.598. Below the Redis ceiling, iso-load latencies are close, with Redis slightly ahead at light load. The engines separate not on latency at a given load but on the range of loads they can serve at all: Valkey holds sub-millisecond p99 out to roughly 60k QPS, while Redis has no operating point above roughly 19.5k. (The single-client frontier tables are load-matched by construction, one request in flight on both engines, so their latency comparisons carry no such caveat.)
+
 ### Thread equalization: the ceiling gap is architectural, not a thread-count artifact
 
 The obvious objection to the ladder is that 64 search threads against 16 workers is not a fair fight. Two follow-up measurements address it:
