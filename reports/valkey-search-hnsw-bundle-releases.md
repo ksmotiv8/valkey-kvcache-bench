@@ -42,36 +42,56 @@ Headline results:
 
 Note the module versions: the 8.1.8 bundle carries the newest search module of the three (1.0.3), while both the 8.1.0 and 9.0.3 bundles carry 1.0.0. "Three versions" here means three released bundle configurations, which is what an operator actually deploys.
 
-## Recall / throughput / latency frontier per release
+## Frontier across releases, one dimension at a time
 
-Single client, k=10, M=16, EF_CONSTRUCTION=200. Latency in milliseconds.
+Single client, k=10, M=16, EF_CONSTRUCTION=200. Latency in milliseconds. Each table compares the three releases on one dimension so version differences read directly across a row. Columns: 8.1.0 (valkey 8.1.2, module 1.0.0), 8.1.8 (valkey 8.1.8, module 1.0.3), 9 (valkey 9.0.3, module 1.0.0).
 
-### valkey-bundle:8.1.0 (valkey 8.1.2, module 1.0.0)
+Recall@10:
 
-| ef_search | recall@10 | QPS | p50 | p99 | p99.9 |
-|---|---|---|---|---|---|
-| 16 | 0.7976 | 7,183 | 0.134 | 0.202 | 0.774 |
-| 64 | 0.9563 | 3,738 | 0.265 | 0.353 | 0.926 |
-| 128 | 0.9861 | 2,338 | 0.429 | 0.554 | 1.115 |
-| 256 | 0.9968 | 1,369 | 0.737 | 0.951 | 1.479 |
+| ef_search | 8.1.0 | 8.1.8 | 9 |
+|---|---|---|---|
+| 16 | 0.7976 | 0.7994 | 0.7990 |
+| 64 | 0.9563 | 0.9561 | 0.9562 |
+| 128 | 0.9861 | 0.9861 | 0.9860 |
+| 256 | 0.9968 | 0.9972 | 0.9969 |
 
-### valkey-bundle:8.1.8 (valkey 8.1.8, module 1.0.3)
+QPS:
 
-| ef_search | recall@10 | QPS | p50 | p99 | p99.9 |
-|---|---|---|---|---|---|
-| 16 | 0.7994 | 6,774 | 0.142 | 0.210 | 0.975 |
-| 64 | 0.9561 | 3,622 | 0.273 | 0.365 | 1.134 |
-| 128 | 0.9861 | 2,279 | 0.440 | 0.567 | 1.318 |
-| 256 | 0.9972 | 1,335 | 0.755 | 0.986 | 1.726 |
+| ef_search | 8.1.0 | 8.1.8 | 9 |
+|---|---|---|---|
+| 16 | 7,183 | 6,774 | 7,125 |
+| 64 | 3,738 | 3,622 | 3,680 |
+| 128 | 2,338 | 2,279 | 2,308 |
+| 256 | 1,369 | 1,335 | 1,340 |
 
-### valkey-bundle:9 (valkey 9.0.3, module 1.0.0)
+p50 latency:
 
-| ef_search | recall@10 | QPS | p50 | p99 | p99.9 |
-|---|---|---|---|---|---|
-| 16 | 0.7990 | 7,125 | 0.135 | 0.202 | 0.926 |
-| 64 | 0.9562 | 3,680 | 0.269 | 0.354 | 1.122 |
-| 128 | 0.9860 | 2,308 | 0.434 | 0.555 | 1.319 |
-| 256 | 0.9969 | 1,340 | 0.753 | 0.966 | 1.707 |
+| ef_search | 8.1.0 | 8.1.8 | 9 |
+|---|---|---|---|
+| 16 | 0.134 | 0.142 | 0.135 |
+| 64 | 0.265 | 0.273 | 0.269 |
+| 128 | 0.429 | 0.440 | 0.434 |
+| 256 | 0.737 | 0.755 | 0.753 |
+
+p99 latency:
+
+| ef_search | 8.1.0 | 8.1.8 | 9 |
+|---|---|---|---|
+| 16 | 0.202 | 0.210 | 0.202 |
+| 64 | 0.353 | 0.365 | 0.354 |
+| 128 | 0.554 | 0.567 | 0.555 |
+| 256 | 0.951 | 0.986 | 0.966 |
+
+p99.9 latency:
+
+| ef_search | 8.1.0 | 8.1.8 | 9 |
+|---|---|---|---|
+| 16 | 0.774 | 0.975 | 0.926 |
+| 64 | 0.926 | 1.134 | 1.122 |
+| 128 | 1.115 | 1.318 | 1.319 |
+| 256 | 1.479 | 1.726 | 1.707 |
+
+(Ingest and index build per release are compared in the version matrix above.)
 
 ## Cross-release comparison
 
@@ -197,34 +217,58 @@ Thread counts are the engines' own defaults on this 64-vCPU host; nothing was tu
 
 ### Single-client frontier
 
-Each row is an independent full cycle (fresh load, fresh index build, then 10,000 queries on one connection with one request in flight).
+Each cell comes from an independent full cycle (fresh load, fresh index build, then 10,000 queries on one connection with one request in flight). Each table compares the three engines on one dimension. Columns: Bundle (valkey 9.1.0, module 1.2.1), Main (valkey 9.1.1, module `578a75a` with PR 1163), Redis (8.8.0, freshly restarted process).
 
-Valkey bundle (9.1.0, module 1.2.1):
+Recall@10:
 
-| ef_search | recall@10 | QPS | p50 | p99 | p99.9 | build (s) |
-|---|---|---|---|---|---|---|
-| 16 | 0.8030 | 7,965 | 0.110 | 0.261 | 2.882 | 21.5 |
-| 64 | 0.9573 | 4,996 | 0.194 | 0.252 | 3.027 | 21.5 |
-| 128 | 0.9867 | 3,287 | 0.299 | 0.372 | 3.150 | 21.4 |
-| 256 | 0.9972 | 1,990 | 0.495 | 0.621 | 3.374 | 21.4 |
+| ef_search | Bundle | Main | Redis |
+|---|---|---|---|
+| 16 | 0.8030 | 0.8004 | 0.7990 |
+| 64 | 0.9573 | 0.9573 | 0.9570 |
+| 128 | 0.9867 | 0.9862 | 0.9858 |
+| 256 | 0.9972 | 0.9969 | 0.9966 |
 
-Valkey + main module (9.1.1, `578a75a` with PR 1163):
+QPS:
 
-| ef_search | recall@10 | QPS | p50 | p99 | p99.9 | build (s) |
-|---|---|---|---|---|---|---|
-| 16 | 0.8004 | 8,567 | 0.112 | 0.143 | 2.001 | 21.7 |
-| 64 | 0.9573 | 4,942 | 0.198 | 0.260 | 2.119 | 21.7 |
-| 128 | 0.9862 | 3,290 | 0.302 | 0.370 | 2.214 | 21.7 |
-| 256 | 0.9969 | 1,981 | 0.502 | 0.619 | 2.489 | 21.6 |
+| ef_search | Bundle | Main | Redis |
+|---|---|---|---|
+| 16 | 7,965 | 8,567 | 7,206 |
+| 64 | 4,996 | 4,942 | 5,099 |
+| 128 | 3,287 | 3,290 | 3,703 |
+| 256 | 1,990 | 1,981 | 2,402 |
 
-Redis (8.8.0, freshly restarted process):
+p50 latency (ms):
 
-| ef_search | recall@10 | QPS | p50 | p99 | p99.9 | build (s) |
-|---|---|---|---|---|---|---|
-| 16 | 0.7990 | 7,206 | 0.137 | 0.156 | 0.317 | 38.7 |
-| 64 | 0.9570 | 5,099 | 0.195 | 0.223 | 0.419 | 38.8 |
-| 128 | 0.9858 | 3,703 | 0.271 | 0.309 | 0.487 | 38.6 |
-| 256 | 0.9966 | 2,402 | 0.418 | 0.485 | 0.693 | 38.6 |
+| ef_search | Bundle | Main | Redis |
+|---|---|---|---|
+| 16 | 0.110 | 0.112 | 0.137 |
+| 64 | 0.194 | 0.198 | 0.195 |
+| 128 | 0.299 | 0.302 | 0.271 |
+| 256 | 0.495 | 0.502 | 0.418 |
+
+p99 latency (ms):
+
+| ef_search | Bundle | Main | Redis |
+|---|---|---|---|
+| 16 | 0.261 | 0.143 | 0.156 |
+| 64 | 0.252 | 0.260 | 0.223 |
+| 128 | 0.372 | 0.370 | 0.309 |
+| 256 | 0.621 | 0.619 | 0.485 |
+
+p99.9 latency (ms):
+
+| ef_search | Bundle | Main | Redis |
+|---|---|---|---|
+| 16 | 2.882 | 2.001 | 0.317 |
+| 64 | 3.027 | 2.119 | 0.419 |
+| 128 | 3.150 | 2.214 | 0.487 |
+| 256 | 3.374 | 2.489 | 0.693 |
+
+Index build (s), four independent builds per engine:
+
+| | Bundle | Main | Redis |
+|---|---|---|---|
+| build range | 21.4 to 21.5 | 21.6 to 21.7 | 38.6 to 38.8 |
 
 The single-client shape repeats the earlier cross-host round: recall parity everywhere, Valkey ahead at ef 16, a tie at ef 64, Redis ahead by 11 to 21 percent at ef 128 and 256, and Redis's p99.9 five to seven times cleaner than the bundle module's. Run-to-run spread at ef 16 was about 8 percent across repeats (7,965 to 8,624 for the bundle), so treat single-digit percentage differences accordingly.
 
