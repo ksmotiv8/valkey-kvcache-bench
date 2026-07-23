@@ -117,6 +117,29 @@ The [PR 1156](https://github.com/valkey-io/valkey-search/pull/1156) patch takes 
 
 Caveat: the patch sits on an older main base (about 100 commits behind the Main build's), so a small part of the delta could come from base drift, though the intervening commits appear to be bug fixes rather than performance work. At ef 256 single-client it closes most of Redis's high-ef lead (2,083 vs 2,402) without giving up the concurrency ceiling.
 
+#### Sweeping the lookahead: the default leaves 17 to 21 percent on the table
+
+The lookahead is a runtime config (`search.prefetch-lookahead`, accepted range 0 to 64, read before each search), so we swept it live against the loaded index. QPS by lookahead value (index-reuse mode, internally consistent):
+
+| Lookahead | ef 128 c1 | ef 256 c1 | ef 128 c8 | ef 128 c64 | ef 16 c64 |
+|---|---|---|---|---|---|
+| 0 (off) | 2,716 | 1,627 | 20,778 | 71,284 | 76,657 |
+| 1 | 2,978 | 1,779 | 22,093 | 72,115 | 77,005 |
+| 2 | 3,231 | 1,938 | 22,858 | 67,670 | 71,757 |
+| 4 (default) | 3,482 | 2,096 | 25,086 | 68,624 | 71,560 |
+| 8 | 3,673 | 2,258 | 26,765 | 68,327 | 72,759 |
+| 16 | 3,771 | 2,408 | 27,809 | 72,813 | 77,231 |
+| 32 | 4,081 | 2,533 | 28,965 | 71,791 | 75,910 |
+| 64 | 3,734 | 2,480 | 29,334 | 70,702 | 76,864 |
+
+Three things fall out:
+
+- **Prefetch is a low-concurrency lever.** At one client it is worth +50 to 56 percent over prefetch-off; at 64 connections it is worth almost nothing (the thread pool already hides memory latency by parallelism). The response surface peaks around lookahead 32 for single-client work and 16 for saturation, with mild decline past the peak.
+- **The default of 4 leaves 17 to 21 percent of single-client throughput on the table.** This is the configurability argument in one row: no fixed pipeline depth is right for both regimes, and the right value is not the shipped one.
+- **Tuned, this build beats Redis single-client at every operating point.** Confirmed with independent full cycles at lookahead 32: ef 128 at 4,076 QPS (Redis 3,703, +10 percent) with better p50 (0.242 vs 0.271) and better p99 (0.289 vs 0.309), and ef 256 at 2,491 (Redis 2,402, +3.7 percent) with better p50, at identical recall. Redis's remaining single-client advantage reduces to the p99.9 tail alone. The lookahead-16 saturation rungs also set new report peaks (77,231 QPS at ef 16, 64 connections).
+
+Sweep numbers are one run per cell in index-reuse mode (valid for comparing lookahead values against each other; the two Redis-beating claims above were re-verified with full cycles). Lookahead was reset to the default afterward.
+
 ## Throughput ladders: closed-loop concurrency
 
 QPS by connection count (c1 from the full-cycle frontier runs; ladder rungs reuse the loaded index). Redis column from a freshly restarted process.
