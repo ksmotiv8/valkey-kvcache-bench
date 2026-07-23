@@ -37,61 +37,68 @@ Headline results:
 | valkey/valkey-bundle:8.1.0 | 8.1.2 | 1.0.0 | 388k to 423k | 40.0 to 40.4 |
 | valkey/valkey-bundle:8.1.8 | 8.1.8 | 1.0.3 | 391k to 421k | 38.8 to 39.2 |
 | valkey/valkey-bundle:9 | 9.0.3 | 1.0.0 | 319k to 407k (438k in a separate control run) | 40.1 to 42.2 * |
+| valkey/valkey-bundle:9 (cross-host †) | 9.1.0 | 1.2.1 (encoded 66049) | 470k to 565k † | 21.4 to 21.5 |
+| valkey/valkey:9 + module from main (cross-host †) | 9.1.1 | main @ `578a75a` (includes PR 1163) | 519k to 599k † | 21.6 to 22.0 |
+| redis:8 (cross-host †) | 8.8.0 | Redis Query Engine (built in) | 572k to 678k † | 38.6 to 39.3 |
 
 \* The very first index build on a fresh 9.0.3 container took 73.7 s, about 1.8x the steady-state 40 s; every subsequent build was normal. We observed this cold-start effect only on the first build after container creation. Numbers in the table exclude that first-build outlier; it is footnoted rather than hidden.
 
+† Cross-host rows come from the round-three campaign: a different host pair (client and server on separate c8gn.16xlarge instances), a real network hop, and a client with a deeper load pipeline (256 KiB batches versus 8 KiB). Their ingest and build numbers are not comparable to the single-host rows above them; they are included here so every measured engine appears in one place. Full context in the round-three section.
+
 Note the module versions: the 8.1.8 bundle carries the newest search module of the three (1.0.3), while both the 8.1.0 and 9.0.3 bundles carry 1.0.0. "Three versions" here means three released bundle configurations, which is what an operator actually deploys.
 
-## Frontier across releases, one dimension at a time
+## Frontier across releases and engines, one dimension at a time
 
-Single client, k=10, M=16, EF_CONSTRUCTION=200. Latency in milliseconds. Each table compares the three releases on one dimension so version differences read directly across a row. Columns: 8.1.0 (valkey 8.1.2, module 1.0.0), 8.1.8 (valkey 8.1.8, module 1.0.3), 9 (valkey 9.0.3, module 1.0.0).
+Single client, k=10, M=16, EF_CONSTRUCTION=200. Latency in milliseconds. Each table compares every measured configuration on one dimension so differences read directly across a row.
+
+Columns come from two campaigns. The first three are the single-host loopback releases: 8.1.0 (valkey 8.1.2, module 1.0.0), 8.1.8 (valkey 8.1.8, module 1.0.3), 9 (valkey 9.0.3, module 1.0.0). The last three, marked †, are the round-three cross-host engines on a separate instance pair with a real network hop: 1.2.1 (valkey 9.1.0, module 1.2.1), main (valkey 9.1.1, module from main with PR 1163), Redis (8.8.0 Query Engine). Compare freely within each group; across the two groups, recall comparisons are fair (recall does not depend on where the client sits) but QPS and latency are not, because hardware and network path differ.
 
 Recall@10:
 
-| ef_search | 8.1.0 | 8.1.8 | 9 |
-|---|---|---|---|
-| 16 | 0.7976 | 0.7994 | 0.7990 |
-| 64 | 0.9563 | 0.9561 | 0.9562 |
-| 128 | 0.9861 | 0.9861 | 0.9860 |
-| 256 | 0.9968 | 0.9972 | 0.9969 |
+| ef_search | 8.1.0 | 8.1.8 | 9 | 1.2.1 † | main † | Redis † |
+|---|---|---|---|---|---|---|
+| 16 | 0.7976 | 0.7994 | 0.7990 | 0.8030 | 0.8004 | 0.7990 |
+| 64 | 0.9563 | 0.9561 | 0.9562 | 0.9573 | 0.9573 | 0.9570 |
+| 128 | 0.9861 | 0.9861 | 0.9860 | 0.9867 | 0.9862 | 0.9858 |
+| 256 | 0.9968 | 0.9972 | 0.9969 | 0.9972 | 0.9969 | 0.9966 |
 
 QPS:
 
-| ef_search | 8.1.0 | 8.1.8 | 9 |
-|---|---|---|---|
-| 16 | 7,183 | 6,774 | 7,125 |
-| 64 | 3,738 | 3,622 | 3,680 |
-| 128 | 2,338 | 2,279 | 2,308 |
-| 256 | 1,369 | 1,335 | 1,340 |
+| ef_search | 8.1.0 | 8.1.8 | 9 | 1.2.1 † | main † | Redis † |
+|---|---|---|---|---|---|---|
+| 16 | 7,183 | 6,774 | 7,125 | 7,965 | 8,567 | 7,206 |
+| 64 | 3,738 | 3,622 | 3,680 | 4,996 | 4,942 | 5,099 |
+| 128 | 2,338 | 2,279 | 2,308 | 3,287 | 3,290 | 3,703 |
+| 256 | 1,369 | 1,335 | 1,340 | 1,990 | 1,981 | 2,402 |
 
 p50 latency:
 
-| ef_search | 8.1.0 | 8.1.8 | 9 |
-|---|---|---|---|
-| 16 | 0.134 | 0.142 | 0.135 |
-| 64 | 0.265 | 0.273 | 0.269 |
-| 128 | 0.429 | 0.440 | 0.434 |
-| 256 | 0.737 | 0.755 | 0.753 |
+| ef_search | 8.1.0 | 8.1.8 | 9 | 1.2.1 † | main † | Redis † |
+|---|---|---|---|---|---|---|
+| 16 | 0.134 | 0.142 | 0.135 | 0.110 | 0.112 | 0.137 |
+| 64 | 0.265 | 0.273 | 0.269 | 0.194 | 0.198 | 0.195 |
+| 128 | 0.429 | 0.440 | 0.434 | 0.299 | 0.302 | 0.271 |
+| 256 | 0.737 | 0.755 | 0.753 | 0.495 | 0.502 | 0.418 |
 
 p99 latency:
 
-| ef_search | 8.1.0 | 8.1.8 | 9 |
-|---|---|---|---|
-| 16 | 0.202 | 0.210 | 0.202 |
-| 64 | 0.353 | 0.365 | 0.354 |
-| 128 | 0.554 | 0.567 | 0.555 |
-| 256 | 0.951 | 0.986 | 0.966 |
+| ef_search | 8.1.0 | 8.1.8 | 9 | 1.2.1 † | main † | Redis † |
+|---|---|---|---|---|---|---|
+| 16 | 0.202 | 0.210 | 0.202 | 0.261 | 0.143 | 0.156 |
+| 64 | 0.353 | 0.365 | 0.354 | 0.252 | 0.260 | 0.223 |
+| 128 | 0.554 | 0.567 | 0.555 | 0.372 | 0.370 | 0.309 |
+| 256 | 0.951 | 0.986 | 0.966 | 0.621 | 0.619 | 0.485 |
 
 p99.9 latency:
 
-| ef_search | 8.1.0 | 8.1.8 | 9 |
-|---|---|---|---|
-| 16 | 0.774 | 0.975 | 0.926 |
-| 64 | 0.926 | 1.134 | 1.122 |
-| 128 | 1.115 | 1.318 | 1.319 |
-| 256 | 1.479 | 1.726 | 1.707 |
+| ef_search | 8.1.0 | 8.1.8 | 9 | 1.2.1 † | main † | Redis † |
+|---|---|---|---|---|---|---|
+| 16 | 0.774 | 0.975 | 0.926 | 2.882 | 2.001 | 0.317 |
+| 64 | 0.926 | 1.134 | 1.122 | 3.027 | 2.119 | 0.419 |
+| 128 | 1.115 | 1.318 | 1.319 | 3.150 | 2.214 | 0.487 |
+| 256 | 1.479 | 1.726 | 1.707 | 3.374 | 2.489 | 0.693 |
 
-(Ingest and index build per release are compared in the version matrix above.)
+† Cross-host campaign, different instance pair and network path; see the column note above. Ingest and index build for every configuration are compared in the version matrix above.
 
 ## Cross-release comparison
 
