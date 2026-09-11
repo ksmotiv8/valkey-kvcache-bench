@@ -14,6 +14,8 @@ warmup pass first. See `../docs/METHODOLOGY.md` for what each measures.
 | `bench_latency.py` | latency | Per-op p50/p90/p99/p99.9 for SET/GET/EXISTS |
 | `bench_resource_efficiency.py` | resource | Client CPU-ms/GiB and RSS, copy vs zero-copy |
 | `bench_corpus_e2e.py` | end-to-end | vLLM+LMCache TTFT cold-vs-cached over the 30-doc corpus, L2 verified |
+| `compare_tiers.py` | end-to-end | Cross-tier table from `bench_corpus_e2e.py --json` runs (cpu / disk / valkey, single-node vs fleet) |
+| `corpus_tokens.py` | corpus | Per-document token count, chunk count, and KV bytes for a model, so TTFT numbers can be read against document size |
 
 ## Requirements
 
