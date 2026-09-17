@@ -44,6 +44,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 import argparse
 import csv
+import json
 import statistics
 import sys
 import time
@@ -145,6 +146,58 @@ def _keyspace_hits(host: str, port: int) -> int:
         return -1
 
 
+def _lmcache_hit_tokens(metrics_url: str) -> int:
+    """Cumulative ``lmcache:num_hit_tokens`` from LMCache's /metrics (-1 on error).
+
+    The local tiers have no server-side counter like Valkey's ``keyspace_hits``,
+    so reuse on those tiers is attributed from LMCache's own Prometheus counter.
+    Requires the server to run with ``internal_api_server_enabled: true``.
+    """
+    # Every LMCache metric is exported once per role (scheduler and worker) and
+    # per worker id, so a single counter is several labelled lines. Summing
+    # them is what makes this a total: taking the first match can land on the
+    # scheduler's copy, which never moves, and the tier then looks like it
+    # served nothing. prometheus_client also appends _total to counters and
+    # emits a _created gauge holding a unix timestamp -- that one must be
+    # excluded or it swamps the sum.
+    #
+    # Returning 0 for "metric not found" would be indistinguishable from a real
+    # zero delta; -1 makes the harness report "?" rather than a false "no".
+    try:
+        resp = requests.get(f"{metrics_url.rstrip('/')}/metrics", timeout=5)
+        resp.raise_for_status()
+        lines = [ln for ln in resp.text.splitlines() if ln and not ln.startswith("#")]
+        for prefix in ("lmcache:num_hit_tokens", "lmcache_num_hit_tokens",
+                       "lmcache:num_retrieve_requests"):
+            total, found = 0.0, False
+            for line in lines:
+                name = line.split("{")[0].split(" ")[0]
+                if not name.startswith(prefix) or name.endswith("_created"):
+                    continue
+                try:
+                    total += float(line.rsplit(" ", 1)[1])
+                    found = True
+                except (IndexError, ValueError):
+                    continue
+            if found:
+                return int(total)
+        names = sorted({ln.split("{")[0].split(" ")[0]
+                        for ln in lines if ln.startswith("lmcache")})
+        print(f"  WARNING: no hit-token counter at {metrics_url}. "
+              f"lmcache metrics present: {names[:8] or 'none'}")
+        return -1
+    except Exception as exc:  # noqa: BLE001 - reported, not fatal
+        print(f"  WARNING: LMCache metrics query failed for {metrics_url} - {exc}")
+        return -1
+
+
+def _tier_hits(args: argparse.Namespace) -> int:
+    """Cumulative reuse counter for the tier under test (-1 on error)."""
+    if args.backend == "valkey":
+        return _keyspace_hits(args.valkey_host, args.valkey_port)
+    return _lmcache_hit_tokens(args.lmcache_metrics_url)
+
+
 def _flush_l2(host: str, port: int) -> None:
     """Flush the Valkey L2 store before the cold pass.
 
@@ -209,6 +262,13 @@ def _wait_for_server(url: str, model: str, timeout_s: int) -> None:
     sys.exit(1)
 
 
+def _tier_label(args: argparse.Namespace) -> str:
+    """Human-readable name of the tier under test, for run headers."""
+    if args.backend == "valkey":
+        return f"valkey {args.valkey_host}:{args.valkey_port}"
+    return f"local_{args.backend}"
+
+
 def _positive_int(value: str) -> int:
     parsed = int(value)
     if parsed <= 0:
@@ -220,9 +280,24 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--corpus", required=True, help="Path to the corpus/ dir")
     parser.add_argument("--vllm-url", default="http://localhost:8000")
+    parser.add_argument(
+        "--cached-vllm-url",
+        help="run the cached pass against a SECOND vLLM node (fleet mode). The "
+        "local tiers cannot serve a node that did not compute the KV, so this is "
+        "what separates a shared tier from a node-local one. Defaults to --vllm-url",
+    )
     parser.add_argument("--model", required=True, help="served model name")
-    parser.add_argument("--valkey-host", required=True)
+    parser.add_argument(
+        "--backend", choices=("valkey", "cpu", "disk"), default="valkey",
+        help="storage tier under test; selects how cached-pass reuse is verified",
+    )
+    parser.add_argument("--valkey-host", help="required for --backend valkey")
     parser.add_argument("--valkey-port", type=_positive_int, default=6379)
+    parser.add_argument(
+        "--lmcache-metrics-url", default="http://localhost:6999",
+        help="LMCache internal API server; source of the num_hit_tokens delta "
+        "for the cpu/disk tiers",
+    )
     parser.add_argument(
         "--min-chars", type=_positive_int, default=6000,
         help="repeat short docs up to this many chars (~1500 tokens)",
@@ -233,12 +308,23 @@ def main() -> None:
         help="FLUSHALL the Valkey L2 before the cold pass (removes the L2 confound; "
         "does not clear vLLM's GPU prefix cache)",
     )
+    parser.add_argument(
+        "--json", dest="json_path",
+        help="also write the run to this path as JSON, for cross-tier comparison",
+    )
     parser.add_argument("--timeout", type=_positive_int, default=600)
     parser.add_argument(
         "--settle", type=_positive_int, default=3,
         help="seconds to wait between cold and cached passes",
     )
     args = parser.parse_args()
+    if args.backend == "valkey" and not args.valkey_host:
+        parser.error("--valkey-host is required for --backend valkey")
+    if args.flush_l2 and args.backend != "valkey":
+        parser.error(
+            "--flush-l2 only applies to --backend valkey; clear the local tier by "
+            "removing the local_disk path and restarting the server"
+        )
 
     corpus_dir = Path(args.corpus)
     docs = load_corpus(corpus_dir, args.limit or None)
@@ -248,11 +334,16 @@ def main() -> None:
     prompts = [(doc_id, _pad_to_min_chars(text, args.min_chars)) for doc_id, text in docs]
 
     url = args.vllm_url.rstrip("/")
+    cached_url = (args.cached_vllm_url or args.vllm_url).rstrip("/")
     _wait_for_server(url, args.model, args.timeout)
+    if cached_url != url:
+        _wait_for_server(cached_url, args.model, args.timeout)
     print(
         f"E2E corpus benchmark: {len(prompts)} docs  model={args.model}\n"
-        f"  vLLM={url}  Valkey={args.valkey_host}:{args.valkey_port}  "
+        f"  vLLM={url}  tier={_tier_label(args)}  "
         f"min_chars={args.min_chars}"
+        + (f"\n  cached pass against {cached_url} (fleet mode)"
+           if cached_url != url else "")
     )
 
     # ── Optional: flush L2 so the cold pass is genuinely cold for every doc ──
@@ -261,7 +352,7 @@ def main() -> None:
         _flush_l2(args.valkey_host, args.valkey_port)
 
     # ── Cold pass: compute + store KV to L2 ──
-    print("\n=== Cold pass (compute prefill, store to Valkey L2) ===")
+    print(f"\n=== Cold pass (compute prefill, store to {_tier_label(args)}) ===")
     cold: Dict[str, float] = {}
     for doc_id, prompt in prompts:
         cold[doc_id] = _send(url, args.model, prompt, args.timeout)
@@ -273,12 +364,22 @@ def main() -> None:
     # attributes an L2 hit to a document only because this is a dedicated
     # benchmark server with no other clients active during the run. Treat it as
     # interval evidence under that assumption, not an absolute per-doc proof.
-    print("\n=== Cached pass (reuse KV; per-doc keyspace_hits delta attributes L2) ===")
+    # Valkey's keyspace_hits moves synchronously, so a per-document before/after
+    # delta attributes an L2 hit to a specific document. LMCache's counters are
+    # written by a periodic stats flush instead, so a ~100ms window around one
+    # request reads the same value twice and every document looks like a miss.
+    # For the local tiers, measure the counter across the WHOLE cached pass and
+    # attribute at the pass level: coarser, but true.
+    per_doc_hits = args.backend == "valkey"
+    pass_before = -1 if per_doc_hits else _tier_hits(args)
+
+    label = "per-doc" if per_doc_hits else "pass-level"
+    print(f"\n=== Cached pass (reuse KV; {label} hit-counter delta attributes L2) ===")
     rows = []
     for doc_id, prompt in prompts:
-        before = _keyspace_hits(args.valkey_host, args.valkey_port)
-        warm_ms = _send(url, args.model, prompt, args.timeout)
-        after = _keyspace_hits(args.valkey_host, args.valkey_port)
+        before = _tier_hits(args) if per_doc_hits else -1
+        warm_ms = _send(cached_url, args.model, prompt, args.timeout)
+        after = _tier_hits(args) if per_doc_hits else -1
         delta = after - before if before >= 0 and after >= 0 else -1
         l2 = "yes" if delta > 0 else ("?" if delta < 0 else "no")
         speedup = cold[doc_id] / warm_ms if warm_ms > 0 else 0.0
@@ -298,6 +399,21 @@ def main() -> None:
             min(speedups),
             max(speedups),
         )
+
+    # Give the periodic stats flush time to land before the final read.
+    pass_delta = -1
+    if not per_doc_hits:
+        time.sleep(max(args.settle, 15))
+        pass_after = _tier_hits(args)
+        if pass_before >= 0 and pass_after >= 0:
+            pass_delta = pass_after - pass_before
+        if pass_delta > 0:
+            rows = [(r[0], r[1], r[2], r[3], pass_delta, "yes") for r in rows]
+            print(f"\n  pass-level hit-counter delta: +{pass_delta} "
+                  f"(attributed to all {len(rows)} docs)")
+        else:
+            print(f"\n  pass-level hit-counter delta: {pass_delta} "
+                  "(no reuse recorded by the tier)")
 
     l2_rows = [r for r in rows if r[5] == "yes"]
     print("\n" + "=" * 64)
@@ -337,6 +453,31 @@ def main() -> None:
             "--no-enable-prefix-caching (or shrink GPU cache) and re-run."
         )
     print("=" * 64)
+
+    # ── Optional machine-readable record, so runs across tiers are comparable ──
+    if args.json_path:
+        Path(args.json_path).write_text(json.dumps({
+            "backend": args.backend,
+            "tier": _tier_label(args),
+            "model": args.model,
+            "vllm_url": url,
+            "cached_vllm_url": cached_url,
+            "fleet": cached_url != url,
+            "min_chars": args.min_chars,
+            "docs": len(rows),
+            "l2_confirmed": len(l2_rows),
+            "cold_median_ms": cw[0],
+            "cached_median_ms": cw[1],
+            "speedup_median": cw[2],
+            "speedup_min": cw[3],
+            "speedup_max": cw[4],
+            "rows": [
+                {"doc_id": r[0], "cold_ms": r[1], "cached_ms": r[2],
+                 "speedup": r[3], "hits_delta": r[4], "l2": r[5]}
+                for r in rows
+            ],
+        }, indent=2))
+        print(f"wrote {args.json_path}")
 
 
 if __name__ == "__main__":

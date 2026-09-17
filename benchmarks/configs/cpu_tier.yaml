@@ -1,0 +1,24 @@
+# SPDX-License-Identifier: Apache-2.0
+# Tier A - local CPU DRAM only. No disk, no remote.
+#
+# Used by benchmarks/bench_corpus_e2e.py --backend cpu (Scenario 12).
+# Launch vLLM with:
+#   LMCACHE_CONFIG_FILE=benchmarks/configs/cpu_tier.yaml \
+#   vllm serve Qwen/Qwen2.5-7B-Instruct-AWQ --port 8000 \
+#       --no-enable-prefix-caching \
+#       --kv-transfer-config '{"kv_connector":"LMCacheConnectorV1","kv_role":"kv_both"}'
+
+chunk_size: 256
+# The default 'builtin' hash is Python's hash(), salted per process, so two
+# nodes derive different keys for the same tokens and a shared tier can never
+# hit. Required for the fleet run; harmless on one node.
+pre_caching_hash_algorithm: sha256_cbor_64bit
+local_cpu: true
+# GB of HOST RAM, not GPU. It has to fit the box: a g6/g5.xlarge has 16 GiB
+# total, and asking for more than that fails engine initialization rather than
+# degrading. 8 GB is far more than the 30-doc corpus needs.
+max_local_cpu_size: 8.0
+max_local_disk_size: 0.0
+
+# Exposes lmcache:num_hit_tokens on :6999 for the harness's reuse check.
+internal_api_server_enabled: true

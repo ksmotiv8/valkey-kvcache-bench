@@ -305,3 +305,64 @@ issued one at a time (single worker), so these are isolated request latencies.
 
 **Shows:** the per-operation latency dimension — useful for SLO/TTFT budgeting,
 complementing the batch-throughput numbers in Scenarios 1–2.
+
+---
+
+## 12. Storage tier comparison (cpu vs local NVMe vs Valkey)
+
+**Goal:** answer where the KV cache should live, rather than how to tune one
+place to put it. Same corpus, same harness, three LMCache backends, run twice:
+once on a single node, once with the cached pass on a *second* vLLM node.
+
+Needs the three-host bed from `infra/` (two `g6.xlarge` + one `r7i.2xlarge`).
+One command provisions, runs, and downloads:
+
+```powershell
+cd infra
+.\Run-TierBench.ps1 -AwsProfile dev -Teardown
+```
+
+Or drive a single tier by hand, on a GPU host:
+
+```bash
+~/kit/infra/run_tier.sh serve  disk
+~/kit/infra/run_tier.sh bench  disk "" ~/single_disk.json
+python benchmarks/compare_tiers.py results/tiers
+```
+
+**Expected** (measured 2026-08-31; g6.xlarge L4 24GB + r7i.2xlarge Valkey,
+us-west-2c, vLLM 0.28.0 / LMCache 0.5.4 / valkey-glide-sync 2.5.1 / Valkey
+9.1.1; results in `results/tiers/`):
+
+| tier | single-node | fleet | reuse single / fleet |
+|---|---|---|---|
+| `cpu` | 3178 → 3345 ms (0.95x) | 3098 → 3219 ms (0.96x) | 0/30 / 0/30 |
+| `disk` | 3304 → 1521 ms (2.18x) | 3142 → 3281 ms (0.95x) | 30/30 / 0/30 |
+| `valkey` | 3326 → 557 ms (5.98x) | 3310 → 555 ms (5.97x) | 30/30 / 30/30 |
+
+Three things, and the first was not the prediction:
+
+1. **Valkey beats local NVMe on the same node**, 5.98x vs 2.18x (557 ms vs
+   1521 ms cached TTFT). The network tier is ~2.7x faster than the instance
+   store in the same chassis, before any fleet argument is made.
+2. **Valkey is location-independent**: 5.98x on one node, 5.97x when the cached
+   pass runs on a node that never computed the KV. Within noise.
+3. **The local tiers do not degrade in the fleet run, they stop**: `disk` goes
+   2.18x → 0.95x and 30/30 → **0/30**. A node-local tier cannot serve a node
+   that did not compute the KV.
+
+`cpu` reports 0/30 for a different reason: capacity, not sharing. The corpus is
+300k tokens (every document is generated to exactly 10,000) and this model's KV
+is 57,344 B/token (28 layers x 2 x 4 KV heads x 128 dim x 2 bytes), so 16.0 GiB
+against an 8 GB CPU tier on a 16 GiB host — it
+evicts before the cached pass. `df` on the instance store during the disk run
+reads 16G used, which corroborates the figure independently. Scale down and DRAM
+is the fastest tier of all: the 2-document sanity run on `cpu` is **37.93x**.
+DRAM is not slow, it is small.
+
+**Shows:** the tier trade-off as a decision rather than a benchmark. The
+received wisdom is that local storage is faster and merely unshareable. Here the
+shared tier is *also* the faster one, the local disk tier is worth 2.18x only on
+the node that wrote it, and DRAM only wins at a working-set size real corpora
+exceed.
+
